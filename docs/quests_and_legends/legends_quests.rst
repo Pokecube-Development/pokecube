@@ -1,3 +1,6 @@
+Legends and Quests
+-------
+
 # **Strutures**
 While exploring the world you may find a few different structures, they are the 'Temples of Legendary'. Legendary temples need a key item and a unique quest completed so you can summon it and capture it. But for the most part not all have unique structures, some share the structure.
 
@@ -207,7 +210,7 @@ To create the Totem follow the images:
 ![wrong location alert](https://i.imgur.com/e9Gi6tz.png)
 
 ## **Quest**
-Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive.
+Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pokï¿½mon Generations arrive.
 
 1. Celebi - Capture about 40 a 50 Pokemob Grass.
 2. Entei - Capture about 40 Pokemob Fire.

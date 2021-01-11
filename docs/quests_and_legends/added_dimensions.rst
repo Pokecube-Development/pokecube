@@ -1,5 +1,8 @@
-# **Pokécube Dimensions:**
-The pokécube has two dimensions to be explored by players. On this page, we'll see how to get to these dimensions, how they affect gameplay, Pokémon exclusive to these locations
+Pokecube Dimensions
+-------
+
+# **Pokï¿½cube Dimensions:**
+The pokï¿½cube has two dimensions to be explored by players. On this page, we'll see how to get to these dimensions, how they affect gameplay, Pokï¿½mon exclusive to these locations
 
 # **Distorted World**
 
