@@ -9,10 +9,11 @@ Welcome to Pokecube's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    getting_started/*
    configs/*
    datapacks/*
    quests_and_legends/*
    *
+   
