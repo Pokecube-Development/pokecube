@@ -9,21 +9,9 @@ Welcome to Pokecube's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
-   getting_started/index
-   configs/index
-   datapacks/index
-   quests_and_legends/index
+   getting_started.rst
 
    *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
