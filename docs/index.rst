@@ -10,20 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :glob:
-   getting_started/index
-   configs/index
-   datapacks/index
-   quests_and_legends/index
 
+   getting_started/*
+   configs/*
+   datapacks/*
+   quests_and_legends/*
    *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
