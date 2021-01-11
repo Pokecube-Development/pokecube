@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Pokecube Documentation'
-copyright = u'2014, Read the Docs'
+copyright = u'2021, Thutmose'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

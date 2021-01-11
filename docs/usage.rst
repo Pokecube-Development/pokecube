@@ -2,6 +2,6 @@
 Usage
 ========
 
-To use this template, simply update it::
+This is a mod for minecraft, add to minecraft and run!
 
-	import read-the-docs-template
+download here: https://www.curseforge.com/minecraft/mc-mods/pokecube-aoi
