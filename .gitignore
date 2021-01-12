@@ -1,6 +1,2 @@
 
-./docs/build/*
-.\docs\build\*
-
-*.doctree
-*.html
+**/docs/build/*
