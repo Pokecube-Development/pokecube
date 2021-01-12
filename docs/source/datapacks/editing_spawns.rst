@@ -4,13 +4,13 @@ Custom Spawns via Datapacks
 Sample Datapacks:
 =================
 
-These packs go in /config/pokecube/datapacks/ and require a reboot to apply
+These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 
 | Removing all Spawns: :download:`no_spawns.zip`
 |  This datapack overwrites the default files with completely blank spawns, thereby removing the existing spawns
 
 | Adding Subbiomes and Spawns: :download:`new_subbiomes.zip`
-|  This datapack adds a set of new spawns, for new subbiomes "route_1" and "route_23", these spawns have specific levels set.
+|  This datapack adds a set of new spawns, for new subbiomes `route_1` and `route_23`, these spawns have specific levels set.
 
 
 Json Spawn Rule Format:
@@ -69,6 +69,7 @@ Biome Categories
 ----------------
 
 | Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:
+
 ::
 
     none
@@ -92,9 +93,12 @@ Biome Categories
 Biome Types
 ------------
 
-| For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366
+.. _BiomeDictionary: https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?
+
+| For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: `BiomeDictionary`_
 | 
 | These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.
+| 
 
 
 Creating the custom spawn rules
