@@ -4,10 +4,14 @@ Clawitzer
 ----------
 
 .. image:: ../../_images/pokemobs/gen_6/entity_icon/textures/clawitzer.png
+    :width: 400
     :alt: Clawitzer
 .. image:: ../../_images/pokemobs/gen_6/entity_icon/textures/clawitzers.png
+    :width: 400
     :alt: Clawitzer
 
 
+Description
+============
 | Clawitzer is a water Pokémob.
 | Clawitzer evolves from :doc:`clauncher`.

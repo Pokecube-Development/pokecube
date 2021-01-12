@@ -10,9 +10,9 @@ Welcome to Pokecube Documentation's documentation!
    :maxdepth: 1
    :caption: Contents:
 
+   getting_started/index
    configs/index
    datapacks/index
-   getting_started/index
    quests_and_legends/index
    pokemobs/index
 

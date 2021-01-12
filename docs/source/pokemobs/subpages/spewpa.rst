@@ -4,15 +4,19 @@ Spewpa
 -------
 
 .. image:: ../../_images/pokemobs/gen_6/entity_icon/textures/spewpa.png
+    :width: 400
     :alt: Spewpa
 .. image:: ../../_images/pokemobs/gen_6/entity_icon/textures/spewpas.png
+    :width: 400
     :alt: Spewpa
 
 
+Description
+============
 | Spewpa is a bug Pokémob.
 | Spewpa evolves into :doc:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:beach, minecraft:mushroom_field_shore, minecraft:stone_shore, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:lukewarm_ocean, minecraft:ocean, minecraft:warm_ocean].
+|  -  In [minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:lukewarm_ocean, minecraft:ocean, minecraft:warm_ocean, minecraft:beach, minecraft:mushroom_field_shore, minecraft:stone_shore].
 | 
 | Spewpa evolves into :doc:`vivillon`:
 |  -  At Level 12.
@@ -48,7 +52,7 @@ Spewpa
 | 
 | Spewpa evolves into :doc:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:plains, minecraft:sunflower_plains, minecraft:birch_forest, minecraft:birch_forest_hills, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:giant_spruce_taiga, minecraft:giant_spruce_taiga_hills, minecraft:tall_birch_forest, minecraft:wooded_hills].
+|  -  In [minecraft:birch_forest, minecraft:birch_forest_hills, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:giant_spruce_taiga, minecraft:giant_spruce_taiga_hills, minecraft:tall_birch_forest, minecraft:wooded_hills, minecraft:plains, minecraft:sunflower_plains].
 | 
 | Spewpa evolves into :doc:`vivillon`:
 |  -  At Level 12.

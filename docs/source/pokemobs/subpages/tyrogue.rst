@@ -4,11 +4,15 @@ Tyrogue
 --------
 
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/tyrogue.png
+    :width: 400
     :alt: Tyrogue
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/tyrogues.png
+    :width: 400
     :alt: Tyrogue
 
 
+Description
+============
 | Tyrogue is a fighting Pokémob.
 | Tyrogue evolves into :doc:`hitmonlee`:
 |  -  At Level 20.

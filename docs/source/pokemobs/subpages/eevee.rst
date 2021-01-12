@@ -4,11 +4,15 @@ Eevee
 ------
 
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/eevee.png
+    :width: 400
     :alt: Eevee
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/eevees.png
+    :width: 400
     :alt: Eevee
 
 
+Description
+============
 | Eevee is a normal Pokémob.
 | Eevee evolves into :doc:`vaporeon`:
 |  -  When given a Water Stone.

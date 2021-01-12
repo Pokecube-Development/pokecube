@@ -4,10 +4,14 @@ Wormadam
 ---------
 
 .. image:: ../../_images/pokemobs/gen_4/entity_icon/textures/wormadam.png
+    :width: 400
     :alt: Wormadam
 .. image:: ../../_images/pokemobs/gen_4/entity_icon/textures/wormadams.png
+    :width: 400
     :alt: Wormadam
 
 
+Description
+============
 | Wormadam is a bug/ground Pokémob.
 | Wormadam evolves from :doc:`burmy`.

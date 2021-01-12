@@ -4,11 +4,15 @@ Snorunt
 --------
 
 .. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/snorunt.png
+    :width: 400
     :alt: Snorunt
 .. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/snorunts.png
+    :width: 400
     :alt: Snorunt
 
 
+Description
+============
 | Snorunt is a ice Pokémob.
 | Snorunt evolves into :doc:`glalie`:
 |  -  At Level 42.

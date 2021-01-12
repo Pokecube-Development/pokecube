@@ -4,11 +4,15 @@ Porygon
 --------
 
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/porygon.png
+    :width: 400
     :alt: Porygon
 .. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/porygons.png
+    :width: 400
     :alt: Porygon
 
 
+Description
+============
 | Porygon is a normal Pokémob.
 | Porygon evolves into Porygon2:
 |  -  After being traded.

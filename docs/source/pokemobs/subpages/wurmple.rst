@@ -4,11 +4,15 @@ Wurmple
 --------
 
 .. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/wurmple.png
+    :width: 400
     :alt: Wurmple
 .. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/wurmples.png
+    :width: 400
     :alt: Wurmple
 
 
+Description
+============
 | Wurmple is a bug Pokémob.
 | Wurmple evolves into :doc:`silcoon`:
 |  -  At Level 7.

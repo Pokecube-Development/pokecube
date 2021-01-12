@@ -4,11 +4,15 @@ Herdier
 --------
 
 .. image:: ../../_images/pokemobs/gen_5/entity_icon/textures/herdier.png
+    :width: 400
     :alt: Herdier
 .. image:: ../../_images/pokemobs/gen_5/entity_icon/textures/herdiers.png
+    :width: 400
     :alt: Herdier
 
 
+Description
+============
 | Herdier is a normal Pokémob.
 | Herdier evolves into :doc:`stoutland`:
 |  -  At Level 32.

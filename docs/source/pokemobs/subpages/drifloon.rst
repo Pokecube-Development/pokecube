@@ -4,11 +4,15 @@ Drifloon
 ---------
 
 .. image:: ../../_images/pokemobs/gen_4/entity_icon/textures/drifloon.png
+    :width: 400
     :alt: Drifloon
 .. image:: ../../_images/pokemobs/gen_4/entity_icon/textures/drifloons.png
+    :width: 400
     :alt: Drifloon
 
 
+Description
+============
 | Drifloon is a ghost/flying Pokémob.
 | Drifloon evolves into :doc:`drifblim`:
 |  -  At Level 28.
