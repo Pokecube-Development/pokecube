@@ -1,0 +1,327 @@
+
+[generation]
+	# If true, will reset some subbiomes when spawn checks apply there
+	refreshSubbiomes = false
+	# Structures listed here will have the relevant subbiome applied for if minecraft thinks that the block is inside the structure.
+	structure_subbiomes = ["{\"struct\":\"pokecube:village\",\"subbiome\":\"village\"}", "{\"struct\":\"Village\",\"subbiome\":\"village\"}", "{\"struct\":\"minecraft:village\",\"subbiome\":\"village\"}", "{\"struct\":\"Monument\",\"subbiome\":\"monument\"}", "{\"struct\":\"minecraft:monument\",\"subbiome\":\"monument\"}"]
+	# If true, any structure not in structure_subbiomes will apply as ruins, unless something else sets it first (like the structure's spawn settings)
+	structs_default_ruins = true
+	# Can be used to adjust rate of berries on trees growing, lower values result in faster berry growth
+	leafBerryTicks = 75
+	# Extra json files to check in pokecube:structures/ in data for worldgen rules, do not include .json or path in the name in this list!
+	extraWorldgenDatabases = []
+	# If true, fossil ore will be added to certain biomes
+	generateFossils = true
+	# If true, will allow the generic berry item to be added to pokemob drop pools if no other berries are added
+	autoAddNullBerries = false
+	# If true, will also do a blanket "plant material" check for cuttable and edible plants, rather than relying entirely on the block tags
+	autoPopulateLists = true
+	# Scaling factor on blast yield of explosive meteors
+	meteorScale = 1.0
+	# if true, random explosive meteors will fall, though only one every meteorDistance
+	meteors = true
+	# Minimum distance between explosive meteors
+	meteorDistance = 3000
+	# Pokecube structures will not spawn in these dimensions, unless specifically stated in the structure's spawn rules
+	softWorldgenDimBlacklist = ["pokecube:secret_base", "pokecube_legends:distorted_world", "pokecube_legends:ultraspace", "compactmachines:compact_world"]
+	# This is what the value in the structure data block will be replaced with to generate the professor
+	professor_override = "pokecube:mob:professor{\"preset\":\"spawn_professor\"}"
+	# If false, subbiomes will not auto-detect, meaning they need to be placed manually, useful for adventure maps, etc
+	autoDetectSubbiomes = true
+	# If true, will attempt to ensure there is a pokecenter at spawn, this can still fail however depending on worldgen specifics
+	doSpawnBuilding = true
+	# Maximum radius of effect of damage from explosive meteors
+	meteorRadius = 64
+
+[spawning]
+	# Pokemobs will not spawn in the dimensions listed here
+	spawnDimBlacklist = ["compactmachines:compact_world"]
+	# similar to deactivateMonsters, but for vanilla animals
+	deactivateAnimals = true
+	# This number, multiplied by mobDensityMultiplier will determine how many pokemobs will spawn within maxSpawnRadius of the player, this occurs at a rate based on spawnRate
+	mobSpawnNumber = 10
+	# similar to disableVanillaAnimals, but for vanilla animals
+	disableVanillaAnimals = false
+	# if true, vanilla monsters are removed entirely, similar to in peaceful mode
+	disableVanillaMonsters = false
+	# if false, pokemobs will not spawn naturally
+	pokemonSpawn = true
+	# if false, levelCap is ignored
+	shouldCap = true
+	# see mobSpawnNumber's description
+	mobDensityMultiplier = 1.0
+	# if true, vanilla monsters will not spawn via normal spawning, this does not prevent mob spawners or special spawns
+	deactivateMonsters = false
+	# This is an additional function applied to spawn lvls after dimensionSpawnLevels, here x is the level chosen by dimensionSpawnLevels, and the output is the actual spawn lvl
+	spawnLevelVariance = "x + ceil(5*rand())"
+	# If spawnWhitelisted is enabled, pokemobs will only spawn in these dimensions
+	spawnDimWhitelist = []
+	# Legendary pokemobs will not naturally spawn below this level
+	minLegendLevel = 1
+	# This is how often the code attempts to spawn pokemobs near a player
+	spawnRate = 2
+	# Enables using spawnDimWhitelist to determine if a dimension is valid for spawn
+	spawnWhitelisted = false
+	# Default radius of effect for repels, also applies to max spots
+	repelRadius = 16
+	# These determine what lvl pokemobs spawn based on location. If central is true, then the origin for the function is 0,0, otherwise it is world spawn. if radial is true, then the function takes the variable r, which is horizontal distance from the origin. Otherwise it takes x and y, which are the horizontal coordinates with respect to the origin.
+	dimensionSpawnLevels = ["{\"dim\":\"the_nether\",\"func\":\"abs((25)*(sin(x*8*10^-3)^3 + sin(y*8*10^-3)^3))\",\"radial\":false,\"central\":false}", "{\"dim\":\"overworld\",\"func\":\"abs((25)*(sin(x*10^-3)^3 + sin(y*10^-3)^3))\",\"radial\":false,\"central\":false}", "{\"dim\":\"the_end\",\"func\":\"1+r/200\",\"radial\":true,\"central\":true}"]
+	# Wild mobs will be capped at this lvl for spawning
+	levelCap = 50
+
+[database]
+	# Extra databases for use with datapacks that just want to add things, these will be added after the normal databases have loaded in.
+	configDatabases = ["database/pokemobs/pokemobs_pokedex.json;database/pokemobs/pokemobs_spawns.json;database/pokemobs/pokemobs_interacts.json", "database/moves.json", "database/spawns.json"]
+	rewardDatabases = ["rewards"]
+	recipeDatabases = ["recipes"]
+
+[genetics]
+	epigeneticEVFunction = "rand()*(((2*v + 256) * 31) / 512)"
+	mutationRates = ["pokecube:colour 0.01", "pokecube:moves 0.0", "pokecube:species 0.1", "pokecube:size 0.1", "pokecube:evs 0.1", "pokecube:shiny 0.010416667", "pokecube:nature 0.05", "pokecube:ivs 0.1", "pokecube:ability 0.1"]
+
+[advanced]
+	# Moves in here will ignore pokemobsDamageBlocks and never apply their effects
+	damageBlocksBlacklist = []
+	pokemobsAreAllFrozen = false
+	# Moves in here will ignore pokemobsDamageBlocks, and apply their effects regardless
+	damageBlocksWhitelist = ["flash", "teleport", "dig", "cut", "rocksmash", "secretpower", "naturepower"]
+	debug = false
+	# This is how much exp is given for killing a non-pokemob, h is the max health of the mob, and a is the amount of armour it had
+	nonPokemobExpFunction = "h*(a+1)^2"
+	# If true, lakes will be removed from pokecube structure spawns, disable this if that interferes with other mod's worldgen!
+	lakeFeatureMixin = true
+	# If true, killing non-pokemobs will provide exp to pokemobs
+	nonPokemobExp = false
+	pokecubeAutoSendOutDelay = 20
+	extraVars = ["jc:3.5", "rc:4.5", "eggDpl:2.0", "eggDpm:4.0"]
+	reputs = false
+	# Teleporting via the move teleport will not work in any dimensions listed here
+	blackListedTeleDims = []
+
+[moves]
+	# A cap on how much damage a wild pokemob can deal to a player
+	maxWildPlayerDamage = 10
+	# Can be used to scale damage from ranged moves
+	rangedAttackDamageScale = 1.0
+	# A Scaling factor on damage when a wild pokemob attempts to hit a player
+	wildPlayerDamageRatio = 1.0
+	# Can be used to scale damage from contact moves
+	contactAttackDamageScale = 1.0
+	# If true, enables world effects of electric type moves
+	defaultElectricActions = true
+	# The "range" of contact moves, if not 0, they will apply damage like ranged attacks
+	contactAttackDistance = 0.0
+	# How far ranged attacks will be able to hit from
+	rangedAttackDistance = 16.0
+	# Maximum radius of effect of an explosion type move
+	blastRadius = 16
+	# This is a scaling factor for damage dealt py pokemobs to mobs which are neither pokemobs, players or NPCs
+	pokemobToOtherMobDamageRatio = 1.0
+	# If true, enables world effects of fire type moves, such as: lighting fires, smelting, etc
+	defaultFireActions = true
+	# This scales how much damage players can deal to pokemobs
+	playerToPokemobDamageScale = 1.0
+	# If true, enables world effects of water type moves
+	defaultWaterActions = true
+	# A cap on how much damage a tame pokemob can deal to a player
+	maxOwnedPlayerDamage = 10
+	# Scaling factor on explosion type moves's block damage
+	blastStrength = 100.0
+	# A Scaling factor on damage when a tame pokemob attempts to hit a player
+	ownedPlayerDamageRatio = 1.0
+	# This fraction of the damage dealt is also applied as magic damage to the player, this is for wild pokemobs
+	wildPlayerDamageMagic = 0.1
+	# If true, enables world effects of ice type moves
+	defaultIceActions = true
+	# This is the hunger cost per item smelted by fire type moves
+	baseSmeltingHunger = 100
+	# If true, only pokemobs can deal damage to pokemobs
+	onlyPokemobsDamagePokemobs = false
+	# This is a scaling factor for damage dealy by pokemobs to NPCs
+	pokemobToNPCDamageRatio = 1.0
+	# This fraction of the damage dealt is also applied as magic damage to the player, this is for tame pokemobs
+	ownedPlayerDamageMagic = 0.1
+
+[permissions]
+	permsMoveAction = false
+	permsFly = false
+	permsSurfSpecific = false
+	permsCaptureSpecific = false
+	permsDiveSpecific = false
+	permsHatch = false
+	permsSendOut = false
+	permsSurf = false
+	permsFlySpecific = false
+	permsRide = false
+	permsDive = false
+	permsRideSpecific = false
+	permsCapture = false
+	permsSendOutSpecific = false
+	permsHatchSpecific = false
+
+[ai]
+	# How far pokemobs look for targets while guarding an area
+	guardSearchDistance = 16
+	# Maximum distance a wild pokemob will try to move while idle wandering
+	idleMaxPathWild = 16
+	# If true, tame pokemobs will try to gather items
+	tameGather = true
+	# If true, pokemobs can have guard mode enabled, which makes them randomly murder things nearby
+	guardModeEnabled = true
+	# Pokemobs will forget their target if they get more than this far away
+	chaseDistance = 32
+	# If a pokemob is more than this far from a player, it will freeze and not tick. This distance must be larger than cullDistance for cull or despawn to do anything
+	aiDisableDistance = 32
+	# Maximum distance a tame pokemob will try to move while idle wandering
+	idleMaxPathTame = 4
+	# Wild pokemobs will check for a player to attack every approximately this many ticks, large values decrease the chance of pokemob agression
+	mobAgroRate = 200
+	# if true, hungry lithovores might eat gravel to nothing
+	pokemobsEatGravel = false
+	# This is how far away tame pokemobs will look for items to collect
+	tameGatherDistance = 16
+	# Mobs with these entity IDs will not be valid agression targets for pokemobs
+	aggroBlacklistIds = ["minecraft:villager", "minecraft:armor_stand", "pokecube_adventures:trainer", "pokecube_adventures:leader"]
+	# Scales combat doding speed
+	dodgeSpeedFactor = 1.0
+	# If true, players can surf on valid pokemobs
+	surfEnabled = true
+	# How often pokemobs update their nearby blocks list, lower is faster, higher is less server load
+	nearBlockUpdateRate = 5
+	# If true, players can fly on valid pokemobs
+	flyEnabled = true
+	# This scales how loud wild pokemob sounds are, lower numbers are lower volumes
+	idleSoundVolume = 0.25
+	# Approximate number of ticks between breeding, this number cannot be less than 600
+	breedingDelay = 4000
+	# If cull is enabled, idle wild mobs will vanish if exceeding this distance from a player, requires aiDisableDistance to be larger
+	cullDistance = 96
+	# if ture, pokemobs can hurt players
+	pokemobsDamagePlayers = true
+	# Scales combat leaping speed
+	leapSpeedFactor = 1.0
+	# This is how often tame pokemobs look for items to collect, smaller values are faster, 1 is the lowest this can be
+	tameGatherDelay = 20
+	# If despawn is enabled, when mobs exceed cullDistance, and are within aiDisableDistance, they will vanish after this many ticks if no player get back in range
+	despawnTimer = 2000
+	# Determines how quickly mobs want to mate again, larger values are faster
+	mateMultiplier = 1
+	# if true, player's pokemobs can hit them with AOE moves and misses
+	pokemobsDamageOwner = false
+	# How often pokemobs look for something to hunt when hungry, lower is faster, but more server load
+	huntUpdateRate = 5
+	# if true, pokemobs drop their items from their loot tables
+	pokemobsDropItems = true
+	# Fish-like pokemobs will occasionally look for fishing bobbers in this range
+	fishHookBaitRange = 16
+	# Delay between guard mode ticks, lower is faster
+	guardTickRate = 20
+	# Pokemobs will refuse to enter the pokecube again for this many ticks after a failed capture
+	captureDelayTicks = 0
+	# This is the target distance between two pokemobs during a fight
+	combatDistance = 4
+	# A random sound from here is played when a pokemob leaps in combat
+	leapSounds = ["entity.witch.throw"]
+	# if true, there will be a warning in chat if a wild pokemob agresses you
+	pokemobagresswarning = true
+	# This is how far away wild pokemobs will look for items to collect
+	wildGatherDistance = 8
+	# If true, players can dive with valid pokemobs
+	diveEnabled = true
+	# This scales the amount of vanilla exp that pokemobs drop on death
+	expFromDeathDropScale = 1.0
+	# This is how often wild pokemobs look for items to collect, smaller values are faster, 1 is the lowest this can be
+	wildGatherDelay = 200
+	# A random sound from here is played when a pokemob dodges in combat
+	dodgeSounds = ["entity.witch.throw"]
+	# This is approximately how long a pokemob will live before it takes hunger damage, larger values will require less food to keep alive
+	pokemobLifeSpan = 8000
+	# If true, wild pokemobs will try to gather items
+	wildGather = false
+	# Mobs with these entity tags will not be a valid agression targets for pokemobs
+	aggroBlacklistTags = []
+	# Scaling factor on hunger from pokemob interactions, such as lighting torches, milking, etc
+	interactHungerScale = 1.0
+	# If true, pokemobs will need to execute an attack after breaking out of a cube before they can go into another to try to capture
+	captureDelayTillAttack = true
+	# if true, pokemobs may despawn if more than cullDistance from a player
+	despawn = true
+	# Scaling factor on pokemob swim speed while pathing normally
+	swimPathingSpeedFactor = 1.25
+	# if true, player's in the same team can still battle each other
+	teamsBattleEachOther = true
+	# If true, pokemobs will slowly heal while out of combat
+	outOfCombatHealing = true
+	# How long the exit cube animation effects last for
+	exitCubeDuration = 40
+	# if true, pokemobs will vanish if they are more than cullDistance from a player
+	cull = false
+	# if true, explosion type moves make large physical explosions
+	explosions = true
+	# Scaling factor on pokemob flight speed while pathing normally
+	flyPathingSpeedFactor = 1.25
+	# This number multiplied by mobSpawnNumber is how many mobs can be in an area before pokemobs stop breeding, this is for tame pokemobs
+	mateDensityPlayer = 4.0
+	# How often the hunger system ticks, larger numbers will result in faster hunger, setting to -1 will disable hunger entirely
+	hungerTickRate = 1
+	# Wild pokemobs may agress the player if they get closer than this distance
+	mobAggroRadius = 3
+	# This is how often wild pokemobs make random sounds, higher numbers result in less noise
+	idleSoundRate = 100
+	# How often pokemobs attempt to perform an idle action, such as walking, etc. Larger numbers are better for server performance, but result in less wandering of wild pokemobs
+	idleTickRate = 200
+	# This number multiplied by mobSpawnNumber is how many mobs can be in an area before pokemobs stop breeding, this is for wild pokemobs
+	mateDensityWild = 2.0
+	# How likely pokemobs are to call for help from nearby mobs when they are attacked
+	hordeRateFactor = 0.1
+	# Scaling factor on time delay between pokemob interactions, such as lighting torches, milking, etc
+	interactDelayScale = 1.0
+	# If true, shift right clicking a valid pokemob with a stick will place it on your shoulder
+	pokemobsOnShoulder = true
+	# if true, pokemob attacks can remove or destroy blocks in the world.
+	pokemobsDamageBlocks = false
+	# if ture, hungry herbivores will eat random plants
+	pokemobsEatPlants = true
+	# Maximum time for eggs to hatch, the average number is about half this
+	eggHatchTime = 10000
+	# This is a cooldown between the pokemob deciding to attack a player, and the pokemob actually doing so, this gives some warning you are about to be attacked
+	pokemobagressticks = 100
+	# if true, hungy lithovores will eat rocks to cobble/gravel
+	pokemobsEatRocks = true
+
+[dynamax]
+	dynamax_duration = 250
+	dynamax_scale = 5.0
+	dynamax_cooldown = 6000
+	z_move_cooldown = 2000
+
+[misc]
+	# A list of custom sounds to register
+	customSounds = []
+	# If false, the PC can hold any item
+	pcHoldsOnlyPokecubes = true
+	# If true, defeating a player's pokemobs gives exp
+	pvpExp = false
+	# If true, will automatically add interactions such as water from water types, and lighting torches on fire types.
+	defaultInteractions = true
+	# If true, the mob's favourite berry can be used to speed up breeding.
+	berryBreeding = true
+	# If true, your items which fit in PC will be sent there when you die
+	pcOnDrop = true
+	# A list of NBT tags to remove before saving the pokemob in its pokecube
+	persistent_tag_blacklist = []
+	# Scaling factor for EXP yield from fighting another player's pokemobs
+	pvpExpMultiplier = 0.5
+	# If true, defeating an NPC's pokemobs gives exp
+	trainerExp = true
+	# If true, legendary pokemobs can breed.
+	legendsBreed = false
+	# Scales EXP yield from fighting non-player owned pokemobs
+	expScaleFactor = 1.0
+	# If true, using a bed will heal your pokemobs
+	bedsHeal = true
+	# Mob IDs which are blacklisted from going into snag cubes
+	snag_cube_blacklist = ["ender_dragon", "wither"]
+	# If true, you will be prompted to choose a pokemob when creating a world, without having to look for a professor
+	guiOnLogin = false
+

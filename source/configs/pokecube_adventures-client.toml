@@ -1,0 +1,5 @@
+
+[machine]
+	# If true, there are additional tooltips by default in the genetics blocks
+	expandedDNATooltips = true
+

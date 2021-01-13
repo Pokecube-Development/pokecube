@@ -1,0 +1,30 @@
+
+[general]
+	enabledcondition = true
+	singleUseLegendSpawns = false
+	respawnLegendDelay = 36000
+	# If true, temples cannot be defiled by players.
+	protectTemples = true
+	generateOres = true
+
+[distortic]
+	mirrorCooldown = 800
+
+[mirage]
+	mirageRespawnChance = 0.01
+	enabledmirage = true
+
+[meteors]
+	meteorPowerThreshold = 20.0
+	meteorChanceForAny = 0.01
+	meteorChanceForDust = 0.25
+
+[ultraspace]
+	enabledkeyusecombustible = true
+	itemCombustiveStack = 5
+
+[raids]
+	raidDuration = 3000
+	raidResetChance = 0.1
+	rareRaidChance = 0.1
+

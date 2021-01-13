@@ -1,0 +1,6 @@
+
+[client]
+	buttonPos = [26, 9]
+	renderBlacklist = []
+	hasButton = true
+

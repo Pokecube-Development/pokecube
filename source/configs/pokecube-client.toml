@@ -1,0 +1,54 @@
+
+[moves]
+	moveVolumeCry = 0.0625
+	moveVolumeEffect = 0.25
+
+[client]
+	captureVolume = 0.2
+	teleRef = "top_right"
+	guiAutoScale = false
+	telePos = [89, 17]
+	guiDown = true
+	messagePadding = [0, 0]
+	autoSelectMoves = false
+	preloadModels = false
+	teleSize = 1.0
+	autoRecallDistance = 32
+	battleLogInChat = false
+	messageSize = 1.0
+	messageWidth = 150
+	targetPos = [147, -42]
+	targetRef = "top_right"
+	riddenMobsTurnWithLook = true
+	guiSize = 1.0
+	autoRecallPokemobs = false
+	pokeCenterMusic = true
+	extraberries = false
+	targetSize = 1.0
+	messagePos = [-150, -100]
+	messageRef = "right_middle"
+	guiRef = "top_left"
+	guiPos = [0, 0]
+
+[healthbars]
+	otherOwnedNameColour = 16733525
+	ownedNameColour = 5635925
+	scannedNameColour = 8978431
+	renderInF1 = false
+	plateSize = 25
+	unknownNameColour = 8947848
+	brightbars = true
+	showArmor = true
+	maxDistance = 24
+	caughtNamedColour = 5592575
+	enableDebugInfo = true
+	showOnlyFocused = false
+	backgroundPadding = 2
+	barHeight = 4
+	showHeldItem = true
+	hpTextHeight = 14
+	doHealthBars = true
+	backgroundHeight = 6
+	drawBackground = true
+	heightAbove = 0.6
+

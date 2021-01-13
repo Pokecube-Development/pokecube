@@ -1,0 +1,99 @@
+
+[trainers]
+	# This is the delay between the trainer deciding to send out a pokemob, and actually doing so
+	trainerSendOutDelay = 50
+	# If true, trainer's pokemobs will gain exp as they battle
+	trainerslevel = true
+	# If true, trainers will spawn naturally
+	trainerSpawn = true
+	# see trainerAIPause
+	aiPauseDistance = 64
+	# if true, trainers which are non agressive, might offer their mobs as trades for your mobs
+	trainersTradeMobs = true
+	# This determines how sparsely trainers spawn, there will only be trainerDensity trainers spawn every this far, excluding special spawns like villages
+	trainerBox = 256
+	# If false, pokemobs will not be able to hurt NPCs
+	pokemobsHarmNPCs = false
+	# if true, trainers with no pokemobs will despawn
+	cullNoMobs = false
+	# If there are more than this many trainers within trainer_crowding_radius, then the trainers will not agress players
+	trainer_crowding_number = 5
+	# This is how far trainers will check to see if there are too many nearby to battle
+	trainer_crowding_radius = 16
+	# This is how long the trainer will be on cooldown after a battle, for targets other than the one they were battling
+	trainerBattleDelay = 50
+	# if the trainer does not see its target for this many ticks, it will give up the battle
+	trainerDeAgressTicks = 100
+	# this is the default reward for trainers
+	trainer_defeat_reward = "{\"values\":{\"id\":\"minecraft:emerald\",\"n\":\"1\"}}"
+	# This is the time, in ticks, which a trainer will go on cooldown for, for a player, after winning or losing a battle
+	trainerCooldown = 5000
+	# If true, trainers will occasionally battle each other
+	trainersBattleEachOther = true
+	# If true, trainers will occasionally mate to produce more trainers
+	trainersMate = true
+	# If true, anything that is an INPC will be made into a trainer
+	npcsAreTrainers = true
+	# MobIDs listed here will be added as custom trainers if npcsAreTrainers is true, this is for mobs that are not INPCs, but should be
+	custom_trainers = ["player_mobs:player_mob"]
+	# Trainers will look for targets every this many ticks
+	trainerAgroRate = 20
+	# if true, trainers that are non agressive (ie on cooldown or bribed) will offer item trades
+	trainersTradeItems = true
+	# if true, if there is no player within aiPauseDistance, the trainer will not tick
+	trainerAIPause = true
+	# how many trainers spawn in trainerBox
+	trainerDensity = 2.0
+	# How far trainers will check for targets to battle
+	trainerSightRange = 8
+	# If true, trainers will occasionally battle wild pokemobs
+	trainersBattlePokemobs = true
+
+[machine]
+	# If true, automatically registers DNA extraction recipes for fossils
+	autoAddFossilDNA = true
+	# How many effective ticks are added for breeding time per daycare tick
+	dayCareBreedAmount = 10
+	# If true, daycares will also speed up the breeding time
+	dayCareBreedSpeedup = true
+	# Maximum energy in the AFA, this effectively sets a max range for it to affect, based on the costs
+	afaMaxEnergy = 3200
+	# How likely an AFA is to result in shiny mobs nearby if it has a shiny charm in it
+	afaShinyRate = 4096
+	# if false, warp pads will not require energy
+	warpPadEnergy = true
+	# if true, energy siphons can be linked to recieving blocks with the device linker
+	wirelessSiphons = true
+	# energy cost of the AFA when running in shiny mode, d is the range of the AFA
+	afaCostFunctionShiny = "(d^3)/10"
+	# amount of daycare power requrired to give exp to a pokemob, variables are: x - pokemob's current exp, l - pokemob's current lvl, n - pokemob's needed exp from current level to next
+	dayCarePowerPerExp = "0.5"
+	# can be used to scale the energy cost of genetics machines, x is the original energy input
+	clonerEfficiencyFunction = "x"
+	# Amount of forge energy needed to revive a fossil
+	fossilReanimateCost = 10000
+	# This it the maximum forge energy per tick from an energy siphon
+	maxOutput = 256
+	# warp pads can charge up to this much stored energy
+	warpPadMaxEnergy = 10000000
+	# amount of exp given per daycare tick, variables are: x - pokemob's current exp, l - pokemob's current lvl, n - pokemob's needed exp from current level to next
+	dayCareExpFunction = "n/10"
+	# this is how much daycare power is produced per item of fuel consumed
+	dayCarePowerPerFuel = 256
+	# Effective cost of a lvl 100 pokemob, this is for applying breeding tick stuff, even though lvl 100 can't gain exp
+	dayCareLvl100EffectiveLevel = 30
+	# this is how often the siphon will search for new pokemobs to pull from
+	siphonUpdateRate = 100
+	# daycares will only run every this many ticks
+	dayCareTickRate = 20
+	# How much energy you get of a pokemob, a is the max of spatk and atk, and x is the level of the pokemob
+	powerFunction = "a*x/10"
+	# energy cost of the AFA for running in ability mode, l is the level of the mob, d is the range of the AFA
+	afaCostFunction = "(d^3)/(10 + 5*l)"
+	# This scales the amount of hunger produced by pulling energy out of a pokemob
+	energyHungerCost = 5
+	# energy cost of warppad use, dw is 0 for the same dimension, varies otherwise
+	warpPadCostFunction = "(dx)*(dx) + (dy)*(dy) + (dz)*(dz) + (5*dw)^4"
+	# afa ticks every this many ticks
+	afaTickRate = 5
+

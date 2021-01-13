@@ -1,0 +1,21 @@
+.. rhydon:
+
+Rhydon
+-------
+
+.. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/rhydon.png
+    :width: 400
+    :alt: Rhydon
+.. image:: ../../_images/pokemobs/gen_1/entity_icon/textures/rhydons.png
+    :width: 400
+    :alt: Rhydon
+
+
+Description
+============
+| Rhydon is a ground/rock Pokémob.
+| Rhydon evolves into :doc:`rhyperior`:
+|  -  After being traded.
+|  -  When given a Protector.
+| 
+| Rhydon evolves from :doc:`rhyhorn`.

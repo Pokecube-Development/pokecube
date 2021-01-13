@@ -1,0 +1,53 @@
+
+[spawning]
+	# Pokemobs will not spawn further than this distance from a player
+	maxSpawnRadius = 32
+	# Pokemobs will not spawn closer than this distance from a player
+	minSpawnRadius = 16
+
+[advanced]
+	# If true, vanilla mobs are treated as pokemobs as well
+	vanilla_pokemobs = false
+	# Pokemobs larger than this are treated a bit differently to try to reduce lag when they move around
+	largeMobForSplit = 2.0
+	# If true, mobs added by other mods are treated as pokemobs as well
+	non_vanilla_pokemobs = false
+	# Time it takes for a pokemob to evolve, note that recalling during this time will cancel the evolution!
+	evolutionTicks = 50
+	# Number of ender pearls required to teleport to a pokecenter in your current dimension, using the attack teleport
+	telePearlsCostSameDim = 0
+	# A spacing around a player which prevnts them from riding something too fast off the edge of the loaded area. This effectively limits the speed at which they can generate terrain
+	movementPauseThreshold = 32.0
+	# Number of ender pearls required to teleport to a pokecenter in a different diemsnion, using the attack teleport
+	telePearlsCostOtherDim = 16
+	# Distance that secret base radar works within
+	baseRadarRange = 64
+
+[ai]
+	# scaling factor on riding speed while flying
+	flySpeedFactor = 1.0
+	# scaling factor on riding speed while in water
+	surfSpeedFactor = 1.0
+	# If true, dead wild pokemobs will vanish like normal mobs do on death
+	wildDeadDespawn = true
+	# time it takes for the dead mobs to vanish if allowed
+	deadDespawnTimer = 20
+	# if they did not vanish by this time, they will revive instead, wild ones at full hp, tame ones at 1 hp
+	deadReviveTimer = 600
+	# Flying will not be allowed in these dimensions
+	blackListedFlyDims = ["the_end", "the_nether"]
+	# scaling factor on riding speed while on ground
+	groundSpeedFactor = 1.0
+	# If true, dead tame pokemobs will vanish like normal mobs do on death, they will return to their pokecubes when they vanish
+	tameDeadDespawn = true
+	# Approximate cooldown for attacks in ticks, larger values will slow down combat
+	attackCooldown = 20
+
+[misc]
+	# Global size scaling factor for pokemobs
+	scalefactor = 1.0
+	# Number of pages in the PC
+	pcPageCount = 32
+	# If true, npcs will display their name tags, this is server config for syncing to clients for balance purposes
+	npcNameTags = true
+

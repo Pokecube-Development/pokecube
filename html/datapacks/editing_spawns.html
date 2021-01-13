@@ -1,0 +1,245 @@
+
+<!DOCTYPE html>
+
+<html lang="en_us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Spawns via Datapacks &#8212; Pokecube Documentation 1.16.4-2.8.0 documentation</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/classic.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Legends, Quests and Dimensions" href="../quests_and_legends/index.html" />
+    <link rel="prev" title="Datapacks" href="index.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Datapacks"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Datapacks</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Custom Spawns via Datapacks</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="custom-spawns-via-datapacks">
+<h1>Custom Spawns via Datapacks<a class="headerlink" href="#custom-spawns-via-datapacks" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="sample-datapacks">
+<h2>Sample Datapacks:<a class="headerlink" href="#sample-datapacks" title="Permalink to this headline">¶</a></h2>
+<p>These packs go in <code class="docutils literal notranslate"><span class="pre">/config/pokecube/datapacks/</span></code> and require a reboot to apply</p>
+<div class="line-block">
+<div class="line">Removing all Spawns: <a class="reference download internal" download="" href="../_downloads/c91290e61a59f7c2852e5bb2e3062f6d/no_spawns.zip"><code class="xref download docutils literal notranslate"><span class="pre">no_spawns.zip</span></code></a></div>
+<div class="line-block">
+<div class="line">This datapack overwrites the default files with completely blank spawns, thereby removing the existing spawns</div>
+</div>
+</div>
+<div class="line-block">
+<div class="line">Adding Subbiomes and Spawns: <a class="reference download internal" download="" href="../_downloads/6205517e58596646cc510a32b72bd42d/new_subbiomes.zip"><code class="xref download docutils literal notranslate"><span class="pre">new_subbiomes.zip</span></code></a></div>
+<div class="line-block">
+<div class="line">This datapack adds a set of new spawns, for new subbiomes <cite>route_1</cite> and <cite>route_23</cite>, these spawns have specific levels set.</div>
+</div>
+</div>
+</div>
+<div class="section" id="json-spawn-rule-format">
+<h2>Json Spawn Rule Format:<a class="headerlink" href="#json-spawn-rule-format" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Location selection in Pokecube uses a json object called a <cite>SpawnRule</cite>, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.</div>
+<div class="line">Here is an example of a spawns json</div>
+</div>
+<div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;values&quot;</span><span class="p">:{</span>
+    <span class="nt">&quot;types&quot;</span><span class="p">:</span><span class="s2">&quot;mountain,cave&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;typesBlacklist&quot;</span><span class="p">:</span><span class="s2">&quot;wet&quot;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<div class="line-block">
+<div class="line">This example will match a location which is of types <cite>mountain</cite> and <cite>cave</cite>, and not <cite>wet</cite>.</div>
+<div class="line"><br /></div>
+<div class="line">Below is a list of accepted values, and what they will do.</div>
+<div class="line">Any below that are a list, will be separated by commas, like in <cite>types</cite> in the example above</div>
+</div>
+<ul class="simple">
+<li><p><cite>types</cite> - list of types which are all required to be valid</p></li>
+<li><p><cite>typesBlacklist</cite> - list of types which, if present, will invalidate</p></li>
+<li><p><cite>category</cite> - list of specific biomes, any biome matching will be listed as allowed</p></li>
+<li><p><cite>biomesBlacklist</cite> - list of specific biomes, any biome matching will invalidate</p></li>
+<li><p><cite>biomes</cite> - list of biome categories, any biome matching will be listed as allowed</p></li>
+<li><p><cite>categoryBlacklist</cite> - list of biome categories, any biome matching will invalidate</p></li>
+<li><p><cite>structures</cite> - list of structures which are required for spawning in</p></li>
+<li><p><cite>noStructures</cite> - list of structures which will invalidate</p></li>
+<li><p><cite>command</cite> - will apply whatever this is as a <cite>/pokemake</cite> argument to a pokemob as it spawns in</p></li>
+<li><p><cite>day</cite> - valid during the day time *</p></li>
+<li><p><cite>night</cite> - valid at night *</p></li>
+<li><p><cite>dust</cite> - valid at dusk *</p></li>
+<li><p><cite>dawn</cite> - valid at dawn *</p></li>
+<li><p><cite>air</cite> - air is the material to spawn in (default <cite>true</cite>)</p></li>
+<li><p><cite>water</cite> - water is the material to spawn in (default <cite>false</cite>)</p></li>
+<li><p><cite>minLight</cite> - needs at least this much light to spawn (0-1, default 0)</p></li>
+<li><p><cite>maxLight</cite> - light must be less than or equal this to spawn (0-1, default 1)</p></li>
+<li><p><cite>weather</cite> - Specifies a list of weathers required for valid, defaults to not caring</p></li>
+<li><p><cite>noWeather</cite> - Specifies a list of weathers which will invalidate the rule</p></li>
+</ul>
+<p>* if none of these 4 are present, the rule will be valid at all times</p>
+</div>
+</div>
+<div class="section" id="biome-categories">
+<h1>Biome Categories<a class="headerlink" href="#biome-categories" title="Permalink to this headline">¶</a></h1>
+<div class="line-block">
+<div class="line">Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:</div>
+</div>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">none</span>
+<span class="n">taiga</span>
+<span class="n">extreme_hills</span>
+<span class="n">jungle</span>
+<span class="n">mesa</span>
+<span class="n">plains</span>
+<span class="n">savanna</span>
+<span class="n">icy</span>
+<span class="n">the_end</span>
+<span class="n">beach</span>
+<span class="n">forest</span>
+<span class="n">ocean</span>
+<span class="n">desert</span>
+<span class="n">river</span>
+<span class="n">swamp</span>
+<span class="n">mushroom</span>
+<span class="n">nether</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="biome-types">
+<h1>Biome Types<a class="headerlink" href="#biome-types" title="Permalink to this headline">¶</a></h1>
+<div class="line-block">
+<div class="line">For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: <a class="reference external" href="https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?">BiomeDictionary</a></div>
+<div class="line"><br /></div>
+<div class="line">These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.</div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="creating-the-custom-spawn-rules">
+<h2>Creating the custom spawn rules<a class="headerlink" href="#creating-the-custom-spawn-rules" title="Permalink to this headline">¶</a></h2>
+<p>Spawn rules then generally have an additional set of values, for specifying rates, numbers, etc, and are as follows:</p>
+<ul class="simple">
+<li><p><cite>min</cite> - minimum number in a spawn pack (default 2)</p></li>
+<li><p><cite>max</cite> - maximum number in a spawn pack (default 4)</p></li>
+<li><p><cite>rate</cite> - chance of spawn succeeding if selected (default 0, range: 0-1)</p></li>
+<li><p><cite>level</cite> - override level for the spawn</p></li>
+<li><p><cite>variance</cite> - override variance function for the spawn</p></li>
+</ul>
+<div class="line-block">
+<div class="line">An example of a spawn rule implementing several of these options is below:</div>
+</div>
+<div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;values&quot;</span><span class="p">:</span> <span class="p">{</span>
+    <span class="nt">&quot;types&quot;</span><span class="p">:</span> <span class="s2">&quot;route_1&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;rate&quot;</span><span class="p">:</span> <span class="s2">&quot;0.45&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;level&quot;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+    <span class="nt">&quot;variance&quot;</span><span class="p">:</span> <span class="s2">&quot;x + (4 * rand())&quot;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="applying-custom-subbiomes-ingame">
+<h2>Applying Custom Subbiomes ingame<a class="headerlink" href="#applying-custom-subbiomes-ingame" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">If an item is renamed <code class="docutils literal notranslate"><span class="pre">subbiome-&gt;&lt;name&gt;</span></code>, then it can be used as a subbiome setter, and will apply the subbiome <code class="docutils literal notranslate"><span class="pre">&lt;name&gt;</span></code></div>
+<div class="line">This works by sneak right clicking 1 corner to set, then sneak right clicking the other corner. The volume in between will be set as the selected subbiome.</div>
+<div class="line">Note that to sync to the f3 menu, you may need to open the watch or pokedex’s interface in that chunk</div>
+</div>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Custom Spawns via Datapacks</a><ul>
+<li><a class="reference internal" href="#sample-datapacks">Sample Datapacks:</a></li>
+<li><a class="reference internal" href="#json-spawn-rule-format">Json Spawn Rule Format:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#biome-categories">Biome Categories</a></li>
+<li><a class="reference internal" href="#biome-types">Biome Types</a><ul>
+<li><a class="reference internal" href="#creating-the-custom-spawn-rules">Creating the custom spawn rules</a></li>
+<li><a class="reference internal" href="#applying-custom-subbiomes-ingame">Applying Custom Subbiomes ingame</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="index.html"
+                        title="previous chapter">Datapacks</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="../quests_and_legends/index.html"
+                        title="next chapter">Legends, Quests and Dimensions</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/datapacks/editing_spawns.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Datapacks"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >Datapacks</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Custom Spawns via Datapacks</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.4.3.
+    </div>
+  </body>
+</html>
