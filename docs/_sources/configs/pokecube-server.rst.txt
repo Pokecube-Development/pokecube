@@ -1,3 +1,5 @@
+.. _pokecube-server.toml:
+
 pokecube-server.toml
 ---------------------
 

@@ -1,3 +1,5 @@
+.. _pokecube_legends-common.toml:
+
 pokecube_legends-common.toml
 -----------------------------
 

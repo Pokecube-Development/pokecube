@@ -1,3 +1,5 @@
+.. _thutcrafts-server.toml:
+
 thutcrafts-server.toml
 -----------------------
 

@@ -1,3 +1,5 @@
+.. _thutcore-common.toml:
+
 thutcore-common.toml
 ---------------------
 

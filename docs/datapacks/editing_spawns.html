@@ -59,9 +59,8 @@
 <div class="line">This datapack adds a set of new spawns, for new subbiomes <cite>route_1</cite> and <cite>route_23</cite>, these spawns have specific levels set.</div>
 </div>
 </div>
-</div>
 <div class="section" id="json-spawn-rule-format">
-<h2>Json Spawn Rule Format:<a class="headerlink" href="#json-spawn-rule-format" title="Permalink to this headline">¶</a></h2>
+<h3>Json Spawn Rule Format:<a class="headerlink" href="#json-spawn-rule-format" title="Permalink to this headline">¶</a></h3>
 <div class="line-block">
 <div class="line">Location selection in Pokecube uses a json object called a <cite>SpawnRule</cite>, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.</div>
 <div class="line">Here is an example of a spawns json</div>
@@ -102,10 +101,8 @@
 <li><p><cite>noWeather</cite> - Specifies a list of weathers which will invalidate the rule</p></li>
 </ul>
 <p>* if none of these 4 are present, the rule will be valid at all times</p>
-</div>
-</div>
 <div class="section" id="biome-categories">
-<h1>Biome Categories<a class="headerlink" href="#biome-categories" title="Permalink to this headline">¶</a></h1>
+<h4>Biome Categories<a class="headerlink" href="#biome-categories" title="Permalink to this headline">¶</a></h4>
 <div class="line-block">
 <div class="line">Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:</div>
 </div>
@@ -130,12 +127,15 @@
 </div>
 </div>
 <div class="section" id="biome-types">
-<h1>Biome Types<a class="headerlink" href="#biome-types" title="Permalink to this headline">¶</a></h1>
+<h4>Biome Types<a class="headerlink" href="#biome-types" title="Permalink to this headline">¶</a></h4>
 <div class="line-block">
 <div class="line">For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: <a class="reference external" href="https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?">BiomeDictionary</a></div>
 <div class="line"><br /></div>
 <div class="line">These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.</div>
 <div class="line"><br /></div>
+</div>
+</div>
+</div>
 </div>
 <div class="section" id="creating-the-custom-spawn-rules">
 <h2>Creating the custom spawn rules<a class="headerlink" href="#creating-the-custom-spawn-rules" title="Permalink to this headline">¶</a></h2>
@@ -169,6 +169,14 @@
 <div class="line">Note that to sync to the f3 menu, you may need to open the watch or pokedex’s interface in that chunk</div>
 </div>
 </div>
+<div class="section" id="extra-notes-info">
+<h2>Extra Notes/Info<a class="headerlink" href="#extra-notes-info" title="Permalink to this headline">¶</a></h2>
+<p>If trying to add a spawn for a Legendary pokemob, with a specific level and variance, you must set</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">minLegendLevel</span> <span class="o">=</span> <span class="mi">0</span>
+</pre></div>
+</div>
+<p>in <a class="reference internal" href="../configs/pokecube-common.html#pokecube-common-toml"><span class="std std-ref">pokecube-common.toml</span></a>.</p>
+</div>
 </div>
 
 
@@ -181,14 +189,17 @@
   <h3><a href="../index.html">Table of Contents</a></h3>
   <ul>
 <li><a class="reference internal" href="#">Custom Spawns via Datapacks</a><ul>
-<li><a class="reference internal" href="#sample-datapacks">Sample Datapacks:</a></li>
-<li><a class="reference internal" href="#json-spawn-rule-format">Json Spawn Rule Format:</a></li>
+<li><a class="reference internal" href="#sample-datapacks">Sample Datapacks:</a><ul>
+<li><a class="reference internal" href="#json-spawn-rule-format">Json Spawn Rule Format:</a><ul>
+<li><a class="reference internal" href="#biome-categories">Biome Categories</a></li>
+<li><a class="reference internal" href="#biome-types">Biome Types</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#biome-categories">Biome Categories</a></li>
-<li><a class="reference internal" href="#biome-types">Biome Types</a><ul>
+</ul>
+</li>
 <li><a class="reference internal" href="#creating-the-custom-spawn-rules">Creating the custom spawn rules</a></li>
 <li><a class="reference internal" href="#applying-custom-subbiomes-ingame">Applying Custom Subbiomes ingame</a></li>
+<li><a class="reference internal" href="#extra-notes-info">Extra Notes/Info</a></li>
 </ul>
 </li>
 </ul>

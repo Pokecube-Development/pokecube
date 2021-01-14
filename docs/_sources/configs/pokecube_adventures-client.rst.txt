@@ -1,3 +1,5 @@
+.. _pokecube_adventures-client.toml:
+
 pokecube_adventures-client.toml
 --------------------------------
 

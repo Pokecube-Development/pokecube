@@ -1,3 +1,5 @@
+.. _pokecube-common.toml:
+
 pokecube-common.toml
 ---------------------
 

@@ -1,8 +1,8 @@
 Custom Spawns via Datapacks
----------------------------
+===========================
 
 Sample Datapacks:
-=================
+#################
 
 These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 
@@ -14,7 +14,7 @@ These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 
 
 Json Spawn Rule Format:
-=======================
+***********************
 
 
 | Location selection in Pokecube uses a json object called a `SpawnRule`, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.
@@ -66,7 +66,7 @@ Json Spawn Rule Format:
 \* if none of these 4 are present, the rule will be valid at all times
 
 Biome Categories
-----------------
+~~~~~~~~~~~~~~~~
 
 | Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:
 
@@ -91,7 +91,7 @@ Biome Categories
     nether
 
 Biome Types
-------------
+~~~~~~~~~~~
 
 .. _BiomeDictionary: https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?
 
@@ -102,7 +102,7 @@ Biome Types
 
 
 Creating the custom spawn rules
-===============================
+###############################
 
 Spawn rules then generally have an additional set of values, for specifying rates, numbers, etc, and are as follows:
 
@@ -126,8 +126,20 @@ Spawn rules then generally have an additional set of values, for specifying rate
     }
 
 Applying Custom Subbiomes ingame
-================================
+################################
 
 | If an item is renamed ``subbiome-><name>``, then it can be used as a subbiome setter, and will apply the subbiome ``<name>``
 | This works by sneak right clicking 1 corner to set, then sneak right clicking the other corner. The volume in between will be set as the selected subbiome.
 | Note that to sync to the f3 menu, you may need to open the watch or pokedex's interface in that chunk
+
+Extra Notes/Info
+################
+
+If trying to add a spawn for a Legendary pokemob, with a specific level and variance, you must set 
+
+.. code-block::
+
+      minLegendLevel = 0
+
+
+in :ref:`pokecube-common.toml`.

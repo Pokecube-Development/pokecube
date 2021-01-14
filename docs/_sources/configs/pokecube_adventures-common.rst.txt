@@ -1,3 +1,5 @@
+.. _pokecube_adventures-common.toml:
+
 pokecube_adventures-common.toml
 --------------------------------
 

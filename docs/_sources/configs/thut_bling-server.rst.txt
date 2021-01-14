@@ -1,3 +1,5 @@
+.. _thut_bling-server.toml:
+
 thut_bling-server.toml
 -----------------------
 

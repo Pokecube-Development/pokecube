@@ -1,3 +1,5 @@
+.. _pokecube_adventures-server.toml:
+
 pokecube_adventures-server.toml
 --------------------------------
 
