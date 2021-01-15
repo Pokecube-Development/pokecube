@@ -99,6 +99,21 @@ Biome Types
 | 
 | These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.
 | 
+| Here is the list of built in Subbiome types:
+
+::
+
+    none
+    sky
+    flower
+    lake
+    industrial
+    meteor
+    ruin
+    cave
+    cavewater
+    village
+    all
 
 
 Creating the custom spawn rules
