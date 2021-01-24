@@ -1,4 +1,4 @@
-.. absol:
+.. _absol:
 
 Absol
 ------

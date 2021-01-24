@@ -1,4 +1,4 @@
-.. chimecho:
+.. _chimecho:
 
 Chimecho
 ---------
@@ -14,4 +14,4 @@ Chimecho
 Description
 ============
 | Chimecho is a psychic Pokémob.
-| Chimecho evolves from :doc:`chingling`.
+| Chimecho evolves from :ref:`chingling`.

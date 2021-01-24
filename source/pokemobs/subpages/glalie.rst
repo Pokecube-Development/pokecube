@@ -1,4 +1,4 @@
-.. glalie:
+.. _glalie:
 
 Glalie
 -------
@@ -14,4 +14,4 @@ Glalie
 Description
 ============
 | Glalie is a ice Pokémob.
-| Glalie evolves from :doc:`snorunt`.
+| Glalie evolves from :ref:`snorunt`.

@@ -1,4 +1,4 @@
-.. trapinch:
+.. _trapinch:
 
 Trapinch
 ---------
@@ -14,6 +14,6 @@ Trapinch
 Description
 ============
 | Trapinch is a ground Pokémob.
-| Trapinch evolves into :doc:`vibrava`:
+| Trapinch evolves into :ref:`vibrava`:
 |  -  At Level 35.
 | 

@@ -1,4 +1,4 @@
-.. litten:
+.. _litten:
 
 Litten
 -------
@@ -14,6 +14,6 @@ Litten
 Description
 ============
 | Litten is a fire Pokémob.
-| Litten evolves into :doc:`torracat`:
+| Litten evolves into :ref:`torracat`:
 |  -  At Level 17.
 | 

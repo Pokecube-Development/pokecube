@@ -1,4 +1,4 @@
-.. litwick:
+.. _litwick:
 
 Litwick
 --------
@@ -14,6 +14,6 @@ Litwick
 Description
 ============
 | Litwick is a ghost/fire Pokémob.
-| Litwick evolves into :doc:`lampent`:
+| Litwick evolves into :ref:`lampent`:
 |  -  At Level 41.
 | 

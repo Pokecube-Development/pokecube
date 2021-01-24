@@ -1,4 +1,4 @@
-.. sharpedo:
+.. _sharpedo:
 
 Sharpedo
 ---------
@@ -14,4 +14,4 @@ Sharpedo
 Description
 ============
 | Sharpedo is a water/dark Pokémob.
-| Sharpedo evolves from :doc:`carvanha`.
+| Sharpedo evolves from :ref:`carvanha`.

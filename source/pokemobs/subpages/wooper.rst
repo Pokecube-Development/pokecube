@@ -1,4 +1,4 @@
-.. wooper:
+.. _wooper:
 
 Wooper
 -------
@@ -14,6 +14,6 @@ Wooper
 Description
 ============
 | Wooper is a water/ground Pokémob.
-| Wooper evolves into :doc:`quagsire`:
+| Wooper evolves into :ref:`quagsire`:
 |  -  At Level 20.
 | 

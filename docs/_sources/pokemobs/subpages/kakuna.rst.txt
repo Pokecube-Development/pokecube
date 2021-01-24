@@ -1,4 +1,4 @@
-.. kakuna:
+.. _kakuna:
 
 Kakuna
 -------
@@ -14,7 +14,7 @@ Kakuna
 Description
 ============
 | Kakuna is a bug/poison Pokémob.
-| Kakuna evolves into :doc:`beedrill`:
+| Kakuna evolves into :ref:`beedrill`:
 |  -  At Level 10.
 | 
-| Kakuna evolves from :doc:`weedle`.
+| Kakuna evolves from :ref:`weedle`.

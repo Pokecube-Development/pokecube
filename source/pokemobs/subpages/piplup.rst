@@ -1,4 +1,4 @@
-.. piplup:
+.. _piplup:
 
 Piplup
 -------
@@ -14,6 +14,6 @@ Piplup
 Description
 ============
 | Piplup is a water Pokémob.
-| Piplup evolves into :doc:`prinplup`:
+| Piplup evolves into :ref:`prinplup`:
 |  -  At Level 16.
 | 

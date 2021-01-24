@@ -1,4 +1,4 @@
-.. cresselia:
+.. _cresselia:
 
 Cresselia
 ----------

@@ -1,4 +1,4 @@
-.. marshadow:
+.. _marshadow:
 
 Marshadow
 ----------

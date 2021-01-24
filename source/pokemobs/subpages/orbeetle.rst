@@ -1,4 +1,4 @@
-.. orbeetle:
+.. _orbeetle:
 
 Orbeetle
 ---------
@@ -14,4 +14,4 @@ Orbeetle
 Description
 ============
 | Orbeetle is a bug/psychic Pokémob.
-| Orbeetle evolves from :doc:`dottler`.
+| Orbeetle evolves from :ref:`dottler`.

@@ -1,4 +1,4 @@
-.. purugly:
+.. _purugly:
 
 Purugly
 --------
@@ -14,4 +14,4 @@ Purugly
 Description
 ============
 | Purugly is a normal Pokémob.
-| Purugly evolves from :doc:`glameow`.
+| Purugly evolves from :ref:`glameow`.

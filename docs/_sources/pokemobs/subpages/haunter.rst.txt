@@ -1,4 +1,4 @@
-.. haunter:
+.. _haunter:
 
 Haunter
 --------
@@ -14,7 +14,7 @@ Haunter
 Description
 ============
 | Haunter is a ghost/poison Pokémob.
-| Haunter evolves into :doc:`gengar`:
+| Haunter evolves into :ref:`gengar`:
 |  -  After being traded.
 | 
-| Haunter evolves from :doc:`gastly`.
+| Haunter evolves from :ref:`gastly`.

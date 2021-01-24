@@ -1,4 +1,4 @@
-.. floette:
+.. _floette:
 
 Floette
 --------
@@ -14,7 +14,7 @@ Floette
 Description
 ============
 | Floette is a fairy Pokémob.
-| Floette evolves into :doc:`florges`:
+| Floette evolves into :ref:`florges`:
 |  -  When given a Shiny Stone.
 | 
-| Floette evolves from :doc:`flabebe`.
+| Floette evolves from :ref:`flabebe`.

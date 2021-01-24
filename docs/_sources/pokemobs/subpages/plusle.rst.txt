@@ -1,4 +1,4 @@
-.. plusle:
+.. _plusle:
 
 Plusle
 -------

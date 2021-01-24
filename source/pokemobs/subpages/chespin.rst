@@ -1,4 +1,4 @@
-.. chespin:
+.. _chespin:
 
 Chespin
 --------
@@ -14,6 +14,6 @@ Chespin
 Description
 ============
 | Chespin is a grass Pokémob.
-| Chespin evolves into :doc:`quilladin`:
+| Chespin evolves into :ref:`quilladin`:
 |  -  At Level 16.
 | 

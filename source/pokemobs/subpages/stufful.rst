@@ -1,4 +1,4 @@
-.. stufful:
+.. _stufful:
 
 Stufful
 --------
@@ -14,6 +14,6 @@ Stufful
 Description
 ============
 | Stufful is a normal/fighting Pokémob.
-| Stufful evolves into :doc:`bewear`:
+| Stufful evolves into :ref:`bewear`:
 |  -  At Level 27.
 | 

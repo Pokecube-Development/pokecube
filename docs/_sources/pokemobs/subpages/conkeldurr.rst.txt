@@ -1,4 +1,4 @@
-.. conkeldurr:
+.. _conkeldurr:
 
 Conkeldurr
 -----------
@@ -14,4 +14,4 @@ Conkeldurr
 Description
 ============
 | Conkeldurr is a fighting Pokémob.
-| Conkeldurr evolves from :doc:`gurdurr`.
+| Conkeldurr evolves from :ref:`gurdurr`.

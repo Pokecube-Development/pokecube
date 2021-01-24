@@ -1,4 +1,4 @@
-.. carnivine:
+.. _carnivine:
 
 Carnivine
 ----------

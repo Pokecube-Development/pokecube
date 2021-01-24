@@ -1,4 +1,4 @@
-.. snivy:
+.. _snivy:
 
 Snivy
 ------
@@ -14,6 +14,6 @@ Snivy
 Description
 ============
 | Snivy is a grass Pokémob.
-| Snivy evolves into :doc:`servine`:
+| Snivy evolves into :ref:`servine`:
 |  -  At Level 17.
 | 

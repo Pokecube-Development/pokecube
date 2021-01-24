@@ -1,4 +1,4 @@
-.. roselia:
+.. _roselia:
 
 Roselia
 --------
@@ -14,7 +14,7 @@ Roselia
 Description
 ============
 | Roselia is a grass/poison Pokémob.
-| Roselia evolves into :doc:`roserade`:
+| Roselia evolves into :ref:`roserade`:
 |  -  When given a Shiny Stone.
 | 
-| Roselia evolves from :doc:`budew`.
+| Roselia evolves from :ref:`budew`.

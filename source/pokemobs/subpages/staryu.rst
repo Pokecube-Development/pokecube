@@ -1,4 +1,4 @@
-.. staryu:
+.. _staryu:
 
 Staryu
 -------
@@ -14,6 +14,6 @@ Staryu
 Description
 ============
 | Staryu is a water Pokémob.
-| Staryu evolves into :doc:`starmie`:
+| Staryu evolves into :ref:`starmie`:
 |  -  When given a Water Stone.
 | 

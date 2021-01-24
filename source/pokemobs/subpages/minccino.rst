@@ -1,4 +1,4 @@
-.. minccino:
+.. _minccino:
 
 Minccino
 ---------
@@ -14,6 +14,6 @@ Minccino
 Description
 ============
 | Minccino is a normal Pokémob.
-| Minccino evolves into :doc:`cinccino`:
+| Minccino evolves into :ref:`cinccino`:
 |  -  When given a Shiny Stone.
 | 

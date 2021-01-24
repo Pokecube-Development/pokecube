@@ -1,4 +1,4 @@
-.. bouffalant:
+.. _bouffalant:
 
 Bouffalant
 -----------

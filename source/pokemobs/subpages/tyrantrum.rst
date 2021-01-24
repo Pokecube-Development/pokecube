@@ -1,4 +1,4 @@
-.. tyrantrum:
+.. _tyrantrum:
 
 Tyrantrum
 ----------
@@ -14,4 +14,4 @@ Tyrantrum
 Description
 ============
 | Tyrantrum is a rock/dragon Pokémob.
-| Tyrantrum evolves from :doc:`tyrunt`.
+| Tyrantrum evolves from :ref:`tyrunt`.

@@ -1,4 +1,4 @@
-.. teddiursa:
+.. _teddiursa:
 
 Teddiursa
 ----------
@@ -14,6 +14,6 @@ Teddiursa
 Description
 ============
 | Teddiursa is a normal Pokémob.
-| Teddiursa evolves into :doc:`ursaring`:
+| Teddiursa evolves into :ref:`ursaring`:
 |  -  At Level 30.
 | 

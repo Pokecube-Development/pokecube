@@ -1,4 +1,4 @@
-.. blissey:
+.. _blissey:
 
 Blissey
 --------
@@ -14,4 +14,4 @@ Blissey
 Description
 ============
 | Blissey is a normal Pokémob.
-| Blissey evolves from :doc:`chansey`.
+| Blissey evolves from :ref:`chansey`.

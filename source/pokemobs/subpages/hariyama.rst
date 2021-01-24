@@ -1,4 +1,4 @@
-.. hariyama:
+.. _hariyama:
 
 Hariyama
 ---------
@@ -14,4 +14,4 @@ Hariyama
 Description
 ============
 | Hariyama is a fighting Pokémob.
-| Hariyama evolves from :doc:`makuhita`.
+| Hariyama evolves from :ref:`makuhita`.

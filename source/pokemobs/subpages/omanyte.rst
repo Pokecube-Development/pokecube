@@ -1,4 +1,4 @@
-.. omanyte:
+.. _omanyte:
 
 Omanyte
 --------
@@ -14,6 +14,6 @@ Omanyte
 Description
 ============
 | Omanyte is a rock/water Pokémob.
-| Omanyte evolves into :doc:`omastar`:
+| Omanyte evolves into :ref:`omastar`:
 |  -  At Level 40.
 | 

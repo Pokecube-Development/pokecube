@@ -1,4 +1,4 @@
-.. latios:
+.. _latios:
 
 Latios
 -------

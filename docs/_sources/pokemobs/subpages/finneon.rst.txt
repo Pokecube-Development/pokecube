@@ -1,4 +1,4 @@
-.. finneon:
+.. _finneon:
 
 Finneon
 --------
@@ -14,6 +14,6 @@ Finneon
 Description
 ============
 | Finneon is a water Pokémob.
-| Finneon evolves into :doc:`lumineon`:
+| Finneon evolves into :ref:`lumineon`:
 |  -  At Level 31.
 | 

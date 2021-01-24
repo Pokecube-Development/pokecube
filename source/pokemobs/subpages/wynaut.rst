@@ -1,4 +1,4 @@
-.. wynaut:
+.. _wynaut:
 
 Wynaut
 -------
@@ -14,6 +14,6 @@ Wynaut
 Description
 ============
 | Wynaut is a psychic Pokémob.
-| Wynaut evolves into :doc:`wobbuffet`:
+| Wynaut evolves into :ref:`wobbuffet`:
 |  -  At Level 15.
 | 

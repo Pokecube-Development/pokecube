@@ -1,4 +1,4 @@
-.. regirock:
+.. _regirock:
 
 Regirock
 ---------

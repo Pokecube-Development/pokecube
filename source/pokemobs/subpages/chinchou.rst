@@ -1,4 +1,4 @@
-.. chinchou:
+.. _chinchou:
 
 Chinchou
 ---------
@@ -14,6 +14,6 @@ Chinchou
 Description
 ============
 | Chinchou is a water/electric Pokémob.
-| Chinchou evolves into :doc:`lanturn`:
+| Chinchou evolves into :ref:`lanturn`:
 |  -  At Level 27.
 | 

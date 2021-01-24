@@ -1,4 +1,4 @@
-.. fletchinder:
+.. _fletchinder:
 
 Fletchinder
 ------------
@@ -14,7 +14,7 @@ Fletchinder
 Description
 ============
 | Fletchinder is a fire/flying Pokémob.
-| Fletchinder evolves into :doc:`talonflame`:
+| Fletchinder evolves into :ref:`talonflame`:
 |  -  At Level 35.
 | 
-| Fletchinder evolves from :doc:`fletchling`.
+| Fletchinder evolves from :ref:`fletchling`.

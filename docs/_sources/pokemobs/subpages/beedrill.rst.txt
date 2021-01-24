@@ -1,4 +1,4 @@
-.. beedrill:
+.. _beedrill:
 
 Beedrill
 ---------
@@ -14,4 +14,4 @@ Beedrill
 Description
 ============
 | Beedrill is a bug/poison Pokémob.
-| Beedrill evolves from :doc:`kakuna`.
+| Beedrill evolves from :ref:`kakuna`.

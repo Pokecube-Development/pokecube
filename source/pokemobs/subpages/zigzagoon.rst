@@ -1,4 +1,4 @@
-.. zigzagoon:
+.. _zigzagoon:
 
 Zigzagoon
 ----------
@@ -14,6 +14,6 @@ Zigzagoon
 Description
 ============
 | Zigzagoon is a normal Pokémob.
-| Zigzagoon evolves into :doc:`linoone`:
+| Zigzagoon evolves into :ref:`linoone`:
 |  -  At Level 20.
 | 

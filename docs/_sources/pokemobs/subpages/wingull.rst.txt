@@ -1,4 +1,4 @@
-.. wingull:
+.. _wingull:
 
 Wingull
 --------
@@ -14,6 +14,6 @@ Wingull
 Description
 ============
 | Wingull is a water/flying Pokémob.
-| Wingull evolves into :doc:`pelipper`:
+| Wingull evolves into :ref:`pelipper`:
 |  -  At Level 25.
 | 

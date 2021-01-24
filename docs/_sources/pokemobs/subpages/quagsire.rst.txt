@@ -1,4 +1,4 @@
-.. quagsire:
+.. _quagsire:
 
 Quagsire
 ---------
@@ -14,4 +14,4 @@ Quagsire
 Description
 ============
 | Quagsire is a water/ground Pokémob.
-| Quagsire evolves from :doc:`wooper`.
+| Quagsire evolves from :ref:`wooper`.

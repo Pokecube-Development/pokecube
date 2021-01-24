@@ -1,4 +1,4 @@
-.. bastiodon:
+.. _bastiodon:
 
 Bastiodon
 ----------
@@ -14,4 +14,4 @@ Bastiodon
 Description
 ============
 | Bastiodon is a rock/steel Pokémob.
-| Bastiodon evolves from :doc:`shieldon`.
+| Bastiodon evolves from :ref:`shieldon`.

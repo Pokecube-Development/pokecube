@@ -1,4 +1,4 @@
-.. slaking:
+.. _slaking:
 
 Slaking
 --------
@@ -14,4 +14,4 @@ Slaking
 Description
 ============
 | Slaking is a normal Pokémob.
-| Slaking evolves from :doc:`vigoroth`.
+| Slaking evolves from :ref:`vigoroth`.

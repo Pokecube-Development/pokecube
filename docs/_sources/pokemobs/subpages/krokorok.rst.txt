@@ -1,4 +1,4 @@
-.. krokorok:
+.. _krokorok:
 
 Krokorok
 ---------
@@ -14,7 +14,7 @@ Krokorok
 Description
 ============
 | Krokorok is a ground/dark Pokémob.
-| Krokorok evolves into :doc:`krookodile`:
+| Krokorok evolves into :ref:`krookodile`:
 |  -  At Level 40.
 | 
-| Krokorok evolves from :doc:`sandile`.
+| Krokorok evolves from :ref:`sandile`.

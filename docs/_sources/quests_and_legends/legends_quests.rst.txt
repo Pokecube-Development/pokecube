@@ -1,124 +1,131 @@
 Legends and Quests
 ------------------
 
-# **Strutures**
+**Strutures**
+===============
 While exploring the world you may find a few different structures, they are the 'Temples of Legendary'. Legendary temples need a key item and a unique quest completed so you can summon it and capture it. But for the most part not all have unique structures, some share the structure.
 
-_List of new structures added_
-* Forest Temple (_Celebi_)
+List of new structures added
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Forest Temple (:ref:`celebi`)
 
 .. image:: https://i.imgur.com/Ki90jlX.png
     :alt: Forest Temple
 
-* Ho-oh Temple (_Ho-oh_)
+* Ho-oh Temple (:ref:`ho-oh`)
 
 .. image:: https://i.imgur.com/CPj6imX.png
     :alt: Ho-oh Temple
 
-* Legendary tree (_Kanto Birds Galar Form_)
+* Legendary tree (:ref:`Kanto Birds Galar Form`)
 
 .. image:: https://i.imgur.com/FHOsKbh.png
     :alt: Legendary tree
 
-* Kubfu Dojo Dark (_Kubfu_)
+* Kubfu Dojo Dark (:ref:`kubfu`)
 
 .. image:: https://i.imgur.com/yuK0vKW.png
     :alt: Kubfu Dojo Dark
 
-* Kubfu Dojo Water (_Kubfu_)
+* Kubfu Dojo Water (:ref:`kubfu`)
 
 .. image:: https://i.imgur.com/U8Qjqeu.png
     :alt: Kubfu Dojo Water
 
-* Sky Pillar (_Rayquaza_)
+* Sky Pillar (:ref:`rayquaza`)
 
 .. image:: https://i.imgur.com/w7IulE2.png
     :alt: sky_pillar
 
-* Ruins of Regice (_Regice_)
+* Ruins of Regice (:ref:`regice`)
 
 .. image:: https://i.imgur.com/S4JW9kh.png
     :alt: Ruins of Regice
 
-* Ruins of Regirock (_Regirock_)
+* Ruins of Regirock (:ref:`regirock`)
 
 .. image:: https://i.imgur.com/BOhi3WL.png
     :alt: Ruins of Regirock
 
-* Ruins of Registeel (_Registeel_)
+* Ruins of Registeel (:ref:`registeel`)
 
 .. image:: https://i.imgur.com/kydUtVU.png
     :alt: Ruins of Registeel
 
-* Ruins of Regieleki (_Regieleki_)
+* Ruins of Regieleki (:ref:`regieleki`)
 
 .. image:: https://i.imgur.com/Z54kcwV.png
     :alt: Ruins of Regieleki
 
-* Ruins of Regidrago (_Regidrago_)
+* Ruins of Regidrago (:ref:`regidrago`)
 
 .. image:: https://i.imgur.com/QTQWY1A.png
     :alt: Ruins of Regidrago
 
-* Ruins of Regigigas (_Regigigas_)
+* Ruins of Regigigas (:ref:`regigigas`)
 
 .. image:: https://i.imgur.com/Tn6ACv9.png
     :alt: Ruins of Regigigas
 
-* Groudon Altar (_Groudon_)
+* Groudon Altar (:ref:`groudon`)
 
 .. image:: https://vignette.wikia.nocookie.net/pokecube-revival-ptbr/images/a/a4/Groudon_temple.png/revision/latest/scale-to-width-down/220?cb=20191222023315&path-prefix=pt-br
     :alt: Groudon Altar
 
-* Kyogre Altar (_Kyogre_)
+* Kyogre Altar (:ref:`kyogre`)
 
 .. image:: https://vignette.wikia.nocookie.net/pokecube-revival-ptbr/images/2/26/Kyogre_temple.png/revision/latest/scale-to-width-down/220?cb=20191222023803&path-prefix=pt-br
     :alt: Kyogre Altar
 
-* Lugia Tower (_Lugia_)
+* Lugia Tower (:ref:`lugia`)
 
 .. image:: https://i.imgur.com/vNFVVeo.png
     :alt: Lugia Tower
 
-* Yveltal Egg (_Yveltal_)
+* Yveltal Egg (:ref:`yveltal`)
 
 .. image:: https://i.imgur.com/CqrUWEX.png
     :alt: Yveltal Egg
 
-* Xerneas Tree (_Xerneas_)
+* Xerneas Tree (:ref:`xerneas`)
 
 .. image:: https://i.imgur.com/rjylAOS.png
     :alt: Xerneas Tree
 
-* Keldeo Sword (_Keldeo_)
+* Keldeo Sword (:ref:`keldeo`)
 
 .. image:: https://i.imgur.com/csrqhU2.png
     :alt: Keldeo Sword
 
-* N's Castle (_Zekrom/Reshiram_)
+* N's Castle (:ref:`zekrom`/:ref:`reshiram`)
 
 .. image:: https://i.imgur.com/YBOfP50.png
     :alt: tao legendary
 
 * Nature's Altar
-(_Thundurus/Tornadus/Landorus_)
+
+(:ref:`thundurus`/:ref:`tornadus`/:ref:`landorus`)
 
 .. image:: https://i.imgur.com/tXuXMKQ.png
     :alt: Thundurus/Tornadus/Landorus Altar
 
 * Altar of Time and Space
-(_Dialga/Palkia/Arceus_)
+
+(:ref:`dialga`/:ref:`palkia`/:ref:`arceus`)
 
 .. image:: https://vignette.wikia.nocookie.net/pokecube-revival-ptbr/images/9/92/Space_temple.png/revision/latest?cb=20191222022323&path-prefix=pt-br
     :alt: spacetime_altar
 
 * Stone Portal
-(_Zacian/ Zamazenta_)
+
+(:ref:`zacian`/:ref:`zamazenta`)
 
 .. image:: https://i.imgur.com/MoK0pVH.png
     :alt: zacian_zamazenta
 
-# **Summoning Blocks**
+**Summoning Blocks**
+=====================
 These blocks are used to summon the legendary. Use the correct key item and spawn the legendary.
 *Not all blocks have a recipe, those that have can be placed by the player, and those that are not created appear in the structures by the map.
 
@@ -197,7 +204,8 @@ and the blocks that do not have recipes are:
 .. image:: https://i.imgur.com/YibXYxO.png
     :alt: Legendy Block
 
-# **Making Type: Null**
+**Making Type: Null**
+======================
 Type: Null is a pokemon created in the laboratory, so there's nothing more fair than creating it inside the Pokecube too :b
 
 The first step is to find Aether Paradise, is the new structure that appears in the oceans:
@@ -220,7 +228,8 @@ You will need: Potion of Regeneration, Imprisonment Helmet, Two Pokemob egg
 
 When items are in place, just power Cloning Divece using a Siphon and an electric pokemob (minimum level: 25)
 
-# **Summoning Regis**
+**Summoning Regis**
+====================
 To create the Summon the Regi you have chosen you have two options: Search the Temple or Create your Totem
 To create the Totem follow the images:
 
@@ -263,40 +272,42 @@ To create the Totem follow the images:
 .. image:: https://i.imgur.com/e9Gi6tz.png
     :alt: wrong location alert
 
-## **Quest**
+**Quest**
+----------
 Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pok�mon Generations arrive.
 
 1. Celebi - Capture about 40 a 50 Pokemob Grass.
 2. Entei - Capture about 40 Pokemob Fire.
 3. Suicune - Capture about 40 Pokemob Water.
 4. Raikou - Capture about 30 Pokemob Electric.
-5. Ho-oh - Capture _Entei/Suicune/Raikou_.
-6. Lugia - Capture _Moltres/Zapdos/Articuno_ >The Galar version can replace that of Kanto. 
+5. Ho-oh - Capture Entei/Suicune/Raikou.
+6. Lugia - Capture Moltres/Zapdos/Articuno >The Galar version can replace that of Kanto. 
 7. Thundurus/ Landorus/Tornadus - Capture the Meloetta.
-8. Keldeo - Capture _Virizion/Terrakion/Cobalion_.
+8. Keldeo - Capture Virizion/Terrakion/Cobalion.
 9. Groudon - Capture about 40 Pokemob Ground and Defeat 40 Pokemob Water.
 10. Kyogre - Capture 35 Pokemob Water and Defeat 40 Pokemob Ground.
-11. Rayquaza - Capture _Kyogre/Groudon_.
-12. Registrel/Regice/Regirock/Regieleki/Regidrago - Capture _Relicanth_ and _Wailord_.
+11. Rayquaza - Capture Kyogre/Groudon.
+12. Registrel/Regice/Regirock/Regieleki/Regidrago - Capture Relicanth and Wailord.
 13. Regigigas - Capture the Five Regis.
 14. Dialga/Palkia - Capture the three Lake Guardians.
-15. Giratina - Capture _Dialga/Palkia_.
-16. Arceus - Capture the _Dialga/Palkia/Giratina_.
+15. Giratina - Capture Dialga/Palkia.
+16. Arceus - Capture the Dialga/Palkia/Giratina.
 17. Victini - Capture about 20 Psychic Pokemob.
 18. Volcanion - Capture Magearna.
 19. Zekrom/Reshiram - Capture about 20 Pokemob Dragon.
-20. Kyurem - Capture _Zekrom/Reshiram_.
+20. Kyurem - Capture Zekrom/Reshiram.
 21. Xerneas - Capture about 20 a 30 Pokemob Fairy.
 22. Yveltal - Capture 14 Pokemob Dark.
 23. Heatran - Capture about 30 Pokemob Fire.
-24. Necrozma - Capture _Solgaleo/Lunala_.
+24. Necrozma - Capture Solgaleo/Lunala.
 25. Zacian/Zamazenta - Capture 18 Pokemob Steel.
-26. Eternatus - Capture _Zacian/Zamazenta_.
-27. Glastrier/Spectrier - Capture _Calyrex_.
+26. Eternatus - Capture Zacian/Zamazenta.
+27. Glastrier/Spectrier - Capture Calyrex.
 
 > Not all legends are within Quest or Requisition, and these are exactly the ones you use to get stronger legends. You can see if they appear in the world or are stuck in the blocks; To find out, just go to his Pokewatch page and go to Spawn tab, if it is at 0% he can only be summoned or appear in Hoopa Portals.
 
-### Key Items
+Key items
+=============
 The legendary Pokemon that are Spawned by Altars precision beyond the Quest, a Key Item. This key item can be purchased by the Merchant from NPC villages, or by completing Quest where each Quest has its own reward.
 
 >You can see the quests from the legends here:
@@ -386,7 +397,8 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
 .. image:: https://i.imgur.com/NfkEhuf.png
     :alt: no_recipe
 
-#### Key Items (Evolution/ Change Form)
+Key Items (Evolution/ Change Form)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 some legendary items, despite having a quest, are not used to summon the legendary, but to evolve or change it
 >Here is a list of items that are acquired by Quest / Localization / Purchase or Crafting
 
@@ -446,7 +458,8 @@ some legendary items, despite having a quest, are not used to summon the legenda
 .. image:: https://i.imgur.com/3xR4c2T.png
     :alt: Reward4
 
-### **Legendary and their respective Spawn blocks**
+**Legendary and their respective Spawn blocks**
+================================================
 
 .. image:: https://i.imgur.com/ZHtzo7s.png
     :alt: legendy

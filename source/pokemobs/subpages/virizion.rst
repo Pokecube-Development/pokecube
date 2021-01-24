@@ -1,4 +1,4 @@
-.. virizion:
+.. _virizion:
 
 Virizion
 ---------

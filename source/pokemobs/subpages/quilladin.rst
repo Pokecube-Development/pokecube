@@ -1,4 +1,4 @@
-.. quilladin:
+.. _quilladin:
 
 Quilladin
 ----------
@@ -14,7 +14,7 @@ Quilladin
 Description
 ============
 | Quilladin is a grass Pokémob.
-| Quilladin evolves into :doc:`chesnaught`:
+| Quilladin evolves into :ref:`chesnaught`:
 |  -  At Level 36.
 | 
-| Quilladin evolves from :doc:`chespin`.
+| Quilladin evolves from :ref:`chespin`.

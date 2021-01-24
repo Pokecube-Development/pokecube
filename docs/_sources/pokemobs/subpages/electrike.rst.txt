@@ -1,4 +1,4 @@
-.. electrike:
+.. _electrike:
 
 Electrike
 ----------
@@ -14,6 +14,6 @@ Electrike
 Description
 ============
 | Electrike is a electric Pokémob.
-| Electrike evolves into :doc:`manectric`:
+| Electrike evolves into :ref:`manectric`:
 |  -  At Level 26.
 | 

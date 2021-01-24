@@ -1,4 +1,4 @@
-.. mudsdale:
+.. _mudsdale:
 
 Mudsdale
 ---------
@@ -14,4 +14,4 @@ Mudsdale
 Description
 ============
 | Mudsdale is a ground Pokémob.
-| Mudsdale evolves from :doc:`mudbray`.
+| Mudsdale evolves from :ref:`mudbray`.

@@ -1,4 +1,4 @@
-.. goodra:
+.. _goodra:
 
 Goodra
 -------
@@ -14,4 +14,4 @@ Goodra
 Description
 ============
 | Goodra is a dragon Pokémob.
-| Goodra evolves from :doc:`sliggoo`.
+| Goodra evolves from :ref:`sliggoo`.

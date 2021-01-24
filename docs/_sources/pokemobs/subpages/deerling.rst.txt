@@ -1,4 +1,4 @@
-.. deerling:
+.. _deerling:
 
 Deerling
 ---------
@@ -14,15 +14,15 @@ Deerling
 Description
 ============
 | Deerling is a normal/grass Pokémob.
-| Deerling evolves into :doc:`sawsbuck`:
+| Deerling evolves into :ref:`sawsbuck`:
 |  -  At Level 34.
 | 
-| Deerling evolves into :doc:`sawsbuck`:
+| Deerling evolves into :ref:`sawsbuck`:
 |  -  At Level 34.
 | 
-| Deerling evolves into :doc:`sawsbuck`:
+| Deerling evolves into :ref:`sawsbuck`:
 |  -  At Level 34.
 | 
-| Deerling evolves into :doc:`sawsbuck`:
+| Deerling evolves into :ref:`sawsbuck`:
 |  -  At Level 34.
 | 

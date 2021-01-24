@@ -1,4 +1,4 @@
-.. audino:
+.. _audino:
 
 Audino
 -------

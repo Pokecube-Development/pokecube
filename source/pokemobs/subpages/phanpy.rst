@@ -1,4 +1,4 @@
-.. phanpy:
+.. _phanpy:
 
 Phanpy
 -------
@@ -14,6 +14,6 @@ Phanpy
 Description
 ============
 | Phanpy is a ground Pokémob.
-| Phanpy evolves into :doc:`donphan`:
+| Phanpy evolves into :ref:`donphan`:
 |  -  At Level 25.
 | 

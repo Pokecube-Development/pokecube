@@ -1,4 +1,4 @@
-.. arcanine:
+.. _arcanine:
 
 Arcanine
 ---------
@@ -14,4 +14,4 @@ Arcanine
 Description
 ============
 | Arcanine is a fire Pokémob.
-| Arcanine evolves from :doc:`growlithe`.
+| Arcanine evolves from :ref:`growlithe`.

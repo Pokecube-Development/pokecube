@@ -1,4 +1,4 @@
-.. carvanha:
+.. _carvanha:
 
 Carvanha
 ---------
@@ -14,6 +14,6 @@ Carvanha
 Description
 ============
 | Carvanha is a water/dark Pokémob.
-| Carvanha evolves into :doc:`sharpedo`:
+| Carvanha evolves into :ref:`sharpedo`:
 |  -  At Level 30.
 | 

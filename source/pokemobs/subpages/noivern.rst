@@ -1,4 +1,4 @@
-.. noivern:
+.. _noivern:
 
 Noivern
 --------
@@ -14,4 +14,4 @@ Noivern
 Description
 ============
 | Noivern is a flying/dragon Pokémob.
-| Noivern evolves from :doc:`noibat`.
+| Noivern evolves from :ref:`noibat`.

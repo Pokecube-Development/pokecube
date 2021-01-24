@@ -1,4 +1,4 @@
-.. grubbin:
+.. _grubbin:
 
 Grubbin
 --------
@@ -14,6 +14,6 @@ Grubbin
 Description
 ============
 | Grubbin is a bug Pokémob.
-| Grubbin evolves into :doc:`charjabug`:
+| Grubbin evolves into :ref:`charjabug`:
 |  -  At Level 20.
 | 

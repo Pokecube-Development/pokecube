@@ -1,4 +1,4 @@
-.. sobble:
+.. _sobble:
 
 Sobble
 -------
@@ -14,6 +14,6 @@ Sobble
 Description
 ============
 | Sobble is a water Pokémob.
-| Sobble evolves into :doc:`drizzile`:
+| Sobble evolves into :ref:`drizzile`:
 |  -  At Level 16.
 | 

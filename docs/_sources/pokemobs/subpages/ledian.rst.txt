@@ -1,4 +1,4 @@
-.. ledian:
+.. _ledian:
 
 Ledian
 -------
@@ -14,4 +14,4 @@ Ledian
 Description
 ============
 | Ledian is a bug/flying Pokémob.
-| Ledian evolves from :doc:`ledyba`.
+| Ledian evolves from :ref:`ledyba`.

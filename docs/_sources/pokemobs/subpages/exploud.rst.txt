@@ -1,4 +1,4 @@
-.. exploud:
+.. _exploud:
 
 Exploud
 --------
@@ -14,4 +14,4 @@ Exploud
 Description
 ============
 | Exploud is a normal Pokémob.
-| Exploud evolves from :doc:`loudred`.
+| Exploud evolves from :ref:`loudred`.

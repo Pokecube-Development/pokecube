@@ -1,4 +1,4 @@
-.. litleo:
+.. _litleo:
 
 Litleo
 -------
@@ -14,6 +14,6 @@ Litleo
 Description
 ============
 | Litleo is a fire/normal Pokémob.
-| Litleo evolves into :doc:`pyroar`:
+| Litleo evolves into :ref:`pyroar`:
 |  -  At Level 35.
 | 

@@ -1,4 +1,4 @@
-.. gliscor:
+.. _gliscor:
 
 Gliscor
 --------
@@ -14,4 +14,4 @@ Gliscor
 Description
 ============
 | Gliscor is a ground/flying Pokémob.
-| Gliscor evolves from :doc:`gligar`.
+| Gliscor evolves from :ref:`gligar`.

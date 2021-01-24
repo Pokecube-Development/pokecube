@@ -1,4 +1,4 @@
-.. abra:
+.. _abra:
 
 Abra
 -----
@@ -14,6 +14,6 @@ Abra
 Description
 ============
 | Abra is a psychic Pokémob.
-| Abra evolves into :doc:`kadabra`:
+| Abra evolves into :ref:`kadabra`:
 |  -  At Level 16.
 | 

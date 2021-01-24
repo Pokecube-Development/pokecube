@@ -1,4 +1,4 @@
-.. bellsprout:
+.. _bellsprout:
 
 Bellsprout
 -----------
@@ -14,6 +14,6 @@ Bellsprout
 Description
 ============
 | Bellsprout is a grass/poison Pokémob.
-| Bellsprout evolves into :doc:`weepinbell`:
+| Bellsprout evolves into :ref:`weepinbell`:
 |  -  At Level 21.
 | 

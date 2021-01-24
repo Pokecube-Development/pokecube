@@ -1,4 +1,4 @@
-.. duraludon:
+.. _duraludon:
 
 Duraludon
 ----------

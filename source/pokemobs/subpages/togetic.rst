@@ -1,4 +1,4 @@
-.. togetic:
+.. _togetic:
 
 Togetic
 --------
@@ -14,7 +14,7 @@ Togetic
 Description
 ============
 | Togetic is a fairy/flying Pokémob.
-| Togetic evolves into :doc:`togekiss`:
+| Togetic evolves into :ref:`togekiss`:
 |  -  When given a Shiny Stone.
 | 
-| Togetic evolves from :doc:`togepi`.
+| Togetic evolves from :ref:`togepi`.

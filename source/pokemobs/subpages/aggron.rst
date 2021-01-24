@@ -1,4 +1,4 @@
-.. aggron:
+.. _aggron:
 
 Aggron
 -------
@@ -14,4 +14,4 @@ Aggron
 Description
 ============
 | Aggron is a steel/rock Pokémob.
-| Aggron evolves from :doc:`lairon`.
+| Aggron evolves from :ref:`lairon`.

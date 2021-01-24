@@ -1,4 +1,4 @@
-.. gible:
+.. _gible:
 
 Gible
 ------
@@ -14,6 +14,6 @@ Gible
 Description
 ============
 | Gible is a dragon/ground Pokémob.
-| Gible evolves into :doc:`gabite`:
+| Gible evolves into :ref:`gabite`:
 |  -  At Level 24.
 | 

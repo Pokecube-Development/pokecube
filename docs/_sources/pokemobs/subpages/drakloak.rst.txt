@@ -1,4 +1,4 @@
-.. drakloak:
+.. _drakloak:
 
 Drakloak
 ---------
@@ -14,7 +14,7 @@ Drakloak
 Description
 ============
 | Drakloak is a dragon/ghost Pokémob.
-| Drakloak evolves into :doc:`dragapult`:
+| Drakloak evolves into :ref:`dragapult`:
 |  -  At Level 60.
 | 
-| Drakloak evolves from :doc:`dreepy`.
+| Drakloak evolves from :ref:`dreepy`.

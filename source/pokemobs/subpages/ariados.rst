@@ -1,4 +1,4 @@
-.. ariados:
+.. _ariados:
 
 Ariados
 --------
@@ -14,4 +14,4 @@ Ariados
 Description
 ============
 | Ariados is a bug/poison Pokémob.
-| Ariados evolves from :doc:`spinarak`.
+| Ariados evolves from :ref:`spinarak`.

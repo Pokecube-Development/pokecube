@@ -1,4 +1,4 @@
-.. swampert:
+.. _swampert:
 
 Swampert
 ---------
@@ -14,4 +14,4 @@ Swampert
 Description
 ============
 | Swampert is a water/ground Pokémob.
-| Swampert evolves from :doc:`marshtomp`.
+| Swampert evolves from :ref:`marshtomp`.

@@ -1,4 +1,4 @@
-.. ninjask:
+.. _ninjask:
 
 Ninjask
 --------
@@ -14,4 +14,4 @@ Ninjask
 Description
 ============
 | Ninjask is a bug/flying Pokémob.
-| Ninjask evolves from :doc:`nincada`.
+| Ninjask evolves from :ref:`nincada`.

@@ -1,4 +1,4 @@
-.. fomantis:
+.. _fomantis:
 
 Fomantis
 ---------
@@ -14,7 +14,7 @@ Fomantis
 Description
 ============
 | Fomantis is a grass Pokémob.
-| Fomantis evolves into :doc:`lurantis`:
+| Fomantis evolves into :ref:`lurantis`:
 |  -  At Level 34.
 |  -  During the day.
 | 

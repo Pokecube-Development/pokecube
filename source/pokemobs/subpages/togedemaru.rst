@@ -1,4 +1,4 @@
-.. togedemaru:
+.. _togedemaru:
 
 Togedemaru
 -----------

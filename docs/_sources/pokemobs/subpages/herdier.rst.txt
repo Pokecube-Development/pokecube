@@ -1,4 +1,4 @@
-.. herdier:
+.. _herdier:
 
 Herdier
 --------
@@ -14,7 +14,7 @@ Herdier
 Description
 ============
 | Herdier is a normal Pokémob.
-| Herdier evolves into :doc:`stoutland`:
+| Herdier evolves into :ref:`stoutland`:
 |  -  At Level 32.
 | 
-| Herdier evolves from :doc:`lillipup`.
+| Herdier evolves from :ref:`lillipup`.

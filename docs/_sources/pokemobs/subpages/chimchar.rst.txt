@@ -1,4 +1,4 @@
-.. chimchar:
+.. _chimchar:
 
 Chimchar
 ---------
@@ -14,6 +14,6 @@ Chimchar
 Description
 ============
 | Chimchar is a fire Pokémob.
-| Chimchar evolves into :doc:`monferno`:
+| Chimchar evolves into :ref:`monferno`:
 |  -  At Level 14.
 | 

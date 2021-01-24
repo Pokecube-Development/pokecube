@@ -1,4 +1,4 @@
-.. flaaffy:
+.. _flaaffy:
 
 Flaaffy
 --------
@@ -14,7 +14,7 @@ Flaaffy
 Description
 ============
 | Flaaffy is a electric Pokémob.
-| Flaaffy evolves into :doc:`ampharos`:
+| Flaaffy evolves into :ref:`ampharos`:
 |  -  At Level 30.
 | 
-| Flaaffy evolves from :doc:`mareep`.
+| Flaaffy evolves from :ref:`mareep`.

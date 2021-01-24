@@ -1,4 +1,4 @@
-.. mantyke:
+.. _mantyke:
 
 Mantyke
 --------
@@ -14,6 +14,6 @@ Mantyke
 Description
 ============
 | Mantyke is a water/flying Pokémob.
-| Mantyke evolves into :doc:`mantine`:
+| Mantyke evolves into :ref:`mantine`:
 |  -  At Level 30.
 | 

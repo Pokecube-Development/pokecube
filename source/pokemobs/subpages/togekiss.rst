@@ -1,4 +1,4 @@
-.. togekiss:
+.. _togekiss:
 
 Togekiss
 ---------
@@ -14,4 +14,4 @@ Togekiss
 Description
 ============
 | Togekiss is a fairy/flying Pokémob.
-| Togekiss evolves from :doc:`togetic`.
+| Togekiss evolves from :ref:`togetic`.

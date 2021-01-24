@@ -1,4 +1,4 @@
-.. rayquaza:
+.. _rayquaza:
 
 Rayquaza
 ---------

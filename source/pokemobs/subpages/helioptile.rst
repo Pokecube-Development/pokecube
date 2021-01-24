@@ -1,4 +1,4 @@
-.. helioptile:
+.. _helioptile:
 
 Helioptile
 -----------
@@ -14,6 +14,6 @@ Helioptile
 Description
 ============
 | Helioptile is a electric/normal Pokémob.
-| Helioptile evolves into :doc:`heliolisk`:
+| Helioptile evolves into :ref:`heliolisk`:
 |  -  When given a Sun Stone.
 | 

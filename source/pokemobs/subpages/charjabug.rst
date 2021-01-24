@@ -1,4 +1,4 @@
-.. charjabug:
+.. _charjabug:
 
 Charjabug
 ----------
@@ -14,7 +14,7 @@ Charjabug
 Description
 ============
 | Charjabug is a bug/electric Pokémob.
-| Charjabug evolves into :doc:`vikavolt`:
+| Charjabug evolves into :ref:`vikavolt`:
 |  -  In [Industrial Area].
 | 
-| Charjabug evolves from :doc:`grubbin`.
+| Charjabug evolves from :ref:`grubbin`.

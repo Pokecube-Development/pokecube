@@ -1,4 +1,4 @@
-.. greedent:
+.. _greedent:
 
 Greedent
 ---------
@@ -14,4 +14,4 @@ Greedent
 Description
 ============
 | Greedent is a normal Pokémob.
-| Greedent evolves from :doc:`skwovet`.
+| Greedent evolves from :ref:`skwovet`.

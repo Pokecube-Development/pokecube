@@ -1,4 +1,4 @@
-.. urshifu_single:
+.. _urshifu_single:
 
 Urshifu
 --------
@@ -14,4 +14,4 @@ Urshifu
 Description
 ============
 | Urshifu is a fighting/dark Pokémob.
-| Urshifu evolves from :doc:`kubfu`.
+| Urshifu evolves from :ref:`kubfu`.

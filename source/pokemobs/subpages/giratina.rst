@@ -1,4 +1,4 @@
-.. giratina:
+.. _giratina:
 
 Giratina
 ---------

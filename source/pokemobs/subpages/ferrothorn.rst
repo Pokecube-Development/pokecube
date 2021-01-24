@@ -1,4 +1,4 @@
-.. ferrothorn:
+.. _ferrothorn:
 
 Ferrothorn
 -----------
@@ -14,4 +14,4 @@ Ferrothorn
 Description
 ============
 | Ferrothorn is a grass/steel Pokémob.
-| Ferrothorn evolves from :doc:`ferroseed`.
+| Ferrothorn evolves from :ref:`ferroseed`.

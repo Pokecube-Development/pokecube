@@ -1,4 +1,4 @@
-.. shiinotic:
+.. _shiinotic:
 
 Shiinotic
 ----------
@@ -14,4 +14,4 @@ Shiinotic
 Description
 ============
 | Shiinotic is a grass/fairy Pokémob.
-| Shiinotic evolves from :doc:`morelull`.
+| Shiinotic evolves from :ref:`morelull`.

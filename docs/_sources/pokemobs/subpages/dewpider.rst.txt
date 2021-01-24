@@ -1,4 +1,4 @@
-.. dewpider:
+.. _dewpider:
 
 Dewpider
 ---------
@@ -14,6 +14,6 @@ Dewpider
 Description
 ============
 | Dewpider is a water/bug Pokémob.
-| Dewpider evolves into :doc:`araquanid`:
+| Dewpider evolves into :ref:`araquanid`:
 |  -  At Level 22.
 | 

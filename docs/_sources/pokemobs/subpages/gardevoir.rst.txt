@@ -1,4 +1,4 @@
-.. gardevoir:
+.. _gardevoir:
 
 Gardevoir
 ----------
@@ -14,4 +14,4 @@ Gardevoir
 Description
 ============
 | Gardevoir is a psychic/fairy Pokémob.
-| Gardevoir evolves from :doc:`kirlia`.
+| Gardevoir evolves from :ref:`kirlia`.

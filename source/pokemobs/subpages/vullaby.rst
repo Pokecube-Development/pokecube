@@ -1,4 +1,4 @@
-.. vullaby:
+.. _vullaby:
 
 Vullaby
 --------
@@ -14,6 +14,6 @@ Vullaby
 Description
 ============
 | Vullaby is a dark/flying Pokémob.
-| Vullaby evolves into :doc:`mandibuzz`:
+| Vullaby evolves into :ref:`mandibuzz`:
 |  -  At Level 54.
 | 

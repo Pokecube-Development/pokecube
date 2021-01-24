@@ -1,4 +1,4 @@
-.. tympole:
+.. _tympole:
 
 Tympole
 --------
@@ -14,6 +14,6 @@ Tympole
 Description
 ============
 | Tympole is a water Pokémob.
-| Tympole evolves into :doc:`palpitoad`:
+| Tympole evolves into :ref:`palpitoad`:
 |  -  At Level 25.
 | 

@@ -1,4 +1,4 @@
-.. vileplume:
+.. _vileplume:
 
 Vileplume
 ----------
@@ -14,4 +14,4 @@ Vileplume
 Description
 ============
 | Vileplume is a grass/poison Pokémob.
-| Vileplume evolves from :doc:`gloom`.
+| Vileplume evolves from :ref:`gloom`.

@@ -1,4 +1,4 @@
-.. sirfetchd:
+.. _sirfetchd:
 
 Sirfetch'd
 -----------
@@ -14,4 +14,4 @@ Sirfetch'd
 Description
 ============
 | Sirfetch'd is a fighting Pokémob.
-| Sirfetch'd evolves from :doc:`farfetchd`.
+| Sirfetch'd evolves from :ref:`farfetchd`.

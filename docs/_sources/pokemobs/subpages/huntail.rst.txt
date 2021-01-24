@@ -1,4 +1,4 @@
-.. huntail:
+.. _huntail:
 
 Huntail
 --------
@@ -14,4 +14,4 @@ Huntail
 Description
 ============
 | Huntail is a water Pokémob.
-| Huntail evolves from :doc:`clamperl`.
+| Huntail evolves from :ref:`clamperl`.

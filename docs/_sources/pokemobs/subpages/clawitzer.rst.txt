@@ -1,4 +1,4 @@
-.. clawitzer:
+.. _clawitzer:
 
 Clawitzer
 ----------
@@ -14,4 +14,4 @@ Clawitzer
 Description
 ============
 | Clawitzer is a water Pokémob.
-| Clawitzer evolves from :doc:`clauncher`.
+| Clawitzer evolves from :ref:`clauncher`.

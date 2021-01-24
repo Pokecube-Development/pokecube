@@ -1,4 +1,4 @@
-.. basculin:
+.. _basculin:
 
 Basculin
 ---------

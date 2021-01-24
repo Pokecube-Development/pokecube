@@ -1,4 +1,4 @@
-.. pancham:
+.. _pancham:
 
 Pancham
 --------
@@ -14,6 +14,6 @@ Pancham
 Description
 ============
 | Pancham is a fighting Pokémob.
-| Pancham evolves into :doc:`pangoro`:
+| Pancham evolves into :ref:`pangoro`:
 |  -  When given a Dusk Stone.
 | 

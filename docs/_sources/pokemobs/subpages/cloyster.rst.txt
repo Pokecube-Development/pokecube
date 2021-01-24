@@ -1,4 +1,4 @@
-.. cloyster:
+.. _cloyster:
 
 Cloyster
 ---------
@@ -14,4 +14,4 @@ Cloyster
 Description
 ============
 | Cloyster is a water/ice Pokémob.
-| Cloyster evolves from :doc:`shellder`.
+| Cloyster evolves from :ref:`shellder`.

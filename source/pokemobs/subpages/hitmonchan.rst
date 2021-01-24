@@ -1,4 +1,4 @@
-.. hitmonchan:
+.. _hitmonchan:
 
 Hitmonchan
 -----------
@@ -14,4 +14,4 @@ Hitmonchan
 Description
 ============
 | Hitmonchan is a fighting Pokémob.
-| Hitmonchan evolves from :doc:`tyrogue`.
+| Hitmonchan evolves from :ref:`tyrogue`.

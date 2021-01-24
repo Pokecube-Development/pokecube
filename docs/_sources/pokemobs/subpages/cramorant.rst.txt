@@ -1,4 +1,4 @@
-.. cramorant:
+.. _cramorant:
 
 Cramorant
 ----------

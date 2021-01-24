@@ -1,4 +1,4 @@
-.. dartrix:
+.. _dartrix:
 
 Dartrix
 --------
@@ -14,7 +14,7 @@ Dartrix
 Description
 ============
 | Dartrix is a grass/flying Pokémob.
-| Dartrix evolves into :doc:`decidueye`:
+| Dartrix evolves into :ref:`decidueye`:
 |  -  At Level 34.
 | 
-| Dartrix evolves from :doc:`rowlet`.
+| Dartrix evolves from :ref:`rowlet`.

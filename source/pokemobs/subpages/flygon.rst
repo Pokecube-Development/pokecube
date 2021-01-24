@@ -1,4 +1,4 @@
-.. flygon:
+.. _flygon:
 
 Flygon
 -------
@@ -14,4 +14,4 @@ Flygon
 Description
 ============
 | Flygon is a ground/dragon Pokémob.
-| Flygon evolves from :doc:`vibrava`.
+| Flygon evolves from :ref:`vibrava`.

@@ -1,4 +1,4 @@
-.. hoopa_confined:
+.. _hoopa_confined:
 
 Hoopa
 ------

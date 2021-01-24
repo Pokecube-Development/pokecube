@@ -1,4 +1,4 @@
-.. goldeen:
+.. _goldeen:
 
 Goldeen
 --------
@@ -14,6 +14,6 @@ Goldeen
 Description
 ============
 | Goldeen is a water Pokémob.
-| Goldeen evolves into :doc:`seaking`:
+| Goldeen evolves into :ref:`seaking`:
 |  -  At Level 33.
 | 

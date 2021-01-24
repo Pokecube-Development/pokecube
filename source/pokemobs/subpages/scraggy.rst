@@ -1,4 +1,4 @@
-.. scraggy:
+.. _scraggy:
 
 Scraggy
 --------
@@ -14,6 +14,6 @@ Scraggy
 Description
 ============
 | Scraggy is a dark/fighting Pokémob.
-| Scraggy evolves into :doc:`scrafty`:
+| Scraggy evolves into :ref:`scrafty`:
 |  -  At Level 39.
 | 

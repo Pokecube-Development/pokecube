@@ -1,4 +1,4 @@
-.. grapploct:
+.. _grapploct:
 
 Grapploct
 ----------
@@ -14,4 +14,4 @@ Grapploct
 Description
 ============
 | Grapploct is a fighting Pokémob.
-| Grapploct evolves from :doc:`clobbopus`.
+| Grapploct evolves from :ref:`clobbopus`.

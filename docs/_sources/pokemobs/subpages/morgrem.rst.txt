@@ -1,4 +1,4 @@
-.. morgrem:
+.. _morgrem:
 
 Morgrem
 --------
@@ -14,7 +14,7 @@ Morgrem
 Description
 ============
 | Morgrem is a dark/fairy Pokémob.
-| Morgrem evolves into :doc:`grimmsnarl`:
+| Morgrem evolves into :ref:`grimmsnarl`:
 |  -  At Level 42.
 | 
-| Morgrem evolves from :doc:`impidimp`.
+| Morgrem evolves from :ref:`impidimp`.

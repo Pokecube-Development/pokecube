@@ -1,4 +1,4 @@
-.. articuno:
+.. _articuno:
 
 Articuno
 ---------

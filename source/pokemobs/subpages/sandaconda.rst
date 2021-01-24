@@ -1,4 +1,4 @@
-.. sandaconda:
+.. _sandaconda:
 
 Sandaconda
 -----------
@@ -14,4 +14,4 @@ Sandaconda
 Description
 ============
 | Sandaconda is a ground Pokémob.
-| Sandaconda evolves from :doc:`silicobra`.
+| Sandaconda evolves from :ref:`silicobra`.

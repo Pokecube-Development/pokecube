@@ -1,4 +1,4 @@
-.. drapion:
+.. _drapion:
 
 Drapion
 --------
@@ -14,4 +14,4 @@ Drapion
 Description
 ============
 | Drapion is a poison/dark Pokémob.
-| Drapion evolves from :doc:`skorupi`.
+| Drapion evolves from :ref:`skorupi`.

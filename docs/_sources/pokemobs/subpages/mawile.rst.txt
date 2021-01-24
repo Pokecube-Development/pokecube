@@ -1,4 +1,4 @@
-.. mawile:
+.. _mawile:
 
 Mawile
 -------

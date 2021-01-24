@@ -1,4 +1,4 @@
-.. pyroar:
+.. _pyroar:
 
 Pyroar
 -------
@@ -14,4 +14,4 @@ Pyroar
 Description
 ============
 | Pyroar is a fire/normal Pokémob.
-| Pyroar evolves from :doc:`litleo`.
+| Pyroar evolves from :ref:`litleo`.

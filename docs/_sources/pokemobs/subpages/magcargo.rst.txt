@@ -1,4 +1,4 @@
-.. magcargo:
+.. _magcargo:
 
 Magcargo
 ---------
@@ -14,4 +14,4 @@ Magcargo
 Description
 ============
 | Magcargo is a fire/rock Pokémob.
-| Magcargo evolves from :doc:`slugma`.
+| Magcargo evolves from :ref:`slugma`.

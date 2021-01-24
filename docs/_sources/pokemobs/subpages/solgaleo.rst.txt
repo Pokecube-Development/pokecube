@@ -1,4 +1,4 @@
-.. solgaleo:
+.. _solgaleo:
 
 Solgaleo
 ---------
@@ -14,4 +14,4 @@ Solgaleo
 Description
 ============
 | Solgaleo is a psychic/steel Pokémob.
-| Solgaleo evolves from :doc:`cosmoem`.
+| Solgaleo evolves from :ref:`cosmoem`.

@@ -1,4 +1,4 @@
-.. whiscash:
+.. _whiscash:
 
 Whiscash
 ---------
@@ -14,4 +14,4 @@ Whiscash
 Description
 ============
 | Whiscash is a water/ground Pokémob.
-| Whiscash evolves from :doc:`barboach`.
+| Whiscash evolves from :ref:`barboach`.

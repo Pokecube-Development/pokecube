@@ -1,4 +1,4 @@
-.. scolipede:
+.. _scolipede:
 
 Scolipede
 ----------
@@ -14,4 +14,4 @@ Scolipede
 Description
 ============
 | Scolipede is a bug/poison Pokémob.
-| Scolipede evolves from :doc:`whirlipede`.
+| Scolipede evolves from :ref:`whirlipede`.

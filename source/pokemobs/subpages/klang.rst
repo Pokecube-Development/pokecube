@@ -1,4 +1,4 @@
-.. klang:
+.. _klang:
 
 Klang
 ------
@@ -14,7 +14,7 @@ Klang
 Description
 ============
 | Klang is a steel Pokémob.
-| Klang evolves into :doc:`klink`lang:
+| Klang evolves into :ref:`klink`lang:
 |  -  At Level 49.
 | 
-| Klang evolves from :doc:`klink`.
+| Klang evolves from :ref:`klink`.

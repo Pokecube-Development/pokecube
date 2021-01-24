@@ -1,4 +1,4 @@
-.. kyogre:
+.. _kyogre:
 
 Kyogre
 -------

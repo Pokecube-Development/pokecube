@@ -1,4 +1,4 @@
-.. qwilfish:
+.. _qwilfish:
 
 Qwilfish
 ---------

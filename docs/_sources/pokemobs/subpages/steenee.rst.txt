@@ -1,4 +1,4 @@
-.. steenee:
+.. _steenee:
 
 Steenee
 --------
@@ -14,7 +14,7 @@ Steenee
 Description
 ============
 | Steenee is a grass Pokémob.
-| Steenee evolves into :doc:`tsareena`:
+| Steenee evolves into :ref:`tsareena`:
 |  -  And knows Stomp.
 | 
-| Steenee evolves from :doc:`bounsweet`.
+| Steenee evolves from :ref:`bounsweet`.

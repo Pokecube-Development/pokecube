@@ -1,4 +1,4 @@
-.. kadabra:
+.. _kadabra:
 
 Kadabra
 --------
@@ -14,7 +14,7 @@ Kadabra
 Description
 ============
 | Kadabra is a psychic Pokémob.
-| Kadabra evolves into :doc:`alakazam`:
+| Kadabra evolves into :ref:`alakazam`:
 |  -  After being traded.
 | 
-| Kadabra evolves from :doc:`abra`.
+| Kadabra evolves from :ref:`abra`.

@@ -1,4 +1,4 @@
-.. melmetal:
+.. _melmetal:
 
 Melmetal
 ---------
@@ -14,4 +14,4 @@ Melmetal
 Description
 ============
 | Melmetal is a steel Pokémob.
-| Melmetal evolves from :doc:`meltan`.
+| Melmetal evolves from :ref:`meltan`.

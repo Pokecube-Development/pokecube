@@ -1,4 +1,4 @@
-.. kingdra:
+.. _kingdra:
 
 Kingdra
 --------
@@ -14,4 +14,4 @@ Kingdra
 Description
 ============
 | Kingdra is a water/dragon Pokémob.
-| Kingdra evolves from :doc:`seadra`.
+| Kingdra evolves from :ref:`seadra`.

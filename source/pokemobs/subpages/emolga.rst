@@ -1,4 +1,4 @@
-.. emolga:
+.. _emolga:
 
 Emolga
 -------

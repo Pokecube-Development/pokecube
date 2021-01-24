@@ -1,4 +1,4 @@
-.. lugia:
+.. _lugia:
 
 Lugia
 ------

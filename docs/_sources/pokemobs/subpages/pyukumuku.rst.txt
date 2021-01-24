@@ -1,4 +1,4 @@
-.. pyukumuku:
+.. _pyukumuku:
 
 Pyukumuku
 ----------

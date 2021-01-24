@@ -1,4 +1,4 @@
-.. rookidee:
+.. _rookidee:
 
 Rookidee
 ---------
@@ -14,6 +14,6 @@ Rookidee
 Description
 ============
 | Rookidee is a flying Pokémob.
-| Rookidee evolves into :doc:`corvisquire`:
+| Rookidee evolves into :ref:`corvisquire`:
 |  -  At Level 18.
 | 

@@ -1,4 +1,4 @@
-.. probopass:
+.. _probopass:
 
 Probopass
 ----------
@@ -14,4 +14,4 @@ Probopass
 Description
 ============
 | Probopass is a rock/steel Pokémob.
-| Probopass evolves from :doc:`nosepass`.
+| Probopass evolves from :ref:`nosepass`.

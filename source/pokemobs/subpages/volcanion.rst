@@ -1,4 +1,4 @@
-.. volcanion:
+.. _volcanion:
 
 Volcanion
 ----------

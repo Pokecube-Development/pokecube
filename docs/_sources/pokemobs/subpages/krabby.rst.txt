@@ -1,4 +1,4 @@
-.. krabby:
+.. _krabby:
 
 Krabby
 -------
@@ -14,6 +14,6 @@ Krabby
 Description
 ============
 | Krabby is a water Pokémob.
-| Krabby evolves into :doc:`kingler`:
+| Krabby evolves into :ref:`kingler`:
 |  -  At Level 29.
 | 

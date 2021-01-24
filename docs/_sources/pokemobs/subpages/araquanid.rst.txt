@@ -1,4 +1,4 @@
-.. araquanid:
+.. _araquanid:
 
 Araquanid
 ----------
@@ -14,4 +14,4 @@ Araquanid
 Description
 ============
 | Araquanid is a water/bug Pokémob.
-| Araquanid evolves from :doc:`dewpider`.
+| Araquanid evolves from :ref:`dewpider`.

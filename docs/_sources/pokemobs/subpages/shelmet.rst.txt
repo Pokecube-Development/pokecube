@@ -1,4 +1,4 @@
-.. shelmet:
+.. _shelmet:
 
 Shelmet
 --------
@@ -14,6 +14,6 @@ Shelmet
 Description
 ============
 | Shelmet is a bug Pokémob.
-| Shelmet evolves into :doc:`accelgor`:
+| Shelmet evolves into :ref:`accelgor`:
 |  -  After being traded.
 | 

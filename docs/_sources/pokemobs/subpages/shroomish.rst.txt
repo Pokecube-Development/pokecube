@@ -1,4 +1,4 @@
-.. shroomish:
+.. _shroomish:
 
 Shroomish
 ----------
@@ -14,6 +14,6 @@ Shroomish
 Description
 ============
 | Shroomish is a grass Pokémob.
-| Shroomish evolves into :doc:`breloom`:
+| Shroomish evolves into :ref:`breloom`:
 |  -  At Level 23.
 | 

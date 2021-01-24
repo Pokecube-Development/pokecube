@@ -1,4 +1,4 @@
-.. roggenrola:
+.. _roggenrola:
 
 Roggenrola
 -----------
@@ -14,6 +14,6 @@ Roggenrola
 Description
 ============
 | Roggenrola is a rock Pokémob.
-| Roggenrola evolves into :doc:`boldore`:
+| Roggenrola evolves into :ref:`boldore`:
 |  -  At Level 25.
 | 

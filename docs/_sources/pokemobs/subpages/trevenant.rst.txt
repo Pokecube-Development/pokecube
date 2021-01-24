@@ -1,4 +1,4 @@
-.. trevenant:
+.. _trevenant:
 
 Trevenant
 ----------
@@ -14,4 +14,4 @@ Trevenant
 Description
 ============
 | Trevenant is a ghost/grass Pokémob.
-| Trevenant evolves from :doc:`phantump`.
+| Trevenant evolves from :ref:`phantump`.

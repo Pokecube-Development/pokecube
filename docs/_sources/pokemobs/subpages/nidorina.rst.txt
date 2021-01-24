@@ -1,4 +1,4 @@
-.. nidorina:
+.. _nidorina:
 
 Nidorina
 ---------
@@ -14,7 +14,7 @@ Nidorina
 Description
 ============
 | Nidorina is a poison Pokémob.
-| Nidorina evolves into :doc:`nidoqueen`:
+| Nidorina evolves into :ref:`nidoqueen`:
 |  -  When given a Moon Stone.
 | 
-| Nidorina evolves from :doc:`nidoranf`.
+| Nidorina evolves from :ref:`nidoranf`.

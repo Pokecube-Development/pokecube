@@ -1,4 +1,4 @@
-.. passimian:
+.. _passimian:
 
 Passimian
 ----------

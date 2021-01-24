@@ -1,4 +1,4 @@
-.. wailord:
+.. _wailord:
 
 Wailord
 --------
@@ -14,4 +14,4 @@ Wailord
 Description
 ============
 | Wailord is a water Pokémob.
-| Wailord evolves from :doc:`wailmer`.
+| Wailord evolves from :ref:`wailmer`.

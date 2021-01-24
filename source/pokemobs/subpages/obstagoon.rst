@@ -1,4 +1,4 @@
-.. obstagoon:
+.. _obstagoon:
 
 Obstagoon
 ----------
@@ -14,4 +14,4 @@ Obstagoon
 Description
 ============
 | Obstagoon is a dark/normal Pokémob.
-| Obstagoon evolves from :doc:`linoone`.
+| Obstagoon evolves from :ref:`linoone`.

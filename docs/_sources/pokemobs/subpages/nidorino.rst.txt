@@ -1,4 +1,4 @@
-.. nidorino:
+.. _nidorino:
 
 Nidorino
 ---------
@@ -14,7 +14,7 @@ Nidorino
 Description
 ============
 | Nidorino is a poison Pokémob.
-| Nidorino evolves into :doc:`nidoking`:
+| Nidorino evolves into :ref:`nidoking`:
 |  -  When given a Moon Stone.
 | 
-| Nidorino evolves from :doc:`nidoranm`.
+| Nidorino evolves from :ref:`nidoranm`.

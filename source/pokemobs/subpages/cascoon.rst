@@ -1,4 +1,4 @@
-.. cascoon:
+.. _cascoon:
 
 Cascoon
 --------
@@ -14,7 +14,7 @@ Cascoon
 Description
 ============
 | Cascoon is a bug Pokémob.
-| Cascoon evolves into :doc:`dustox`:
+| Cascoon evolves into :ref:`dustox`:
 |  -  At Level 10.
 | 
-| Cascoon evolves from :doc:`wurmple`.
+| Cascoon evolves from :ref:`wurmple`.

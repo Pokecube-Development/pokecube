@@ -1,4 +1,4 @@
-.. alcremie:
+.. _alcremie:
 
 Alcremie
 ---------
@@ -14,4 +14,4 @@ Alcremie
 Description
 ============
 | Alcremie is a fairy Pokémob.
-| Alcremie evolves from :doc:`milcery`.
+| Alcremie evolves from :ref:`milcery`.

@@ -1,4 +1,4 @@
-.. golbat:
+.. _golbat:
 
 Golbat
 -------
@@ -14,7 +14,7 @@ Golbat
 Description
 ============
 | Golbat is a poison/flying Pokémob.
-| Golbat evolves into :doc:`crobat`:
+| Golbat evolves into :ref:`crobat`:
 |  -  When Happy.
 | 
-| Golbat evolves from :doc:`zubat`.
+| Golbat evolves from :ref:`zubat`.

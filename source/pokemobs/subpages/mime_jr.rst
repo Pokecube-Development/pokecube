@@ -1,4 +1,4 @@
-.. mime_jr:
+.. _mime_jr:
 
 Mime Jr.
 ---------
@@ -14,10 +14,10 @@ Mime Jr.
 Description
 ============
 | Mime Jr. is a psychic/fairy Pokémob.
-| Mime Jr. evolves into :doc:`mr_mime`:
+| Mime Jr. evolves into :ref:`mr_mime`:
 |  -  And knows Mimic.
 | 
-| Mime Jr. evolves into :doc:`mr_mime`:
+| Mime Jr. evolves into :ref:`mr_mime`:
 |  -  And knows Mimic.
 |  -  In [thutcore.biometype.snow].
 | 

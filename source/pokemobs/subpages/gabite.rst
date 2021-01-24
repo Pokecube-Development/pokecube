@@ -1,4 +1,4 @@
-.. gabite:
+.. _gabite:
 
 Gabite
 -------
@@ -14,7 +14,7 @@ Gabite
 Description
 ============
 | Gabite is a dragon/ground Pokémob.
-| Gabite evolves into :doc:`garchomp`:
+| Gabite evolves into :ref:`garchomp`:
 |  -  At Level 48.
 | 
-| Gabite evolves from :doc:`gible`.
+| Gabite evolves from :ref:`gible`.

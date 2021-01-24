@@ -1,4 +1,4 @@
-.. arbok:
+.. _arbok:
 
 Arbok
 ------
@@ -14,4 +14,4 @@ Arbok
 Description
 ============
 | Arbok is a poison Pokémob.
-| Arbok evolves from :doc:`ekans`.
+| Arbok evolves from :ref:`ekans`.

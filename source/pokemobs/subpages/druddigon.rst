@@ -1,4 +1,4 @@
-.. druddigon:
+.. _druddigon:
 
 Druddigon
 ----------

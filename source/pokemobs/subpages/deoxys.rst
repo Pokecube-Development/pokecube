@@ -1,4 +1,4 @@
-.. deoxys:
+.. _deoxys:
 
 Deoxys
 -------

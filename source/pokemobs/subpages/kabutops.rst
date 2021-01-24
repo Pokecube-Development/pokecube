@@ -1,4 +1,4 @@
-.. kabutops:
+.. _kabutops:
 
 Kabutops
 ---------
@@ -14,4 +14,4 @@ Kabutops
 Description
 ============
 | Kabutops is a rock/water Pokémob.
-| Kabutops evolves from :doc:`kabuto`.
+| Kabutops evolves from :ref:`kabuto`.

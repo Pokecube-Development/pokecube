@@ -1,4 +1,4 @@
-.. houndoom:
+.. _houndoom:
 
 Houndoom
 ---------
@@ -14,4 +14,4 @@ Houndoom
 Description
 ============
 | Houndoom is a dark/fire Pokémob.
-| Houndoom evolves from :doc:`houndour`.
+| Houndoom evolves from :ref:`houndour`.

@@ -1,4 +1,4 @@
-.. talonflame:
+.. _talonflame:
 
 Talonflame
 -----------
@@ -14,4 +14,4 @@ Talonflame
 Description
 ============
 | Talonflame is a fire/flying Pokémob.
-| Talonflame evolves from :doc:`fletchinder`.
+| Talonflame evolves from :ref:`fletchinder`.

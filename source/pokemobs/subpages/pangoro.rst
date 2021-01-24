@@ -1,4 +1,4 @@
-.. pangoro:
+.. _pangoro:
 
 Pangoro
 --------
@@ -14,4 +14,4 @@ Pangoro
 Description
 ============
 | Pangoro is a fighting/dark Pokémob.
-| Pangoro evolves from :doc:`pancham`.
+| Pangoro evolves from :ref:`pancham`.

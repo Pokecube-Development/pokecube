@@ -1,4 +1,4 @@
-.. banette:
+.. _banette:
 
 Banette
 --------
@@ -14,4 +14,4 @@ Banette
 Description
 ============
 | Banette is a ghost Pokémob.
-| Banette evolves from :doc:`shuppet`.
+| Banette evolves from :ref:`shuppet`.

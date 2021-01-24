@@ -1,4 +1,4 @@
-.. clauncher:
+.. _clauncher:
 
 Clauncher
 ----------
@@ -14,6 +14,6 @@ Clauncher
 Description
 ============
 | Clauncher is a water Pokémob.
-| Clauncher evolves into :doc:`clawitzer`:
+| Clauncher evolves into :ref:`clawitzer`:
 |  -  At Level 37.
 | 

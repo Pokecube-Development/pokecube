@@ -1,4 +1,4 @@
-.. archen:
+.. _archen:
 
 Archen
 -------
@@ -14,6 +14,6 @@ Archen
 Description
 ============
 | Archen is a rock/flying Pokémob.
-| Archen evolves into :doc:`archeops`:
+| Archen evolves into :ref:`archeops`:
 |  -  At Level 37.
 | 

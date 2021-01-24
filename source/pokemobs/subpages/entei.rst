@@ -1,4 +1,4 @@
-.. entei:
+.. _entei:
 
 Entei
 ------

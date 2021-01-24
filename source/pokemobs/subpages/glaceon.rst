@@ -1,4 +1,4 @@
-.. glaceon:
+.. _glaceon:
 
 Glaceon
 --------
@@ -14,4 +14,4 @@ Glaceon
 Description
 ============
 | Glaceon is a ice Pokémob.
-| Glaceon evolves from :doc:`eevee`.
+| Glaceon evolves from :ref:`eevee`.

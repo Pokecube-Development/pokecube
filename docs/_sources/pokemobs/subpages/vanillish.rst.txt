@@ -1,4 +1,4 @@
-.. vanillish:
+.. _vanillish:
 
 Vanillish
 ----------
@@ -14,7 +14,7 @@ Vanillish
 Description
 ============
 | Vanillish is a ice Pokémob.
-| Vanillish evolves into :doc:`vanilluxe`:
+| Vanillish evolves into :ref:`vanilluxe`:
 |  -  At Level 47.
 | 
-| Vanillish evolves from :doc:`vanillite`.
+| Vanillish evolves from :ref:`vanillite`.

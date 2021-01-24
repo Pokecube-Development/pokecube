@@ -1,4 +1,4 @@
-.. ninetales:
+.. _ninetales:
 
 Ninetales
 ----------
@@ -14,4 +14,4 @@ Ninetales
 Description
 ============
 | Ninetales is a fire Pokémob.
-| Ninetales evolves from :doc:`vulpix`.
+| Ninetales evolves from :ref:`vulpix`.

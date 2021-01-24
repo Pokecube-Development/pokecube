@@ -1,4 +1,4 @@
-.. loudred:
+.. _loudred:
 
 Loudred
 --------
@@ -14,7 +14,7 @@ Loudred
 Description
 ============
 | Loudred is a normal Pokémob.
-| Loudred evolves into :doc:`exploud`:
+| Loudred evolves into :ref:`exploud`:
 |  -  At Level 40.
 | 
-| Loudred evolves from :doc:`whismur`.
+| Loudred evolves from :ref:`whismur`.

@@ -1,4 +1,4 @@
-.. centiskorch:
+.. _centiskorch:
 
 Centiskorch
 ------------
@@ -14,4 +14,4 @@ Centiskorch
 Description
 ============
 | Centiskorch is a fire/bug Pokémob.
-| Centiskorch evolves from :doc:`sizzlipede`.
+| Centiskorch evolves from :ref:`sizzlipede`.

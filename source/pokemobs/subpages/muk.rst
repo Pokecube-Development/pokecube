@@ -1,4 +1,4 @@
-.. muk:
+.. _muk:
 
 Muk
 ----
@@ -14,4 +14,4 @@ Muk
 Description
 ============
 | Muk is a poison Pokémob.
-| Muk evolves from :doc:`grimer`.
+| Muk evolves from :ref:`grimer`.

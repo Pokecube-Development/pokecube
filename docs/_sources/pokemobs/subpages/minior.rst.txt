@@ -1,4 +1,4 @@
-.. minior:
+.. _minior:
 
 Minior
 -------

@@ -1,4 +1,4 @@
-.. cherubi:
+.. _cherubi:
 
 Cherubi
 --------
@@ -14,6 +14,6 @@ Cherubi
 Description
 ============
 | Cherubi is a grass Pokémob.
-| Cherubi evolves into :doc:`cherrim`:
+| Cherubi evolves into :ref:`cherrim`:
 |  -  At Level 25.
 | 

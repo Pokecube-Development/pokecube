@@ -1,4 +1,4 @@
-.. swadloon:
+.. _swadloon:
 
 Swadloon
 ---------
@@ -14,7 +14,7 @@ Swadloon
 Description
 ============
 | Swadloon is a bug/grass Pokémob.
-| Swadloon evolves into :doc:`leavanny`:
+| Swadloon evolves into :ref:`leavanny`:
 |  -  When Happy.
 | 
-| Swadloon evolves from :doc:`sewaddle`.
+| Swadloon evolves from :ref:`sewaddle`.

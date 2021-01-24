@@ -1,4 +1,4 @@
-.. rhydon:
+.. _rhydon:
 
 Rhydon
 -------
@@ -14,8 +14,8 @@ Rhydon
 Description
 ============
 | Rhydon is a ground/rock Pokémob.
-| Rhydon evolves into :doc:`rhyperior`:
+| Rhydon evolves into :ref:`rhyperior`:
 |  -  After being traded.
 |  -  When given a Protector.
 | 
-| Rhydon evolves from :doc:`rhyhorn`.
+| Rhydon evolves from :ref:`rhyhorn`.

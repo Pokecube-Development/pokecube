@@ -1,4 +1,4 @@
-.. vikavolt:
+.. _vikavolt:
 
 Vikavolt
 ---------
@@ -14,4 +14,4 @@ Vikavolt
 Description
 ============
 | Vikavolt is a bug/electric Pokémob.
-| Vikavolt evolves from :doc:`charjabug`.
+| Vikavolt evolves from :ref:`charjabug`.

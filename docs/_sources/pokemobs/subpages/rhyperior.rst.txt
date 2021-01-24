@@ -1,4 +1,4 @@
-.. rhyperior:
+.. _rhyperior:
 
 Rhyperior
 ----------
@@ -14,4 +14,4 @@ Rhyperior
 Description
 ============
 | Rhyperior is a ground/rock Pokémob.
-| Rhyperior evolves from :doc:`rhydon`.
+| Rhyperior evolves from :ref:`rhydon`.

@@ -1,4 +1,4 @@
-.. machoke:
+.. _machoke:
 
 Machoke
 --------
@@ -14,7 +14,7 @@ Machoke
 Description
 ============
 | Machoke is a fighting Pokémob.
-| Machoke evolves into :doc:`machamp`:
+| Machoke evolves into :ref:`machamp`:
 |  -  After being traded.
 | 
-| Machoke evolves from :doc:`machop`.
+| Machoke evolves from :ref:`machop`.

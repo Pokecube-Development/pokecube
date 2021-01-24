@@ -1,4 +1,4 @@
-.. blacephalon:
+.. _blacephalon:
 
 Blacephalon
 ------------

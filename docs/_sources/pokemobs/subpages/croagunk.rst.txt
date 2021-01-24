@@ -1,4 +1,4 @@
-.. croagunk:
+.. _croagunk:
 
 Croagunk
 ---------
@@ -14,6 +14,6 @@ Croagunk
 Description
 ============
 | Croagunk is a poison/fighting Pokémob.
-| Croagunk evolves into :doc:`toxicroak`:
+| Croagunk evolves into :ref:`toxicroak`:
 |  -  At Level 37.
 | 

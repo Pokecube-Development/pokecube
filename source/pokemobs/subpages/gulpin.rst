@@ -1,4 +1,4 @@
-.. gulpin:
+.. _gulpin:
 
 Gulpin
 -------
@@ -14,6 +14,6 @@ Gulpin
 Description
 ============
 | Gulpin is a poison Pokémob.
-| Gulpin evolves into :doc:`swalot`:
+| Gulpin evolves into :ref:`swalot`:
 |  -  At Level 26.
 | 

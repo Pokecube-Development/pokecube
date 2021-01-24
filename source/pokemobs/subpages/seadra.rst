@@ -1,4 +1,4 @@
-.. seadra:
+.. _seadra:
 
 Seadra
 -------
@@ -14,8 +14,8 @@ Seadra
 Description
 ============
 | Seadra is a water Pokémob.
-| Seadra evolves into :doc:`kingdra`:
+| Seadra evolves into :ref:`kingdra`:
 |  -  After being traded.
 |  -  When given a Emerald.
 | 
-| Seadra evolves from :doc:`horsea`.
+| Seadra evolves from :ref:`horsea`.

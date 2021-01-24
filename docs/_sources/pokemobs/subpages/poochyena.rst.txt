@@ -1,4 +1,4 @@
-.. poochyena:
+.. _poochyena:
 
 Poochyena
 ----------
@@ -14,6 +14,6 @@ Poochyena
 Description
 ============
 | Poochyena is a dark Pokémob.
-| Poochyena evolves into :doc:`mightyena`:
+| Poochyena evolves into :ref:`mightyena`:
 |  -  At Level 18.
 | 

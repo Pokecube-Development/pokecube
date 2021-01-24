@@ -1,4 +1,4 @@
-.. misdreavus:
+.. _misdreavus:
 
 Misdreavus
 -----------
@@ -14,6 +14,6 @@ Misdreavus
 Description
 ============
 | Misdreavus is a ghost Pokémob.
-| Misdreavus evolves into :doc:`mismagius`:
+| Misdreavus evolves into :ref:`mismagius`:
 |  -  When given a Dusk Stone.
 | 

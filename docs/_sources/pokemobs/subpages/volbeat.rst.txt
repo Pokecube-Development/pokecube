@@ -1,4 +1,4 @@
-.. volbeat:
+.. _volbeat:
 
 Volbeat
 --------

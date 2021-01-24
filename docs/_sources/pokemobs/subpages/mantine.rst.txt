@@ -1,4 +1,4 @@
-.. mantine:
+.. _mantine:
 
 Mantine
 --------
@@ -14,4 +14,4 @@ Mantine
 Description
 ============
 | Mantine is a water/flying Pokémob.
-| Mantine evolves from :doc:`mantyke`.
+| Mantine evolves from :ref:`mantyke`.

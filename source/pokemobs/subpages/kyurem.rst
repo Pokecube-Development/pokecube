@@ -1,4 +1,4 @@
-.. kyurem:
+.. _kyurem:
 
 Kyurem
 -------

@@ -1,4 +1,4 @@
-.. cranidos:
+.. _cranidos:
 
 Cranidos
 ---------
@@ -14,6 +14,6 @@ Cranidos
 Description
 ============
 | Cranidos is a rock Pokémob.
-| Cranidos evolves into :doc:`rampardos`:
+| Cranidos evolves into :ref:`rampardos`:
 |  -  At Level 30.
 | 

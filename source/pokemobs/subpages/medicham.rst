@@ -1,4 +1,4 @@
-.. medicham:
+.. _medicham:
 
 Medicham
 ---------
@@ -14,4 +14,4 @@ Medicham
 Description
 ============
 | Medicham is a fighting/psychic Pokémob.
-| Medicham evolves from :doc:`meditite`.
+| Medicham evolves from :ref:`meditite`.

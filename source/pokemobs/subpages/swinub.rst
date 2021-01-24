@@ -1,4 +1,4 @@
-.. swinub:
+.. _swinub:
 
 Swinub
 -------
@@ -14,6 +14,6 @@ Swinub
 Description
 ============
 | Swinub is a ice/ground Pokémob.
-| Swinub evolves into :doc:`piloswine`:
+| Swinub evolves into :ref:`piloswine`:
 |  -  At Level 33.
 | 

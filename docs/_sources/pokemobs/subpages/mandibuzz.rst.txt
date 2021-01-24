@@ -1,4 +1,4 @@
-.. mandibuzz:
+.. _mandibuzz:
 
 Mandibuzz
 ----------
@@ -14,4 +14,4 @@ Mandibuzz
 Description
 ============
 | Mandibuzz is a dark/flying Pokémob.
-| Mandibuzz evolves from :doc:`vullaby`.
+| Mandibuzz evolves from :ref:`vullaby`.

@@ -1,4 +1,4 @@
-.. taillow:
+.. _taillow:
 
 Taillow
 --------
@@ -14,6 +14,6 @@ Taillow
 Description
 ============
 | Taillow is a normal/flying Pokémob.
-| Taillow evolves into :doc:`swellow`:
+| Taillow evolves into :ref:`swellow`:
 |  -  At Level 22.
 | 

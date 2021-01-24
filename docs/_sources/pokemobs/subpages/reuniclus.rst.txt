@@ -1,4 +1,4 @@
-.. reuniclus:
+.. _reuniclus:
 
 Reuniclus
 ----------
@@ -14,4 +14,4 @@ Reuniclus
 Description
 ============
 | Reuniclus is a psychic Pokémob.
-| Reuniclus evolves from :doc:`duosion`.
+| Reuniclus evolves from :ref:`duosion`.

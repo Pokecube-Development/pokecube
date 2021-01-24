@@ -1,4 +1,4 @@
-.. gothitelle:
+.. _gothitelle:
 
 Gothitelle
 -----------
@@ -14,4 +14,4 @@ Gothitelle
 Description
 ============
 | Gothitelle is a psychic Pokémob.
-| Gothitelle evolves from :doc:`gothorita`.
+| Gothitelle evolves from :ref:`gothorita`.

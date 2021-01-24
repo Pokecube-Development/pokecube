@@ -1,4 +1,4 @@
-.. golem:
+.. _golem:
 
 Golem
 ------
@@ -14,4 +14,4 @@ Golem
 Description
 ============
 | Golem is a rock/ground Pokémob.
-| Golem evolves from :doc:`graveler`.
+| Golem evolves from :ref:`graveler`.

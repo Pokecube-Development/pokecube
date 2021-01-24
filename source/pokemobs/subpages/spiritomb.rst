@@ -1,4 +1,4 @@
-.. spiritomb:
+.. _spiritomb:
 
 Spiritomb
 ----------

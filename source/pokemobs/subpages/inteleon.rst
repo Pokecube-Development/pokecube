@@ -1,4 +1,4 @@
-.. inteleon:
+.. _inteleon:
 
 Inteleon
 ---------
@@ -14,4 +14,4 @@ Inteleon
 Description
 ============
 | Inteleon is a water Pokémob.
-| Inteleon evolves from :doc:`drizzile`.
+| Inteleon evolves from :ref:`drizzile`.

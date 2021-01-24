@@ -1,4 +1,4 @@
-.. machamp:
+.. _machamp:
 
 Machamp
 --------
@@ -14,4 +14,4 @@ Machamp
 Description
 ============
 | Machamp is a fighting Pokémob.
-| Machamp evolves from :doc:`machoke`.
+| Machamp evolves from :ref:`machoke`.

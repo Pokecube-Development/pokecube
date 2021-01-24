@@ -1,4 +1,4 @@
-.. persian:
+.. _persian:
 
 Persian
 --------
@@ -14,4 +14,4 @@ Persian
 Description
 ============
 | Persian is a normal Pokémob.
-| Persian evolves from :doc:`meowth`.
+| Persian evolves from :ref:`meowth`.

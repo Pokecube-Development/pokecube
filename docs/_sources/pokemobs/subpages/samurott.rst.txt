@@ -1,4 +1,4 @@
-.. samurott:
+.. _samurott:
 
 Samurott
 ---------
@@ -14,4 +14,4 @@ Samurott
 Description
 ============
 | Samurott is a water Pokémob.
-| Samurott evolves from :doc:`dewott`.
+| Samurott evolves from :ref:`dewott`.

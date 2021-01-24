@@ -1,4 +1,4 @@
-.. growlithe:
+.. _growlithe:
 
 Growlithe
 ----------
@@ -14,6 +14,6 @@ Growlithe
 Description
 ============
 | Growlithe is a fire Pokémob.
-| Growlithe evolves into :doc:`arcanine`:
+| Growlithe evolves into :ref:`arcanine`:
 |  -  When given a Fire Stone.
 | 

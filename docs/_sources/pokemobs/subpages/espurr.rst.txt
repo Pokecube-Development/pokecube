@@ -1,4 +1,4 @@
-.. espurr:
+.. _espurr:
 
 Espurr
 -------
@@ -14,6 +14,6 @@ Espurr
 Description
 ============
 | Espurr is a psychic Pokémob.
-| Espurr evolves into :doc:`meowstic`:
+| Espurr evolves into :ref:`meowstic`:
 |  -  At Level 25.
 | 

@@ -1,4 +1,4 @@
-.. maractus:
+.. _maractus:
 
 Maractus
 ---------

@@ -1,4 +1,4 @@
-.. munna:
+.. _munna:
 
 Munna
 ------
@@ -14,6 +14,6 @@ Munna
 Description
 ============
 | Munna is a psychic Pokémob.
-| Munna evolves into :doc:`musharna`:
+| Munna evolves into :ref:`musharna`:
 |  -  When given a Moon Stone.
 | 

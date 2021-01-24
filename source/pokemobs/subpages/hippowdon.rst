@@ -1,4 +1,4 @@
-.. hippowdon:
+.. _hippowdon:
 
 Hippowdon
 ----------
@@ -14,4 +14,4 @@ Hippowdon
 Description
 ============
 | Hippowdon is a ground Pokémob.
-| Hippowdon evolves from :doc:`hippopotas`.
+| Hippowdon evolves from :ref:`hippopotas`.

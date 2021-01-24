@@ -1,4 +1,4 @@
-.. crobat:
+.. _crobat:
 
 Crobat
 -------
@@ -14,4 +14,4 @@ Crobat
 Description
 ============
 | Crobat is a poison/flying Pokémob.
-| Crobat evolves from :doc:`golbat`.
+| Crobat evolves from :ref:`golbat`.

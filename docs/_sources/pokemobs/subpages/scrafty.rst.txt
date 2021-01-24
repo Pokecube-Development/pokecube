@@ -1,4 +1,4 @@
-.. scrafty:
+.. _scrafty:
 
 Scrafty
 --------
@@ -14,4 +14,4 @@ Scrafty
 Description
 ============
 | Scrafty is a dark/fighting Pokémob.
-| Scrafty evolves from :doc:`scraggy`.
+| Scrafty evolves from :ref:`scraggy`.

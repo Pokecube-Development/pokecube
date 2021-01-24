@@ -1,4 +1,4 @@
-.. swoobat:
+.. _swoobat:
 
 Swoobat
 --------
@@ -14,4 +14,4 @@ Swoobat
 Description
 ============
 | Swoobat is a psychic/flying Pokémob.
-| Swoobat evolves from :doc:`woobat`.
+| Swoobat evolves from :ref:`woobat`.

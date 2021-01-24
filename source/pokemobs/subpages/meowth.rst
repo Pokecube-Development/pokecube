@@ -1,4 +1,4 @@
-.. meowth:
+.. _meowth:
 
 Meowth
 -------
@@ -14,6 +14,6 @@ Meowth
 Description
 ============
 | Meowth is a normal Pokémob.
-| Meowth evolves into :doc:`persian`:
+| Meowth evolves into :ref:`persian`:
 |  -  At Level 28.
 | 

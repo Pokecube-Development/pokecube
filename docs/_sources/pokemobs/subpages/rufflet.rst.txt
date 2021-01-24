@@ -1,4 +1,4 @@
-.. rufflet:
+.. _rufflet:
 
 Rufflet
 --------
@@ -14,6 +14,6 @@ Rufflet
 Description
 ============
 | Rufflet is a normal/flying Pokémob.
-| Rufflet evolves into :doc:`braviary`:
+| Rufflet evolves into :ref:`braviary`:
 |  -  At Level 54.
 | 

@@ -1,4 +1,4 @@
-.. swirlix:
+.. _swirlix:
 
 Swirlix
 --------
@@ -14,6 +14,6 @@ Swirlix
 Description
 ============
 | Swirlix is a fairy Pokémob.
-| Swirlix evolves into :doc:`slurpuff`:
+| Swirlix evolves into :ref:`slurpuff`:
 |  -  After being traded.
 | 

@@ -1,4 +1,4 @@
-.. pidgey:
+.. _pidgey:
 
 Pidgey
 -------
@@ -14,6 +14,6 @@ Pidgey
 Description
 ============
 | Pidgey is a normal/flying Pokémob.
-| Pidgey evolves into :doc:`pidgeotto`:
+| Pidgey evolves into :ref:`pidgeotto`:
 |  -  At Level 18.
 | 

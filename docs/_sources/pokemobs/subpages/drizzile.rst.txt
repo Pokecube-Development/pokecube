@@ -1,4 +1,4 @@
-.. drizzile:
+.. _drizzile:
 
 Drizzile
 ---------
@@ -14,7 +14,7 @@ Drizzile
 Description
 ============
 | Drizzile is a water Pokémob.
-| Drizzile evolves into :doc:`inteleon`:
+| Drizzile evolves into :ref:`inteleon`:
 |  -  At Level 35.
 | 
-| Drizzile evolves from :doc:`sobble`.
+| Drizzile evolves from :ref:`sobble`.

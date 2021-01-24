@@ -1,4 +1,4 @@
-.. sunflora:
+.. _sunflora:
 
 Sunflora
 ---------
@@ -14,4 +14,4 @@ Sunflora
 Description
 ============
 | Sunflora is a grass Pokémob.
-| Sunflora evolves from :doc:`sunkern`.
+| Sunflora evolves from :ref:`sunkern`.

@@ -1,4 +1,4 @@
-.. stonjourner:
+.. _stonjourner:
 
 Stonjourner
 ------------

@@ -1,4 +1,4 @@
-.. lileep:
+.. _lileep:
 
 Lileep
 -------
@@ -14,6 +14,6 @@ Lileep
 Description
 ============
 | Lileep is a rock/grass Pokémob.
-| Lileep evolves into :doc:`cradily`:
+| Lileep evolves into :ref:`cradily`:
 |  -  At Level 40.
 | 

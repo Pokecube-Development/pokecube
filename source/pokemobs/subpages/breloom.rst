@@ -1,4 +1,4 @@
-.. breloom:
+.. _breloom:
 
 Breloom
 --------
@@ -14,4 +14,4 @@ Breloom
 Description
 ============
 | Breloom is a grass/fighting Pokémob.
-| Breloom evolves from :doc:`shroomish`.
+| Breloom evolves from :ref:`shroomish`.

@@ -1,4 +1,4 @@
-.. braviary:
+.. _braviary:
 
 Braviary
 ---------
@@ -14,4 +14,4 @@ Braviary
 Description
 ============
 | Braviary is a normal/flying Pokémob.
-| Braviary evolves from :doc:`rufflet`.
+| Braviary evolves from :ref:`rufflet`.

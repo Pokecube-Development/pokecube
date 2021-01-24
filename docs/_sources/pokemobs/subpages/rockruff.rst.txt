@@ -1,4 +1,4 @@
-.. rockruff:
+.. _rockruff:
 
 Rockruff
 ---------
@@ -14,15 +14,15 @@ Rockruff
 Description
 ============
 | Rockruff is a rock Pokémob.
-| Rockruff evolves into :doc:`lycanroc`:
+| Rockruff evolves into :ref:`lycanroc`:
 |  -  At Level 25.
 |  -  During the day.
 | 
-| Rockruff evolves into :doc:`lycanroc`:
+| Rockruff evolves into :ref:`lycanroc`:
 |  -  At Level 25.
 |  -  During Night.
 | 
-| Rockruff evolves into :doc:`lycanroc`:
+| Rockruff evolves into :ref:`lycanroc`:
 |  -  At Level 25.
 |  -  At Dusk.
 | 

@@ -1,4 +1,4 @@
-.. hippopotas:
+.. _hippopotas:
 
 Hippopotas
 -----------
@@ -14,6 +14,6 @@ Hippopotas
 Description
 ============
 | Hippopotas is a ground Pokémob.
-| Hippopotas evolves into :doc:`hippowdon`:
+| Hippopotas evolves into :ref:`hippowdon`:
 |  -  At Level 34.
 | 

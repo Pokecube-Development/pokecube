@@ -1,4 +1,4 @@
-.. avalugg:
+.. _avalugg:
 
 Avalugg
 --------
@@ -14,4 +14,4 @@ Avalugg
 Description
 ============
 | Avalugg is a ice Pokémob.
-| Avalugg evolves from :doc:`bergmite`.
+| Avalugg evolves from :ref:`bergmite`.

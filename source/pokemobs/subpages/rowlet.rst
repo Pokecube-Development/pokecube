@@ -1,4 +1,4 @@
-.. rowlet:
+.. _rowlet:
 
 Rowlet
 -------
@@ -14,6 +14,6 @@ Rowlet
 Description
 ============
 | Rowlet is a grass/flying Pokémob.
-| Rowlet evolves into :doc:`dartrix`:
+| Rowlet evolves into :ref:`dartrix`:
 |  -  At Level 17.
 | 

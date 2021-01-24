@@ -1,4 +1,4 @@
-.. escavalier:
+.. _escavalier:
 
 Escavalier
 -----------
@@ -14,4 +14,4 @@ Escavalier
 Description
 ============
 | Escavalier is a bug/steel Pokémob.
-| Escavalier evolves from :doc:`karrablast`.
+| Escavalier evolves from :ref:`karrablast`.

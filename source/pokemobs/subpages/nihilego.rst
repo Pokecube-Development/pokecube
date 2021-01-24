@@ -1,4 +1,4 @@
-.. nihilego:
+.. _nihilego:
 
 Nihilego
 ---------

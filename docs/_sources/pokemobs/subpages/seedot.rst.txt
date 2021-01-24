@@ -1,4 +1,4 @@
-.. seedot:
+.. _seedot:
 
 Seedot
 -------
@@ -14,6 +14,6 @@ Seedot
 Description
 ============
 | Seedot is a grass Pokémob.
-| Seedot evolves into :doc:`nuzleaf`:
+| Seedot evolves into :ref:`nuzleaf`:
 |  -  At Level 14.
 | 

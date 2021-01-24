@@ -1,4 +1,4 @@
-.. delibird:
+.. _delibird:
 
 Delibird
 ---------

@@ -1,4 +1,4 @@
-.. thundurus_incarnate:
+.. _thundurus_incarnate:
 
 Thundurus
 ----------

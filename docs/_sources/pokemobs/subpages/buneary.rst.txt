@@ -1,4 +1,4 @@
-.. buneary:
+.. _buneary:
 
 Buneary
 --------
@@ -14,6 +14,6 @@ Buneary
 Description
 ============
 | Buneary is a normal Pokémob.
-| Buneary evolves into :doc:`lopunny`:
+| Buneary evolves into :ref:`lopunny`:
 |  -  When Happy.
 | 

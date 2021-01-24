@@ -1,4 +1,4 @@
-.. kirlia:
+.. _kirlia:
 
 Kirlia
 -------
@@ -14,11 +14,11 @@ Kirlia
 Description
 ============
 | Kirlia is a psychic/fairy Pokémob.
-| Kirlia evolves into :doc:`gardevoir`:
+| Kirlia evolves into :ref:`gardevoir`:
 |  -  At Level 30.
 | 
-| Kirlia evolves into :doc:`gallade`:
+| Kirlia evolves into :ref:`gallade`:
 |  -  When male.
 |  -  When given a Dawn Stone.
 | 
-| Kirlia evolves from :doc:`ralts`.
+| Kirlia evolves from :ref:`ralts`.

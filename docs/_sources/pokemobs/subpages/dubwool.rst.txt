@@ -1,4 +1,4 @@
-.. dubwool:
+.. _dubwool:
 
 Dubwool
 --------
@@ -14,4 +14,4 @@ Dubwool
 Description
 ============
 | Dubwool is a normal Pokémob.
-| Dubwool evolves from :doc:`wooloo`.
+| Dubwool evolves from :ref:`wooloo`.

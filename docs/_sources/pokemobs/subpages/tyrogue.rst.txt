@@ -1,4 +1,4 @@
-.. tyrogue:
+.. _tyrogue:
 
 Tyrogue
 --------
@@ -14,12 +14,12 @@ Tyrogue
 Description
 ============
 | Tyrogue is a fighting Pokémob.
-| Tyrogue evolves into :doc:`hitmonlee`:
+| Tyrogue evolves into :ref:`hitmonlee`:
 |  -  At Level 20.
 | 
-| Tyrogue evolves into :doc:`hitmonchan`:
+| Tyrogue evolves into :ref:`hitmonchan`:
 |  -  At Level 20.
 | 
-| Tyrogue evolves into :doc:`hitmontop`:
+| Tyrogue evolves into :ref:`hitmontop`:
 |  -  At Level 20.
 | 

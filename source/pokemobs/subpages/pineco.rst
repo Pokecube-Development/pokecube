@@ -1,4 +1,4 @@
-.. pineco:
+.. _pineco:
 
 Pineco
 -------
@@ -14,6 +14,6 @@ Pineco
 Description
 ============
 | Pineco is a bug Pokémob.
-| Pineco evolves into :doc:`forretress`:
+| Pineco evolves into :ref:`forretress`:
 |  -  At Level 31.
 | 

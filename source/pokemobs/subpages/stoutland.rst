@@ -1,4 +1,4 @@
-.. stoutland:
+.. _stoutland:
 
 Stoutland
 ----------
@@ -14,4 +14,4 @@ Stoutland
 Description
 ============
 | Stoutland is a normal Pokémob.
-| Stoutland evolves from :doc:`herdier`.
+| Stoutland evolves from :ref:`herdier`.

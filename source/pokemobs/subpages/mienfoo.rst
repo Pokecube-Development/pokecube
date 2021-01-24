@@ -1,4 +1,4 @@
-.. mienfoo:
+.. _mienfoo:
 
 Mienfoo
 --------
@@ -14,6 +14,6 @@ Mienfoo
 Description
 ============
 | Mienfoo is a fighting Pokémob.
-| Mienfoo evolves into :doc:`mienshao`:
+| Mienfoo evolves into :ref:`mienshao`:
 |  -  At Level 50.
 | 

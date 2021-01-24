@@ -1,4 +1,4 @@
-.. hypno:
+.. _hypno:
 
 Hypno
 ------
@@ -14,4 +14,4 @@ Hypno
 Description
 ============
 | Hypno is a psychic Pokémob.
-| Hypno evolves from :doc:`drowzee`.
+| Hypno evolves from :ref:`drowzee`.

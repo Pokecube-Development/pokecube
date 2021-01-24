@@ -1,4 +1,4 @@
-.. sableye:
+.. _sableye:
 
 Sableye
 --------

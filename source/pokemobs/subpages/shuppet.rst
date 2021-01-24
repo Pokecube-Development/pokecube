@@ -1,4 +1,4 @@
-.. shuppet:
+.. _shuppet:
 
 Shuppet
 --------
@@ -14,6 +14,6 @@ Shuppet
 Description
 ============
 | Shuppet is a ghost Pokémob.
-| Shuppet evolves into :doc:`banette`:
+| Shuppet evolves into :ref:`banette`:
 |  -  At Level 37.
 | 

@@ -1,4 +1,4 @@
-.. squirtle:
+.. _squirtle:
 
 Squirtle
 ---------
@@ -14,6 +14,6 @@ Squirtle
 Description
 ============
 | Squirtle is a water Pokémob.
-| Squirtle evolves into :doc:`wartortle`:
+| Squirtle evolves into :ref:`wartortle`:
 |  -  At Level 16.
 | 

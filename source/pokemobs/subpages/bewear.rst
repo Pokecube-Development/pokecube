@@ -1,4 +1,4 @@
-.. bewear:
+.. _bewear:
 
 Bewear
 -------
@@ -14,4 +14,4 @@ Bewear
 Description
 ============
 | Bewear is a normal/fighting Pokémob.
-| Bewear evolves from :doc:`stufful`.
+| Bewear evolves from :ref:`stufful`.

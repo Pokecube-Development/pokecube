@@ -1,4 +1,4 @@
-.. inkay:
+.. _inkay:
 
 Inkay
 ------
@@ -14,6 +14,6 @@ Inkay
 Description
 ============
 | Inkay is a dark/psychic Pokémob.
-| Inkay evolves into :doc:`malamar`:
+| Inkay evolves into :ref:`malamar`:
 |  -  At Level 30.
 | 

@@ -1,4 +1,4 @@
-.. dugtrio:
+.. _dugtrio:
 
 Dugtrio
 --------
@@ -14,4 +14,4 @@ Dugtrio
 Description
 ============
 | Dugtrio is a ground Pokémob.
-| Dugtrio evolves from :doc:`diglett`.
+| Dugtrio evolves from :ref:`diglett`.

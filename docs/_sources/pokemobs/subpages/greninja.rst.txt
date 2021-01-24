@@ -1,4 +1,4 @@
-.. greninja:
+.. _greninja:
 
 Greninja
 ---------
@@ -14,4 +14,4 @@ Greninja
 Description
 ============
 | Greninja is a water/dark Pokémob.
-| Greninja evolves from :doc:`frogadier`.
+| Greninja evolves from :ref:`frogadier`.

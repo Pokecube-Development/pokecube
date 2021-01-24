@@ -1,4 +1,4 @@
-.. bronzong:
+.. _bronzong:
 
 Bronzong
 ---------
@@ -14,4 +14,4 @@ Bronzong
 Description
 ============
 | Bronzong is a steel/psychic Pokémob.
-| Bronzong evolves from :doc:`bronzor`.
+| Bronzong evolves from :ref:`bronzor`.

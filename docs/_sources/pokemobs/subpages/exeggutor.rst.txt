@@ -1,4 +1,4 @@
-.. exeggutor:
+.. _exeggutor:
 
 Exeggutor
 ----------
@@ -14,4 +14,4 @@ Exeggutor
 Description
 ============
 | Exeggutor is a grass/psychic Pokémob.
-| Exeggutor evolves from :doc:`exeggcute`.
+| Exeggutor evolves from :ref:`exeggcute`.

@@ -1,4 +1,4 @@
-.. bisharp:
+.. _bisharp:
 
 Bisharp
 --------
@@ -14,4 +14,4 @@ Bisharp
 Description
 ============
 | Bisharp is a dark/steel Pokémob.
-| Bisharp evolves from :doc:`pawniard`.
+| Bisharp evolves from :ref:`pawniard`.

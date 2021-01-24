@@ -1,4 +1,4 @@
-.. chesnaught:
+.. _chesnaught:
 
 Chesnaught
 -----------
@@ -14,4 +14,4 @@ Chesnaught
 Description
 ============
 | Chesnaught is a grass/fighting Pokémob.
-| Chesnaught evolves from :doc:`quilladin`.
+| Chesnaught evolves from :ref:`quilladin`.

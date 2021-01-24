@@ -1,4 +1,4 @@
-.. pignite:
+.. _pignite:
 
 Pignite
 --------
@@ -14,7 +14,7 @@ Pignite
 Description
 ============
 | Pignite is a fire/fighting Pokémob.
-| Pignite evolves into :doc:`emboar`:
+| Pignite evolves into :ref:`emboar`:
 |  -  At Level 36.
 | 
-| Pignite evolves from :doc:`tepig`.
+| Pignite evolves from :ref:`tepig`.

@@ -1,4 +1,4 @@
-.. gogoat:
+.. _gogoat:
 
 Gogoat
 -------
@@ -14,4 +14,4 @@ Gogoat
 Description
 ============
 | Gogoat is a grass Pokémob.
-| Gogoat evolves from :doc:`skiddo`.
+| Gogoat evolves from :ref:`skiddo`.

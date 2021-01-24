@@ -1,4 +1,4 @@
-.. aerodactyl:
+.. _aerodactyl:
 
 Aerodactyl
 -----------

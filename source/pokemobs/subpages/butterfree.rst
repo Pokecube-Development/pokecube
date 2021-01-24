@@ -1,4 +1,4 @@
-.. butterfree:
+.. _butterfree:
 
 Butterfree
 -----------
@@ -14,4 +14,4 @@ Butterfree
 Description
 ============
 | Butterfree is a bug/flying Pokémob.
-| Butterfree evolves from :doc:`metapod`.
+| Butterfree evolves from :ref:`metapod`.

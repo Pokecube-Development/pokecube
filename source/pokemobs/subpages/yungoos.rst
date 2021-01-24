@@ -1,4 +1,4 @@
-.. yungoos:
+.. _yungoos:
 
 Yungoos
 --------
@@ -14,7 +14,7 @@ Yungoos
 Description
 ============
 | Yungoos is a normal Pokémob.
-| Yungoos evolves into :doc:`gumshoos`:
+| Yungoos evolves into :ref:`gumshoos`:
 |  -  At Level 20.
 |  -  During the day.
 | 

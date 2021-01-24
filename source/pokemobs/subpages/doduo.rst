@@ -1,4 +1,4 @@
-.. doduo:
+.. _doduo:
 
 Doduo
 ------
@@ -14,6 +14,6 @@ Doduo
 Description
 ============
 | Doduo is a normal/flying Pokémob.
-| Doduo evolves into :doc:`dodrio`:
+| Doduo evolves into :ref:`dodrio`:
 |  -  At Level 31.
 | 

@@ -1,4 +1,4 @@
-.. charizard:
+.. _charizard:
 
 Charizard
 ----------
@@ -14,4 +14,4 @@ Charizard
 Description
 ============
 | Charizard is a fire/flying Pokémob.
-| Charizard evolves from :doc:`charmeleon`.
+| Charizard evolves from :ref:`charmeleon`.

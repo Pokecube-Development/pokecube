@@ -1,4 +1,4 @@
-.. haxorus:
+.. _haxorus:
 
 Haxorus
 --------
@@ -14,4 +14,4 @@ Haxorus
 Description
 ============
 | Haxorus is a dragon Pokémob.
-| Haxorus evolves from :doc:`fraxure`.
+| Haxorus evolves from :ref:`fraxure`.

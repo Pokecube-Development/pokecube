@@ -1,4 +1,4 @@
-.. frosmoth:
+.. _frosmoth:
 
 Frosmoth
 ---------
@@ -14,4 +14,4 @@ Frosmoth
 Description
 ============
 | Frosmoth is a ice/bug Pokémob.
-| Frosmoth evolves from :doc:`snom`.
+| Frosmoth evolves from :ref:`snom`.

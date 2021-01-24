@@ -1,4 +1,4 @@
-.. heatran:
+.. _heatran:
 
 Heatran
 --------

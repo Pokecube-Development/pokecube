@@ -1,4 +1,4 @@
-.. magneton:
+.. _magneton:
 
 Magneton
 ---------
@@ -14,7 +14,7 @@ Magneton
 Description
 ============
 | Magneton is a electric/steel Pokémob.
-| Magneton evolves into :doc:`magnezone`:
+| Magneton evolves into :ref:`magnezone`:
 |  -  In [Cave].
 | 
-| Magneton evolves from :doc:`magnemite`.
+| Magneton evolves from :ref:`magnemite`.

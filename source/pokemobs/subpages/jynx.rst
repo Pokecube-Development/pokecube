@@ -1,4 +1,4 @@
-.. jynx:
+.. _jynx:
 
 Jynx
 -----
@@ -14,4 +14,4 @@ Jynx
 Description
 ============
 | Jynx is a ice/psychic Pokémob.
-| Jynx evolves from :doc:`smoochum`.
+| Jynx evolves from :ref:`smoochum`.

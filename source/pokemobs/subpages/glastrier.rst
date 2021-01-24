@@ -1,4 +1,4 @@
-.. glastrier:
+.. _glastrier:
 
 Glastrier
 ----------

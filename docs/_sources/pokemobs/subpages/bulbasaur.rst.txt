@@ -1,4 +1,4 @@
-.. bulbasaur:
+.. _bulbasaur:
 
 Bulbasaur
 ----------
@@ -14,6 +14,6 @@ Bulbasaur
 Description
 ============
 | Bulbasaur is a grass/poison Pokémob.
-| Bulbasaur evolves into :doc:`ivysaur`:
+| Bulbasaur evolves into :ref:`ivysaur`:
 |  -  At Level 16.
 | 

@@ -1,4 +1,4 @@
-.. applin:
+.. _applin:
 
 Applin
 -------
@@ -14,9 +14,9 @@ Applin
 Description
 ============
 | Applin is a grass/dragon Pokémob.
-| Applin evolves into :doc:`flapple`:
+| Applin evolves into :ref:`flapple`:
 |  -  When given a Apple.
 | 
-| Applin evolves into :doc:`appletun`:
+| Applin evolves into :ref:`appletun`:
 |  -  When given a Golden Apple.
 | 

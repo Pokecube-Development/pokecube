@@ -1,4 +1,4 @@
-.. shieldon:
+.. _shieldon:
 
 Shieldon
 ---------
@@ -14,6 +14,6 @@ Shieldon
 Description
 ============
 | Shieldon is a rock/steel Pokémob.
-| Shieldon evolves into :doc:`bastiodon`:
+| Shieldon evolves into :ref:`bastiodon`:
 |  -  At Level 30.
 | 

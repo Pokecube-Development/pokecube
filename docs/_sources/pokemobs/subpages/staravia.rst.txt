@@ -1,4 +1,4 @@
-.. staravia:
+.. _staravia:
 
 Staravia
 ---------
@@ -14,7 +14,7 @@ Staravia
 Description
 ============
 | Staravia is a normal/flying Pokémob.
-| Staravia evolves into :doc:`staraptor`:
+| Staravia evolves into :ref:`staraptor`:
 |  -  At Level 34.
 | 
-| Staravia evolves from :doc:`starly`.
+| Staravia evolves from :ref:`starly`.

@@ -1,4 +1,4 @@
-.. wimpod:
+.. _wimpod:
 
 Wimpod
 -------
@@ -14,6 +14,6 @@ Wimpod
 Description
 ============
 | Wimpod is a bug/water Pokémob.
-| Wimpod evolves into :doc:`golisopod`:
+| Wimpod evolves into :ref:`golisopod`:
 |  -  At Level 30.
 | 

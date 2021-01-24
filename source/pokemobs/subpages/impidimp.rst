@@ -1,4 +1,4 @@
-.. impidimp:
+.. _impidimp:
 
 Impidimp
 ---------
@@ -14,6 +14,6 @@ Impidimp
 Description
 ============
 | Impidimp is a dark/fairy Pokémob.
-| Impidimp evolves into :doc:`morgrem`:
+| Impidimp evolves into :ref:`morgrem`:
 |  -  At Level 32.
 | 

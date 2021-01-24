@@ -1,4 +1,4 @@
-.. darmanitan:
+.. _darmanitan:
 
 Darmanitan
 -----------
@@ -14,4 +14,4 @@ Darmanitan
 Description
 ============
 | Darmanitan is a fire/psychic Pokémob.
-| Darmanitan evolves from :doc:`darumaka`.
+| Darmanitan evolves from :ref:`darumaka`.

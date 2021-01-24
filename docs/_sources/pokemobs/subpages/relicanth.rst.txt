@@ -1,4 +1,4 @@
-.. relicanth:
+.. _relicanth:
 
 Relicanth
 ----------

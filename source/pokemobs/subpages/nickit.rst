@@ -1,4 +1,4 @@
-.. nickit:
+.. _nickit:
 
 Nickit
 -------
@@ -14,6 +14,6 @@ Nickit
 Description
 ============
 | Nickit is a dark Pokémob.
-| Nickit evolves into :doc:`thievul`:
+| Nickit evolves into :ref:`thievul`:
 |  -  At Level 18.
 | 

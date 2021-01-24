@@ -1,4 +1,4 @@
-.. buzzwole:
+.. _buzzwole:
 
 Buzzwole
 ---------

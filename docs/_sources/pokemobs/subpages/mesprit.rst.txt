@@ -1,4 +1,4 @@
-.. mesprit:
+.. _mesprit:
 
 Mesprit
 --------

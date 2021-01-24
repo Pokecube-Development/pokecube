@@ -1,4 +1,4 @@
-.. mudbray:
+.. _mudbray:
 
 Mudbray
 --------
@@ -14,6 +14,6 @@ Mudbray
 Description
 ============
 | Mudbray is a ground Pokémob.
-| Mudbray evolves into :doc:`mudsdale`:
+| Mudbray evolves into :ref:`mudsdale`:
 |  -  At Level 30.
 | 

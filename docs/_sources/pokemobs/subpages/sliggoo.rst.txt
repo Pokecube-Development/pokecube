@@ -1,4 +1,4 @@
-.. sliggoo:
+.. _sliggoo:
 
 Sliggoo
 --------
@@ -14,7 +14,7 @@ Sliggoo
 Description
 ============
 | Sliggoo is a dragon Pokémob.
-| Sliggoo evolves into :doc:`goodra`:
+| Sliggoo evolves into :ref:`goodra`:
 |  -  At Level 50.
 | 
-| Sliggoo evolves from :doc:`goomy`.
+| Sliggoo evolves from :ref:`goomy`.

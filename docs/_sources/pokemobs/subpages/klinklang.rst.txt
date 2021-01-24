@@ -1,4 +1,4 @@
-.. klinklang:
+.. _klinklang:
 
 Klinklang
 ----------
@@ -14,4 +14,4 @@ Klinklang
 Description
 ============
 | Klinklang is a steel Pokémob.
-| Klinklang evolves from :doc:`klang`.
+| Klinklang evolves from :ref:`klang`.

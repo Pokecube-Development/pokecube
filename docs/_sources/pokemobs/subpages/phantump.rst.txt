@@ -1,4 +1,4 @@
-.. phantump:
+.. _phantump:
 
 Phantump
 ---------
@@ -14,6 +14,6 @@ Phantump
 Description
 ============
 | Phantump is a ghost/grass Pokémob.
-| Phantump evolves into :doc:`trevenant`:
+| Phantump evolves into :ref:`trevenant`:
 |  -  After being traded.
 | 

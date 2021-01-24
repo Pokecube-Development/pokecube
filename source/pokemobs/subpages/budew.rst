@@ -1,4 +1,4 @@
-.. budew:
+.. _budew:
 
 Budew
 ------
@@ -14,7 +14,7 @@ Budew
 Description
 ============
 | Budew is a grass/poison Pokémob.
-| Budew evolves into :doc:`roselia`:
+| Budew evolves into :ref:`roselia`:
 |  -  When Happy.
 |  -  During the day.
 | 

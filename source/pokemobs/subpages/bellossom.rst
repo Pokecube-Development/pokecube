@@ -1,4 +1,4 @@
-.. bellossom:
+.. _bellossom:
 
 Bellossom
 ----------
@@ -14,4 +14,4 @@ Bellossom
 Description
 ============
 | Bellossom is a grass Pokémob.
-| Bellossom evolves from :doc:`gloom`.
+| Bellossom evolves from :ref:`gloom`.

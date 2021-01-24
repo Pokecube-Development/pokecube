@@ -1,4 +1,4 @@
-.. simipour:
+.. _simipour:
 
 Simipour
 ---------
@@ -14,4 +14,4 @@ Simipour
 Description
 ============
 | Simipour is a water Pokémob.
-| Simipour evolves from :doc:`panpour`.
+| Simipour evolves from :ref:`panpour`.

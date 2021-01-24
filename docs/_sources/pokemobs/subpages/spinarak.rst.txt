@@ -1,4 +1,4 @@
-.. spinarak:
+.. _spinarak:
 
 Spinarak
 ---------
@@ -14,6 +14,6 @@ Spinarak
 Description
 ============
 | Spinarak is a bug/poison Pokémob.
-| Spinarak evolves into :doc:`ariados`:
+| Spinarak evolves into :ref:`ariados`:
 |  -  At Level 22.
 | 

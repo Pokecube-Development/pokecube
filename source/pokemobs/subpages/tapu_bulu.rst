@@ -1,4 +1,4 @@
-.. tapu_bulu:
+.. _tapu_bulu:
 
 Tapu Bulu
 ----------

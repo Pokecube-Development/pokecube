@@ -1,4 +1,4 @@
-.. toucannon:
+.. _toucannon:
 
 Toucannon
 ----------
@@ -14,4 +14,4 @@ Toucannon
 Description
 ============
 | Toucannon is a normal/flying Pokémob.
-| Toucannon evolves from :doc:`trumbeak`.
+| Toucannon evolves from :ref:`trumbeak`.

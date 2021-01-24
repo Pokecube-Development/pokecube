@@ -1,4 +1,4 @@
-.. ledyba:
+.. _ledyba:
 
 Ledyba
 -------
@@ -14,6 +14,6 @@ Ledyba
 Description
 ============
 | Ledyba is a bug/flying Pokémob.
-| Ledyba evolves into :doc:`ledian`:
+| Ledyba evolves into :ref:`ledian`:
 |  -  At Level 18.
 | 

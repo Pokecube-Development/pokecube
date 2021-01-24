@@ -1,4 +1,4 @@
-.. gorebyss:
+.. _gorebyss:
 
 Gorebyss
 ---------
@@ -14,4 +14,4 @@ Gorebyss
 Description
 ============
 | Gorebyss is a water Pokémob.
-| Gorebyss evolves from :doc:`clamperl`.
+| Gorebyss evolves from :ref:`clamperl`.

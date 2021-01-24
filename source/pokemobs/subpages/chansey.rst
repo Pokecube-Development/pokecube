@@ -1,4 +1,4 @@
-.. chansey:
+.. _chansey:
 
 Chansey
 --------
@@ -14,7 +14,7 @@ Chansey
 Description
 ============
 | Chansey is a normal Pokémob.
-| Chansey evolves into :doc:`blissey`:
+| Chansey evolves into :ref:`blissey`:
 |  -  When Happy.
 | 
-| Chansey evolves from :doc:`happiny`.
+| Chansey evolves from :ref:`happiny`.

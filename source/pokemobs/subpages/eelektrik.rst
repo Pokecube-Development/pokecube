@@ -1,4 +1,4 @@
-.. eelektrik:
+.. _eelektrik:
 
 Eelektrik
 ----------
@@ -14,7 +14,7 @@ Eelektrik
 Description
 ============
 | Eelektrik is a electric Pokémob.
-| Eelektrik evolves into :doc:`eelektross`:
+| Eelektrik evolves into :ref:`eelektross`:
 |  -  When given a Thunder Stone.
 | 
-| Eelektrik evolves from :doc:`tynamo`.
+| Eelektrik evolves from :ref:`tynamo`.

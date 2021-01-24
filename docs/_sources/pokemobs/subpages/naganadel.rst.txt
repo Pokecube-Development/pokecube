@@ -1,4 +1,4 @@
-.. naganadel:
+.. _naganadel:
 
 Naganadel
 ----------
@@ -14,4 +14,4 @@ Naganadel
 Description
 ============
 | Naganadel is a poison/dragon Pokémob.
-| Naganadel evolves from :doc:`poipole`.
+| Naganadel evolves from :ref:`poipole`.

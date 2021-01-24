@@ -1,4 +1,4 @@
-.. larvesta:
+.. _larvesta:
 
 Larvesta
 ---------
@@ -14,6 +14,6 @@ Larvesta
 Description
 ============
 | Larvesta is a bug/fire Pokémob.
-| Larvesta evolves into :doc:`volcarona`:
+| Larvesta evolves into :ref:`volcarona`:
 |  -  At Level 59.
 | 

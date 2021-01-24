@@ -1,4 +1,4 @@
-.. clamperl:
+.. _clamperl:
 
 Clamperl
 ---------
@@ -14,11 +14,11 @@ Clamperl
 Description
 ============
 | Clamperl is a water Pokémob.
-| Clamperl evolves into :doc:`huntail`:
+| Clamperl evolves into :ref:`huntail`:
 |  -  After being traded.
 |  -  When given a Flint.
 | 
-| Clamperl evolves into :doc:`gorebyss`:
+| Clamperl evolves into :ref:`gorebyss`:
 |  -  After being traded.
 |  -  When given a Feather.
 | 

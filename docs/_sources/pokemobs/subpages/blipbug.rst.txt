@@ -1,4 +1,4 @@
-.. blipbug:
+.. _blipbug:
 
 Blipbug
 --------
@@ -14,6 +14,6 @@ Blipbug
 Description
 ============
 | Blipbug is a bug Pokémob.
-| Blipbug evolves into :doc:`dottler`:
+| Blipbug evolves into :ref:`dottler`:
 |  -  At Level 10.
 | 

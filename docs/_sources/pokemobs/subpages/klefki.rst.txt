@@ -1,4 +1,4 @@
-.. klefki:
+.. _klefki:
 
 Klefki
 -------

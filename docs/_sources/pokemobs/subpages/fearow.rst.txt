@@ -1,4 +1,4 @@
-.. fearow:
+.. _fearow:
 
 Fearow
 -------
@@ -14,4 +14,4 @@ Fearow
 Description
 ============
 | Fearow is a normal/flying Pokémob.
-| Fearow evolves from :doc:`spearow`.
+| Fearow evolves from :ref:`spearow`.

@@ -1,4 +1,4 @@
-.. shaymin_land:
+.. _shaymin_land:
 
 Shaymin
 --------

@@ -1,4 +1,4 @@
-.. simisage:
+.. _simisage:
 
 Simisage
 ---------
@@ -14,4 +14,4 @@ Simisage
 Description
 ============
 | Simisage is a grass Pokémob.
-| Simisage evolves from :doc:`pansage`.
+| Simisage evolves from :ref:`pansage`.

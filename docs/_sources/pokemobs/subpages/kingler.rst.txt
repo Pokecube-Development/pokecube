@@ -1,4 +1,4 @@
-.. kingler:
+.. _kingler:
 
 Kingler
 --------
@@ -14,4 +14,4 @@ Kingler
 Description
 ============
 | Kingler is a water Pokémob.
-| Kingler evolves from :doc:`krabby`.
+| Kingler evolves from :ref:`krabby`.

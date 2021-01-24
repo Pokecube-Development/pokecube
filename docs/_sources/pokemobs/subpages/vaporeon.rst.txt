@@ -1,4 +1,4 @@
-.. vaporeon:
+.. _vaporeon:
 
 Vaporeon
 ---------
@@ -14,4 +14,4 @@ Vaporeon
 Description
 ============
 | Vaporeon is a water Pokémob.
-| Vaporeon evolves from :doc:`eevee`.
+| Vaporeon evolves from :ref:`eevee`.

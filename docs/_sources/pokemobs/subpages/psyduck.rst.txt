@@ -1,4 +1,4 @@
-.. psyduck:
+.. _psyduck:
 
 Psyduck
 --------
@@ -14,6 +14,6 @@ Psyduck
 Description
 ============
 | Psyduck is a water Pokémob.
-| Psyduck evolves into :doc:`golduck`:
+| Psyduck evolves into :ref:`golduck`:
 |  -  At Level 33.
 | 

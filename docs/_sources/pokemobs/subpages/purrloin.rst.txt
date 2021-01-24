@@ -1,4 +1,4 @@
-.. purrloin:
+.. _purrloin:
 
 Purrloin
 ---------
@@ -14,6 +14,6 @@ Purrloin
 Description
 ============
 | Purrloin is a dark Pokémob.
-| Purrloin evolves into :doc:`liepard`:
+| Purrloin evolves into :ref:`liepard`:
 |  -  At Level 20.
 | 

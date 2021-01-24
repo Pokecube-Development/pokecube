@@ -1,4 +1,4 @@
-.. masquerain:
+.. _masquerain:
 
 Masquerain
 -----------
@@ -14,4 +14,4 @@ Masquerain
 Description
 ============
 | Masquerain is a bug/flying Pokémob.
-| Masquerain evolves from :doc:`surskit`.
+| Masquerain evolves from :ref:`surskit`.

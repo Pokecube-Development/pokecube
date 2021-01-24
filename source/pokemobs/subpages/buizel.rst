@@ -1,4 +1,4 @@
-.. buizel:
+.. _buizel:
 
 Buizel
 -------
@@ -14,6 +14,6 @@ Buizel
 Description
 ============
 | Buizel is a water Pokémob.
-| Buizel evolves into :doc:`floatzel`:
+| Buizel evolves into :ref:`floatzel`:
 |  -  At Level 26.
 | 

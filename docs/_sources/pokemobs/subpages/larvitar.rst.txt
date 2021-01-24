@@ -1,4 +1,4 @@
-.. larvitar:
+.. _larvitar:
 
 Larvitar
 ---------
@@ -14,6 +14,6 @@ Larvitar
 Description
 ============
 | Larvitar is a rock/ground Pokémob.
-| Larvitar evolves into :doc:`pupitar`:
+| Larvitar evolves into :ref:`pupitar`:
 |  -  At Level 30.
 | 

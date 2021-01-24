@@ -1,4 +1,4 @@
-.. eternatus:
+.. _eternatus:
 
 Eternatus
 ----------

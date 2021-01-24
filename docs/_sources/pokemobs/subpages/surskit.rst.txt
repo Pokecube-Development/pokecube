@@ -1,4 +1,4 @@
-.. surskit:
+.. _surskit:
 
 Surskit
 --------
@@ -14,6 +14,6 @@ Surskit
 Description
 ============
 | Surskit is a bug/water Pokémob.
-| Surskit evolves into :doc:`masquerain`:
+| Surskit evolves into :ref:`masquerain`:
 |  -  At Level 22.
 | 

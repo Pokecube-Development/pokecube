@@ -1,4 +1,4 @@
-.. jumpluff:
+.. _jumpluff:
 
 Jumpluff
 ---------
@@ -14,4 +14,4 @@ Jumpluff
 Description
 ============
 | Jumpluff is a grass/flying Pokémob.
-| Jumpluff evolves from :doc:`skiploom`.
+| Jumpluff evolves from :ref:`skiploom`.

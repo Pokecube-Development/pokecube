@@ -1,4 +1,4 @@
-.. diglett:
+.. _diglett:
 
 Diglett
 --------
@@ -14,6 +14,6 @@ Diglett
 Description
 ============
 | Diglett is a ground Pokémob.
-| Diglett evolves into :doc:`dugtrio`:
+| Diglett evolves into :ref:`dugtrio`:
 |  -  At Level 26.
 | 

@@ -1,4 +1,4 @@
-.. tsareena:
+.. _tsareena:
 
 Tsareena
 ---------
@@ -14,4 +14,4 @@ Tsareena
 Description
 ============
 | Tsareena is a grass Pokémob.
-| Tsareena evolves from :doc:`steenee`.
+| Tsareena evolves from :ref:`steenee`.

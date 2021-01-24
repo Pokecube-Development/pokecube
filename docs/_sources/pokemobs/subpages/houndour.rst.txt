@@ -1,4 +1,4 @@
-.. houndour:
+.. _houndour:
 
 Houndour
 ---------
@@ -14,6 +14,6 @@ Houndour
 Description
 ============
 | Houndour is a dark/fire Pokémob.
-| Houndour evolves into :doc:`houndoom`:
+| Houndour evolves into :ref:`houndoom`:
 |  -  At Level 24.
 | 

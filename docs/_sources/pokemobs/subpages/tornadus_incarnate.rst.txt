@@ -1,4 +1,4 @@
-.. tornadus_incarnate:
+.. _tornadus_incarnate:
 
 Tornadus
 ---------

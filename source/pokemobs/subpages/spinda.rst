@@ -1,4 +1,4 @@
-.. spinda:
+.. _spinda:
 
 Spinda
 -------

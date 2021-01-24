@@ -1,4 +1,4 @@
-.. regieleki:
+.. _regieleki:
 
 Regieleki
 ----------

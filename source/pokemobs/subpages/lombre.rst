@@ -1,4 +1,4 @@
-.. lombre:
+.. _lombre:
 
 Lombre
 -------
@@ -14,7 +14,7 @@ Lombre
 Description
 ============
 | Lombre is a water/grass Pokémob.
-| Lombre evolves into :doc:`ludicolo`:
+| Lombre evolves into :ref:`ludicolo`:
 |  -  When given a Water Stone.
 | 
-| Lombre evolves from :doc:`lotad`.
+| Lombre evolves from :ref:`lotad`.

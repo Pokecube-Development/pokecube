@@ -1,4 +1,4 @@
-.. tropius:
+.. _tropius:
 
 Tropius
 --------

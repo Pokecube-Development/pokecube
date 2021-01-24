@@ -1,4 +1,4 @@
-.. gigalith:
+.. _gigalith:
 
 Gigalith
 ---------
@@ -14,4 +14,4 @@ Gigalith
 Description
 ============
 | Gigalith is a rock Pokémob.
-| Gigalith evolves from :doc:`boldore`.
+| Gigalith evolves from :ref:`boldore`.

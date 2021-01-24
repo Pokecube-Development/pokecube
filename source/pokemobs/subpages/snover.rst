@@ -1,4 +1,4 @@
-.. snover:
+.. _snover:
 
 Snover
 -------
@@ -14,6 +14,6 @@ Snover
 Description
 ============
 | Snover is a grass/ice Pokémob.
-| Snover evolves into :doc:`abomasnow`:
+| Snover evolves into :ref:`abomasnow`:
 |  -  At Level 40.
 | 

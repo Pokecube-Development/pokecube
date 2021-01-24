@@ -1,4 +1,4 @@
-.. falinks:
+.. _falinks:
 
 Falinks
 --------

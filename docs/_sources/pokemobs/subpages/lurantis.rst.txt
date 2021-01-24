@@ -1,4 +1,4 @@
-.. lurantis:
+.. _lurantis:
 
 Lurantis
 ---------
@@ -14,4 +14,4 @@ Lurantis
 Description
 ============
 | Lurantis is a grass Pokémob.
-| Lurantis evolves from :doc:`fomantis`.
+| Lurantis evolves from :ref:`fomantis`.

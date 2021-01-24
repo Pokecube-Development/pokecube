@@ -1,4 +1,4 @@
-.. flabebe:
+.. _flabebe:
 
 Flabebe
 --------
@@ -14,6 +14,6 @@ Flabebe
 Description
 ============
 | Flabebe is a fairy Pokémob.
-| Flabebe evolves into :doc:`floette`:
+| Flabebe evolves into :ref:`floette`:
 |  -  At Level 19.
 | 

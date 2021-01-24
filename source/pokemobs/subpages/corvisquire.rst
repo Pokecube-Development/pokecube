@@ -1,4 +1,4 @@
-.. corvisquire:
+.. _corvisquire:
 
 Corvisquire
 ------------
@@ -14,7 +14,7 @@ Corvisquire
 Description
 ============
 | Corvisquire is a flying Pokémob.
-| Corvisquire evolves into :doc:`corviknight`:
+| Corvisquire evolves into :ref:`corviknight`:
 |  -  At Level 38.
 | 
-| Corvisquire evolves from :doc:`rookidee`.
+| Corvisquire evolves from :ref:`rookidee`.

@@ -1,4 +1,4 @@
-.. magnezone:
+.. _magnezone:
 
 Magnezone
 ----------
@@ -14,4 +14,4 @@ Magnezone
 Description
 ============
 | Magnezone is a electric/steel Pokémob.
-| Magnezone evolves from :doc:`magneton`.
+| Magnezone evolves from :ref:`magneton`.

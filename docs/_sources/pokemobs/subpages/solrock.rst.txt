@@ -1,4 +1,4 @@
-.. solrock:
+.. _solrock:
 
 Solrock
 --------

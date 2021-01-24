@@ -1,4 +1,4 @@
-.. dracozolt:
+.. _dracozolt:
 
 Dracozolt
 ----------

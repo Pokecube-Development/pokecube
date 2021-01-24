@@ -1,4 +1,4 @@
-.. mareanie:
+.. _mareanie:
 
 Mareanie
 ---------
@@ -14,6 +14,6 @@ Mareanie
 Description
 ============
 | Mareanie is a poison/water Pokémob.
-| Mareanie evolves into :doc:`toxapex`:
+| Mareanie evolves into :ref:`toxapex`:
 |  -  At Level 38.
 | 

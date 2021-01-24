@@ -1,4 +1,4 @@
-.. swablu:
+.. _swablu:
 
 Swablu
 -------
@@ -14,6 +14,6 @@ Swablu
 Description
 ============
 | Swablu is a normal/flying Pokémob.
-| Swablu evolves into :doc:`altaria`:
+| Swablu evolves into :ref:`altaria`:
 |  -  At Level 35.
 | 

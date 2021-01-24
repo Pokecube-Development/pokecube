@@ -1,4 +1,4 @@
-.. hydreigon:
+.. _hydreigon:
 
 Hydreigon
 ----------
@@ -14,4 +14,4 @@ Hydreigon
 Description
 ============
 | Hydreigon is a dark/dragon Pokémob.
-| Hydreigon evolves from :doc:`zweilous`.
+| Hydreigon evolves from :ref:`zweilous`.

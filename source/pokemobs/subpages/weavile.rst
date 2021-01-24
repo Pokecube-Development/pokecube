@@ -1,4 +1,4 @@
-.. weavile:
+.. _weavile:
 
 Weavile
 --------
@@ -14,4 +14,4 @@ Weavile
 Description
 ============
 | Weavile is a dark/ice Pokémob.
-| Weavile evolves from :doc:`sneasel`.
+| Weavile evolves from :ref:`sneasel`.

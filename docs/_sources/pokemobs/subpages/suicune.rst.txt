@@ -1,4 +1,4 @@
-.. suicune:
+.. _suicune:
 
 Suicune
 --------

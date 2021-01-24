@@ -1,4 +1,4 @@
-.. roserade:
+.. _roserade:
 
 Roserade
 ---------
@@ -14,4 +14,4 @@ Roserade
 Description
 ============
 | Roserade is a grass/poison Pokémob.
-| Roserade evolves from :doc:`roselia`.
+| Roserade evolves from :ref:`roselia`.

@@ -1,4 +1,4 @@
-.. kommo-o:
+.. _kommo-o:
 
 Kommo-o
 --------
@@ -14,4 +14,4 @@ Kommo-o
 Description
 ============
 | Kommo-o is a dragon/fighting Pokémob.
-| Kommo-o evolves from :doc:`hakamo-o`.
+| Kommo-o evolves from :ref:`hakamo-o`.

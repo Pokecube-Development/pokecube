@@ -1,4 +1,4 @@
-.. drampa:
+.. _drampa:
 
 Drampa
 -------

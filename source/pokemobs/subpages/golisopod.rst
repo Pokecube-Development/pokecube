@@ -1,4 +1,4 @@
-.. golisopod:
+.. _golisopod:
 
 Golisopod
 ----------
@@ -14,4 +14,4 @@ Golisopod
 Description
 ============
 | Golisopod is a bug/water Pokémob.
-| Golisopod evolves from :doc:`wimpod`.
+| Golisopod evolves from :ref:`wimpod`.

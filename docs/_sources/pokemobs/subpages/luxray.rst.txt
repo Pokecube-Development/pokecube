@@ -1,4 +1,4 @@
-.. luxray:
+.. _luxray:
 
 Luxray
 -------
@@ -14,4 +14,4 @@ Luxray
 Description
 ============
 | Luxray is a electric Pokémob.
-| Luxray evolves from :doc:`luxio`.
+| Luxray evolves from :ref:`luxio`.

@@ -1,4 +1,4 @@
-.. musharna:
+.. _musharna:
 
 Musharna
 ---------
@@ -14,4 +14,4 @@ Musharna
 Description
 ============
 | Musharna is a psychic Pokémob.
-| Musharna evolves from :doc:`munna`.
+| Musharna evolves from :ref:`munna`.

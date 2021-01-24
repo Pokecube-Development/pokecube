@@ -1,4 +1,4 @@
-.. boltund:
+.. _boltund:
 
 Boltund
 --------
@@ -14,4 +14,4 @@ Boltund
 Description
 ============
 | Boltund is a electric Pokémob.
-| Boltund evolves from :doc:`yamper`.
+| Boltund evolves from :ref:`yamper`.

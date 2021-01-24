@@ -1,4 +1,4 @@
-.. yamask:
+.. _yamask:
 
 Yamask
 -------
@@ -14,6 +14,6 @@ Yamask
 Description
 ============
 | Yamask is a ghost Pokémob.
-| Yamask evolves into :doc:`cofagrigus`:
+| Yamask evolves into :ref:`cofagrigus`:
 |  -  At Level 34.
 | 

@@ -1,4 +1,4 @@
-.. toxel:
+.. _toxel:
 
 Toxel
 ------
@@ -14,10 +14,10 @@ Toxel
 Description
 ============
 | Toxel is a electric/poison Pokémob.
-| Toxel evolves into :doc:`toxtricity_amped`:
+| Toxel evolves into :ref:`toxtricity_amped`:
 |  -  At Level 30.
 | 
-| Toxel evolves into :doc:`toxtricity_amped`:
+| Toxel evolves into :ref:`toxtricity_amped`:
 |  -  At Level 30.
 |  -  After being traded.
 | 

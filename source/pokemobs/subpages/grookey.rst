@@ -1,4 +1,4 @@
-.. grookey:
+.. _grookey:
 
 Grookey
 --------
@@ -14,6 +14,6 @@ Grookey
 Description
 ============
 | Grookey is a grass Pokémob.
-| Grookey evolves into :doc:`thwackey`:
+| Grookey evolves into :ref:`thwackey`:
 |  -  At Level 16.
 | 

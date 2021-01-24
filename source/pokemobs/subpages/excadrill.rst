@@ -1,4 +1,4 @@
-.. excadrill:
+.. _excadrill:
 
 Excadrill
 ----------
@@ -14,4 +14,4 @@ Excadrill
 Description
 ============
 | Excadrill is a ground/steel Pokémob.
-| Excadrill evolves from :doc:`drilbur`.
+| Excadrill evolves from :ref:`drilbur`.

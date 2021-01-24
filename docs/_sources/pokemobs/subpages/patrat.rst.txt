@@ -1,4 +1,4 @@
-.. patrat:
+.. _patrat:
 
 Patrat
 -------
@@ -14,6 +14,6 @@ Patrat
 Description
 ============
 | Patrat is a normal Pokémob.
-| Patrat evolves into :doc:`watchog`:
+| Patrat evolves into :ref:`watchog`:
 |  -  At Level 20.
 | 

@@ -1,4 +1,4 @@
-.. honedge:
+.. _honedge:
 
 Honedge
 --------
@@ -14,6 +14,6 @@ Honedge
 Description
 ============
 | Honedge is a steel/ghost Pokémob.
-| Honedge evolves into :doc:`doublade`:
+| Honedge evolves into :ref:`doublade`:
 |  -  At Level 35.
 | 

@@ -1,4 +1,4 @@
-.. baltoy:
+.. _baltoy:
 
 Baltoy
 -------
@@ -14,6 +14,6 @@ Baltoy
 Description
 ============
 | Baltoy is a ground/psychic Pokémob.
-| Baltoy evolves into :doc:`claydol`:
+| Baltoy evolves into :ref:`claydol`:
 |  -  At Level 36.
 | 

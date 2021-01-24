@@ -1,4 +1,4 @@
-.. weedle:
+.. _weedle:
 
 Weedle
 -------
@@ -14,6 +14,6 @@ Weedle
 Description
 ============
 | Weedle is a bug/poison Pokémob.
-| Weedle evolves into :doc:`kakuna`:
+| Weedle evolves into :ref:`kakuna`:
 |  -  At Level 7.
 | 

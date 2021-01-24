@@ -1,4 +1,4 @@
-.. burmy:
+.. _burmy:
 
 Burmy
 ------
@@ -14,11 +14,11 @@ Burmy
 Description
 ============
 | Burmy is a bug Pokémob.
-| Burmy evolves into :doc:`wormadam`:
+| Burmy evolves into :ref:`wormadam`:
 |  -  At Level 20.
 |  -  When female.
 | 
-| Burmy evolves into :doc:`mothim`:
+| Burmy evolves into :ref:`mothim`:
 |  -  At Level 20.
 |  -  When male.
 | 

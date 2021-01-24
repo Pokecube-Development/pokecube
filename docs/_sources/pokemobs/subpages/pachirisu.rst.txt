@@ -1,4 +1,4 @@
-.. pachirisu:
+.. _pachirisu:
 
 Pachirisu
 ----------

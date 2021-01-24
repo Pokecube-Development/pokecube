@@ -1,4 +1,4 @@
-.. furfrou:
+.. _furfrou:
 
 Furfrou
 --------

@@ -1,4 +1,4 @@
-.. cinderace:
+.. _cinderace:
 
 Cinderace
 ----------
@@ -14,4 +14,4 @@ Cinderace
 Description
 ============
 | Cinderace is a fire Pokémob.
-| Cinderace evolves from :doc:`raboot`.
+| Cinderace evolves from :ref:`raboot`.

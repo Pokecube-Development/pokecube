@@ -1,4 +1,4 @@
-.. hatenna:
+.. _hatenna:
 
 Hatenna
 --------
@@ -14,6 +14,6 @@ Hatenna
 Description
 ============
 | Hatenna is a psychic Pokémob.
-| Hatenna evolves into :doc:`hattrem`:
+| Hatenna evolves into :ref:`hattrem`:
 |  -  At Level 32.
 | 

@@ -1,4 +1,4 @@
-.. shellder:
+.. _shellder:
 
 Shellder
 ---------
@@ -14,6 +14,6 @@ Shellder
 Description
 ============
 | Shellder is a water Pokémob.
-| Shellder evolves into :doc:`cloyster`:
+| Shellder evolves into :ref:`cloyster`:
 |  -  When given a Water Stone.
 | 

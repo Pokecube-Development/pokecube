@@ -1,4 +1,4 @@
-.. hitmontop:
+.. _hitmontop:
 
 Hitmontop
 ----------
@@ -14,4 +14,4 @@ Hitmontop
 Description
 ============
 | Hitmontop is a fighting Pokémob.
-| Hitmontop evolves from :doc:`tyrogue`.
+| Hitmontop evolves from :ref:`tyrogue`.

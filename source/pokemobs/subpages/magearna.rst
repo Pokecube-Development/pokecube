@@ -1,4 +1,4 @@
-.. magearna:
+.. _magearna:
 
 Magearna
 ---------

@@ -1,4 +1,4 @@
-.. blastoise:
+.. _blastoise:
 
 Blastoise
 ----------
@@ -14,4 +14,4 @@ Blastoise
 Description
 ============
 | Blastoise is a water Pokémob.
-| Blastoise evolves from :doc:`wartortle`.
+| Blastoise evolves from :ref:`wartortle`.

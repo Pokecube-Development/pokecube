@@ -1,4 +1,4 @@
-.. sneasel:
+.. _sneasel:
 
 Sneasel
 --------
@@ -14,7 +14,7 @@ Sneasel
 Description
 ============
 | Sneasel is a dark/ice Pokémob.
-| Sneasel evolves into :doc:`weavile`:
+| Sneasel evolves into :ref:`weavile`:
 |  -  When given a Iron Axe.
 |  -  During Night.
 | 

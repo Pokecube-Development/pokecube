@@ -1,4 +1,4 @@
-.. venusaur:
+.. _venusaur:
 
 Venusaur
 ---------
@@ -14,4 +14,4 @@ Venusaur
 Description
 ============
 | Venusaur is a grass/poison Pokémob.
-| Venusaur evolves from :doc:`ivysaur`.
+| Venusaur evolves from :ref:`ivysaur`.

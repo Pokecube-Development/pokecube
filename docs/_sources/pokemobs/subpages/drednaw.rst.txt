@@ -1,4 +1,4 @@
-.. drednaw:
+.. _drednaw:
 
 Drednaw
 --------
@@ -14,4 +14,4 @@ Drednaw
 Description
 ============
 | Drednaw is a water/rock Pokémob.
-| Drednaw evolves from :doc:`chewtle`.
+| Drednaw evolves from :ref:`chewtle`.

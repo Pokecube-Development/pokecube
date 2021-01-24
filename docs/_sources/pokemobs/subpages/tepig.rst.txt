@@ -1,4 +1,4 @@
-.. tepig:
+.. _tepig:
 
 Tepig
 ------
@@ -14,6 +14,6 @@ Tepig
 Description
 ============
 | Tepig is a fire Pokémob.
-| Tepig evolves into :doc:`pignite`:
+| Tepig evolves into :ref:`pignite`:
 |  -  At Level 17.
 | 

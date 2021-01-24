@@ -1,4 +1,4 @@
-.. frillish:
+.. _frillish:
 
 Frillish
 ---------
@@ -14,6 +14,6 @@ Frillish
 Description
 ============
 | Frillish is a water/ghost Pokémob.
-| Frillish evolves into :doc:`jellicent`:
+| Frillish evolves into :ref:`jellicent`:
 |  -  At Level 40.
 | 

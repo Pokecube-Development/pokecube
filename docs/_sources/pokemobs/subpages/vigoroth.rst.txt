@@ -1,4 +1,4 @@
-.. vigoroth:
+.. _vigoroth:
 
 Vigoroth
 ---------
@@ -14,7 +14,7 @@ Vigoroth
 Description
 ============
 | Vigoroth is a normal Pokémob.
-| Vigoroth evolves into :doc:`slaking`:
+| Vigoroth evolves into :ref:`slaking`:
 |  -  At Level 36.
 | 
-| Vigoroth evolves from :doc:`slakoth`.
+| Vigoroth evolves from :ref:`slakoth`.

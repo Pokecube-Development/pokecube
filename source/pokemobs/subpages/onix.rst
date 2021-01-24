@@ -1,4 +1,4 @@
-.. onix:
+.. _onix:
 
 Onix
 -----
@@ -14,7 +14,7 @@ Onix
 Description
 ============
 | Onix is a rock/ground Pokémob.
-| Onix evolves into :doc:`steelix`:
+| Onix evolves into :ref:`steelix`:
 |  -  After being traded.
 |  -  When given a MetalCoat.
 | 

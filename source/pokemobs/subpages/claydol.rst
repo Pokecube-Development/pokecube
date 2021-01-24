@@ -1,4 +1,4 @@
-.. claydol:
+.. _claydol:
 
 Claydol
 --------
@@ -14,4 +14,4 @@ Claydol
 Description
 ============
 | Claydol is a ground/psychic Pokémob.
-| Claydol evolves from :doc:`baltoy`.
+| Claydol evolves from :ref:`baltoy`.

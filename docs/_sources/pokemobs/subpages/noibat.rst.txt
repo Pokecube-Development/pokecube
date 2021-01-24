@@ -1,4 +1,4 @@
-.. noibat:
+.. _noibat:
 
 Noibat
 -------
@@ -14,6 +14,6 @@ Noibat
 Description
 ============
 | Noibat is a flying/dragon Pokémob.
-| Noibat evolves into :doc:`noivern`:
+| Noibat evolves into :ref:`noivern`:
 |  -  At Level 48.
 | 

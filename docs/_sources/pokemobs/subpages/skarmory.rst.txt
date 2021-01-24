@@ -1,4 +1,4 @@
-.. skarmory:
+.. _skarmory:
 
 Skarmory
 ---------

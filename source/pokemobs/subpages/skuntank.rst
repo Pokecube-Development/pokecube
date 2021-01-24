@@ -1,4 +1,4 @@
-.. skuntank:
+.. _skuntank:
 
 Skuntank
 ---------
@@ -14,4 +14,4 @@ Skuntank
 Description
 ============
 | Skuntank is a poison/dark Pokémob.
-| Skuntank evolves from :doc:`stunky`.
+| Skuntank evolves from :ref:`stunky`.

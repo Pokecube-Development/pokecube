@@ -1,4 +1,4 @@
-.. silvally:
+.. _silvally:
 
 Silvally
 ---------
@@ -14,4 +14,4 @@ Silvally
 Description
 ============
 | Silvally is a normal Pokémob.
-| Silvally evolves from :doc:`type_null`.
+| Silvally evolves from :ref:`type_null`.

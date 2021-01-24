@@ -1,4 +1,4 @@
-.. garchomp:
+.. _garchomp:
 
 Garchomp
 ---------
@@ -14,4 +14,4 @@ Garchomp
 Description
 ============
 | Garchomp is a dragon/ground Pokémob.
-| Garchomp evolves from :doc:`gabite`.
+| Garchomp evolves from :ref:`gabite`.

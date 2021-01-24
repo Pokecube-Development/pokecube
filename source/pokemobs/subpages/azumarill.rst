@@ -1,4 +1,4 @@
-.. azumarill:
+.. _azumarill:
 
 Azumarill
 ----------
@@ -14,4 +14,4 @@ Azumarill
 Description
 ============
 | Azumarill is a water/fairy Pokémob.
-| Azumarill evolves from :doc:`marill`.
+| Azumarill evolves from :ref:`marill`.

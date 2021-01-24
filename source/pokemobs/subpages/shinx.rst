@@ -1,4 +1,4 @@
-.. shinx:
+.. _shinx:
 
 Shinx
 ------
@@ -14,6 +14,6 @@ Shinx
 Description
 ============
 | Shinx is a electric Pokémob.
-| Shinx evolves into :doc:`luxio`:
+| Shinx evolves into :ref:`luxio`:
 |  -  At Level 15.
 | 

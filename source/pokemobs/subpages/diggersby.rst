@@ -1,4 +1,4 @@
-.. diggersby:
+.. _diggersby:
 
 Diggersby
 ----------
@@ -14,4 +14,4 @@ Diggersby
 Description
 ============
 | Diggersby is a normal/ground Pokémob.
-| Diggersby evolves from :doc:`bunnelby`.
+| Diggersby evolves from :ref:`bunnelby`.

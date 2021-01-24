@@ -1,4 +1,4 @@
-.. clefairy:
+.. _clefairy:
 
 Clefairy
 ---------
@@ -14,7 +14,7 @@ Clefairy
 Description
 ============
 | Clefairy is a fairy Pokémob.
-| Clefairy evolves into :doc:`clefable`:
+| Clefairy evolves into :ref:`clefable`:
 |  -  When given a Moon Stone.
 | 
-| Clefairy evolves from :doc:`cleffa`.
+| Clefairy evolves from :ref:`cleffa`.

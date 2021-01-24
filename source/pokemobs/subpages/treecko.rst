@@ -1,4 +1,4 @@
-.. treecko:
+.. _treecko:
 
 Treecko
 --------
@@ -14,6 +14,6 @@ Treecko
 Description
 ============
 | Treecko is a grass Pokémob.
-| Treecko evolves into :doc:`grovyle`:
+| Treecko evolves into :ref:`grovyle`:
 |  -  At Level 16.
 | 

@@ -1,4 +1,4 @@
-.. lairon:
+.. _lairon:
 
 Lairon
 -------
@@ -14,7 +14,7 @@ Lairon
 Description
 ============
 | Lairon is a steel/rock Pokémob.
-| Lairon evolves into :doc:`aggron`:
+| Lairon evolves into :ref:`aggron`:
 |  -  At Level 42.
 | 
-| Lairon evolves from :doc:`aron`.
+| Lairon evolves from :ref:`aron`.

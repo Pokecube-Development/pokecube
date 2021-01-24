@@ -1,4 +1,4 @@
-.. pidgeotto:
+.. _pidgeotto:
 
 Pidgeotto
 ----------
@@ -14,7 +14,7 @@ Pidgeotto
 Description
 ============
 | Pidgeotto is a normal/flying Pokémob.
-| Pidgeotto evolves into :doc:`pidgeot`:
+| Pidgeotto evolves into :ref:`pidgeot`:
 |  -  At Level 36.
 | 
-| Pidgeotto evolves from :doc:`pidgey`.
+| Pidgeotto evolves from :ref:`pidgey`.

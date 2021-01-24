@@ -1,4 +1,4 @@
-.. aipom:
+.. _aipom:
 
 Aipom
 ------
@@ -14,6 +14,6 @@ Aipom
 Description
 ============
 | Aipom is a normal Pokémob.
-| Aipom evolves into :doc:`ambipom`:
+| Aipom evolves into :ref:`ambipom`:
 |  -  And knows Double Hit.
 | 

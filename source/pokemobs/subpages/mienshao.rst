@@ -1,4 +1,4 @@
-.. mienshao:
+.. _mienshao:
 
 Mienshao
 ---------
@@ -14,4 +14,4 @@ Mienshao
 Description
 ============
 | Mienshao is a fighting Pokémob.
-| Mienshao evolves from :doc:`mienfoo`.
+| Mienshao evolves from :ref:`mienfoo`.

@@ -1,4 +1,4 @@
-.. landorus_incarnate:
+.. _landorus_incarnate:
 
 Landorus
 ---------

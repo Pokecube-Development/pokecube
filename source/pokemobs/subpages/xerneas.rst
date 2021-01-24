@@ -1,4 +1,4 @@
-.. xerneas:
+.. _xerneas:
 
 Xerneas
 --------

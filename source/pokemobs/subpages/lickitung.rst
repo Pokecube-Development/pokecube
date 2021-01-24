@@ -1,4 +1,4 @@
-.. lickitung:
+.. _lickitung:
 
 Lickitung
 ----------
@@ -14,6 +14,6 @@ Lickitung
 Description
 ============
 | Lickitung is a normal Pokémob.
-| Lickitung evolves into :doc:`lickilicky`:
+| Lickitung evolves into :ref:`lickilicky`:
 |  -  And knows Rollout.
 | 

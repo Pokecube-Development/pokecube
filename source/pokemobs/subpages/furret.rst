@@ -1,4 +1,4 @@
-.. furret:
+.. _furret:
 
 Furret
 -------
@@ -14,4 +14,4 @@ Furret
 Description
 ============
 | Furret is a normal Pokémob.
-| Furret evolves from :doc:`sentret`.
+| Furret evolves from :ref:`sentret`.

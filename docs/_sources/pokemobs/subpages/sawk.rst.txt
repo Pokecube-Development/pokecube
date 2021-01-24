@@ -1,4 +1,4 @@
-.. sawk:
+.. _sawk:
 
 Sawk
 -----

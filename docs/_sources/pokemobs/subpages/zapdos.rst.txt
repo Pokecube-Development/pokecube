@@ -1,4 +1,4 @@
-.. zapdos:
+.. _zapdos:
 
 Zapdos
 -------

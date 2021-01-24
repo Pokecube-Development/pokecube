@@ -1,4 +1,4 @@
-.. scorbunny:
+.. _scorbunny:
 
 Scorbunny
 ----------
@@ -14,6 +14,6 @@ Scorbunny
 Description
 ============
 | Scorbunny is a fire Pokémob.
-| Scorbunny evolves into :doc:`raboot`:
+| Scorbunny evolves into :ref:`raboot`:
 |  -  At Level 16.
 | 

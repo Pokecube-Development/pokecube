@@ -1,4 +1,4 @@
-.. luxio:
+.. _luxio:
 
 Luxio
 ------
@@ -14,7 +14,7 @@ Luxio
 Description
 ============
 | Luxio is a electric Pokémob.
-| Luxio evolves into :doc:`luxray`:
+| Luxio evolves into :ref:`luxray`:
 |  -  At Level 30.
 | 
-| Luxio evolves from :doc:`shinx`.
+| Luxio evolves from :ref:`shinx`.

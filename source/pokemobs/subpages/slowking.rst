@@ -1,4 +1,4 @@
-.. slowking:
+.. _slowking:
 
 Slowking
 ---------
@@ -14,4 +14,4 @@ Slowking
 Description
 ============
 | Slowking is a water/psychic Pokémob.
-| Slowking evolves from :doc:`slowpoke`.
+| Slowking evolves from :ref:`slowpoke`.

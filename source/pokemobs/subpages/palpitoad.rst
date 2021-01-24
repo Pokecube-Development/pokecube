@@ -1,4 +1,4 @@
-.. palpitoad:
+.. _palpitoad:
 
 Palpitoad
 ----------
@@ -14,7 +14,7 @@ Palpitoad
 Description
 ============
 | Palpitoad is a water/ground Pokémob.
-| Palpitoad evolves into :doc:`seismitoad`:
+| Palpitoad evolves into :ref:`seismitoad`:
 |  -  At Level 36.
 | 
-| Palpitoad evolves from :doc:`tympole`.
+| Palpitoad evolves from :ref:`tympole`.

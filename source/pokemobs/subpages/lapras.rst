@@ -1,4 +1,4 @@
-.. lapras:
+.. _lapras:
 
 Lapras
 -------

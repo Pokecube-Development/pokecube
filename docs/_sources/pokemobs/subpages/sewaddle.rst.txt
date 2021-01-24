@@ -1,4 +1,4 @@
-.. sewaddle:
+.. _sewaddle:
 
 Sewaddle
 ---------
@@ -14,6 +14,6 @@ Sewaddle
 Description
 ============
 | Sewaddle is a bug/grass Pokémob.
-| Sewaddle evolves into :doc:`swadloon`:
+| Sewaddle evolves into :ref:`swadloon`:
 |  -  At Level 20.
 | 

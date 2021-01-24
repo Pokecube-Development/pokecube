@@ -1,4 +1,4 @@
-.. snom:
+.. _snom:
 
 Snom
 -----
@@ -14,7 +14,7 @@ Snom
 Description
 ============
 | Snom is a ice/bug Pokémob.
-| Snom evolves into :doc:`frosmoth`:
+| Snom evolves into :ref:`frosmoth`:
 |  -  When Happy.
 |  -  During Night.
 | 

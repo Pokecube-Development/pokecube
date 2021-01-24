@@ -1,4 +1,4 @@
-.. ludicolo:
+.. _ludicolo:
 
 Ludicolo
 ---------
@@ -14,4 +14,4 @@ Ludicolo
 Description
 ============
 | Ludicolo is a water/grass Pokémob.
-| Ludicolo evolves from :doc:`lombre`.
+| Ludicolo evolves from :ref:`lombre`.

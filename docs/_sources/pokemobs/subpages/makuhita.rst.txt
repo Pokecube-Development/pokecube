@@ -1,4 +1,4 @@
-.. makuhita:
+.. _makuhita:
 
 Makuhita
 ---------
@@ -14,6 +14,6 @@ Makuhita
 Description
 ============
 | Makuhita is a fighting Pokémob.
-| Makuhita evolves into :doc:`hariyama`:
+| Makuhita evolves into :ref:`hariyama`:
 |  -  At Level 24.
 | 

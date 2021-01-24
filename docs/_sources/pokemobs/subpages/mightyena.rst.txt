@@ -1,4 +1,4 @@
-.. mightyena:
+.. _mightyena:
 
 Mightyena
 ----------
@@ -14,4 +14,4 @@ Mightyena
 Description
 ============
 | Mightyena is a dark Pokémob.
-| Mightyena evolves from :doc:`poochyena`.
+| Mightyena evolves from :ref:`poochyena`.

@@ -1,4 +1,4 @@
-.. pupitar:
+.. _pupitar:
 
 Pupitar
 --------
@@ -14,7 +14,7 @@ Pupitar
 Description
 ============
 | Pupitar is a rock/ground Pokémob.
-| Pupitar evolves into :doc:`tyranitar`:
+| Pupitar evolves into :ref:`tyranitar`:
 |  -  At Level 55.
 | 
-| Pupitar evolves from :doc:`larvitar`.
+| Pupitar evolves from :ref:`larvitar`.

@@ -1,4 +1,4 @@
-.. omastar:
+.. _omastar:
 
 Omastar
 --------
@@ -14,4 +14,4 @@ Omastar
 Description
 ============
 | Omastar is a rock/water Pokémob.
-| Omastar evolves from :doc:`omanyte`.
+| Omastar evolves from :ref:`omanyte`.

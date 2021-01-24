@@ -1,4 +1,4 @@
-.. polteageist:
+.. _polteageist:
 
 Polteageist
 ------------
@@ -14,4 +14,4 @@ Polteageist
 Description
 ============
 | Polteageist is a ghost Pokémob.
-| Polteageist evolves from :doc:`sinistea`.
+| Polteageist evolves from :ref:`sinistea`.

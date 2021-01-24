@@ -1,4 +1,4 @@
-.. foongus:
+.. _foongus:
 
 Foongus
 --------
@@ -14,6 +14,6 @@ Foongus
 Description
 ============
 | Foongus is a grass/poison Pokémob.
-| Foongus evolves into :doc:`amoonguss`:
+| Foongus evolves into :ref:`amoonguss`:
 |  -  At Level 39.
 | 

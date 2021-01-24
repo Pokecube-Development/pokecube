@@ -1,4 +1,4 @@
-.. happiny:
+.. _happiny:
 
 Happiny
 --------
@@ -14,7 +14,7 @@ Happiny
 Description
 ============
 | Happiny is a normal Pokémob.
-| Happiny evolves into :doc:`chansey`:
+| Happiny evolves into :ref:`chansey`:
 |  -  When given a Oval Stone.
 |  -  During the day.
 | 

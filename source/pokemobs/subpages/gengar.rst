@@ -1,4 +1,4 @@
-.. gengar:
+.. _gengar:
 
 Gengar
 -------
@@ -14,4 +14,4 @@ Gengar
 Description
 ============
 | Gengar is a ghost/poison Pokémob.
-| Gengar evolves from :doc:`haunter`.
+| Gengar evolves from :ref:`haunter`.

@@ -1,4 +1,4 @@
-.. elgyem:
+.. _elgyem:
 
 Elgyem
 -------
@@ -14,6 +14,6 @@ Elgyem
 Description
 ============
 | Elgyem is a psychic Pokémob.
-| Elgyem evolves into :doc:`beheeyem`:
+| Elgyem evolves into :ref:`beheeyem`:
 |  -  At Level 42.
 | 

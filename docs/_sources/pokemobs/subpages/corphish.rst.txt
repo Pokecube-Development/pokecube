@@ -1,4 +1,4 @@
-.. corphish:
+.. _corphish:
 
 Corphish
 ---------
@@ -14,6 +14,6 @@ Corphish
 Description
 ============
 | Corphish is a water Pokémob.
-| Corphish evolves into :doc:`crawdaunt`:
+| Corphish evolves into :ref:`crawdaunt`:
 |  -  At Level 30.
 | 

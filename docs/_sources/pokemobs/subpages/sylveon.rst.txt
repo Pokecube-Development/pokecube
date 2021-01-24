@@ -1,4 +1,4 @@
-.. sylveon:
+.. _sylveon:
 
 Sylveon
 --------
@@ -14,4 +14,4 @@ Sylveon
 Description
 ============
 | Sylveon is a fairy Pokémob.
-| Sylveon evolves from :doc:`eevee`.
+| Sylveon evolves from :ref:`eevee`.

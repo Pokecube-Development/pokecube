@@ -1,4 +1,4 @@
-.. sandile:
+.. _sandile:
 
 Sandile
 --------
@@ -14,6 +14,6 @@ Sandile
 Description
 ============
 | Sandile is a ground/dark Pokémob.
-| Sandile evolves into :doc:`krokorok`:
+| Sandile evolves into :ref:`krokorok`:
 |  -  At Level 29.
 | 

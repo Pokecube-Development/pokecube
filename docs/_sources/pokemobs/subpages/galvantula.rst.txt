@@ -1,4 +1,4 @@
-.. galvantula:
+.. _galvantula:
 
 Galvantula
 -----------
@@ -14,4 +14,4 @@ Galvantula
 Description
 ============
 | Galvantula is a bug/electric Pokémob.
-| Galvantula evolves from :doc:`joltik`.
+| Galvantula evolves from :ref:`joltik`.

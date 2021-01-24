@@ -1,4 +1,4 @@
-.. prinplup:
+.. _prinplup:
 
 Prinplup
 ---------
@@ -14,7 +14,7 @@ Prinplup
 Description
 ============
 | Prinplup is a water Pokémob.
-| Prinplup evolves into :doc:`empoleon`:
+| Prinplup evolves into :ref:`empoleon`:
 |  -  At Level 36.
 | 
-| Prinplup evolves from :doc:`piplup`.
+| Prinplup evolves from :ref:`piplup`.

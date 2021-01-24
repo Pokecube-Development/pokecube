@@ -1,4 +1,4 @@
-.. corviknight:
+.. _corviknight:
 
 Corviknight
 ------------
@@ -14,4 +14,4 @@ Corviknight
 Description
 ============
 | Corviknight is a flying/steel Pokémob.
-| Corviknight evolves from :doc:`corvisquire`.
+| Corviknight evolves from :ref:`corvisquire`.

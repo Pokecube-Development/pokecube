@@ -1,4 +1,4 @@
-.. corsola:
+.. _corsola:
 
 Corsola
 --------

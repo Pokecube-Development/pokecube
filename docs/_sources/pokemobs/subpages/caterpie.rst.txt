@@ -1,4 +1,4 @@
-.. caterpie:
+.. _caterpie:
 
 Caterpie
 ---------
@@ -14,6 +14,6 @@ Caterpie
 Description
 ============
 | Caterpie is a bug Pokémob.
-| Caterpie evolves into :doc:`metapod`:
+| Caterpie evolves into :ref:`metapod`:
 |  -  At Level 7.
 | 

@@ -1,4 +1,4 @@
-.. tentacruel:
+.. _tentacruel:
 
 Tentacruel
 -----------
@@ -14,4 +14,4 @@ Tentacruel
 Description
 ============
 | Tentacruel is a water/poison Pokémob.
-| Tentacruel evolves from :doc:`tentacool`.
+| Tentacruel evolves from :ref:`tentacool`.

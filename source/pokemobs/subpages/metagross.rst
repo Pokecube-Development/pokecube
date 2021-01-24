@@ -1,4 +1,4 @@
-.. metagross:
+.. _metagross:
 
 Metagross
 ----------
@@ -14,4 +14,4 @@ Metagross
 Description
 ============
 | Metagross is a steel/psychic Pokémob.
-| Metagross evolves from :doc:`metang`.
+| Metagross evolves from :ref:`metang`.

@@ -1,4 +1,4 @@
-.. wigglytuff:
+.. _wigglytuff:
 
 Wigglytuff
 -----------
@@ -14,4 +14,4 @@ Wigglytuff
 Description
 ============
 | Wigglytuff is a normal/fairy Pokémob.
-| Wigglytuff evolves from :doc:`jigglypuff`.
+| Wigglytuff evolves from :ref:`jigglypuff`.

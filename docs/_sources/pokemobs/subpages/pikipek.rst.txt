@@ -1,4 +1,4 @@
-.. pikipek:
+.. _pikipek:
 
 Pikipek
 --------
@@ -14,6 +14,6 @@ Pikipek
 Description
 ============
 | Pikipek is a normal/flying Pokémob.
-| Pikipek evolves into :doc:`trumbeak`:
+| Pikipek evolves into :ref:`trumbeak`:
 |  -  At Level 14.
 | 

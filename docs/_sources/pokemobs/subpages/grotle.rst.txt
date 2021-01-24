@@ -1,4 +1,4 @@
-.. grotle:
+.. _grotle:
 
 Grotle
 -------
@@ -14,7 +14,7 @@ Grotle
 Description
 ============
 | Grotle is a grass Pokémob.
-| Grotle evolves into :doc:`torterra`:
+| Grotle evolves into :ref:`torterra`:
 |  -  At Level 32.
 | 
-| Grotle evolves from :doc:`turtwig`.
+| Grotle evolves from :ref:`turtwig`.

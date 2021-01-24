@@ -1,4 +1,4 @@
-.. forretress:
+.. _forretress:
 
 Forretress
 -----------
@@ -14,4 +14,4 @@ Forretress
 Description
 ============
 | Forretress is a bug/steel Pokémob.
-| Forretress evolves from :doc:`pineco`.
+| Forretress evolves from :ref:`pineco`.

@@ -1,4 +1,4 @@
-.. yanma:
+.. _yanma:
 
 Yanma
 ------
@@ -14,6 +14,6 @@ Yanma
 Description
 ============
 | Yanma is a bug/flying Pokémob.
-| Yanma evolves into :doc:`yanmega`:
+| Yanma evolves into :ref:`yanmega`:
 |  -  And knows Ancient Power.
 | 

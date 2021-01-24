@@ -1,4 +1,4 @@
-.. chikorita:
+.. _chikorita:
 
 Chikorita
 ----------
@@ -14,6 +14,6 @@ Chikorita
 Description
 ============
 | Chikorita is a grass Pokémob.
-| Chikorita evolves into :doc:`bayleef`:
+| Chikorita evolves into :ref:`bayleef`:
 |  -  At Level 16.
 | 

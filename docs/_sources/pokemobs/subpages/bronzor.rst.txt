@@ -1,4 +1,4 @@
-.. bronzor:
+.. _bronzor:
 
 Bronzor
 --------
@@ -14,6 +14,6 @@ Bronzor
 Description
 ============
 | Bronzor is a steel/psychic Pokémob.
-| Bronzor evolves into :doc:`bronzong`:
+| Bronzor evolves into :ref:`bronzong`:
 |  -  At Level 33.
 | 

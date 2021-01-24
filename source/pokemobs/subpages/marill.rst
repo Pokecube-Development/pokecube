@@ -1,4 +1,4 @@
-.. marill:
+.. _marill:
 
 Marill
 -------
@@ -14,7 +14,7 @@ Marill
 Description
 ============
 | Marill is a water/fairy Pokémob.
-| Marill evolves into :doc:`azumarill`:
+| Marill evolves into :ref:`azumarill`:
 |  -  At Level 18.
 | 
-| Marill evolves from :doc:`azurill`.
+| Marill evolves from :ref:`azurill`.

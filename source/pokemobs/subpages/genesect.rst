@@ -1,4 +1,4 @@
-.. genesect:
+.. _genesect:
 
 Genesect
 ---------

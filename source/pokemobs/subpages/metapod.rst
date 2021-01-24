@@ -1,4 +1,4 @@
-.. metapod:
+.. _metapod:
 
 Metapod
 --------
@@ -14,7 +14,7 @@ Metapod
 Description
 ============
 | Metapod is a bug Pokémob.
-| Metapod evolves into :doc:`butterfree`:
+| Metapod evolves into :ref:`butterfree`:
 |  -  At Level 10.
 | 
-| Metapod evolves from :doc:`caterpie`.
+| Metapod evolves from :ref:`caterpie`.

@@ -1,4 +1,4 @@
-.. ampharos:
+.. _ampharos:
 
 Ampharos
 ---------
@@ -14,4 +14,4 @@ Ampharos
 Description
 ============
 | Ampharos is a electric Pokémob.
-| Ampharos evolves from :doc:`flaaffy`.
+| Ampharos evolves from :ref:`flaaffy`.

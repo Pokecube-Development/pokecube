@@ -1,4 +1,4 @@
-.. froslass:
+.. _froslass:
 
 Froslass
 ---------
@@ -14,4 +14,4 @@ Froslass
 Description
 ============
 | Froslass is a ice/ghost Pokémob.
-| Froslass evolves from :doc:`snorunt`.
+| Froslass evolves from :ref:`snorunt`.

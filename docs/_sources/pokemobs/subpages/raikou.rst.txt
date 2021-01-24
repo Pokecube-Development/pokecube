@@ -1,4 +1,4 @@
-.. raikou:
+.. _raikou:
 
 Raikou
 -------

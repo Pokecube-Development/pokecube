@@ -1,4 +1,4 @@
-.. salandit:
+.. _salandit:
 
 Salandit
 ---------
@@ -14,7 +14,7 @@ Salandit
 Description
 ============
 | Salandit is a poison/fire Pokémob.
-| Salandit evolves into :doc:`salazzle`:
+| Salandit evolves into :ref:`salazzle`:
 |  -  At Level 33.
 |  -  When female.
 | 

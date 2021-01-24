@@ -1,4 +1,4 @@
-.. grumpig:
+.. _grumpig:
 
 Grumpig
 --------
@@ -14,4 +14,4 @@ Grumpig
 Description
 ============
 | Grumpig is a psychic Pokémob.
-| Grumpig evolves from :doc:`spoink`.
+| Grumpig evolves from :ref:`spoink`.

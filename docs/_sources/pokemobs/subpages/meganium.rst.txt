@@ -1,4 +1,4 @@
-.. meganium:
+.. _meganium:
 
 Meganium
 ---------
@@ -14,4 +14,4 @@ Meganium
 Description
 ============
 | Meganium is a grass Pokémob.
-| Meganium evolves from :doc:`bayleef`.
+| Meganium evolves from :ref:`bayleef`.

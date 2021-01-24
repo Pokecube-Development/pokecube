@@ -1,4 +1,4 @@
-.. amaura:
+.. _amaura:
 
 Amaura
 -------
@@ -14,7 +14,7 @@ Amaura
 Description
 ============
 | Amaura is a rock/ice Pokémob.
-| Amaura evolves into :doc:`aurorus`:
+| Amaura evolves into :ref:`aurorus`:
 |  -  At Level 39.
 |  -  During Night.
 | 

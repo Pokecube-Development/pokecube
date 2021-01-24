@@ -1,4 +1,4 @@
-.. barboach:
+.. _barboach:
 
 Barboach
 ---------
@@ -14,6 +14,6 @@ Barboach
 Description
 ============
 | Barboach is a water/ground Pokémob.
-| Barboach evolves into :doc:`whiscash`:
+| Barboach evolves into :ref:`whiscash`:
 |  -  At Level 30.
 | 

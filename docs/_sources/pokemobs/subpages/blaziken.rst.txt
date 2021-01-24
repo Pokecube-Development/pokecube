@@ -1,4 +1,4 @@
-.. blaziken:
+.. _blaziken:
 
 Blaziken
 ---------
@@ -14,4 +14,4 @@ Blaziken
 Description
 ============
 | Blaziken is a fire/fighting Pokémob.
-| Blaziken evolves from :doc:`combusken`.
+| Blaziken evolves from :ref:`combusken`.

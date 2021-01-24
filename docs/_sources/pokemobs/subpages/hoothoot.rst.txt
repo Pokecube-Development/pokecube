@@ -1,4 +1,4 @@
-.. hoothoot:
+.. _hoothoot:
 
 Hoothoot
 ---------
@@ -14,6 +14,6 @@ Hoothoot
 Description
 ============
 | Hoothoot is a normal/flying Pokémob.
-| Hoothoot evolves into :doc:`noctowl`:
+| Hoothoot evolves into :ref:`noctowl`:
 |  -  At Level 20.
 | 

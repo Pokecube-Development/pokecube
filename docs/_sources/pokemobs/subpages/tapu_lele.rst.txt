@@ -1,4 +1,4 @@
-.. tapu_lele:
+.. _tapu_lele:
 
 Tapu Lele
 ----------

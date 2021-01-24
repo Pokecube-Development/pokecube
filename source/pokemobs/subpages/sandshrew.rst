@@ -1,4 +1,4 @@
-.. sandshrew:
+.. _sandshrew:
 
 Sandshrew
 ----------
@@ -14,6 +14,6 @@ Sandshrew
 Description
 ============
 | Sandshrew is a ground Pokémob.
-| Sandshrew evolves into :doc:`sandslash`:
+| Sandshrew evolves into :ref:`sandslash`:
 |  -  At Level 22.
 | 

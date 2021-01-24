@@ -1,4 +1,4 @@
-.. empoleon:
+.. _empoleon:
 
 Empoleon
 ---------
@@ -14,4 +14,4 @@ Empoleon
 Description
 ============
 | Empoleon is a water/steel Pokémob.
-| Empoleon evolves from :doc:`prinplup`.
+| Empoleon evolves from :ref:`prinplup`.

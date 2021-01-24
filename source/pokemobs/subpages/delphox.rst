@@ -1,4 +1,4 @@
-.. delphox:
+.. _delphox:
 
 Delphox
 --------
@@ -14,4 +14,4 @@ Delphox
 Description
 ============
 | Delphox is a fire/psychic Pokémob.
-| Delphox evolves from :doc:`braixen`.
+| Delphox evolves from :ref:`braixen`.

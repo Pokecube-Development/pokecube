@@ -1,4 +1,4 @@
-.. jangmo-o:
+.. _jangmo-o:
 
 Jangmo-o
 ---------
@@ -14,6 +14,6 @@ Jangmo-o
 Description
 ============
 | Jangmo-o is a dragon Pokémob.
-| Jangmo-o evolves into :doc:`hakamo-o`:
+| Jangmo-o evolves into :ref:`hakamo-o`:
 |  -  At Level 35.
 | 

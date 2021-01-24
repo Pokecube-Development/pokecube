@@ -1,4 +1,4 @@
-.. xurkitree:
+.. _xurkitree:
 
 Xurkitree
 ----------

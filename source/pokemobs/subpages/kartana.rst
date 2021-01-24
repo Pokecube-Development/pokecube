@@ -1,4 +1,4 @@
-.. kartana:
+.. _kartana:
 
 Kartana
 --------

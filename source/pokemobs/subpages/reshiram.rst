@@ -1,4 +1,4 @@
-.. reshiram:
+.. _reshiram:
 
 Reshiram
 ---------

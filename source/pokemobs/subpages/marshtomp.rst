@@ -1,4 +1,4 @@
-.. marshtomp:
+.. _marshtomp:
 
 Marshtomp
 ----------
@@ -14,7 +14,7 @@ Marshtomp
 Description
 ============
 | Marshtomp is a water/ground Pokémob.
-| Marshtomp evolves into :doc:`swampert`:
+| Marshtomp evolves into :ref:`swampert`:
 |  -  At Level 36.
 | 
-| Marshtomp evolves from :doc:`mudkip`.
+| Marshtomp evolves from :ref:`mudkip`.

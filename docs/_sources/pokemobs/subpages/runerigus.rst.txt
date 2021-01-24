@@ -1,4 +1,4 @@
-.. runerigus:
+.. _runerigus:
 
 Runerigus
 ----------
@@ -14,4 +14,4 @@ Runerigus
 Description
 ============
 | Runerigus is a ground/ghost Pokémob.
-| Runerigus evolves from :doc:`yamask`.
+| Runerigus evolves from :ref:`yamask`.

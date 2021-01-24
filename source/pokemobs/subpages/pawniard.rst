@@ -1,4 +1,4 @@
-.. pawniard:
+.. _pawniard:
 
 Pawniard
 ---------
@@ -14,6 +14,6 @@ Pawniard
 Description
 ============
 | Pawniard is a dark/steel Pokémob.
-| Pawniard evolves into :doc:`bisharp`:
+| Pawniard evolves into :ref:`bisharp`:
 |  -  At Level 52.
 | 

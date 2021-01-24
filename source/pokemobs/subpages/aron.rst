@@ -1,4 +1,4 @@
-.. aron:
+.. _aron:
 
 Aron
 -----
@@ -14,6 +14,6 @@ Aron
 Description
 ============
 | Aron is a steel/rock Pokémob.
-| Aron evolves into :doc:`lairon`:
+| Aron evolves into :ref:`lairon`:
 |  -  At Level 32.
 | 

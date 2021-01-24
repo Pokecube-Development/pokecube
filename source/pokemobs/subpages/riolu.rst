@@ -1,4 +1,4 @@
-.. riolu:
+.. _riolu:
 
 Riolu
 ------
@@ -14,6 +14,6 @@ Riolu
 Description
 ============
 | Riolu is a fighting Pokémob.
-| Riolu evolves into :doc:`lucario`:
+| Riolu evolves into :ref:`lucario`:
 |  -  When Happy.
 | 

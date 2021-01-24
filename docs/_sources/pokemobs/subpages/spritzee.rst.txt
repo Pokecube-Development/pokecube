@@ -1,4 +1,4 @@
-.. spritzee:
+.. _spritzee:
 
 Spritzee
 ---------
@@ -14,6 +14,6 @@ Spritzee
 Description
 ============
 | Spritzee is a fairy Pokémob.
-| Spritzee evolves into :doc:`aromatisse`:
+| Spritzee evolves into :ref:`aromatisse`:
 |  -  After being traded.
 | 

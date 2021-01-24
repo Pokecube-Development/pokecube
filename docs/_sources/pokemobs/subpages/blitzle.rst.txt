@@ -1,4 +1,4 @@
-.. blitzle:
+.. _blitzle:
 
 Blitzle
 --------
@@ -14,6 +14,6 @@ Blitzle
 Description
 ============
 | Blitzle is a electric Pokémob.
-| Blitzle evolves into :doc:`zebstrika`:
+| Blitzle evolves into :ref:`zebstrika`:
 |  -  At Level 27.
 | 

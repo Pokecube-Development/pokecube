@@ -1,4 +1,4 @@
-.. espeon:
+.. _espeon:
 
 Espeon
 -------
@@ -14,4 +14,4 @@ Espeon
 Description
 ============
 | Espeon is a psychic Pokémob.
-| Espeon evolves from :doc:`eevee`.
+| Espeon evolves from :ref:`eevee`.

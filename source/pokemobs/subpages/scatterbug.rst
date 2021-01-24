@@ -1,4 +1,4 @@
-.. scatterbug:
+.. _scatterbug:
 
 Scatterbug
 -----------
@@ -14,6 +14,6 @@ Scatterbug
 Description
 ============
 | Scatterbug is a bug Pokémob.
-| Scatterbug evolves into :doc:`spewpa`:
+| Scatterbug evolves into :ref:`spewpa`:
 |  -  At Level 9.
 | 

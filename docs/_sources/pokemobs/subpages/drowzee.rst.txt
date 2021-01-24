@@ -1,4 +1,4 @@
-.. drowzee:
+.. _drowzee:
 
 Drowzee
 --------
@@ -14,6 +14,6 @@ Drowzee
 Description
 ============
 | Drowzee is a psychic Pokémob.
-| Drowzee evolves into :doc:`hypno`:
+| Drowzee evolves into :ref:`hypno`:
 |  -  At Level 26.
 | 

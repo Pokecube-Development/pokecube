@@ -1,4 +1,4 @@
-.. komala:
+.. _komala:
 
 Komala
 -------

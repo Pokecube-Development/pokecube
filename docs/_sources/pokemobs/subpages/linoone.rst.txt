@@ -1,4 +1,4 @@
-.. linoone:
+.. _linoone:
 
 Linoone
 --------
@@ -14,4 +14,4 @@ Linoone
 Description
 ============
 | Linoone is a normal Pokémob.
-| Linoone evolves from :doc:`zigzagoon`.
+| Linoone evolves from :ref:`zigzagoon`.

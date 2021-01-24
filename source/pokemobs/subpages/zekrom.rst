@@ -1,4 +1,4 @@
-.. zekrom:
+.. _zekrom:
 
 Zekrom
 -------

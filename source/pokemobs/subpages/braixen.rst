@@ -1,4 +1,4 @@
-.. braixen:
+.. _braixen:
 
 Braixen
 --------
@@ -14,7 +14,7 @@ Braixen
 Description
 ============
 | Braixen is a fire Pokémob.
-| Braixen evolves into :doc:`delphox`:
+| Braixen evolves into :ref:`delphox`:
 |  -  At Level 36.
 | 
-| Braixen evolves from :doc:`fennekin`.
+| Braixen evolves from :ref:`fennekin`.

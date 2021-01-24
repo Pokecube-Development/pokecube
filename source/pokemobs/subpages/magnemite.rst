@@ -1,4 +1,4 @@
-.. magnemite:
+.. _magnemite:
 
 Magnemite
 ----------
@@ -14,6 +14,6 @@ Magnemite
 Description
 ============
 | Magnemite is a electric/steel Pokémob.
-| Magnemite evolves into :doc:`magneton`:
+| Magnemite evolves into :ref:`magneton`:
 |  -  At Level 30.
 | 

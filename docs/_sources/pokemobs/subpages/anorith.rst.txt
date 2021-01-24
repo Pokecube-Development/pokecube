@@ -1,4 +1,4 @@
-.. anorith:
+.. _anorith:
 
 Anorith
 --------
@@ -14,6 +14,6 @@ Anorith
 Description
 ============
 | Anorith is a rock/bug Pokémob.
-| Anorith evolves into :doc:`armaldo`:
+| Anorith evolves into :ref:`armaldo`:
 |  -  At Level 40.
 | 

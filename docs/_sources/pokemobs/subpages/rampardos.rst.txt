@@ -1,4 +1,4 @@
-.. rampardos:
+.. _rampardos:
 
 Rampardos
 ----------
@@ -14,4 +14,4 @@ Rampardos
 Description
 ============
 | Rampardos is a rock Pokémob.
-| Rampardos evolves from :doc:`cranidos`.
+| Rampardos evolves from :ref:`cranidos`.

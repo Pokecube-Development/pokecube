@@ -1,4 +1,4 @@
-.. sawsbuck:
+.. _sawsbuck:
 
 Sawsbuck
 ---------
@@ -14,4 +14,4 @@ Sawsbuck
 Description
 ============
 | Sawsbuck is a normal/grass Pokémob.
-| Sawsbuck evolves from :doc:`deerling`.
+| Sawsbuck evolves from :ref:`deerling`.

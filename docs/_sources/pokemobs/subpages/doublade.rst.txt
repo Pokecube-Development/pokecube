@@ -1,4 +1,4 @@
-.. doublade:
+.. _doublade:
 
 Doublade
 ---------
@@ -14,7 +14,7 @@ Doublade
 Description
 ============
 | Doublade is a steel/ghost Pokémob.
-| Doublade evolves into :doc:`aegislash_blade`:
+| Doublade evolves into :ref:`aegislash_blade`:
 |  -  When given a Dusk Stone.
 | 
-| Doublade evolves from :doc:`honedge`.
+| Doublade evolves from :ref:`honedge`.

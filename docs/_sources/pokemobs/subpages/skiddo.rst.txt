@@ -1,4 +1,4 @@
-.. skiddo:
+.. _skiddo:
 
 Skiddo
 -------
@@ -14,6 +14,6 @@ Skiddo
 Description
 ============
 | Skiddo is a grass Pokémob.
-| Skiddo evolves into :doc:`gogoat`:
+| Skiddo evolves into :ref:`gogoat`:
 |  -  At Level 32.
 | 

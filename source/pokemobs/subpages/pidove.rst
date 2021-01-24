@@ -1,4 +1,4 @@
-.. pidove:
+.. _pidove:
 
 Pidove
 -------
@@ -14,6 +14,6 @@ Pidove
 Description
 ============
 | Pidove is a normal/flying Pokémob.
-| Pidove evolves into :doc:`tranquill`:
+| Pidove evolves into :ref:`tranquill`:
 |  -  At Level 21.
 | 

@@ -1,4 +1,4 @@
-.. venipede:
+.. _venipede:
 
 Venipede
 ---------
@@ -14,6 +14,6 @@ Venipede
 Description
 ============
 | Venipede is a bug/poison Pokémob.
-| Venipede evolves into :doc:`whirlipede`:
+| Venipede evolves into :ref:`whirlipede`:
 |  -  At Level 22.
 | 

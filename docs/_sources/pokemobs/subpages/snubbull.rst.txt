@@ -1,4 +1,4 @@
-.. snubbull:
+.. _snubbull:
 
 Snubbull
 ---------
@@ -14,6 +14,6 @@ Snubbull
 Description
 ============
 | Snubbull is a fairy Pokémob.
-| Snubbull evolves into :doc:`granbull`:
+| Snubbull evolves into :ref:`granbull`:
 |  -  At Level 23.
 | 

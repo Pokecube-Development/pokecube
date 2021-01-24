@@ -1,4 +1,4 @@
-.. popplio:
+.. _popplio:
 
 Popplio
 --------
@@ -14,6 +14,6 @@ Popplio
 Description
 ============
 | Popplio is a water Pokémob.
-| Popplio evolves into :doc:`brionne`:
+| Popplio evolves into :ref:`brionne`:
 |  -  At Level 17.
 | 

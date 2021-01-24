@@ -1,4 +1,4 @@
-.. jirachi:
+.. _jirachi:
 
 Jirachi
 --------

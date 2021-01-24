@@ -1,4 +1,4 @@
-.. dracovish:
+.. _dracovish:
 
 Dracovish
 ----------

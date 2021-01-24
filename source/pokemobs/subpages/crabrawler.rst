@@ -1,4 +1,4 @@
-.. crabrawler:
+.. _crabrawler:
 
 Crabrawler
 -----------
@@ -14,6 +14,6 @@ Crabrawler
 Description
 ============
 | Crabrawler is a fighting Pokémob.
-| Crabrawler evolves into :doc:`crabominable`:
+| Crabrawler evolves into :ref:`crabominable`:
 |  -  In [Cave].
 | 

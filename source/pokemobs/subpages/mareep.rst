@@ -1,4 +1,4 @@
-.. mareep:
+.. _mareep:
 
 Mareep
 -------
@@ -14,6 +14,6 @@ Mareep
 Description
 ============
 | Mareep is a electric Pokémob.
-| Mareep evolves into :doc:`flaaffy`:
+| Mareep evolves into :ref:`flaaffy`:
 |  -  At Level 15.
 | 

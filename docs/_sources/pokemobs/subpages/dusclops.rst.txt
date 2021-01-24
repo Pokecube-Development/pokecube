@@ -1,4 +1,4 @@
-.. dusclops:
+.. _dusclops:
 
 Dusclops
 ---------
@@ -14,8 +14,8 @@ Dusclops
 Description
 ============
 | Dusclops is a ghost Pokémob.
-| Dusclops evolves into :doc:`dusknoir`:
+| Dusclops evolves into :ref:`dusknoir`:
 |  -  After being traded.
 |  -  When given a Reaper cloth.
 | 
-| Dusclops evolves from :doc:`duskull`.
+| Dusclops evolves from :ref:`duskull`.

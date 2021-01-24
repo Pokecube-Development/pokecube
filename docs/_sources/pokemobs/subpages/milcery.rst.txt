@@ -1,4 +1,4 @@
-.. milcery:
+.. _milcery:
 
 Milcery
 --------
@@ -14,6 +14,6 @@ Milcery
 Description
 ============
 | Milcery is a fairy Pokémob.
-| Milcery evolves into :doc:`alcremie`:
+| Milcery evolves into :ref:`alcremie`:
 |  -  When given a Milk Bucket.
 | 

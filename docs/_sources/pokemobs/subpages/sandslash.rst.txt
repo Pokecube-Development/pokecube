@@ -1,4 +1,4 @@
-.. sandslash:
+.. _sandslash:
 
 Sandslash
 ----------
@@ -14,4 +14,4 @@ Sandslash
 Description
 ============
 | Sandslash is a ground Pokémob.
-| Sandslash evolves from :doc:`sandshrew`.
+| Sandslash evolves from :ref:`sandshrew`.

@@ -1,4 +1,4 @@
-.. serperior:
+.. _serperior:
 
 Serperior
 ----------
@@ -14,4 +14,4 @@ Serperior
 Description
 ============
 | Serperior is a grass Pokémob.
-| Serperior evolves from :doc:`servine`.
+| Serperior evolves from :ref:`servine`.

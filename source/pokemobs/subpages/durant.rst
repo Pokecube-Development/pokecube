@@ -1,4 +1,4 @@
-.. durant:
+.. _durant:
 
 Durant
 -------

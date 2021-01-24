@@ -1,4 +1,4 @@
-.. eiscue:
+.. _eiscue:
 
 Eiscue
 -------

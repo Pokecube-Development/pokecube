@@ -1,4 +1,4 @@
-.. registeel:
+.. _registeel:
 
 Registeel
 ----------

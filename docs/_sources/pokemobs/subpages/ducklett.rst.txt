@@ -1,4 +1,4 @@
-.. ducklett:
+.. _ducklett:
 
 Ducklett
 ---------
@@ -14,6 +14,6 @@ Ducklett
 Description
 ============
 | Ducklett is a water/flying Pokémob.
-| Ducklett evolves into :doc:`swanna`:
+| Ducklett evolves into :ref:`swanna`:
 |  -  At Level 35.
 | 

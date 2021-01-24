@@ -1,4 +1,4 @@
-.. mr_mime:
+.. _mr_mime:
 
 Mr. Mime
 ---------
@@ -14,4 +14,4 @@ Mr. Mime
 Description
 ============
 | Mr. Mime is a psychic/fairy Pokémob.
-| Mr. Mime evolves from :doc:`mime_jr`.
+| Mr. Mime evolves from :ref:`mime_jr`.

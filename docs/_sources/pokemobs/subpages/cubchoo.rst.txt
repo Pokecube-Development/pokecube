@@ -1,4 +1,4 @@
-.. cubchoo:
+.. _cubchoo:
 
 Cubchoo
 --------
@@ -14,6 +14,6 @@ Cubchoo
 Description
 ============
 | Cubchoo is a ice Pokémob.
-| Cubchoo evolves into :doc:`beartic`:
+| Cubchoo evolves into :ref:`beartic`:
 |  -  At Level 37.
 | 

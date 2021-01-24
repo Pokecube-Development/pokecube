@@ -1,4 +1,4 @@
-.. barraskewda:
+.. _barraskewda:
 
 Barraskewda
 ------------
@@ -14,4 +14,4 @@ Barraskewda
 Description
 ============
 | Barraskewda is a water Pokémob.
-| Barraskewda evolves from :doc:`arrokuda`.
+| Barraskewda evolves from :ref:`arrokuda`.

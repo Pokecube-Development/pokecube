@@ -1,4 +1,4 @@
-.. swanna:
+.. _swanna:
 
 Swanna
 -------
@@ -14,4 +14,4 @@ Swanna
 Description
 ============
 | Swanna is a water/flying Pokémob.
-| Swanna evolves from :doc:`ducklett`.
+| Swanna evolves from :ref:`ducklett`.

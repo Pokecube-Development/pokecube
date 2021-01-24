@@ -1,4 +1,4 @@
-.. typhlosion:
+.. _typhlosion:
 
 Typhlosion
 -----------
@@ -14,4 +14,4 @@ Typhlosion
 Description
 ============
 | Typhlosion is a fire Pokémob.
-| Typhlosion evolves from :doc:`quilava`.
+| Typhlosion evolves from :ref:`quilava`.

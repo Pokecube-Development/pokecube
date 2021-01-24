@@ -1,4 +1,4 @@
-.. mr_rime:
+.. _mr_rime:
 
 Mr. Rime
 ---------
@@ -14,4 +14,4 @@ Mr. Rime
 Description
 ============
 | Mr. Rime is a ice/psychic Pokémob.
-| Mr. Rime evolves from :doc:`mr_mime`.
+| Mr. Rime evolves from :ref:`mr_mime`.

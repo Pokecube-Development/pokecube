@@ -1,4 +1,4 @@
-.. servine:
+.. _servine:
 
 Servine
 --------
@@ -14,7 +14,7 @@ Servine
 Description
 ============
 | Servine is a grass Pokémob.
-| Servine evolves into :doc:`serperior`:
+| Servine evolves into :ref:`serperior`:
 |  -  At Level 36.
 | 
-| Servine evolves from :doc:`snivy`.
+| Servine evolves from :ref:`snivy`.

@@ -1,4 +1,4 @@
-.. kricketune:
+.. _kricketune:
 
 Kricketune
 -----------
@@ -14,4 +14,4 @@ Kricketune
 Description
 ============
 | Kricketune is a bug Pokémob.
-| Kricketune evolves from :doc:`kricketot`.
+| Kricketune evolves from :ref:`kricketot`.

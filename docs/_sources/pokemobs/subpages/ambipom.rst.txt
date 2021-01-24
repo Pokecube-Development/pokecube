@@ -1,4 +1,4 @@
-.. ambipom:
+.. _ambipom:
 
 Ambipom
 --------
@@ -14,4 +14,4 @@ Ambipom
 Description
 ============
 | Ambipom is a normal Pokémob.
-| Ambipom evolves from :doc:`aipom`.
+| Ambipom evolves from :ref:`aipom`.

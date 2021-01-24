@@ -1,4 +1,4 @@
-.. meloetta_aria:
+.. _meloetta_aria:
 
 Meloetta
 ---------

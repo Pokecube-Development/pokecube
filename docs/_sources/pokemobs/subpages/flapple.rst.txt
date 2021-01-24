@@ -1,4 +1,4 @@
-.. flapple:
+.. _flapple:
 
 Flapple
 --------
@@ -14,4 +14,4 @@ Flapple
 Description
 ============
 | Flapple is a grass/dragon Pokémob.
-| Flapple evolves from :doc:`applin`.
+| Flapple evolves from :ref:`applin`.

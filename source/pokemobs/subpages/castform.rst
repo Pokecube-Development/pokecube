@@ -1,4 +1,4 @@
-.. castform:
+.. _castform:
 
 Castform
 ---------

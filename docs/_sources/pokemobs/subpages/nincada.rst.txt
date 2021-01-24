@@ -1,4 +1,4 @@
-.. nincada:
+.. _nincada:
 
 Nincada
 --------
@@ -14,6 +14,6 @@ Nincada
 Description
 ============
 | Nincada is a bug/ground Pokémob.
-| Nincada evolves into :doc:`ninjask`:
+| Nincada evolves into :ref:`ninjask`:
 |  -  At Level 20.
 | 

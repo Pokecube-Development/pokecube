@@ -1,4 +1,4 @@
-.. zangoose:
+.. _zangoose:
 
 Zangoose
 ---------

@@ -1,4 +1,4 @@
-.. tapu_koko:
+.. _tapu_koko:
 
 Tapu Koko
 ----------

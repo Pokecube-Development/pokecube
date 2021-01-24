@@ -1,4 +1,4 @@
-.. poliwrath:
+.. _poliwrath:
 
 Poliwrath
 ----------
@@ -14,4 +14,4 @@ Poliwrath
 Description
 ============
 | Poliwrath is a water/fighting Pokémob.
-| Poliwrath evolves from :doc:`poliwhirl`.
+| Poliwrath evolves from :ref:`poliwhirl`.

@@ -1,4 +1,4 @@
-.. gastly:
+.. _gastly:
 
 Gastly
 -------
@@ -14,6 +14,6 @@ Gastly
 Description
 ============
 | Gastly is a ghost/poison Pokémob.
-| Gastly evolves into :doc:`haunter`:
+| Gastly evolves into :ref:`haunter`:
 |  -  At Level 25.
 | 

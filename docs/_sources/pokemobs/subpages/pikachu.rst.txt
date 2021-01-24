@@ -1,4 +1,4 @@
-.. pikachu:
+.. _pikachu:
 
 Pikachu
 --------
@@ -14,11 +14,11 @@ Pikachu
 Description
 ============
 | Pikachu is a electric Pokémob.
-| Pikachu evolves into :doc:`raichu`:
+| Pikachu evolves into :ref:`raichu`:
 |  -  When given a Thunder Stone.
 |  -  In [minecraft:beach, minecraft:mushroom_field_shore, minecraft:snowy_beach, minecraft:stone_shore].
 | 
-| Pikachu evolves into :doc:`raichu`:
+| Pikachu evolves into :ref:`raichu`:
 |  -  When given a Thunder Stone.
 | 
-| Pikachu evolves from :doc:`pichu`.
+| Pikachu evolves from :ref:`pichu`.

@@ -1,4 +1,4 @@
-.. toxtricity_amped:
+.. _toxtricity_amped:
 
 Toxtricity
 -----------
@@ -14,4 +14,4 @@ Toxtricity
 Description
 ============
 | Toxtricity is a electric/poison Pokémob.
-| Toxtricity evolves from :doc:`toxel`.
+| Toxtricity evolves from :ref:`toxel`.

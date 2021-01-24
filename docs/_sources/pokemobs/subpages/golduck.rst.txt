@@ -1,4 +1,4 @@
-.. golduck:
+.. _golduck:
 
 Golduck
 --------
@@ -14,4 +14,4 @@ Golduck
 Description
 ============
 | Golduck is a water Pokémob.
-| Golduck evolves from :doc:`psyduck`.
+| Golduck evolves from :ref:`psyduck`.

@@ -1,4 +1,4 @@
-.. bruxish:
+.. _bruxish:
 
 Bruxish
 --------

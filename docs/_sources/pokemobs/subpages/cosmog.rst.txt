@@ -1,4 +1,4 @@
-.. cosmog:
+.. _cosmog:
 
 Cosmog
 -------
@@ -14,6 +14,6 @@ Cosmog
 Description
 ============
 | Cosmog is a psychic Pokémob.
-| Cosmog evolves into :doc:`cosmoem`:
+| Cosmog evolves into :ref:`cosmoem`:
 |  -  At Level 43.
 | 

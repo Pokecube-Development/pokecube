@@ -1,4 +1,4 @@
-.. ferroseed:
+.. _ferroseed:
 
 Ferroseed
 ----------
@@ -14,6 +14,6 @@ Ferroseed
 Description
 ============
 | Ferroseed is a grass/steel Pokémob.
-| Ferroseed evolves into :doc:`ferrothorn`:
+| Ferroseed evolves into :ref:`ferrothorn`:
 |  -  At Level 40.
 | 

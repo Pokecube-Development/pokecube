@@ -1,4 +1,4 @@
-.. tirtouga:
+.. _tirtouga:
 
 Tirtouga
 ---------
@@ -14,6 +14,6 @@ Tirtouga
 Description
 ============
 | Tirtouga is a water/rock Pokémob.
-| Tirtouga evolves into :doc:`carracosta`:
+| Tirtouga evolves into :ref:`carracosta`:
 |  -  At Level 37.
 | 

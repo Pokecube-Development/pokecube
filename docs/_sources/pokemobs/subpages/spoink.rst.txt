@@ -1,4 +1,4 @@
-.. spoink:
+.. _spoink:
 
 Spoink
 -------
@@ -14,6 +14,6 @@ Spoink
 Description
 ============
 | Spoink is a psychic Pokémob.
-| Spoink evolves into :doc:`grumpig`:
+| Spoink evolves into :ref:`grumpig`:
 |  -  At Level 32.
 | 

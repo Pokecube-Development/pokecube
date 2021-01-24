@@ -1,4 +1,4 @@
-.. archeops:
+.. _archeops:
 
 Archeops
 ---------
@@ -14,4 +14,4 @@ Archeops
 Description
 ============
 | Archeops is a rock/flying Pokémob.
-| Archeops evolves from :doc:`archen`.
+| Archeops evolves from :ref:`archen`.

@@ -1,4 +1,4 @@
-.. joltik:
+.. _joltik:
 
 Joltik
 -------
@@ -14,6 +14,6 @@ Joltik
 Description
 ============
 | Joltik is a bug/electric Pokémob.
-| Joltik evolves into :doc:`galvantula`:
+| Joltik evolves into :ref:`galvantula`:
 |  -  At Level 36.
 | 

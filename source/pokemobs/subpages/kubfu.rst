@@ -1,4 +1,4 @@
-.. kubfu:
+.. _kubfu:
 
 Kubfu
 ------
@@ -14,9 +14,9 @@ Kubfu
 Description
 ============
 | Kubfu is a fighting Pokémob.
-| Kubfu evolves into :doc:`urshifu_single`:
+| Kubfu evolves into :ref:`urshifu_single`:
 |  -  When given a Parchment of Darkness.
 | 
-| Kubfu evolves into :doc:`urshifu_single`:
+| Kubfu evolves into :ref:`urshifu_single`:
 |  -  When given a Parchment of Water.
 | 

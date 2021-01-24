@@ -1,4 +1,4 @@
-.. cacturne:
+.. _cacturne:
 
 Cacturne
 ---------
@@ -14,4 +14,4 @@ Cacturne
 Description
 ============
 | Cacturne is a grass/dark Pokémob.
-| Cacturne evolves from :doc:`cacnea`.
+| Cacturne evolves from :ref:`cacnea`.

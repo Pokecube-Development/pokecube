@@ -1,4 +1,4 @@
-.. abomasnow:
+.. _abomasnow:
 
 Abomasnow
 ----------
@@ -14,4 +14,4 @@ Abomasnow
 Description
 ============
 | Abomasnow is a grass/ice Pokémob.
-| Abomasnow evolves from :doc:`snover`.
+| Abomasnow evolves from :ref:`snover`.

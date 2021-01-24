@@ -1,4 +1,4 @@
-.. heatmor:
+.. _heatmor:
 
 Heatmor
 --------

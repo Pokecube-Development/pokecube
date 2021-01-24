@@ -1,4 +1,4 @@
-.. groudon:
+.. _groudon:
 
 Groudon
 --------

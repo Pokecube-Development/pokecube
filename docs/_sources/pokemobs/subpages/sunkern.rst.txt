@@ -1,4 +1,4 @@
-.. sunkern:
+.. _sunkern:
 
 Sunkern
 --------
@@ -14,6 +14,6 @@ Sunkern
 Description
 ============
 | Sunkern is a grass Pokémob.
-| Sunkern evolves into :doc:`sunflora`:
+| Sunkern evolves into :ref:`sunflora`:
 |  -  When given a Sun Stone.
 | 

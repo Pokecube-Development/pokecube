@@ -1,4 +1,4 @@
-.. mothim:
+.. _mothim:
 
 Mothim
 -------
@@ -14,4 +14,4 @@ Mothim
 Description
 ============
 | Mothim is a bug/flying Pokémob.
-| Mothim evolves from :doc:`burmy`.
+| Mothim evolves from :ref:`burmy`.

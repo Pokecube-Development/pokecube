@@ -1,4 +1,4 @@
-.. hawlucha:
+.. _hawlucha:
 
 Hawlucha
 ---------

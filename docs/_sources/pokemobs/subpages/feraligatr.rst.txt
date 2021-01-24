@@ -1,4 +1,4 @@
-.. feraligatr:
+.. _feraligatr:
 
 Feraligatr
 -----------
@@ -14,4 +14,4 @@ Feraligatr
 Description
 ============
 | Feraligatr is a water Pokémob.
-| Feraligatr evolves from :doc:`croconaw`.
+| Feraligatr evolves from :ref:`croconaw`.

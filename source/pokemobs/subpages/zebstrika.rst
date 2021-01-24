@@ -1,4 +1,4 @@
-.. zebstrika:
+.. _zebstrika:
 
 Zebstrika
 ----------
@@ -14,4 +14,4 @@ Zebstrika
 Description
 ============
 | Zebstrika is a electric Pokémob.
-| Zebstrika evolves from :doc:`blitzle`.
+| Zebstrika evolves from :ref:`blitzle`.

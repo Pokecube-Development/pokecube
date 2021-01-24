@@ -1,4 +1,4 @@
-.. glameow:
+.. _glameow:
 
 Glameow
 --------
@@ -14,6 +14,6 @@ Glameow
 Description
 ============
 | Glameow is a normal Pokémob.
-| Glameow evolves into :doc:`purugly`:
+| Glameow evolves into :ref:`purugly`:
 |  -  At Level 38.
 | 

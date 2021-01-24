@@ -1,4 +1,4 @@
-.. xatu:
+.. _xatu:
 
 Xatu
 -----
@@ -14,4 +14,4 @@ Xatu
 Description
 ============
 | Xatu is a psychic/flying Pokémob.
-| Xatu evolves from :doc:`natu`.
+| Xatu evolves from :ref:`natu`.

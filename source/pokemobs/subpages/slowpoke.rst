@@ -1,4 +1,4 @@
-.. slowpoke:
+.. _slowpoke:
 
 Slowpoke
 ---------
@@ -14,10 +14,10 @@ Slowpoke
 Description
 ============
 | Slowpoke is a water/psychic Pokémob.
-| Slowpoke evolves into :doc:`slowbro`:
+| Slowpoke evolves into :ref:`slowbro`:
 |  -  At Level 37.
 | 
-| Slowpoke evolves into :doc:`slowking`:
+| Slowpoke evolves into :ref:`slowking`:
 |  -  After being traded.
 |  -  When given a King's Rock.
 | 

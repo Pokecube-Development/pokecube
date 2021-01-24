@@ -1,4 +1,4 @@
-.. hattrem:
+.. _hattrem:
 
 Hattrem
 --------
@@ -14,7 +14,7 @@ Hattrem
 Description
 ============
 | Hattrem is a psychic Pokémob.
-| Hattrem evolves into :doc:`hatterene`:
+| Hattrem evolves into :ref:`hatterene`:
 |  -  At Level 42.
 | 
-| Hattrem evolves from :doc:`hatenna`.
+| Hattrem evolves from :ref:`hatenna`.

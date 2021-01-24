@@ -1,4 +1,4 @@
-.. stunky:
+.. _stunky:
 
 Stunky
 -------
@@ -14,6 +14,6 @@ Stunky
 Description
 ============
 | Stunky is a poison/dark Pokémob.
-| Stunky evolves into :doc:`skuntank`:
+| Stunky evolves into :ref:`skuntank`:
 |  -  At Level 34.
 | 

@@ -1,4 +1,4 @@
-.. lickilicky:
+.. _lickilicky:
 
 Lickilicky
 -----------
@@ -14,4 +14,4 @@ Lickilicky
 Description
 ============
 | Lickilicky is a normal Pokémob.
-| Lickilicky evolves from :doc:`lickitung`.
+| Lickilicky evolves from :ref:`lickitung`.

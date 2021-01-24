@@ -1,4 +1,4 @@
-.. panpour:
+.. _panpour:
 
 Panpour
 --------
@@ -14,6 +14,6 @@ Panpour
 Description
 ============
 | Panpour is a water Pokémob.
-| Panpour evolves into :doc:`simipour`:
+| Panpour evolves into :ref:`simipour`:
 |  -  When given a Water Stone.
 | 

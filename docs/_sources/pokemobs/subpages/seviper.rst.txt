@@ -1,4 +1,4 @@
-.. seviper:
+.. _seviper:
 
 Seviper
 --------

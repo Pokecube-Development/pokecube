@@ -1,4 +1,4 @@
-.. poliwhirl:
+.. _poliwhirl:
 
 Poliwhirl
 ----------
@@ -14,11 +14,11 @@ Poliwhirl
 Description
 ============
 | Poliwhirl is a water Pokémob.
-| Poliwhirl evolves into :doc:`poliwrath`:
+| Poliwhirl evolves into :ref:`poliwrath`:
 |  -  When given a Water Stone.
 | 
-| Poliwhirl evolves into :doc:`politoed`:
+| Poliwhirl evolves into :ref:`politoed`:
 |  -  After being traded.
 |  -  When given a King's Rock.
 | 
-| Poliwhirl evolves from :doc:`poliwag`.
+| Poliwhirl evolves from :ref:`poliwag`.

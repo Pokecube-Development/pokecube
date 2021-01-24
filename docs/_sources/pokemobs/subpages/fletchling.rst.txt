@@ -1,4 +1,4 @@
-.. fletchling:
+.. _fletchling:
 
 Fletchling
 -----------
@@ -14,6 +14,6 @@ Fletchling
 Description
 ============
 | Fletchling is a normal/flying Pokémob.
-| Fletchling evolves into :doc:`fletchinder`:
+| Fletchling evolves into :ref:`fletchinder`:
 |  -  At Level 17.
 | 

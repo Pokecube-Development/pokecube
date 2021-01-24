@@ -1,4 +1,4 @@
-.. smoochum:
+.. _smoochum:
 
 Smoochum
 ---------
@@ -14,6 +14,6 @@ Smoochum
 Description
 ============
 | Smoochum is a ice/psychic Pokémob.
-| Smoochum evolves into :doc:`jynx`:
+| Smoochum evolves into :ref:`jynx`:
 |  -  At Level 30.
 | 

@@ -1,4 +1,4 @@
-.. illumise:
+.. _illumise:
 
 Illumise
 ---------

@@ -1,4 +1,4 @@
-.. horsea:
+.. _horsea:
 
 Horsea
 -------
@@ -14,6 +14,6 @@ Horsea
 Description
 ============
 | Horsea is a water Pokémob.
-| Horsea evolves into :doc:`seadra`:
+| Horsea evolves into :ref:`seadra`:
 |  -  At Level 32.
 | 

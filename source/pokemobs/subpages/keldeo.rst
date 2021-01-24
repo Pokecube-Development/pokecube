@@ -1,4 +1,4 @@
-.. keldeo:
+.. _keldeo:
 
 Keldeo
 -------

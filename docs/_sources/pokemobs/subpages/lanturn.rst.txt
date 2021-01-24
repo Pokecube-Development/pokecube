@@ -1,4 +1,4 @@
-.. lanturn:
+.. _lanturn:
 
 Lanturn
 --------
@@ -14,4 +14,4 @@ Lanturn
 Description
 ============
 | Lanturn is a water/electric Pokémob.
-| Lanturn evolves from :doc:`chinchou`.
+| Lanturn evolves from :ref:`chinchou`.

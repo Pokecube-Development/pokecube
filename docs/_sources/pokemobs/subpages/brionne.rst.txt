@@ -1,4 +1,4 @@
-.. brionne:
+.. _brionne:
 
 Brionne
 --------
@@ -14,7 +14,7 @@ Brionne
 Description
 ============
 | Brionne is a water Pokémob.
-| Brionne evolves into :doc:`primarina`:
+| Brionne evolves into :ref:`primarina`:
 |  -  At Level 34.
 | 
-| Brionne evolves from :doc:`popplio`.
+| Brionne evolves from :ref:`popplio`.

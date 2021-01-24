@@ -1,4 +1,4 @@
-.. arceus:
+.. _arceus:
 
 Arceus
 -------

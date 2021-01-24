@@ -1,4 +1,4 @@
-.. mismagius:
+.. _mismagius:
 
 Mismagius
 ----------
@@ -14,4 +14,4 @@ Mismagius
 Description
 ============
 | Mismagius is a ghost Pokémob.
-| Mismagius evolves from :doc:`misdreavus`.
+| Mismagius evolves from :ref:`misdreavus`.

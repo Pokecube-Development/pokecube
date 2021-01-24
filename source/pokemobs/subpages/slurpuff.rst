@@ -1,4 +1,4 @@
-.. slurpuff:
+.. _slurpuff:
 
 Slurpuff
 ---------
@@ -14,4 +14,4 @@ Slurpuff
 Description
 ============
 | Slurpuff is a fairy Pokémob.
-| Slurpuff evolves from :doc:`swirlix`.
+| Slurpuff evolves from :ref:`swirlix`.

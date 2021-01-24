@@ -1,4 +1,4 @@
-.. weezing:
+.. _weezing:
 
 Weezing
 --------
@@ -14,4 +14,4 @@ Weezing
 Description
 ============
 | Weezing is a poison Pokémob.
-| Weezing evolves from :doc:`koffing`.
+| Weezing evolves from :ref:`koffing`.

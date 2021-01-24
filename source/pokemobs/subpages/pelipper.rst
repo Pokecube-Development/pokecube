@@ -1,4 +1,4 @@
-.. pelipper:
+.. _pelipper:
 
 Pelipper
 ---------
@@ -14,4 +14,4 @@ Pelipper
 Description
 ============
 | Pelipper is a water/flying Pokémob.
-| Pelipper evolves from :doc:`wingull`.
+| Pelipper evolves from :ref:`wingull`.

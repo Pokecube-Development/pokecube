@@ -1,4 +1,4 @@
-.. tentacool:
+.. _tentacool:
 
 Tentacool
 ----------
@@ -14,6 +14,6 @@ Tentacool
 Description
 ============
 | Tentacool is a water/poison Pokémob.
-| Tentacool evolves into :doc:`tentacruel`:
+| Tentacool evolves into :ref:`tentacruel`:
 |  -  At Level 30.
 | 

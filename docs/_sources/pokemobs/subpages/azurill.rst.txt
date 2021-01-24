@@ -1,4 +1,4 @@
-.. azurill:
+.. _azurill:
 
 Azurill
 --------
@@ -14,6 +14,6 @@ Azurill
 Description
 ============
 | Azurill is a normal/fairy Pokémob.
-| Azurill evolves into :doc:`marill`:
+| Azurill evolves into :ref:`marill`:
 |  -  When Happy.
 | 

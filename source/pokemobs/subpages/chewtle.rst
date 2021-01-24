@@ -1,4 +1,4 @@
-.. chewtle:
+.. _chewtle:
 
 Chewtle
 --------
@@ -14,6 +14,6 @@ Chewtle
 Description
 ============
 | Chewtle is a water Pokémob.
-| Chewtle evolves into :doc:`drednaw`:
+| Chewtle evolves into :ref:`drednaw`:
 |  -  At Level 22.
 | 

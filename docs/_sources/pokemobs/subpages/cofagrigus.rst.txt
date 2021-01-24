@@ -1,4 +1,4 @@
-.. cofagrigus:
+.. _cofagrigus:
 
 Cofagrigus
 -----------
@@ -14,4 +14,4 @@ Cofagrigus
 Description
 ============
 | Cofagrigus is a ghost Pokémob.
-| Cofagrigus evolves from :doc:`yamask`.
+| Cofagrigus evolves from :ref:`yamask`.

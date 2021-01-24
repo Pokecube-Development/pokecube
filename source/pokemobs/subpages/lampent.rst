@@ -1,4 +1,4 @@
-.. lampent:
+.. _lampent:
 
 Lampent
 --------
@@ -14,7 +14,7 @@ Lampent
 Description
 ============
 | Lampent is a ghost/fire Pokémob.
-| Lampent evolves into :doc:`chandelure`:
+| Lampent evolves into :ref:`chandelure`:
 |  -  When given a Dusk Stone.
 | 
-| Lampent evolves from :doc:`litwick`.
+| Lampent evolves from :ref:`litwick`.

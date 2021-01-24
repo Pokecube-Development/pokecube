@@ -1,4 +1,4 @@
-.. bayleef:
+.. _bayleef:
 
 Bayleef
 --------
@@ -14,7 +14,7 @@ Bayleef
 Description
 ============
 | Bayleef is a grass Pokémob.
-| Bayleef evolves into :doc:`meganium`:
+| Bayleef evolves into :ref:`meganium`:
 |  -  At Level 32.
 | 
-| Bayleef evolves from :doc:`chikorita`.
+| Bayleef evolves from :ref:`chikorita`.

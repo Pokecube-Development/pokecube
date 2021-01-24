@@ -1,4 +1,4 @@
-.. stantler:
+.. _stantler:
 
 Stantler
 ---------

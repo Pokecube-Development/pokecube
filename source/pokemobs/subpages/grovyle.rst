@@ -1,4 +1,4 @@
-.. grovyle:
+.. _grovyle:
 
 Grovyle
 --------
@@ -14,7 +14,7 @@ Grovyle
 Description
 ============
 | Grovyle is a grass Pokémob.
-| Grovyle evolves into :doc:`sceptile`:
+| Grovyle evolves into :ref:`sceptile`:
 |  -  At Level 36.
 | 
-| Grovyle evolves from :doc:`treecko`.
+| Grovyle evolves from :ref:`treecko`.

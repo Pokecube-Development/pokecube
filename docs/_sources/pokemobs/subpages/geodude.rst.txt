@@ -1,4 +1,4 @@
-.. geodude:
+.. _geodude:
 
 Geodude
 --------
@@ -14,6 +14,6 @@ Geodude
 Description
 ============
 | Geodude is a rock/ground Pokémob.
-| Geodude evolves into :doc:`graveler`:
+| Geodude evolves into :ref:`graveler`:
 |  -  At Level 25.
 | 

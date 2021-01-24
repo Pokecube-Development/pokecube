@@ -1,4 +1,4 @@
-.. skorupi:
+.. _skorupi:
 
 Skorupi
 --------
@@ -14,6 +14,6 @@ Skorupi
 Description
 ============
 | Skorupi is a poison/bug Pokémob.
-| Skorupi evolves into :doc:`drapion`:
+| Skorupi evolves into :ref:`drapion`:
 |  -  At Level 40.
 | 

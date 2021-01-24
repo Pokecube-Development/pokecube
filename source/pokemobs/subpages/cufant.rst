@@ -1,4 +1,4 @@
-.. cufant:
+.. _cufant:
 
 Cufant
 -------
@@ -14,6 +14,6 @@ Cufant
 Description
 ============
 | Cufant is a steel Pokémob.
-| Cufant evolves into :doc:`copperajah`:
+| Cufant evolves into :ref:`copperajah`:
 |  -  At Level 34.
 | 

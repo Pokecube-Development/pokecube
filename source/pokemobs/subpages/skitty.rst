@@ -1,4 +1,4 @@
-.. skitty:
+.. _skitty:
 
 Skitty
 -------
@@ -14,6 +14,6 @@ Skitty
 Description
 ============
 | Skitty is a normal Pokémob.
-| Skitty evolves into :doc:`delcatty`:
+| Skitty evolves into :ref:`delcatty`:
 |  -  When given a Moon Stone.
 | 

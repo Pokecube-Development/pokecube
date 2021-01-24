@@ -1,4 +1,4 @@
-.. spectrier:
+.. _spectrier:
 
 Spectrier
 ----------

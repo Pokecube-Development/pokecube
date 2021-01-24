@@ -1,4 +1,4 @@
-.. thievul:
+.. _thievul:
 
 Thievul
 --------
@@ -14,4 +14,4 @@ Thievul
 Description
 ============
 | Thievul is a dark Pokémob.
-| Thievul evolves from :doc:`nickit`.
+| Thievul evolves from :ref:`nickit`.

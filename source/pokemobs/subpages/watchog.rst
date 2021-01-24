@@ -1,4 +1,4 @@
-.. watchog:
+.. _watchog:
 
 Watchog
 --------
@@ -14,4 +14,4 @@ Watchog
 Description
 ============
 | Watchog is a normal Pokémob.
-| Watchog evolves from :doc:`patrat`.
+| Watchog evolves from :ref:`patrat`.

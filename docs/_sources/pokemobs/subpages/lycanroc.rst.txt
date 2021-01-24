@@ -1,4 +1,4 @@
-.. lycanroc:
+.. _lycanroc:
 
 Lycanroc
 ---------
@@ -14,4 +14,4 @@ Lycanroc
 Description
 ============
 | Lycanroc is a rock Pokémob.
-| Lycanroc evolves from :doc:`rockruff`.
+| Lycanroc evolves from :ref:`rockruff`.

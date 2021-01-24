@@ -1,4 +1,4 @@
-.. sinistea:
+.. _sinistea:
 
 Sinistea
 ---------
@@ -14,9 +14,9 @@ Sinistea
 Description
 ============
 | Sinistea is a ghost Pokémob.
-| Sinistea evolves into :doc:`polteageist`:
+| Sinistea evolves into :ref:`polteageist`:
 |  -  When given a Chipped Pot.
 | 
-| Sinistea evolves into :doc:`polteageist`:
+| Sinistea evolves into :ref:`polteageist`:
 |  -  When given a Cracked Pot.
 | 

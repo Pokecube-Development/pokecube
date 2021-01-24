@@ -1,4 +1,4 @@
-.. staraptor:
+.. _staraptor:
 
 Staraptor
 ----------
@@ -14,4 +14,4 @@ Staraptor
 Description
 ============
 | Staraptor is a normal/flying Pokémob.
-| Staraptor evolves from :doc:`staravia`.
+| Staraptor evolves from :ref:`staravia`.

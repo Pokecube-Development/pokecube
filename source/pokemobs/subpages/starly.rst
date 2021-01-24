@@ -1,4 +1,4 @@
-.. starly:
+.. _starly:
 
 Starly
 -------
@@ -14,6 +14,6 @@ Starly
 Description
 ============
 | Starly is a normal/flying Pokémob.
-| Starly evolves into :doc:`staravia`:
+| Starly evolves into :ref:`staravia`:
 |  -  At Level 14.
 | 

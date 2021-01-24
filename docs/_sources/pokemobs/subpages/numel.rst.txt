@@ -1,4 +1,4 @@
-.. numel:
+.. _numel:
 
 Numel
 ------
@@ -14,6 +14,6 @@ Numel
 Description
 ============
 | Numel is a fire/ground Pokémob.
-| Numel evolves into :doc:`camerupt`:
+| Numel evolves into :ref:`camerupt`:
 |  -  At Level 33.
 | 

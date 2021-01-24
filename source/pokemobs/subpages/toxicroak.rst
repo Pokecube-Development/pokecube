@@ -1,4 +1,4 @@
-.. toxicroak:
+.. _toxicroak:
 
 Toxicroak
 ----------
@@ -14,4 +14,4 @@ Toxicroak
 Description
 ============
 | Toxicroak is a poison/fighting Pokémob.
-| Toxicroak evolves from :doc:`croagunk`.
+| Toxicroak evolves from :ref:`croagunk`.

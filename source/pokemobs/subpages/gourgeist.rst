@@ -1,4 +1,4 @@
-.. gourgeist:
+.. _gourgeist:
 
 Gourgeist
 ----------
@@ -14,4 +14,4 @@ Gourgeist
 Description
 ============
 | Gourgeist is a ghost/grass Pokémob.
-| Gourgeist evolves from :doc:`pumpkaboo`.
+| Gourgeist evolves from :ref:`pumpkaboo`.

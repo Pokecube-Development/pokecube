@@ -1,4 +1,4 @@
-.. yamper:
+.. _yamper:
 
 Yamper
 -------
@@ -14,6 +14,6 @@ Yamper
 Description
 ============
 | Yamper is a electric Pokémob.
-| Yamper evolves into :doc:`boltund`:
+| Yamper evolves into :ref:`boltund`:
 |  -  At Level 25.
 | 

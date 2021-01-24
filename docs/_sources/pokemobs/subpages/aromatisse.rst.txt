@@ -1,4 +1,4 @@
-.. aromatisse:
+.. _aromatisse:
 
 Aromatisse
 -----------
@@ -14,4 +14,4 @@ Aromatisse
 Description
 ============
 | Aromatisse is a fairy Pokémob.
-| Aromatisse evolves from :doc:`spritzee`.
+| Aromatisse evolves from :ref:`spritzee`.

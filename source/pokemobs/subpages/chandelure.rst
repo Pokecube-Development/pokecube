@@ -1,4 +1,4 @@
-.. chandelure:
+.. _chandelure:
 
 Chandelure
 -----------
@@ -14,4 +14,4 @@ Chandelure
 Description
 ============
 | Chandelure is a ghost/fire Pokémob.
-| Chandelure evolves from :doc:`lampent`.
+| Chandelure evolves from :ref:`lampent`.

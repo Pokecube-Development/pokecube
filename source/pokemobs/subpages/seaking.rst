@@ -1,4 +1,4 @@
-.. seaking:
+.. _seaking:
 
 Seaking
 --------
@@ -14,4 +14,4 @@ Seaking
 Description
 ============
 | Seaking is a water Pokémob.
-| Seaking evolves from :doc:`goldeen`.
+| Seaking evolves from :ref:`goldeen`.

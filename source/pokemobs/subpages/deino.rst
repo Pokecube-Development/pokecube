@@ -1,4 +1,4 @@
-.. deino:
+.. _deino:
 
 Deino
 ------
@@ -14,6 +14,6 @@ Deino
 Description
 ============
 | Deino is a dark/dragon Pokémob.
-| Deino evolves into :doc:`zweilous`:
+| Deino evolves into :ref:`zweilous`:
 |  -  At Level 50.
 | 

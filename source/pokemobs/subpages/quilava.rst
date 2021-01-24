@@ -1,4 +1,4 @@
-.. quilava:
+.. _quilava:
 
 Quilava
 --------
@@ -14,7 +14,7 @@ Quilava
 Description
 ============
 | Quilava is a fire Pokémob.
-| Quilava evolves into :doc:`typhlosion`:
+| Quilava evolves into :ref:`typhlosion`:
 |  -  At Level 36.
 | 
-| Quilava evolves from :doc:`cyndaquil`.
+| Quilava evolves from :ref:`cyndaquil`.

@@ -1,4 +1,4 @@
-.. celebi:
+.. _celebi:
 
 Celebi
 -------

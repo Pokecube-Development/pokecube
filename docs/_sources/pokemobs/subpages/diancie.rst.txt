@@ -1,4 +1,4 @@
-.. diancie:
+.. _diancie:
 
 Diancie
 --------

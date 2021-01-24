@@ -1,4 +1,4 @@
-.. zorua:
+.. _zorua:
 
 Zorua
 ------
@@ -14,6 +14,6 @@ Zorua
 Description
 ============
 | Zorua is a dark Pokémob.
-| Zorua evolves into :doc:`zoroark`:
+| Zorua evolves into :ref:`zoroark`:
 |  -  At Level 30.
 | 

@@ -1,4 +1,4 @@
-.. sealeo:
+.. _sealeo:
 
 Sealeo
 -------
@@ -14,7 +14,7 @@ Sealeo
 Description
 ============
 | Sealeo is a ice/water Pokémob.
-| Sealeo evolves into :doc:`walrein`:
+| Sealeo evolves into :ref:`walrein`:
 |  -  At Level 44.
 | 
-| Sealeo evolves from :doc:`spheal`.
+| Sealeo evolves from :ref:`spheal`.

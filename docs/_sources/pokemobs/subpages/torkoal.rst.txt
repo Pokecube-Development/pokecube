@@ -1,4 +1,4 @@
-.. torkoal:
+.. _torkoal:
 
 Torkoal
 --------

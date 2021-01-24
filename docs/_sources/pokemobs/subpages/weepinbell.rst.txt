@@ -1,4 +1,4 @@
-.. weepinbell:
+.. _weepinbell:
 
 Weepinbell
 -----------
@@ -14,7 +14,7 @@ Weepinbell
 Description
 ============
 | Weepinbell is a grass/poison Pokémob.
-| Weepinbell evolves into :doc:`victreebel`:
+| Weepinbell evolves into :ref:`victreebel`:
 |  -  When given a Leaf Stone.
 | 
-| Weepinbell evolves from :doc:`bellsprout`.
+| Weepinbell evolves from :ref:`bellsprout`.

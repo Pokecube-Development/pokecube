@@ -1,4 +1,4 @@
-.. voltorb:
+.. _voltorb:
 
 Voltorb
 --------
@@ -14,6 +14,6 @@ Voltorb
 Description
 ============
 | Voltorb is a electric Pokémob.
-| Voltorb evolves into :doc:`electrode`:
+| Voltorb evolves into :ref:`electrode`:
 |  -  At Level 30.
 | 

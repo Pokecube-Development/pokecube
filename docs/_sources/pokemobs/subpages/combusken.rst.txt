@@ -1,4 +1,4 @@
-.. combusken:
+.. _combusken:
 
 Combusken
 ----------
@@ -14,7 +14,7 @@ Combusken
 Description
 ============
 | Combusken is a fire/fighting Pokémob.
-| Combusken evolves into :doc:`blaziken`:
+| Combusken evolves into :ref:`blaziken`:
 |  -  At Level 36.
 | 
-| Combusken evolves from :doc:`torchic`.
+| Combusken evolves from :ref:`torchic`.

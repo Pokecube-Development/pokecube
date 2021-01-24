@@ -1,4 +1,4 @@
-.. magikarp:
+.. _magikarp:
 
 Magikarp
 ---------
@@ -14,6 +14,6 @@ Magikarp
 Description
 ============
 | Magikarp is a water Pokémob.
-| Magikarp evolves into :doc:`gyarados`:
+| Magikarp evolves into :ref:`gyarados`:
 |  -  At Level 20.
 | 

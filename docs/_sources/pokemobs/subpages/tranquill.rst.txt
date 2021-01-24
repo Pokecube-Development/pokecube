@@ -1,4 +1,4 @@
-.. tranquill:
+.. _tranquill:
 
 Tranquill
 ----------
@@ -14,7 +14,7 @@ Tranquill
 Description
 ============
 | Tranquill is a normal/flying Pokémob.
-| Tranquill evolves into :doc:`unfezant`:
+| Tranquill evolves into :ref:`unfezant`:
 |  -  At Level 32.
 | 
-| Tranquill evolves from :doc:`pidove`.
+| Tranquill evolves from :ref:`pidove`.

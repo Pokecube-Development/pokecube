@@ -1,4 +1,4 @@
-.. pidgeot:
+.. _pidgeot:
 
 Pidgeot
 --------

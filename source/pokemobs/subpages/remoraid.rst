@@ -1,4 +1,4 @@
-.. remoraid:
+.. _remoraid:
 
 Remoraid
 ---------
@@ -14,6 +14,6 @@ Remoraid
 Description
 ============
 | Remoraid is a water Pokémob.
-| Remoraid evolves into :doc:`octillery`:
+| Remoraid evolves into :ref:`octillery`:
 |  -  At Level 25.
 | 

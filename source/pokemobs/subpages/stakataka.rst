@@ -1,4 +1,4 @@
-.. stakataka:
+.. _stakataka:
 
 Stakataka
 ----------

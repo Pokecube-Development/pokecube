@@ -1,4 +1,4 @@
-.. spheal:
+.. _spheal:
 
 Spheal
 -------
@@ -14,6 +14,6 @@ Spheal
 Description
 ============
 | Spheal is a ice/water Pokémob.
-| Spheal evolves into :doc:`sealeo`:
+| Spheal evolves into :ref:`sealeo`:
 |  -  At Level 32.
 | 

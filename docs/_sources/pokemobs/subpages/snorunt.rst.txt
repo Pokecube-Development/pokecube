@@ -1,4 +1,4 @@
-.. snorunt:
+.. _snorunt:
 
 Snorunt
 --------
@@ -14,10 +14,10 @@ Snorunt
 Description
 ============
 | Snorunt is a ice Pokémob.
-| Snorunt evolves into :doc:`glalie`:
+| Snorunt evolves into :ref:`glalie`:
 |  -  At Level 42.
 | 
-| Snorunt evolves into :doc:`froslass`:
+| Snorunt evolves into :ref:`froslass`:
 |  -  When female.
 |  -  When given a Dawn Stone.
 | 

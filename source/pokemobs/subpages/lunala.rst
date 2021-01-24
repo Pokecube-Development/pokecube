@@ -1,4 +1,4 @@
-.. lunala:
+.. _lunala:
 
 Lunala
 -------
@@ -14,4 +14,4 @@ Lunala
 Description
 ============
 | Lunala is a psychic/ghost Pokémob.
-| Lunala evolves from :doc:`cosmoem`.
+| Lunala evolves from :ref:`cosmoem`.

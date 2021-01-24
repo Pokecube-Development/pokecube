@@ -1,4 +1,4 @@
-.. shellos:
+.. _shellos:
 
 Shellos
 --------
@@ -14,9 +14,9 @@ Shellos
 Description
 ============
 | Shellos is a water Pokémob.
-| Shellos evolves into :doc:`gastrodon`:
+| Shellos evolves into :ref:`gastrodon`:
 |  -  At Level 30.
 | 
-| Shellos evolves into :doc:`gastrodon`:
+| Shellos evolves into :ref:`gastrodon`:
 |  -  At Level 30.
 | 

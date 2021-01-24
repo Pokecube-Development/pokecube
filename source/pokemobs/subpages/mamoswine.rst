@@ -1,4 +1,4 @@
-.. mamoswine:
+.. _mamoswine:
 
 Mamoswine
 ----------
@@ -14,4 +14,4 @@ Mamoswine
 Description
 ============
 | Mamoswine is a ice/ground Pokémob.
-| Mamoswine evolves from :doc:`piloswine`.
+| Mamoswine evolves from :ref:`piloswine`.

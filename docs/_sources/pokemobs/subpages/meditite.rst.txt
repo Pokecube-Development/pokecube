@@ -1,4 +1,4 @@
-.. meditite:
+.. _meditite:
 
 Meditite
 ---------
@@ -14,6 +14,6 @@ Meditite
 Description
 ============
 | Meditite is a fighting/psychic Pokémob.
-| Meditite evolves into :doc:`medicham`:
+| Meditite evolves into :ref:`medicham`:
 |  -  At Level 37.
 | 

@@ -1,4 +1,4 @@
-.. jigglypuff:
+.. _jigglypuff:
 
 Jigglypuff
 -----------
@@ -14,7 +14,7 @@ Jigglypuff
 Description
 ============
 | Jigglypuff is a normal/fairy Pokémob.
-| Jigglypuff evolves into :doc:`wigglytuff`:
+| Jigglypuff evolves into :ref:`wigglytuff`:
 |  -  When given a Moon Stone.
 | 
-| Jigglypuff evolves from :doc:`igglybuff`.
+| Jigglypuff evolves from :ref:`igglybuff`.

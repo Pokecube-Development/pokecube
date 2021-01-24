@@ -1,4 +1,4 @@
-.. bidoof:
+.. _bidoof:
 
 Bidoof
 -------
@@ -14,6 +14,6 @@ Bidoof
 Description
 ============
 | Bidoof is a normal Pokémob.
-| Bidoof evolves into :doc:`bibarel`:
+| Bidoof evolves into :ref:`bibarel`:
 |  -  At Level 15.
 | 

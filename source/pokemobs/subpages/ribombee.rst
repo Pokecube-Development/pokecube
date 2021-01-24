@@ -1,4 +1,4 @@
-.. ribombee:
+.. _ribombee:
 
 Ribombee
 ---------
@@ -14,4 +14,4 @@ Ribombee
 Description
 ============
 | Ribombee is a bug/fairy Pokémob.
-| Ribombee evolves from :doc:`cutiefly`.
+| Ribombee evolves from :ref:`cutiefly`.

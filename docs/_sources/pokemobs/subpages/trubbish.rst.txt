@@ -1,4 +1,4 @@
-.. trubbish:
+.. _trubbish:
 
 Trubbish
 ---------
@@ -14,6 +14,6 @@ Trubbish
 Description
 ============
 | Trubbish is a poison Pokémob.
-| Trubbish evolves into :doc:`garbodor`:
+| Trubbish evolves into :ref:`garbodor`:
 |  -  At Level 36.
 | 

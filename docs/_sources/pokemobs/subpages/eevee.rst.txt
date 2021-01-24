@@ -1,4 +1,4 @@
-.. eevee:
+.. _eevee:
 
 Eevee
 ------
@@ -14,29 +14,29 @@ Eevee
 Description
 ============
 | Eevee is a normal Pokémob.
-| Eevee evolves into :doc:`vaporeon`:
+| Eevee evolves into :ref:`vaporeon`:
 |  -  When given a Water Stone.
 | 
-| Eevee evolves into :doc:`jolteon`:
+| Eevee evolves into :ref:`jolteon`:
 |  -  When given a Thunder Stone.
 | 
-| Eevee evolves into :doc:`flareon`:
+| Eevee evolves into :ref:`flareon`:
 |  -  When given a Fire Stone.
 | 
-| Eevee evolves into :doc:`espeon`:
+| Eevee evolves into :ref:`espeon`:
 |  -  When Happy.
 |  -  During the day.
 | 
-| Eevee evolves into :doc:`umbreon`:
+| Eevee evolves into :ref:`umbreon`:
 |  -  When Happy.
 |  -  During Night.
 | 
-| Eevee evolves into :doc:`leafeon`:
+| Eevee evolves into :ref:`leafeon`:
 |  -  When given a Leaf Stone.
 | 
-| Eevee evolves into :doc:`glaceon`:
+| Eevee evolves into :ref:`glaceon`:
 |  -  When given a Packed Ice.
 | 
-| Eevee evolves into :doc:`sylveon`:
+| Eevee evolves into :ref:`sylveon`:
 |  -  When given a Enigma Berry.
 | 

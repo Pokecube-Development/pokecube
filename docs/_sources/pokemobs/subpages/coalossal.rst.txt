@@ -1,4 +1,4 @@
-.. coalossal:
+.. _coalossal:
 
 Coalossal
 ----------
@@ -14,4 +14,4 @@ Coalossal
 Description
 ============
 | Coalossal is a rock/fire Pokémob.
-| Coalossal evolves from :doc:`carkol`.
+| Coalossal evolves from :ref:`carkol`.

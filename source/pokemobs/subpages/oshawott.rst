@@ -1,4 +1,4 @@
-.. oshawott:
+.. _oshawott:
 
 Oshawott
 ---------
@@ -14,6 +14,6 @@ Oshawott
 Description
 ============
 | Oshawott is a water Pokémob.
-| Oshawott evolves into :doc:`dewott`:
+| Oshawott evolves into :ref:`dewott`:
 |  -  At Level 17.
 | 

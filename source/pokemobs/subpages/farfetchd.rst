@@ -1,4 +1,4 @@
-.. farfetchd:
+.. _farfetchd:
 
 Farfetch'd
 -----------

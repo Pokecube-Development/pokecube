@@ -1,4 +1,4 @@
-.. nidoranf:
+.. _nidoranf:
 
 NidoranF
 ---------
@@ -14,6 +14,6 @@ NidoranF
 Description
 ============
 | NidoranF is a poison Pokémob.
-| NidoranF evolves into :doc:`nidorina`:
+| NidoranF evolves into :ref:`nidorina`:
 |  -  At Level 16.
 | 

@@ -1,4 +1,4 @@
-.. azelf:
+.. _azelf:
 
 Azelf
 ------

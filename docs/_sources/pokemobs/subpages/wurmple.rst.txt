@@ -1,4 +1,4 @@
-.. wurmple:
+.. _wurmple:
 
 Wurmple
 --------
@@ -14,10 +14,10 @@ Wurmple
 Description
 ============
 | Wurmple is a bug Pokémob.
-| Wurmple evolves into :doc:`silcoon`:
+| Wurmple evolves into :ref:`silcoon`:
 |  -  At Level 7.
 |  -  With a chance of 50%
 | 
-| Wurmple evolves into :doc:`cascoon`:
+| Wurmple evolves into :ref:`cascoon`:
 |  -  At Level 7.
 | 

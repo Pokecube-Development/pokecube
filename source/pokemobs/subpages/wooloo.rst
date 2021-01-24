@@ -1,4 +1,4 @@
-.. wooloo:
+.. _wooloo:
 
 Wooloo
 -------
@@ -14,6 +14,6 @@ Wooloo
 Description
 ============
 | Wooloo is a normal Pokémob.
-| Wooloo evolves into :doc:`dubwool`:
+| Wooloo evolves into :ref:`dubwool`:
 |  -  At Level 24.
 | 

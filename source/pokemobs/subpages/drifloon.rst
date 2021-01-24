@@ -1,4 +1,4 @@
-.. drifloon:
+.. _drifloon:
 
 Drifloon
 ---------
@@ -14,6 +14,6 @@ Drifloon
 Description
 ============
 | Drifloon is a ghost/flying Pokémob.
-| Drifloon evolves into :doc:`drifblim`:
+| Drifloon evolves into :ref:`drifblim`:
 |  -  At Level 28.
 | 

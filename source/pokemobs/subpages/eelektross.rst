@@ -1,4 +1,4 @@
-.. eelektross:
+.. _eelektross:
 
 Eelektross
 -----------
@@ -14,4 +14,4 @@ Eelektross
 Description
 ============
 | Eelektross is a electric Pokémob.
-| Eelektross evolves from :doc:`eelektrik`.
+| Eelektross evolves from :ref:`eelektrik`.

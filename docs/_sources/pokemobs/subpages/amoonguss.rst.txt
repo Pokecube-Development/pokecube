@@ -1,4 +1,4 @@
-.. amoonguss:
+.. _amoonguss:
 
 Amoonguss
 ----------
@@ -14,4 +14,4 @@ Amoonguss
 Description
 ============
 | Amoonguss is a grass/poison Pokémob.
-| Amoonguss evolves from :doc:`foongus`.
+| Amoonguss evolves from :ref:`foongus`.

@@ -1,4 +1,4 @@
-.. dragonite:
+.. _dragonite:
 
 Dragonite
 ----------
@@ -14,4 +14,4 @@ Dragonite
 Description
 ============
 | Dragonite is a dragon/flying Pokémob.
-| Dragonite evolves from :doc:`dragonair`.
+| Dragonite evolves from :ref:`dragonair`.

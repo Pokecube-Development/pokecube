@@ -1,4 +1,4 @@
-.. cinccino:
+.. _cinccino:
 
 Cinccino
 ---------
@@ -14,4 +14,4 @@ Cinccino
 Description
 ============
 | Cinccino is a normal Pokémob.
-| Cinccino evolves from :doc:`minccino`.
+| Cinccino evolves from :ref:`minccino`.

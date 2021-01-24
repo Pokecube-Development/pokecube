@@ -1,4 +1,4 @@
-.. solosis:
+.. _solosis:
 
 Solosis
 --------
@@ -14,6 +14,6 @@ Solosis
 Description
 ============
 | Solosis is a psychic Pokémob.
-| Solosis evolves into :doc:`duosion`:
+| Solosis evolves into :ref:`duosion`:
 |  -  At Level 32.
 | 

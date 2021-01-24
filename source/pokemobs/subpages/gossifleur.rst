@@ -1,4 +1,4 @@
-.. gossifleur:
+.. _gossifleur:
 
 Gossifleur
 -----------
@@ -14,6 +14,6 @@ Gossifleur
 Description
 ============
 | Gossifleur is a grass Pokémob.
-| Gossifleur evolves into :doc:`eldegoss`:
+| Gossifleur evolves into :ref:`eldegoss`:
 |  -  At Level 20.
 | 

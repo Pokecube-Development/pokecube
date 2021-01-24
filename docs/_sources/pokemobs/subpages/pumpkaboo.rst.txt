@@ -1,4 +1,4 @@
-.. pumpkaboo:
+.. _pumpkaboo:
 
 Pumpkaboo
 ----------
@@ -14,6 +14,6 @@ Pumpkaboo
 Description
 ============
 | Pumpkaboo is a ghost/grass Pokémob.
-| Pumpkaboo evolves into :doc:`gourgeist`:
+| Pumpkaboo evolves into :ref:`gourgeist`:
 |  -  After being traded.
 | 

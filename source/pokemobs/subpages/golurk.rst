@@ -1,4 +1,4 @@
-.. golurk:
+.. _golurk:
 
 Golurk
 -------
@@ -14,4 +14,4 @@ Golurk
 Description
 ============
 | Golurk is a ground/ghost Pokémob.
-| Golurk evolves from :doc:`golett`.
+| Golurk evolves from :ref:`golett`.

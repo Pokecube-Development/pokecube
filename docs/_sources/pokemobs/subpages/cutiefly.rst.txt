@@ -1,4 +1,4 @@
-.. cutiefly:
+.. _cutiefly:
 
 Cutiefly
 ---------
@@ -14,6 +14,6 @@ Cutiefly
 Description
 ============
 | Cutiefly is a bug/fairy Pokémob.
-| Cutiefly evolves into :doc:`ribombee`:
+| Cutiefly evolves into :ref:`ribombee`:
 |  -  At Level 25.
 | 

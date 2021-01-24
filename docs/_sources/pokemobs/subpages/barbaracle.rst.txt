@@ -1,4 +1,4 @@
-.. barbaracle:
+.. _barbaracle:
 
 Barbaracle
 -----------
@@ -14,4 +14,4 @@ Barbaracle
 Description
 ============
 | Barbaracle is a rock/water Pokémob.
-| Barbaracle evolves from :doc:`binacle`.
+| Barbaracle evolves from :ref:`binacle`.

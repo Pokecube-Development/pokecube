@@ -1,4 +1,4 @@
-.. fraxure:
+.. _fraxure:
 
 Fraxure
 --------
@@ -14,7 +14,7 @@ Fraxure
 Description
 ============
 | Fraxure is a dragon Pokémob.
-| Fraxure evolves into :doc:`haxorus`:
+| Fraxure evolves into :ref:`haxorus`:
 |  -  At Level 48.
 | 
-| Fraxure evolves from :doc:`axew`.
+| Fraxure evolves from :ref:`axew`.

@@ -1,4 +1,4 @@
-.. skiploom:
+.. _skiploom:
 
 Skiploom
 ---------
@@ -14,7 +14,7 @@ Skiploom
 Description
 ============
 | Skiploom is a grass/flying Pokémob.
-| Skiploom evolves into :doc:`jumpluff`:
+| Skiploom evolves into :ref:`jumpluff`:
 |  -  At Level 27.
 | 
-| Skiploom evolves from :doc:`hoppip`.
+| Skiploom evolves from :ref:`hoppip`.

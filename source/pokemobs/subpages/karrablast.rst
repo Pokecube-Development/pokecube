@@ -1,4 +1,4 @@
-.. karrablast:
+.. _karrablast:
 
 Karrablast
 -----------
@@ -14,6 +14,6 @@ Karrablast
 Description
 ============
 | Karrablast is a bug Pokémob.
-| Karrablast evolves into :doc:`escavalier`:
+| Karrablast evolves into :ref:`escavalier`:
 |  -  After being traded.
 | 

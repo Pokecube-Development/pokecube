@@ -1,4 +1,4 @@
-.. scyther:
+.. _scyther:
 
 Scyther
 --------
@@ -14,7 +14,7 @@ Scyther
 Description
 ============
 | Scyther is a bug/flying Pokémob.
-| Scyther evolves into :doc:`scizor`:
+| Scyther evolves into :ref:`scizor`:
 |  -  After being traded.
 |  -  When given a MetalCoat.
 | 

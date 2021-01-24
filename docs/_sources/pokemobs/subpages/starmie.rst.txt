@@ -1,4 +1,4 @@
-.. starmie:
+.. _starmie:
 
 Starmie
 --------
@@ -14,4 +14,4 @@ Starmie
 Description
 ============
 | Starmie is a water/psychic Pokémob.
-| Starmie evolves from :doc:`staryu`.
+| Starmie evolves from :ref:`staryu`.

@@ -1,4 +1,4 @@
-.. camerupt:
+.. _camerupt:
 
 Camerupt
 ---------
@@ -14,4 +14,4 @@ Camerupt
 Description
 ============
 | Camerupt is a fire/ground Pokémob.
-| Camerupt evolves from :doc:`numel`.
+| Camerupt evolves from :ref:`numel`.

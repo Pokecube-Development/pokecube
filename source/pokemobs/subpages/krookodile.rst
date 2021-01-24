@@ -1,4 +1,4 @@
-.. krookodile:
+.. _krookodile:
 
 Krookodile
 -----------
@@ -14,4 +14,4 @@ Krookodile
 Description
 ============
 | Krookodile is a ground/dark Pokémob.
-| Krookodile evolves from :doc:`krokorok`.
+| Krookodile evolves from :ref:`krokorok`.

@@ -1,4 +1,4 @@
-.. vulpix:
+.. _vulpix:
 
 Vulpix
 -------
@@ -14,6 +14,6 @@ Vulpix
 Description
 ============
 | Vulpix is a fire Pokémob.
-| Vulpix evolves into :doc:`ninetales`:
+| Vulpix evolves into :ref:`ninetales`:
 |  -  When given a Fire Stone.
 | 

@@ -1,4 +1,4 @@
-.. unfezant:
+.. _unfezant:
 
 Unfezant
 ---------
@@ -14,4 +14,4 @@ Unfezant
 Description
 ============
 | Unfezant is a normal/flying Pokémob.
-| Unfezant evolves from :doc:`tranquill`.
+| Unfezant evolves from :ref:`tranquill`.

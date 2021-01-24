@@ -1,4 +1,4 @@
-.. celesteela:
+.. _celesteela:
 
 Celesteela
 -----------

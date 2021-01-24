@@ -1,4 +1,4 @@
-.. froakie:
+.. _froakie:
 
 Froakie
 --------
@@ -14,6 +14,6 @@ Froakie
 Description
 ============
 | Froakie is a water Pokémob.
-| Froakie evolves into :doc:`frogadier`:
+| Froakie evolves into :ref:`frogadier`:
 |  -  At Level 16.
 | 

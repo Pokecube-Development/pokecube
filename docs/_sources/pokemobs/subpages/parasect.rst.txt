@@ -1,4 +1,4 @@
-.. parasect:
+.. _parasect:
 
 Parasect
 ---------
@@ -14,4 +14,4 @@ Parasect
 Description
 ============
 | Parasect is a bug/grass Pokémob.
-| Parasect evolves from :doc:`paras`.
+| Parasect evolves from :ref:`paras`.

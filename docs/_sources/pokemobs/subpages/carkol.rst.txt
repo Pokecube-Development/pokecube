@@ -1,4 +1,4 @@
-.. carkol:
+.. _carkol:
 
 Carkol
 -------
@@ -14,7 +14,7 @@ Carkol
 Description
 ============
 | Carkol is a rock/fire Pokémob.
-| Carkol evolves into :doc:`coalossal`:
+| Carkol evolves into :ref:`coalossal`:
 |  -  At Level 34.
 | 
-| Carkol evolves from :doc:`rolycoly`.
+| Carkol evolves from :ref:`rolycoly`.

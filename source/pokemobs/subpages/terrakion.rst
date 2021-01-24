@@ -1,4 +1,4 @@
-.. terrakion:
+.. _terrakion:
 
 Terrakion
 ----------

@@ -1,4 +1,4 @@
-.. gyarados:
+.. _gyarados:
 
 Gyarados
 ---------
@@ -14,4 +14,4 @@ Gyarados
 Description
 ============
 | Gyarados is a water/flying Pokémob.
-| Gyarados evolves from :doc:`magikarp`.
+| Gyarados evolves from :ref:`magikarp`.

@@ -1,4 +1,4 @@
-.. whismur:
+.. _whismur:
 
 Whismur
 --------
@@ -14,6 +14,6 @@ Whismur
 Description
 ============
 | Whismur is a normal Pokémob.
-| Whismur evolves into :doc:`loudred`:
+| Whismur evolves into :ref:`loudred`:
 |  -  At Level 20.
 | 

@@ -1,4 +1,4 @@
-.. oddish:
+.. _oddish:
 
 Oddish
 -------
@@ -14,6 +14,6 @@ Oddish
 Description
 ============
 | Oddish is a grass/poison Pokémob.
-| Oddish evolves into :doc:`gloom`:
+| Oddish evolves into :ref:`gloom`:
 |  -  At Level 21.
 | 

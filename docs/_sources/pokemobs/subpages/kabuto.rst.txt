@@ -1,4 +1,4 @@
-.. kabuto:
+.. _kabuto:
 
 Kabuto
 -------

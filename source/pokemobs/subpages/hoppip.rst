@@ -1,4 +1,4 @@
-.. hoppip:
+.. _hoppip:
 
 Hoppip
 -------
@@ -14,6 +14,6 @@ Hoppip
 Description
 ============
 | Hoppip is a grass/flying Pokémob.
-| Hoppip evolves into :doc:`skiploom`:
+| Hoppip evolves into :ref:`skiploom`:
 |  -  At Level 18.
 | 

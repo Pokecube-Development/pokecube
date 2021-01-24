@@ -1,4 +1,4 @@
-.. gallade:
+.. _gallade:
 
 Gallade
 --------
@@ -14,4 +14,4 @@ Gallade
 Description
 ============
 | Gallade is a psychic/fighting Pokémob.
-| Gallade evolves from :doc:`kirlia`.
+| Gallade evolves from :ref:`kirlia`.

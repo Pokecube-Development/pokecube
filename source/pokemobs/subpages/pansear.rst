@@ -1,4 +1,4 @@
-.. pansear:
+.. _pansear:
 
 Pansear
 --------
@@ -14,6 +14,6 @@ Pansear
 Description
 ============
 | Pansear is a fire Pokémob.
-| Pansear evolves into :doc:`simisear`:
+| Pansear evolves into :ref:`simisear`:
 |  -  When given a Fire Stone.
 | 

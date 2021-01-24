@@ -1,4 +1,4 @@
-.. stunfisk:
+.. _stunfisk:
 
 Stunfisk
 ---------

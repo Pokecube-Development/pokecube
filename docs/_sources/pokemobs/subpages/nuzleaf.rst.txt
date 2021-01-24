@@ -1,4 +1,4 @@
-.. nuzleaf:
+.. _nuzleaf:
 
 Nuzleaf
 --------
@@ -14,7 +14,7 @@ Nuzleaf
 Description
 ============
 | Nuzleaf is a grass/dark Pokémob.
-| Nuzleaf evolves into :doc:`shiftry`:
+| Nuzleaf evolves into :ref:`shiftry`:
 |  -  When given a Leaf Stone.
 | 
-| Nuzleaf evolves from :doc:`seedot`.
+| Nuzleaf evolves from :ref:`seedot`.

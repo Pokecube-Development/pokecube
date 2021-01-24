@@ -1,4 +1,4 @@
-.. appletun:
+.. _appletun:
 
 Appletun
 ---------
@@ -14,4 +14,4 @@ Appletun
 Description
 ============
 | Appletun is a grass/dragon Pokémob.
-| Appletun evolves from :doc:`applin`.
+| Appletun evolves from :ref:`applin`.

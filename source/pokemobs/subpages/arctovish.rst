@@ -1,4 +1,4 @@
-.. arctovish:
+.. _arctovish:
 
 Arctovish
 ----------

@@ -1,4 +1,4 @@
-.. vespiquen:
+.. _vespiquen:
 
 Vespiquen
 ----------
@@ -14,4 +14,4 @@ Vespiquen
 Description
 ============
 | Vespiquen is a bug/flying Pokémob.
-| Vespiquen evolves from :doc:`combee`.
+| Vespiquen evolves from :ref:`combee`.

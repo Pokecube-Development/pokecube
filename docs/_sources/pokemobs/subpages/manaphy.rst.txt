@@ -1,4 +1,4 @@
-.. manaphy:
+.. _manaphy:
 
 Manaphy
 --------

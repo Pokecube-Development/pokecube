@@ -1,4 +1,4 @@
-.. palkia:
+.. _palkia:
 
 Palkia
 -------

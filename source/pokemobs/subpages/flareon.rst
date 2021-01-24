@@ -1,4 +1,4 @@
-.. flareon:
+.. _flareon:
 
 Flareon
 --------
@@ -14,4 +14,4 @@ Flareon
 Description
 ============
 | Flareon is a fire Pokémob.
-| Flareon evolves from :doc:`eevee`.
+| Flareon evolves from :ref:`eevee`.

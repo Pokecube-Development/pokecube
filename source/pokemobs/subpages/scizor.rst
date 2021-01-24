@@ -1,4 +1,4 @@
-.. scizor:
+.. _scizor:
 
 Scizor
 -------
@@ -14,4 +14,4 @@ Scizor
 Description
 ============
 | Scizor is a bug/steel Pokémob.
-| Scizor evolves from :doc:`scyther`.
+| Scizor evolves from :ref:`scyther`.

@@ -1,4 +1,4 @@
-.. arctozolt:
+.. _arctozolt:
 
 Arctozolt
 ----------

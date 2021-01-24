@@ -1,4 +1,4 @@
-.. toxapex:
+.. _toxapex:
 
 Toxapex
 --------
@@ -14,4 +14,4 @@ Toxapex
 Description
 ============
 | Toxapex is a poison/water Pokémob.
-| Toxapex evolves from :doc:`mareanie`.
+| Toxapex evolves from :ref:`mareanie`.

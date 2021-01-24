@@ -1,4 +1,4 @@
-.. shelgon:
+.. _shelgon:
 
 Shelgon
 --------
@@ -14,7 +14,7 @@ Shelgon
 Description
 ============
 | Shelgon is a dragon Pokémob.
-| Shelgon evolves into :doc:`salamence`:
+| Shelgon evolves into :ref:`salamence`:
 |  -  At Level 50.
 | 
-| Shelgon evolves from :doc:`bagon`.
+| Shelgon evolves from :ref:`bagon`.

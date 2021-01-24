@@ -1,4 +1,4 @@
-.. incineroar:
+.. _incineroar:
 
 Incineroar
 -----------
@@ -14,4 +14,4 @@ Incineroar
 Description
 ============
 | Incineroar is a fire/dark Pokémob.
-| Incineroar evolves from :doc:`torracat`.
+| Incineroar evolves from :ref:`torracat`.

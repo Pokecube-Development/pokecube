@@ -1,4 +1,4 @@
-.. vivillon:
+.. _vivillon:
 
 Vivillon
 ---------
@@ -14,4 +14,4 @@ Vivillon
 Description
 ============
 | Vivillon is a bug/flying Pokémob.
-| Vivillon evolves from :doc:`spewpa`.
+| Vivillon evolves from :ref:`spewpa`.

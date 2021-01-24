@@ -1,4 +1,4 @@
-.. ditto:
+.. _ditto:
 
 Ditto
 ------

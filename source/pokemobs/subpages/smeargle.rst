@@ -1,4 +1,4 @@
-.. smeargle:
+.. _smeargle:
 
 Smeargle
 ---------

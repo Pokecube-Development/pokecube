@@ -1,4 +1,4 @@
-.. wormadam:
+.. _wormadam:
 
 Wormadam
 ---------
@@ -14,4 +14,4 @@ Wormadam
 Description
 ============
 | Wormadam is a bug/ground Pokémob.
-| Wormadam evolves from :doc:`burmy`.
+| Wormadam evolves from :ref:`burmy`.

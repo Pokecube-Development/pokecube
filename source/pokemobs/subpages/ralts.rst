@@ -1,4 +1,4 @@
-.. ralts:
+.. _ralts:
 
 Ralts
 ------
@@ -14,6 +14,6 @@ Ralts
 Description
 ============
 | Ralts is a psychic/fairy Pokémob.
-| Ralts evolves into :doc:`kirlia`:
+| Ralts evolves into :ref:`kirlia`:
 |  -  At Level 20.
 | 

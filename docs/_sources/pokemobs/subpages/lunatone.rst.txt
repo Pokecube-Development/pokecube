@@ -1,4 +1,4 @@
-.. lunatone:
+.. _lunatone:
 
 Lunatone
 ---------

@@ -1,4 +1,4 @@
-.. granbull:
+.. _granbull:
 
 Granbull
 ---------
@@ -14,4 +14,4 @@ Granbull
 Description
 ============
 | Granbull is a fairy Pokémob.
-| Granbull evolves from :doc:`snubbull`.
+| Granbull evolves from :ref:`snubbull`.

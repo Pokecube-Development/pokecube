@@ -1,4 +1,4 @@
-.. fennekin:
+.. _fennekin:
 
 Fennekin
 ---------
@@ -14,6 +14,6 @@ Fennekin
 Description
 ============
 | Fennekin is a fire Pokémob.
-| Fennekin evolves into :doc:`braixen`:
+| Fennekin evolves into :ref:`braixen`:
 |  -  At Level 16.
 | 

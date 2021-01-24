@@ -1,4 +1,4 @@
-.. trumbeak:
+.. _trumbeak:
 
 Trumbeak
 ---------
@@ -14,7 +14,7 @@ Trumbeak
 Description
 ============
 | Trumbeak is a normal/flying Pokémob.
-| Trumbeak evolves into :doc:`toucannon`:
+| Trumbeak evolves into :ref:`toucannon`:
 |  -  At Level 28.
 | 
-| Trumbeak evolves from :doc:`pikipek`.
+| Trumbeak evolves from :ref:`pikipek`.

@@ -1,4 +1,4 @@
-.. drilbur:
+.. _drilbur:
 
 Drilbur
 --------
@@ -14,6 +14,6 @@ Drilbur
 Description
 ============
 | Drilbur is a ground Pokémob.
-| Drilbur evolves into :doc:`excadrill`:
+| Drilbur evolves into :ref:`excadrill`:
 |  -  At Level 31.
 | 

@@ -1,4 +1,4 @@
-.. woobat:
+.. _woobat:
 
 Woobat
 -------
@@ -14,6 +14,6 @@ Woobat
 Description
 ============
 | Woobat is a psychic/flying Pokémob.
-| Woobat evolves into :doc:`swoobat`:
+| Woobat evolves into :ref:`swoobat`:
 |  -  When Happy.
 | 

@@ -1,4 +1,4 @@
-.. minun:
+.. _minun:
 
 Minun
 ------

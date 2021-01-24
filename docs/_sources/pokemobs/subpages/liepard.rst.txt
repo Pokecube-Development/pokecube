@@ -1,4 +1,4 @@
-.. liepard:
+.. _liepard:
 
 Liepard
 --------
@@ -14,4 +14,4 @@ Liepard
 Description
 ============
 | Liepard is a dark Pokémob.
-| Liepard evolves from :doc:`purrloin`.
+| Liepard evolves from :ref:`purrloin`.

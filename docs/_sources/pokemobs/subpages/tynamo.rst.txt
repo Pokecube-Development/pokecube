@@ -1,4 +1,4 @@
-.. tynamo:
+.. _tynamo:
 
 Tynamo
 -------
@@ -14,6 +14,6 @@ Tynamo
 Description
 ============
 | Tynamo is a electric Pokémob.
-| Tynamo evolves into :doc:`eelektrik`:
+| Tynamo evolves into :ref:`eelektrik`:
 |  -  At Level 39.
 | 

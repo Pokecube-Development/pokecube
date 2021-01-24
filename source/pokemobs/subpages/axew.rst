@@ -1,4 +1,4 @@
-.. axew:
+.. _axew:
 
 Axew
 -----
@@ -14,6 +14,6 @@ Axew
 Description
 ============
 | Axew is a dragon Pokémob.
-| Axew evolves into :doc:`fraxure`:
+| Axew evolves into :ref:`fraxure`:
 |  -  At Level 38.
 | 

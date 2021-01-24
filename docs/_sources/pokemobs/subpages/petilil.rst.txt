@@ -1,4 +1,4 @@
-.. petilil:
+.. _petilil:
 
 Petilil
 --------
@@ -14,6 +14,6 @@ Petilil
 Description
 ============
 | Petilil is a grass Pokémob.
-| Petilil evolves into :doc:`lilligant`:
+| Petilil evolves into :ref:`lilligant`:
 |  -  When given a Sun Stone.
 | 

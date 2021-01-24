@@ -1,4 +1,4 @@
-.. rhyhorn:
+.. _rhyhorn:
 
 Rhyhorn
 --------
@@ -14,6 +14,6 @@ Rhyhorn
 Description
 ============
 | Rhyhorn is a ground/rock Pokémob.
-| Rhyhorn evolves into :doc:`rhydon`:
+| Rhyhorn evolves into :ref:`rhydon`:
 |  -  At Level 42.
 | 

@@ -1,4 +1,4 @@
-.. totodile:
+.. _totodile:
 
 Totodile
 ---------
@@ -14,6 +14,6 @@ Totodile
 Description
 ============
 | Totodile is a water Pokémob.
-| Totodile evolves into :doc:`croconaw`:
+| Totodile evolves into :ref:`croconaw`:
 |  -  At Level 18.
 | 

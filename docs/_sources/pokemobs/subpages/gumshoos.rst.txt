@@ -1,4 +1,4 @@
-.. gumshoos:
+.. _gumshoos:
 
 Gumshoos
 ---------
@@ -14,4 +14,4 @@ Gumshoos
 Description
 ============
 | Gumshoos is a normal Pokémob.
-| Gumshoos evolves from :doc:`yungoos`.
+| Gumshoos evolves from :ref:`yungoos`.

@@ -1,4 +1,4 @@
-.. nidoking:
+.. _nidoking:
 
 Nidoking
 ---------
@@ -14,4 +14,4 @@ Nidoking
 Description
 ============
 | Nidoking is a poison/ground Pokémob.
-| Nidoking evolves from :doc:`nidorino`.
+| Nidoking evolves from :ref:`nidorino`.

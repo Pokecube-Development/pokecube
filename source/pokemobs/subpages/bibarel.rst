@@ -1,4 +1,4 @@
-.. bibarel:
+.. _bibarel:
 
 Bibarel
 --------
@@ -14,4 +14,4 @@ Bibarel
 Description
 ============
 | Bibarel is a normal/water Pokémob.
-| Bibarel evolves from :doc:`bidoof`.
+| Bibarel evolves from :ref:`bidoof`.

@@ -1,4 +1,4 @@
-.. ivysaur:
+.. _ivysaur:
 
 Ivysaur
 --------
@@ -14,7 +14,7 @@ Ivysaur
 Description
 ============
 | Ivysaur is a grass/poison Pokémob.
-| Ivysaur evolves into :doc:`venusaur`:
+| Ivysaur evolves into :ref:`venusaur`:
 |  -  At Level 32.
 | 
-| Ivysaur evolves from :doc:`bulbasaur`.
+| Ivysaur evolves from :ref:`bulbasaur`.

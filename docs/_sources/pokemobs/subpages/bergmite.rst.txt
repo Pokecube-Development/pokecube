@@ -1,4 +1,4 @@
-.. bergmite:
+.. _bergmite:
 
 Bergmite
 ---------
@@ -14,6 +14,6 @@ Bergmite
 Description
 ============
 | Bergmite is a ice Pokémob.
-| Bergmite evolves into :doc:`avalugg`:
+| Bergmite evolves into :ref:`avalugg`:
 |  -  At Level 37.
 | 

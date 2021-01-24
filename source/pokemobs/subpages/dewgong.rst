@@ -1,4 +1,4 @@
-.. dewgong:
+.. _dewgong:
 
 Dewgong
 --------
@@ -14,4 +14,4 @@ Dewgong
 Description
 ============
 | Dewgong is a water/ice Pokémob.
-| Dewgong evolves from :doc:`seel`.
+| Dewgong evolves from :ref:`seel`.

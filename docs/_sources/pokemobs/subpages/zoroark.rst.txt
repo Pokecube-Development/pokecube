@@ -1,4 +1,4 @@
-.. zoroark:
+.. _zoroark:
 
 Zoroark
 --------
@@ -14,4 +14,4 @@ Zoroark
 Description
 ============
 | Zoroark is a dark Pokémob.
-| Zoroark evolves from :doc:`zorua`.
+| Zoroark evolves from :ref:`zorua`.

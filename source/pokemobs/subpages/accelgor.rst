@@ -1,4 +1,4 @@
-.. accelgor:
+.. _accelgor:
 
 Accelgor
 ---------
@@ -14,4 +14,4 @@ Accelgor
 Description
 ============
 | Accelgor is a bug Pokémob.
-| Accelgor evolves from :doc:`shelmet`.
+| Accelgor evolves from :ref:`shelmet`.

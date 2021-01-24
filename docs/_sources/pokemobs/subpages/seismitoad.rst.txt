@@ -1,4 +1,4 @@
-.. seismitoad:
+.. _seismitoad:
 
 Seismitoad
 -----------
@@ -14,4 +14,4 @@ Seismitoad
 Description
 ============
 | Seismitoad is a water/ground Pokémob.
-| Seismitoad evolves from :doc:`palpitoad`.
+| Seismitoad evolves from :ref:`palpitoad`.

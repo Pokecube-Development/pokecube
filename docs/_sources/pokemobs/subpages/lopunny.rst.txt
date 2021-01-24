@@ -1,4 +1,4 @@
-.. lopunny:
+.. _lopunny:
 
 Lopunny
 --------
@@ -14,4 +14,4 @@ Lopunny
 Description
 ============
 | Lopunny is a normal Pokémob.
-| Lopunny evolves from :doc:`buneary`.
+| Lopunny evolves from :ref:`buneary`.

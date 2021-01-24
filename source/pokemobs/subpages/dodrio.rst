@@ -1,4 +1,4 @@
-.. dodrio:
+.. _dodrio:
 
 Dodrio
 -------
@@ -14,4 +14,4 @@ Dodrio
 Description
 ============
 | Dodrio is a normal/flying Pokémob.
-| Dodrio evolves from :doc:`doduo`.
+| Dodrio evolves from :ref:`doduo`.

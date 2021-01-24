@@ -1,4 +1,4 @@
-.. cacnea:
+.. _cacnea:
 
 Cacnea
 -------
@@ -14,6 +14,6 @@ Cacnea
 Description
 ============
 | Cacnea is a grass Pokémob.
-| Cacnea evolves into :doc:`cacturne`:
+| Cacnea evolves into :ref:`cacturne`:
 |  -  At Level 32.
 | 

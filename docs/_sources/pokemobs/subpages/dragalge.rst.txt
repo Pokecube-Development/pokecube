@@ -1,4 +1,4 @@
-.. dragalge:
+.. _dragalge:
 
 Dragalge
 ---------
@@ -14,4 +14,4 @@ Dragalge
 Description
 ============
 | Dragalge is a poison/dragon Pokémob.
-| Dragalge evolves from :doc:`skrelp`.
+| Dragalge evolves from :ref:`skrelp`.

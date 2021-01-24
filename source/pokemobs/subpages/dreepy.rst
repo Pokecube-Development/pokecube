@@ -1,4 +1,4 @@
-.. dreepy:
+.. _dreepy:
 
 Dreepy
 -------
@@ -14,6 +14,6 @@ Dreepy
 Description
 ============
 | Dreepy is a dragon/ghost Pokémob.
-| Dreepy evolves into :doc:`drakloak`:
+| Dreepy evolves into :ref:`drakloak`:
 |  -  At Level 50.
 | 

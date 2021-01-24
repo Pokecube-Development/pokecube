@@ -1,4 +1,4 @@
-.. gligar:
+.. _gligar:
 
 Gligar
 -------
@@ -14,7 +14,7 @@ Gligar
 Description
 ============
 | Gligar is a ground/flying Pokémob.
-| Gligar evolves into :doc:`gliscor`:
+| Gligar evolves into :ref:`gliscor`:
 |  -  When given a Iron Pickaxe.
 |  -  During Night.
 | 

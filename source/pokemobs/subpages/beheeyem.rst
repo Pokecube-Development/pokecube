@@ -1,4 +1,4 @@
-.. beheeyem:
+.. _beheeyem:
 
 Beheeyem
 ---------
@@ -14,4 +14,4 @@ Beheeyem
 Description
 ============
 | Beheeyem is a psychic Pokémob.
-| Beheeyem evolves from :doc:`elgyem`.
+| Beheeyem evolves from :ref:`elgyem`.

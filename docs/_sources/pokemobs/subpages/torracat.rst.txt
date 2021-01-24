@@ -1,4 +1,4 @@
-.. torracat:
+.. _torracat:
 
 Torracat
 ---------
@@ -14,7 +14,7 @@ Torracat
 Description
 ============
 | Torracat is a fire Pokémob.
-| Torracat evolves into :doc:`incineroar`:
+| Torracat evolves into :ref:`incineroar`:
 |  -  At Level 34.
 | 
-| Torracat evolves from :doc:`litten`.
+| Torracat evolves from :ref:`litten`.

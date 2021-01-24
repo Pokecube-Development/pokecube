@@ -1,4 +1,4 @@
-.. steelix:
+.. _steelix:
 
 Steelix
 --------
@@ -14,4 +14,4 @@ Steelix
 Description
 ============
 | Steelix is a steel/ground Pokémob.
-| Steelix evolves from :doc:`onix`.
+| Steelix evolves from :ref:`onix`.

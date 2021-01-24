@@ -1,4 +1,4 @@
-.. dunsparce:
+.. _dunsparce:
 
 Dunsparce
 ----------

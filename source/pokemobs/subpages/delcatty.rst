@@ -1,4 +1,4 @@
-.. delcatty:
+.. _delcatty:
 
 Delcatty
 ---------
@@ -14,4 +14,4 @@ Delcatty
 Description
 ============
 | Delcatty is a normal Pokémob.
-| Delcatty evolves from :doc:`skitty`.
+| Delcatty evolves from :ref:`skitty`.

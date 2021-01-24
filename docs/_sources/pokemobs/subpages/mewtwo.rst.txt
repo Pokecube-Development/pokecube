@@ -1,4 +1,4 @@
-.. mewtwo:
+.. _mewtwo:
 
 Mewtwo
 -------

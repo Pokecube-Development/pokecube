@@ -1,4 +1,4 @@
-.. graveler:
+.. _graveler:
 
 Graveler
 ---------
@@ -14,7 +14,7 @@ Graveler
 Description
 ============
 | Graveler is a rock/ground Pokémob.
-| Graveler evolves into :doc:`golem`:
+| Graveler evolves into :ref:`golem`:
 |  -  After being traded.
 | 
-| Graveler evolves from :doc:`geodude`.
+| Graveler evolves from :ref:`geodude`.

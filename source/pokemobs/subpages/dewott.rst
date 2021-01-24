@@ -1,4 +1,4 @@
-.. dewott:
+.. _dewott:
 
 Dewott
 -------
@@ -14,7 +14,7 @@ Dewott
 Description
 ============
 | Dewott is a water Pokémob.
-| Dewott evolves into :doc:`samurott`:
+| Dewott evolves into :ref:`samurott`:
 |  -  At Level 36.
 | 
-| Dewott evolves from :doc:`oshawott`.
+| Dewott evolves from :ref:`oshawott`.

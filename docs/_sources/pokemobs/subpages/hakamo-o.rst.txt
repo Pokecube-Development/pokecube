@@ -1,4 +1,4 @@
-.. hakamo-o:
+.. _hakamo-o:
 
 Hakamo-o
 ---------
@@ -14,7 +14,7 @@ Hakamo-o
 Description
 ============
 | Hakamo-o is a dragon/fighting Pokémob.
-| Hakamo-o evolves into :doc:`kommo-o`:
+| Hakamo-o evolves into :ref:`kommo-o`:
 |  -  At Level 45.
 | 
-| Hakamo-o evolves from :doc:`jangmo-o`.
+| Hakamo-o evolves from :ref:`jangmo-o`.

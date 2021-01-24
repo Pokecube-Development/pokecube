@@ -1,4 +1,4 @@
-.. simisear:
+.. _simisear:
 
 Simisear
 ---------
@@ -14,4 +14,4 @@ Simisear
 Description
 ============
 | Simisear is a fire Pokémob.
-| Simisear evolves from :doc:`pansear`.
+| Simisear evolves from :ref:`pansear`.

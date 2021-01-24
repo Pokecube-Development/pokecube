@@ -1,4 +1,4 @@
-.. togepi:
+.. _togepi:
 
 Togepi
 -------
@@ -14,6 +14,6 @@ Togepi
 Description
 ============
 | Togepi is a fairy Pokémob.
-| Togepi evolves into :doc:`togetic`:
+| Togepi evolves into :ref:`togetic`:
 |  -  When Happy.
 | 

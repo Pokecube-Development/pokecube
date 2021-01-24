@@ -1,4 +1,4 @@
-.. duosion:
+.. _duosion:
 
 Duosion
 --------
@@ -14,7 +14,7 @@ Duosion
 Description
 ============
 | Duosion is a psychic Pokémob.
-| Duosion evolves into :doc:`reuniclus`:
+| Duosion evolves into :ref:`reuniclus`:
 |  -  At Level 41.
 | 
-| Duosion evolves from :doc:`solosis`.
+| Duosion evolves from :ref:`solosis`.

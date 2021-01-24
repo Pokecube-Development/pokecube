@@ -1,4 +1,4 @@
-.. sigilyph:
+.. _sigilyph:
 
 Sigilyph
 ---------

@@ -1,4 +1,4 @@
-.. gothita:
+.. _gothita:
 
 Gothita
 --------
@@ -14,6 +14,6 @@ Gothita
 Description
 ============
 | Gothita is a psychic Pokémob.
-| Gothita evolves into :doc:`gothorita`:
+| Gothita evolves into :ref:`gothorita`:
 |  -  At Level 32.
 | 

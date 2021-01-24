@@ -1,4 +1,4 @@
-.. wartortle:
+.. _wartortle:
 
 Wartortle
 ----------
@@ -14,7 +14,7 @@ Wartortle
 Description
 ============
 | Wartortle is a water Pokémob.
-| Wartortle evolves into :doc:`blastoise`:
+| Wartortle evolves into :ref:`blastoise`:
 |  -  At Level 36.
 | 
-| Wartortle evolves from :doc:`squirtle`.
+| Wartortle evolves from :ref:`squirtle`.

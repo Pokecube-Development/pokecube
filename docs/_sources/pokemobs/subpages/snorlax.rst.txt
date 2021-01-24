@@ -1,4 +1,4 @@
-.. snorlax:
+.. _snorlax:
 
 Snorlax
 --------
@@ -14,4 +14,4 @@ Snorlax
 Description
 ============
 | Snorlax is a normal Pokémob.
-| Snorlax evolves from :doc:`munchlax`.
+| Snorlax evolves from :ref:`munchlax`.

@@ -1,4 +1,4 @@
-.. gastrodon:
+.. _gastrodon:
 
 Gastrodon
 ----------
@@ -14,4 +14,4 @@ Gastrodon
 Description
 ============
 | Gastrodon is a water/ground Pokémob.
-| Gastrodon evolves from :doc:`shellos`.
+| Gastrodon evolves from :ref:`shellos`.

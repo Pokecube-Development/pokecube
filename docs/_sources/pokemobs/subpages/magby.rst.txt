@@ -1,4 +1,4 @@
-.. magby:
+.. _magby:
 
 Magby
 ------
@@ -14,6 +14,6 @@ Magby
 Description
 ============
 | Magby is a fire Pokémob.
-| Magby evolves into :doc:`magmar`:
+| Magby evolves into :ref:`magmar`:
 |  -  At Level 30.
 | 

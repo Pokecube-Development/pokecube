@@ -1,4 +1,4 @@
-.. turtwig:
+.. _turtwig:
 
 Turtwig
 --------
@@ -14,6 +14,6 @@ Turtwig
 Description
 ============
 | Turtwig is a grass Pokémob.
-| Turtwig evolves into :doc:`grotle`:
+| Turtwig evolves into :ref:`grotle`:
 |  -  At Level 18.
 | 

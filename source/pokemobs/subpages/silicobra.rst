@@ -1,4 +1,4 @@
-.. silicobra:
+.. _silicobra:
 
 Silicobra
 ----------
@@ -14,6 +14,6 @@ Silicobra
 Description
 ============
 | Silicobra is a ground Pokémob.
-| Silicobra evolves into :doc:`sandaconda`:
+| Silicobra evolves into :ref:`sandaconda`:
 |  -  At Level 36.
 | 

@@ -1,4 +1,4 @@
-.. metang:
+.. _metang:
 
 Metang
 -------
@@ -14,7 +14,7 @@ Metang
 Description
 ============
 | Metang is a steel/psychic Pokémob.
-| Metang evolves into :doc:`metagross`:
+| Metang evolves into :ref:`metagross`:
 |  -  At Level 45.
 | 
-| Metang evolves from :doc:`beldum`.
+| Metang evolves from :ref:`beldum`.

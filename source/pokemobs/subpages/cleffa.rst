@@ -1,4 +1,4 @@
-.. cleffa:
+.. _cleffa:
 
 Cleffa
 -------
@@ -14,6 +14,6 @@ Cleffa
 Description
 ============
 | Cleffa is a fairy Pokémob.
-| Cleffa evolves into :doc:`clefairy`:
+| Cleffa evolves into :ref:`clefairy`:
 |  -  When Happy.
 | 

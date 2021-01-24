@@ -1,4 +1,4 @@
-.. leafeon:
+.. _leafeon:
 
 Leafeon
 --------
@@ -14,4 +14,4 @@ Leafeon
 Description
 ============
 | Leafeon is a grass Pokémob.
-| Leafeon evolves from :doc:`eevee`.
+| Leafeon evolves from :ref:`eevee`.

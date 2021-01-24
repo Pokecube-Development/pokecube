@@ -1,4 +1,4 @@
-.. kricketot:
+.. _kricketot:
 
 Kricketot
 ----------
@@ -14,6 +14,6 @@ Kricketot
 Description
 ============
 | Kricketot is a bug Pokémob.
-| Kricketot evolves into :doc:`kricketune`:
+| Kricketot evolves into :ref:`kricketune`:
 |  -  At Level 10.
 | 

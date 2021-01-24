@@ -1,4 +1,4 @@
-.. rillaboom:
+.. _rillaboom:
 
 Rillaboom
 ----------
@@ -14,4 +14,4 @@ Rillaboom
 Description
 ============
 | Rillaboom is a grass Pokémob.
-| Rillaboom evolves from :doc:`thwackey`.
+| Rillaboom evolves from :ref:`thwackey`.

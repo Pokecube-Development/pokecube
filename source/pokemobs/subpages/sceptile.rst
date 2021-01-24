@@ -1,4 +1,4 @@
-.. sceptile:
+.. _sceptile:
 
 Sceptile
 ---------
@@ -14,4 +14,4 @@ Sceptile
 Description
 ============
 | Sceptile is a grass Pokémob.
-| Sceptile evolves from :doc:`grovyle`.
+| Sceptile evolves from :ref:`grovyle`.

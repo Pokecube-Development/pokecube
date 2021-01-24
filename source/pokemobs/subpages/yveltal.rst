@@ -1,4 +1,4 @@
-.. yveltal:
+.. _yveltal:
 
 Yveltal
 --------

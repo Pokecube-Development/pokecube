@@ -1,4 +1,4 @@
-.. machop:
+.. _machop:
 
 Machop
 -------
@@ -14,6 +14,6 @@ Machop
 Description
 ============
 | Machop is a fighting Pokémob.
-| Machop evolves into :doc:`machoke`:
+| Machop evolves into :ref:`machoke`:
 |  -  At Level 28.
 | 

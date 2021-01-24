@@ -1,4 +1,4 @@
-.. decidueye:
+.. _decidueye:
 
 Decidueye
 ----------
@@ -14,4 +14,4 @@ Decidueye
 Description
 ============
 | Decidueye is a grass/ghost Pokémob.
-| Decidueye evolves from :doc:`dartrix`.
+| Decidueye evolves from :ref:`dartrix`.

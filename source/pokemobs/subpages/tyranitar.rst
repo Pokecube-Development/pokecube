@@ -1,4 +1,4 @@
-.. tyranitar:
+.. _tyranitar:
 
 Tyranitar
 ----------
@@ -14,4 +14,4 @@ Tyranitar
 Description
 ============
 | Tyranitar is a rock/dark Pokémob.
-| Tyranitar evolves from :doc:`pupitar`.
+| Tyranitar evolves from :ref:`pupitar`.

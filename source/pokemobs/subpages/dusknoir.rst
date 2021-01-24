@@ -1,4 +1,4 @@
-.. dusknoir:
+.. _dusknoir:
 
 Dusknoir
 ---------
@@ -14,4 +14,4 @@ Dusknoir
 Description
 ============
 | Dusknoir is a ghost Pokémob.
-| Dusknoir evolves from :doc:`dusclops`.
+| Dusknoir evolves from :ref:`dusclops`.

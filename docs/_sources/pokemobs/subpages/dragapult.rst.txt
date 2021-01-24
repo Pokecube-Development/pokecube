@@ -1,4 +1,4 @@
-.. dragapult:
+.. _dragapult:
 
 Dragapult
 ----------
@@ -14,4 +14,4 @@ Dragapult
 Description
 ============
 | Dragapult is a ghost/dragon Pokémob.
-| Dragapult evolves from :doc:`drakloak`.
+| Dragapult evolves from :ref:`drakloak`.

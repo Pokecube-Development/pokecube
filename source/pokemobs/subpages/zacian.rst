@@ -1,4 +1,4 @@
-.. zacian:
+.. _zacian:
 
 Zacian
 -------

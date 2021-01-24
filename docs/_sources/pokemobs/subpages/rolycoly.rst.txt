@@ -1,4 +1,4 @@
-.. rolycoly:
+.. _rolycoly:
 
 Rolycoly
 ---------
@@ -14,6 +14,6 @@ Rolycoly
 Description
 ============
 | Rolycoly is a rock Pokémob.
-| Rolycoly evolves into :doc:`carkol`:
+| Rolycoly evolves into :ref:`carkol`:
 |  -  At Level 18.
 | 

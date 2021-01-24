@@ -1,4 +1,4 @@
-.. mankey:
+.. _mankey:
 
 Mankey
 -------
@@ -14,6 +14,6 @@ Mankey
 Description
 ============
 | Mankey is a fighting Pokémob.
-| Mankey evolves into :doc:`primeape`:
+| Mankey evolves into :ref:`primeape`:
 |  -  At Level 28.
 | 

@@ -1,4 +1,4 @@
-.. meowstic:
+.. _meowstic:
 
 Meowstic
 ---------
@@ -14,4 +14,4 @@ Meowstic
 Description
 ============
 | Meowstic is a psychic Pokémob.
-| Meowstic evolves from :doc:`espurr`.
+| Meowstic evolves from :ref:`espurr`.

@@ -1,4 +1,4 @@
-.. drifblim:
+.. _drifblim:
 
 Drifblim
 ---------
@@ -14,4 +14,4 @@ Drifblim
 Description
 ============
 | Drifblim is a ghost/flying Pokémob.
-| Drifblim evolves from :doc:`drifloon`.
+| Drifblim evolves from :ref:`drifloon`.

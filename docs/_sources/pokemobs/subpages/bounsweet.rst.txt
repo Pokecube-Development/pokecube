@@ -1,4 +1,4 @@
-.. bounsweet:
+.. _bounsweet:
 
 Bounsweet
 ----------
@@ -14,6 +14,6 @@ Bounsweet
 Description
 ============
 | Bounsweet is a grass Pokémob.
-| Bounsweet evolves into :doc:`steenee`:
+| Bounsweet evolves into :ref:`steenee`:
 |  -  At Level 18.
 | 

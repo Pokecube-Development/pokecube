@@ -1,4 +1,4 @@
-.. klink:
+.. _klink:
 
 Klink
 ------
@@ -14,6 +14,6 @@ Klink
 Description
 ============
 | Klink is a steel Pokémob.
-| Klink evolves into :doc:`klang`:
+| Klink evolves into :ref:`klang`:
 |  -  At Level 38.
 | 

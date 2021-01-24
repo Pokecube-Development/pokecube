@@ -1,4 +1,4 @@
-.. elekid:
+.. _elekid:
 
 Elekid
 -------
@@ -14,6 +14,6 @@ Elekid
 Description
 ============
 | Elekid is a electric Pokémob.
-| Elekid evolves into :doc:`electabuzz`:
+| Elekid evolves into :ref:`electabuzz`:
 |  -  At Level 30.
 | 

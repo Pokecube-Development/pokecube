@@ -1,4 +1,4 @@
-.. rapidash:
+.. _rapidash:
 
 Rapidash
 ---------
@@ -14,4 +14,4 @@ Rapidash
 Description
 ============
 | Rapidash is a fire Pokémob.
-| Rapidash evolves from :doc:`ponyta`.
+| Rapidash evolves from :ref:`ponyta`.

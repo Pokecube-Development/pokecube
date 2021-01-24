@@ -1,4 +1,4 @@
-.. raboot:
+.. _raboot:
 
 Raboot
 -------
@@ -14,7 +14,7 @@ Raboot
 Description
 ============
 | Raboot is a fire Pokémob.
-| Raboot evolves into :doc:`cinderace`:
+| Raboot evolves into :ref:`cinderace`:
 |  -  At Level 35.
 | 
-| Raboot evolves from :doc:`scorbunny`.
+| Raboot evolves from :ref:`scorbunny`.

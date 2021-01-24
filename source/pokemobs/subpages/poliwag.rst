@@ -1,4 +1,4 @@
-.. poliwag:
+.. _poliwag:
 
 Poliwag
 --------
@@ -14,6 +14,6 @@ Poliwag
 Description
 ============
 | Poliwag is a water Pokémob.
-| Poliwag evolves into :doc:`poliwhirl`:
+| Poliwag evolves into :ref:`poliwhirl`:
 |  -  At Level 25.
 | 

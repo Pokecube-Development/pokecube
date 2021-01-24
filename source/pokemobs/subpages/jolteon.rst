@@ -1,4 +1,4 @@
-.. jolteon:
+.. _jolteon:
 
 Jolteon
 --------
@@ -14,4 +14,4 @@ Jolteon
 Description
 ============
 | Jolteon is a electric Pokémob.
-| Jolteon evolves from :doc:`eevee`.
+| Jolteon evolves from :ref:`eevee`.

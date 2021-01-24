@@ -1,4 +1,4 @@
-.. chingling:
+.. _chingling:
 
 Chingling
 ----------
@@ -14,7 +14,7 @@ Chingling
 Description
 ============
 | Chingling is a psychic Pokémob.
-| Chingling evolves into :doc:`chimecho`:
+| Chingling evolves into :ref:`chimecho`:
 |  -  When Happy.
 |  -  During Night.
 | 

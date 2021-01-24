@@ -1,4 +1,4 @@
-.. luvdisc:
+.. _luvdisc:
 
 Luvdisc
 --------

@@ -1,4 +1,4 @@
-.. zeraora:
+.. _zeraora:
 
 Zeraora
 --------

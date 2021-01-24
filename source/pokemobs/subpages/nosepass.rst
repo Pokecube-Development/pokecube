@@ -1,4 +1,4 @@
-.. nosepass:
+.. _nosepass:
 
 Nosepass
 ---------
@@ -14,6 +14,6 @@ Nosepass
 Description
 ============
 | Nosepass is a rock Pokémob.
-| Nosepass evolves into :doc:`probopass`:
+| Nosepass evolves into :ref:`probopass`:
 |  -  In [Industrial Area].
 | 

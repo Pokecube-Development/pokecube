@@ -1,4 +1,4 @@
-.. magmar:
+.. _magmar:
 
 Magmar
 -------
@@ -14,8 +14,8 @@ Magmar
 Description
 ============
 | Magmar is a fire Pokémob.
-| Magmar evolves into :doc:`magmortar`:
+| Magmar evolves into :ref:`magmortar`:
 |  -  After being traded.
 |  -  When given a Magmarizer.
 | 
-| Magmar evolves from :doc:`magby`.
+| Magmar evolves from :ref:`magby`.

@@ -1,4 +1,4 @@
-.. dwebble:
+.. _dwebble:
 
 Dwebble
 --------
@@ -14,6 +14,6 @@ Dwebble
 Description
 ============
 | Dwebble is a bug/rock Pokémob.
-| Dwebble evolves into :doc:`crustle`:
+| Dwebble evolves into :ref:`crustle`:
 |  -  At Level 34.
 | 

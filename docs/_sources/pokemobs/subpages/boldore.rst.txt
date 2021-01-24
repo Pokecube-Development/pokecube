@@ -1,4 +1,4 @@
-.. boldore:
+.. _boldore:
 
 Boldore
 --------
@@ -14,7 +14,7 @@ Boldore
 Description
 ============
 | Boldore is a rock Pokémob.
-| Boldore evolves into :doc:`gigalith`:
+| Boldore evolves into :ref:`gigalith`:
 |  -  After being traded.
 | 
-| Boldore evolves from :doc:`roggenrola`.
+| Boldore evolves from :ref:`roggenrola`.

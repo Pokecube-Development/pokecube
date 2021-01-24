@@ -1,4 +1,4 @@
-.. raticate:
+.. _raticate:
 
 Raticate
 ---------
@@ -14,4 +14,4 @@ Raticate
 Description
 ============
 | Raticate is a normal Pokémob.
-| Raticate evolves from :doc:`rattata`.
+| Raticate evolves from :ref:`rattata`.

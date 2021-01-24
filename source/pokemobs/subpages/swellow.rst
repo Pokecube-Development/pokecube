@@ -1,4 +1,4 @@
-.. swellow:
+.. _swellow:
 
 Swellow
 --------
@@ -14,4 +14,4 @@ Swellow
 Description
 ============
 | Swellow is a normal/flying Pokémob.
-| Swellow evolves from :doc:`taillow`.
+| Swellow evolves from :ref:`taillow`.

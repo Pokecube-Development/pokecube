@@ -1,4 +1,4 @@
-.. perrserker:
+.. _perrserker:
 
 Perrserker
 -----------
@@ -14,4 +14,4 @@ Perrserker
 Description
 ============
 | Perrserker is a steel Pokémob.
-| Perrserker evolves from :doc:`meowth`.
+| Perrserker evolves from :ref:`meowth`.

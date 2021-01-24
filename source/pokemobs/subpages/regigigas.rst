@@ -1,4 +1,4 @@
-.. regigigas:
+.. _regigigas:
 
 Regigigas
 ----------

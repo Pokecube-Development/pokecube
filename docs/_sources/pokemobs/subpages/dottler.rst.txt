@@ -1,4 +1,4 @@
-.. dottler:
+.. _dottler:
 
 Dottler
 --------
@@ -14,7 +14,7 @@ Dottler
 Description
 ============
 | Dottler is a bug/psychic Pokémob.
-| Dottler evolves into :doc:`orbeetle`:
+| Dottler evolves into :ref:`orbeetle`:
 |  -  At Level 30.
 | 
-| Dottler evolves from :doc:`blipbug`.
+| Dottler evolves from :ref:`blipbug`.

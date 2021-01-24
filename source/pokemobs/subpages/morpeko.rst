@@ -1,4 +1,4 @@
-.. morpeko:
+.. _morpeko:
 
 Morpeko
 --------

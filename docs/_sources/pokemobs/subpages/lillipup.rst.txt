@@ -1,4 +1,4 @@
-.. lillipup:
+.. _lillipup:
 
 Lillipup
 ---------
@@ -14,6 +14,6 @@ Lillipup
 Description
 ============
 | Lillipup is a normal Pokémob.
-| Lillipup evolves into :doc:`herdier`:
+| Lillipup evolves into :ref:`herdier`:
 |  -  At Level 16.
 | 

@@ -1,4 +1,4 @@
-.. porygon-z:
+.. _porygon-z:
 
 Porygon-Z
 ----------
@@ -14,4 +14,4 @@ Porygon-Z
 Description
 ============
 | Porygon-Z is a normal Pokémob.
-| Porygon-Z evolves from :doc:`porygon2`.
+| Porygon-Z evolves from :ref:`porygon2`.

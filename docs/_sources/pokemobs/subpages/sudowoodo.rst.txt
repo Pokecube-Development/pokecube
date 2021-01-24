@@ -1,4 +1,4 @@
-.. sudowoodo:
+.. _sudowoodo:
 
 Sudowoodo
 ----------
@@ -14,4 +14,4 @@ Sudowoodo
 Description
 ============
 | Sudowoodo is a rock Pokémob.
-| Sudowoodo evolves from :doc:`bonsly`.
+| Sudowoodo evolves from :ref:`bonsly`.

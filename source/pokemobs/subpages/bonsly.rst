@@ -1,4 +1,4 @@
-.. bonsly:
+.. _bonsly:
 
 Bonsly
 -------
@@ -14,6 +14,6 @@ Bonsly
 Description
 ============
 | Bonsly is a rock Pokémob.
-| Bonsly evolves into :doc:`sudowoodo`:
+| Bonsly evolves into :ref:`sudowoodo`:
 |  -  And knows Mimic.
 | 

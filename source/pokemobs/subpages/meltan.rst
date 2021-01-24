@@ -1,4 +1,4 @@
-.. meltan:
+.. _meltan:
 
 Meltan
 -------
@@ -14,6 +14,6 @@ Meltan
 Description
 ============
 | Meltan is a steel Pokémob.
-| Meltan evolves into :doc:`melmetal`:
+| Meltan evolves into :ref:`melmetal`:
 |  -  At Level 32.
 | 

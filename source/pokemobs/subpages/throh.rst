@@ -1,4 +1,4 @@
-.. throh:
+.. _throh:
 
 Throh
 ------

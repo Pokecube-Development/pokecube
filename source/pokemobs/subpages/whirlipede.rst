@@ -1,4 +1,4 @@
-.. whirlipede:
+.. _whirlipede:
 
 Whirlipede
 -----------
@@ -14,7 +14,7 @@ Whirlipede
 Description
 ============
 | Whirlipede is a bug/poison Pokémob.
-| Whirlipede evolves into :doc:`scolipede`:
+| Whirlipede evolves into :ref:`scolipede`:
 |  -  At Level 30.
 | 
-| Whirlipede evolves from :doc:`venipede`.
+| Whirlipede evolves from :ref:`venipede`.

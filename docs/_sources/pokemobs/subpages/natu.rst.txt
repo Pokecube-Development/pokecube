@@ -1,4 +1,4 @@
-.. natu:
+.. _natu:
 
 Natu
 -----
@@ -14,6 +14,6 @@ Natu
 Description
 ============
 | Natu is a psychic/flying Pokémob.
-| Natu evolves into :doc:`xatu`:
+| Natu evolves into :ref:`xatu`:
 |  -  At Level 25.
 | 

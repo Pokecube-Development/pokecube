@@ -1,4 +1,4 @@
-.. clobbopus:
+.. _clobbopus:
 
 Clobbopus
 ----------
@@ -14,6 +14,6 @@ Clobbopus
 Description
 ============
 | Clobbopus is a fighting Pokémob.
-| Clobbopus evolves into :doc:`grapploct`:
+| Clobbopus evolves into :ref:`grapploct`:
 |  -  And knows Taunt.
 | 

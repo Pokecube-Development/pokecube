@@ -1,4 +1,4 @@
-.. slowbro:
+.. _slowbro:
 
 Slowbro
 --------
@@ -14,4 +14,4 @@ Slowbro
 Description
 ============
 | Slowbro is a water/psychic Pokémob.
-| Slowbro evolves from :doc:`slowpoke`.
+| Slowbro evolves from :ref:`slowpoke`.

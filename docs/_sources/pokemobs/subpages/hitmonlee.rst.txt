@@ -1,4 +1,4 @@
-.. hitmonlee:
+.. _hitmonlee:
 
 Hitmonlee
 ----------
@@ -14,4 +14,4 @@ Hitmonlee
 Description
 ============
 | Hitmonlee is a fighting Pokémob.
-| Hitmonlee evolves from :doc:`tyrogue`.
+| Hitmonlee evolves from :ref:`tyrogue`.

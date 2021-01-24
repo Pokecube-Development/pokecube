@@ -1,4 +1,4 @@
-.. zygarde_50:
+.. _zygarde_50:
 
 Zygarde
 --------

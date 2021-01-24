@@ -1,4 +1,4 @@
-.. charmander:
+.. _charmander:
 
 Charmander
 -----------
@@ -14,6 +14,6 @@ Charmander
 Description
 ============
 | Charmander is a fire Pokémob.
-| Charmander evolves into :doc:`charmeleon`:
+| Charmander evolves into :ref:`charmeleon`:
 |  -  At Level 16.
 | 

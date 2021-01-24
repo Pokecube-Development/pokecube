@@ -1,4 +1,4 @@
-.. yanmega:
+.. _yanmega:
 
 Yanmega
 --------
@@ -14,4 +14,4 @@ Yanmega
 Description
 ============
 | Yanmega is a bug/flying Pokémob.
-| Yanmega evolves from :doc:`yanma`.
+| Yanmega evolves from :ref:`yanma`.

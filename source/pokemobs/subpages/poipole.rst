@@ -1,4 +1,4 @@
-.. poipole:
+.. _poipole:
 
 Poipole
 --------
@@ -14,6 +14,6 @@ Poipole
 Description
 ============
 | Poipole is a poison Pokémob.
-| Poipole evolves into :doc:`naganadel`:
+| Poipole evolves into :ref:`naganadel`:
 |  -  And knows Dragon Pulse.
 | 

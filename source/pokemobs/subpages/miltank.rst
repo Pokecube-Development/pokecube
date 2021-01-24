@@ -1,4 +1,4 @@
-.. miltank:
+.. _miltank:
 
 Miltank
 --------

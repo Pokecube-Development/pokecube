@@ -1,4 +1,4 @@
-.. combee:
+.. _combee:
 
 Combee
 -------
@@ -14,7 +14,7 @@ Combee
 Description
 ============
 | Combee is a bug/flying Pokémob.
-| Combee evolves into :doc:`vespiquen`:
+| Combee evolves into :ref:`vespiquen`:
 |  -  At Level 21.
 |  -  When female.
 | 

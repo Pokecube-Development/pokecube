@@ -1,4 +1,4 @@
-.. skrelp:
+.. _skrelp:
 
 Skrelp
 -------
@@ -14,6 +14,6 @@ Skrelp
 Description
 ============
 | Skrelp is a poison/water Pokémob.
-| Skrelp evolves into :doc:`dragalge`:
+| Skrelp evolves into :ref:`dragalge`:
 |  -  At Level 48.
 | 

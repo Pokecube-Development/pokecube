@@ -1,4 +1,4 @@
-.. skwovet:
+.. _skwovet:
 
 Skwovet
 --------
@@ -14,6 +14,6 @@ Skwovet
 Description
 ============
 | Skwovet is a normal Pokémob.
-| Skwovet evolves into :doc:`greedent`:
+| Skwovet evolves into :ref:`greedent`:
 |  -  At Level 24.
 | 

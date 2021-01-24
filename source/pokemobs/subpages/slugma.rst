@@ -1,4 +1,4 @@
-.. slugma:
+.. _slugma:
 
 Slugma
 -------
@@ -14,6 +14,6 @@ Slugma
 Description
 ============
 | Slugma is a fire Pokémob.
-| Slugma evolves into :doc:`magcargo`:
+| Slugma evolves into :ref:`magcargo`:
 |  -  At Level 38.
 | 

@@ -1,4 +1,4 @@
-.. alomomola:
+.. _alomomola:
 
 Alomomola
 ----------

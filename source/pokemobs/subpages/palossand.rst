@@ -1,4 +1,4 @@
-.. palossand:
+.. _palossand:
 
 Palossand
 ----------
@@ -14,4 +14,4 @@ Palossand
 Description
 ============
 | Palossand is a ghost/ground Pokémob.
-| Palossand evolves from :doc:`sandygast`.
+| Palossand evolves from :ref:`sandygast`.

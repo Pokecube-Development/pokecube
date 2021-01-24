@@ -1,4 +1,4 @@
-.. emboar:
+.. _emboar:
 
 Emboar
 -------
@@ -14,4 +14,4 @@ Emboar
 Description
 ============
 | Emboar is a fire/fighting Pokémob.
-| Emboar evolves from :doc:`pignite`.
+| Emboar evolves from :ref:`pignite`.

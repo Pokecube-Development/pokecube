@@ -1,4 +1,4 @@
-.. torchic:
+.. _torchic:
 
 Torchic
 --------
@@ -14,6 +14,6 @@ Torchic
 Description
 ============
 | Torchic is a fire Pokémob.
-| Torchic evolves into :doc:`combusken`:
+| Torchic evolves into :ref:`combusken`:
 |  -  At Level 16.
 | 

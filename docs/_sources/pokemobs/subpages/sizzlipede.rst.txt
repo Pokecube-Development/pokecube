@@ -1,4 +1,4 @@
-.. sizzlipede:
+.. _sizzlipede:
 
 Sizzlipede
 -----------
@@ -14,6 +14,6 @@ Sizzlipede
 Description
 ============
 | Sizzlipede is a fire/bug Pokémob.
-| Sizzlipede evolves into :doc:`centiskorch`:
+| Sizzlipede evolves into :ref:`centiskorch`:
 |  -  At Level 28.
 | 

@@ -1,4 +1,4 @@
-.. oranguru:
+.. _oranguru:
 
 Oranguru
 ---------

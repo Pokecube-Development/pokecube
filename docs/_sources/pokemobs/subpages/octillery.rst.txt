@@ -1,4 +1,4 @@
-.. octillery:
+.. _octillery:
 
 Octillery
 ----------
@@ -14,4 +14,4 @@ Octillery
 Description
 ============
 | Octillery is a water Pokémob.
-| Octillery evolves from :doc:`remoraid`.
+| Octillery evolves from :ref:`remoraid`.

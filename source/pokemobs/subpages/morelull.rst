@@ -1,4 +1,4 @@
-.. morelull:
+.. _morelull:
 
 Morelull
 ---------
@@ -14,6 +14,6 @@ Morelull
 Description
 ============
 | Morelull is a grass/fairy Pokémob.
-| Morelull evolves into :doc:`shiinotic`:
+| Morelull evolves into :ref:`shiinotic`:
 |  -  At Level 24.
 | 

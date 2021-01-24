@@ -1,4 +1,4 @@
-.. milotic:
+.. _milotic:
 
 Milotic
 --------
@@ -14,4 +14,4 @@ Milotic
 Description
 ============
 | Milotic is a water Pokémob.
-| Milotic evolves from :doc:`feebas`.
+| Milotic evolves from :ref:`feebas`.

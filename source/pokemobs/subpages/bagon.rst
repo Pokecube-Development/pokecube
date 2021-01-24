@@ -1,4 +1,4 @@
-.. bagon:
+.. _bagon:
 
 Bagon
 ------
@@ -14,6 +14,6 @@ Bagon
 Description
 ============
 | Bagon is a dragon Pokémob.
-| Bagon evolves into :doc:`shelgon`:
+| Bagon evolves into :ref:`shelgon`:
 |  -  At Level 30.
 | 

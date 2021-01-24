@@ -1,4 +1,4 @@
-.. marowak:
+.. _marowak:
 
 Marowak
 --------
@@ -14,4 +14,4 @@ Marowak
 Description
 ============
 | Marowak is a ground Pokémob.
-| Marowak evolves from :doc:`cubone`.
+| Marowak evolves from :ref:`cubone`.

@@ -1,4 +1,4 @@
-.. aegislash_blade:
+.. _aegislash_blade:
 
 Aegislash
 ----------
@@ -14,4 +14,4 @@ Aegislash
 Description
 ============
 | Aegislash is a steel/ghost Pokémob.
-| Aegislash evolves from :doc:`doublade`.
+| Aegislash evolves from :ref:`doublade`.

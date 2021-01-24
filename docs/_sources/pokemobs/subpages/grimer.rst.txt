@@ -1,4 +1,4 @@
-.. grimer:
+.. _grimer:
 
 Grimer
 -------
@@ -14,6 +14,6 @@ Grimer
 Description
 ============
 | Grimer is a poison Pokémob.
-| Grimer evolves into :doc:`muk`:
+| Grimer evolves into :ref:`muk`:
 |  -  At Level 38.
 | 

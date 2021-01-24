@@ -1,4 +1,4 @@
-.. ekans:
+.. _ekans:
 
 Ekans
 ------
@@ -14,6 +14,6 @@ Ekans
 Description
 ============
 | Ekans is a poison Pokémob.
-| Ekans evolves into :doc:`arbok`:
+| Ekans evolves into :ref:`arbok`:
 |  -  At Level 22.
 | 

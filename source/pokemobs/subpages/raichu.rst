@@ -1,4 +1,4 @@
-.. raichu:
+.. _raichu:
 
 Raichu
 -------
@@ -14,4 +14,4 @@ Raichu
 Description
 ============
 | Raichu is a electric Pokémob.
-| Raichu evolves from :doc:`pikachu`.
+| Raichu evolves from :ref:`pikachu`.

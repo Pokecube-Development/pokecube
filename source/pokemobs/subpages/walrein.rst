@@ -1,4 +1,4 @@
-.. walrein:
+.. _walrein:
 
 Walrein
 --------
@@ -14,4 +14,4 @@ Walrein
 Description
 ============
 | Walrein is a ice/water Pokémob.
-| Walrein evolves from :doc:`sealeo`.
+| Walrein evolves from :ref:`sealeo`.

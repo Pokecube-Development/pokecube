@@ -1,4 +1,4 @@
-.. darumaka:
+.. _darumaka:
 
 Darumaka
 ---------
@@ -14,6 +14,6 @@ Darumaka
 Description
 ============
 | Darumaka is a fire Pokémob.
-| Darumaka evolves into :doc:`darmanitan`:
+| Darumaka evolves into :ref:`darmanitan`:
 |  -  At Level 35.
 | 

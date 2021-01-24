@@ -1,4 +1,4 @@
-.. garbodor:
+.. _garbodor:
 
 Garbodor
 ---------
@@ -14,4 +14,4 @@ Garbodor
 Description
 ============
 | Garbodor is a poison Pokémob.
-| Garbodor evolves from :doc:`trubbish`.
+| Garbodor evolves from :ref:`trubbish`.

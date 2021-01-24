@@ -1,4 +1,4 @@
-.. seel:
+.. _seel:
 
 Seel
 -----
@@ -14,6 +14,6 @@ Seel
 Description
 ============
 | Seel is a water Pokémob.
-| Seel evolves into :doc:`dewgong`:
+| Seel evolves into :ref:`dewgong`:
 |  -  At Level 34.
 | 

@@ -1,4 +1,4 @@
-.. crustle:
+.. _crustle:
 
 Crustle
 --------
@@ -14,4 +14,4 @@ Crustle
 Description
 ============
 | Crustle is a bug/rock Pokémob.
-| Crustle evolves from :doc:`dwebble`.
+| Crustle evolves from :ref:`dwebble`.

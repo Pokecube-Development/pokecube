@@ -1,4 +1,4 @@
-.. guzzlord:
+.. _guzzlord:
 
 Guzzlord
 ---------

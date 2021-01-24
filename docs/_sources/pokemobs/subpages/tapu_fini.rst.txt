@@ -1,4 +1,4 @@
-.. tapu_fini:
+.. _tapu_fini:
 
 Tapu Fini
 ----------

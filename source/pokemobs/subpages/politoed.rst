@@ -1,4 +1,4 @@
-.. politoed:
+.. _politoed:
 
 Politoed
 ---------
@@ -14,4 +14,4 @@ Politoed
 Description
 ============
 | Politoed is a water Pokémob.
-| Politoed evolves from :doc:`poliwhirl`.
+| Politoed evolves from :ref:`poliwhirl`.

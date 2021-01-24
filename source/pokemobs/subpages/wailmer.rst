@@ -1,4 +1,4 @@
-.. wailmer:
+.. _wailmer:
 
 Wailmer
 --------
@@ -14,6 +14,6 @@ Wailmer
 Description
 ============
 | Wailmer is a water Pokémob.
-| Wailmer evolves into :doc:`wailord`:
+| Wailmer evolves into :ref:`wailord`:
 |  -  At Level 40.
 | 

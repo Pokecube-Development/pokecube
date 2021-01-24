@@ -1,4 +1,4 @@
-.. cubone:
+.. _cubone:
 
 Cubone
 -------
@@ -14,10 +14,10 @@ Cubone
 Description
 ============
 | Cubone is a ground Pokémob.
-| Cubone evolves into :doc:`marowak`:
+| Cubone evolves into :ref:`marowak`:
 |  -  At Level 28.
 |  -  During Night.
 | 
-| Cubone evolves into :doc:`marowak`:
+| Cubone evolves into :ref:`marowak`:
 |  -  At Level 28.
 | 

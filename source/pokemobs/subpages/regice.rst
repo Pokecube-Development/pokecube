@@ -1,4 +1,4 @@
-.. regice:
+.. _regice:
 
 Regice
 -------

@@ -1,4 +1,4 @@
-.. beautifly:
+.. _beautifly:
 
 Beautifly
 ----------
@@ -14,4 +14,4 @@ Beautifly
 Description
 ============
 | Beautifly is a bug/flying Pokémob.
-| Beautifly evolves from :doc:`silcoon`.
+| Beautifly evolves from :ref:`silcoon`.

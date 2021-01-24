@@ -1,4 +1,4 @@
-.. paras:
+.. _paras:
 
 Paras
 ------

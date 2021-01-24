@@ -1,4 +1,4 @@
-.. comfey:
+.. _comfey:
 
 Comfey
 -------

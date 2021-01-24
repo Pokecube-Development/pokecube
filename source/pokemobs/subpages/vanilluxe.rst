@@ -1,4 +1,4 @@
-.. vanilluxe:
+.. _vanilluxe:
 
 Vanilluxe
 ----------
@@ -14,4 +14,4 @@ Vanilluxe
 Description
 ============
 | Vanilluxe is a ice Pokémob.
-| Vanilluxe evolves from :doc:`vanillish`.
+| Vanilluxe evolves from :ref:`vanillish`.

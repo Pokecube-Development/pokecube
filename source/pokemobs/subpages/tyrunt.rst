@@ -1,4 +1,4 @@
-.. tyrunt:
+.. _tyrunt:
 
 Tyrunt
 -------
@@ -14,7 +14,7 @@ Tyrunt
 Description
 ============
 | Tyrunt is a rock/dragon Pokémob.
-| Tyrunt evolves into :doc:`tyrantrum`:
+| Tyrunt evolves into :ref:`tyrantrum`:
 |  -  At Level 39.
 |  -  During the day.
 | 

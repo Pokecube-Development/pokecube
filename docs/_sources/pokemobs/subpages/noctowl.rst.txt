@@ -1,4 +1,4 @@
-.. noctowl:
+.. _noctowl:
 
 Noctowl
 --------
@@ -14,4 +14,4 @@ Noctowl
 Description
 ============
 | Noctowl is a normal/flying Pokémob.
-| Noctowl evolves from :doc:`hoothoot`.
+| Noctowl evolves from :ref:`hoothoot`.

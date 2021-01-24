@@ -1,4 +1,4 @@
-.. volcarona:
+.. _volcarona:
 
 Volcarona
 ----------
@@ -14,4 +14,4 @@ Volcarona
 Description
 ============
 | Volcarona is a bug/fire Pokémob.
-| Volcarona evolves from :doc:`larvesta`.
+| Volcarona evolves from :ref:`larvesta`.

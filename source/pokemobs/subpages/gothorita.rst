@@ -1,4 +1,4 @@
-.. gothorita:
+.. _gothorita:
 
 Gothorita
 ----------
@@ -14,7 +14,7 @@ Gothorita
 Description
 ============
 | Gothorita is a psychic Pokémob.
-| Gothorita evolves into :doc:`gothitelle`:
+| Gothorita evolves into :ref:`gothitelle`:
 |  -  At Level 41.
 | 
-| Gothorita evolves from :doc:`gothita`.
+| Gothorita evolves from :ref:`gothita`.

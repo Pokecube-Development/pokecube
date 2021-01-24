@@ -1,4 +1,4 @@
-.. jellicent:
+.. _jellicent:
 
 Jellicent
 ----------
@@ -14,4 +14,4 @@ Jellicent
 Description
 ============
 | Jellicent is a water/ghost Pokémob.
-| Jellicent evolves from :doc:`frillish`.
+| Jellicent evolves from :ref:`frillish`.

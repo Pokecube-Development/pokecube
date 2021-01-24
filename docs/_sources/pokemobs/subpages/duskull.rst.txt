@@ -1,4 +1,4 @@
-.. duskull:
+.. _duskull:
 
 Duskull
 --------
@@ -14,6 +14,6 @@ Duskull
 Description
 ============
 | Duskull is a ghost Pokémob.
-| Duskull evolves into :doc:`dusclops`:
+| Duskull evolves into :ref:`dusclops`:
 |  -  At Level 37.
 | 

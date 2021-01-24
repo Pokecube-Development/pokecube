@@ -1,4 +1,4 @@
-.. donphan:
+.. _donphan:
 
 Donphan
 --------
@@ -14,4 +14,4 @@ Donphan
 Description
 ============
 | Donphan is a ground Pokémob.
-| Donphan evolves from :doc:`phanpy`.
+| Donphan evolves from :ref:`phanpy`.

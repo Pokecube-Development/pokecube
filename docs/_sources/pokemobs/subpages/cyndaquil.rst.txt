@@ -1,4 +1,4 @@
-.. cyndaquil:
+.. _cyndaquil:
 
 Cyndaquil
 ----------
@@ -14,6 +14,6 @@ Cyndaquil
 Description
 ============
 | Cyndaquil is a fire Pokémob.
-| Cyndaquil evolves into :doc:`quilava`:
+| Cyndaquil evolves into :ref:`quilava`:
 |  -  At Level 14.
 | 

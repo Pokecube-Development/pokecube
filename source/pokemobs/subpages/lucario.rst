@@ -1,4 +1,4 @@
-.. lucario:
+.. _lucario:
 
 Lucario
 --------
@@ -14,4 +14,4 @@ Lucario
 Description
 ============
 | Lucario is a fighting/steel Pokémob.
-| Lucario evolves from :doc:`riolu`.
+| Lucario evolves from :ref:`riolu`.

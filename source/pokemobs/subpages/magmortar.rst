@@ -1,4 +1,4 @@
-.. magmortar:
+.. _magmortar:
 
 Magmortar
 ----------
@@ -14,4 +14,4 @@ Magmortar
 Description
 ============
 | Magmortar is a fire Pokémob.
-| Magmortar evolves from :doc:`magmar`.
+| Magmortar evolves from :ref:`magmar`.

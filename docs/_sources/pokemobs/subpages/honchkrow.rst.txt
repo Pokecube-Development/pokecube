@@ -1,4 +1,4 @@
-.. honchkrow:
+.. _honchkrow:
 
 Honchkrow
 ----------
@@ -14,4 +14,4 @@ Honchkrow
 Description
 ============
 | Honchkrow is a dark/flying Pokémob.
-| Honchkrow evolves from :doc:`murkrow`.
+| Honchkrow evolves from :ref:`murkrow`.

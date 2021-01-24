@@ -1,4 +1,4 @@
-.. pheromosa:
+.. _pheromosa:
 
 Pheromosa
 ----------

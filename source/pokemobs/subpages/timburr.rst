@@ -1,4 +1,4 @@
-.. timburr:
+.. _timburr:
 
 Timburr
 --------
@@ -14,6 +14,6 @@ Timburr
 Description
 ============
 | Timburr is a fighting Pokémob.
-| Timburr evolves into :doc:`gurdurr`:
+| Timburr evolves into :ref:`gurdurr`:
 |  -  At Level 25.
 | 

@@ -1,4 +1,4 @@
-.. heracross:
+.. _heracross:
 
 Heracross
 ----------

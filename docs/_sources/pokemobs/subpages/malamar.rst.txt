@@ -1,4 +1,4 @@
-.. malamar:
+.. _malamar:
 
 Malamar
 --------
@@ -14,4 +14,4 @@ Malamar
 Description
 ============
 | Malamar is a dark/psychic Pokémob.
-| Malamar evolves from :doc:`inkay`.
+| Malamar evolves from :ref:`inkay`.

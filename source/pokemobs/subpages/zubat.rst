@@ -1,4 +1,4 @@
-.. zubat:
+.. _zubat:
 
 Zubat
 ------
@@ -14,6 +14,6 @@ Zubat
 Description
 ============
 | Zubat is a poison/flying Pokémob.
-| Zubat evolves into :doc:`golbat`:
+| Zubat evolves into :ref:`golbat`:
 |  -  At Level 22.
 | 

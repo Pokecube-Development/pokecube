@@ -1,4 +1,4 @@
-.. cursola:
+.. _cursola:
 
 Cursola
 --------
@@ -14,4 +14,4 @@ Cursola
 Description
 ============
 | Cursola is a ghost Pokémob.
-| Cursola evolves from :doc:`corsola`.
+| Cursola evolves from :ref:`corsola`.

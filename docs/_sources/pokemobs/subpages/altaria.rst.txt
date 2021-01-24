@@ -1,4 +1,4 @@
-.. altaria:
+.. _altaria:
 
 Altaria
 --------
@@ -14,4 +14,4 @@ Altaria
 Description
 ============
 | Altaria is a dragon/flying Pokémob.
-| Altaria evolves from :doc:`swablu`.
+| Altaria evolves from :ref:`swablu`.

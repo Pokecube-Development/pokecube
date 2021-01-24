@@ -1,4 +1,4 @@
-.. electabuzz:
+.. _electabuzz:
 
 Electabuzz
 -----------
@@ -14,8 +14,8 @@ Electabuzz
 Description
 ============
 | Electabuzz is a electric Pokémob.
-| Electabuzz evolves into :doc:`electivire`:
+| Electabuzz evolves into :ref:`electivire`:
 |  -  After being traded.
 |  -  When given a Electirizer.
 | 
-| Electabuzz evolves from :doc:`elekid`.
+| Electabuzz evolves from :ref:`elekid`.

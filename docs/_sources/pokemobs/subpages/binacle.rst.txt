@@ -1,4 +1,4 @@
-.. binacle:
+.. _binacle:
 
 Binacle
 --------
@@ -14,6 +14,6 @@ Binacle
 Description
 ============
 | Binacle is a rock/water Pokémob.
-| Binacle evolves into :doc:`barbaracle`:
+| Binacle evolves into :ref:`barbaracle`:
 |  -  At Level 39.
 | 

@@ -1,4 +1,4 @@
-.. copperajah:
+.. _copperajah:
 
 Copperajah
 -----------
@@ -14,4 +14,4 @@ Copperajah
 Description
 ============
 | Copperajah is a steel Pokémob.
-| Copperajah evolves from :doc:`cufant`.
+| Copperajah evolves from :ref:`cufant`.

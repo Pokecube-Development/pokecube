@@ -1,4 +1,4 @@
-.. carbink:
+.. _carbink:
 
 Carbink
 --------

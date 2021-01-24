@@ -1,4 +1,4 @@
-.. girafarig:
+.. _girafarig:
 
 Girafarig
 ----------

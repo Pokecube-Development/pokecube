@@ -1,4 +1,4 @@
-.. infernape:
+.. _infernape:
 
 Infernape
 ----------
@@ -14,4 +14,4 @@ Infernape
 Description
 ============
 | Infernape is a fire/fighting Pokémob.
-| Infernape evolves from :doc:`monferno`.
+| Infernape evolves from :ref:`monferno`.

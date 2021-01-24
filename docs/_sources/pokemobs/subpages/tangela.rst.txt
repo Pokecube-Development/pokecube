@@ -1,4 +1,4 @@
-.. tangela:
+.. _tangela:
 
 Tangela
 --------
@@ -14,6 +14,6 @@ Tangela
 Description
 ============
 | Tangela is a grass Pokémob.
-| Tangela evolves into :doc:`tangrowth`:
+| Tangela evolves into :ref:`tangrowth`:
 |  -  And knows Ancient Power.
 | 

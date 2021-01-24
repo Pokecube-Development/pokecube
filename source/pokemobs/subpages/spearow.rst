@@ -1,4 +1,4 @@
-.. spearow:
+.. _spearow:
 
 Spearow
 --------
@@ -14,6 +14,6 @@ Spearow
 Description
 ============
 | Spearow is a normal/flying Pokémob.
-| Spearow evolves into :doc:`fearow`:
+| Spearow evolves into :ref:`fearow`:
 |  -  At Level 20.
 | 

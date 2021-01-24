@@ -1,4 +1,4 @@
-.. aurorus:
+.. _aurorus:
 
 Aurorus
 --------
@@ -14,4 +14,4 @@ Aurorus
 Description
 ============
 | Aurorus is a rock/ice Pokémob.
-| Aurorus evolves from :doc:`amaura`.
+| Aurorus evolves from :ref:`amaura`.

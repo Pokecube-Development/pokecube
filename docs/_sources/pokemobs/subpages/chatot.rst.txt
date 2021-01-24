@@ -1,4 +1,4 @@
-.. chatot:
+.. _chatot:
 
 Chatot
 -------

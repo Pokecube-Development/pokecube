@@ -1,4 +1,4 @@
-.. lumineon:
+.. _lumineon:
 
 Lumineon
 ---------
@@ -14,4 +14,4 @@ Lumineon
 Description
 ============
 | Lumineon is a water Pokémob.
-| Lumineon evolves from :doc:`finneon`.
+| Lumineon evolves from :ref:`finneon`.

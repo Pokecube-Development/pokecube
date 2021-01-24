@@ -1,4 +1,4 @@
-.. dragonair:
+.. _dragonair:
 
 Dragonair
 ----------
@@ -14,7 +14,7 @@ Dragonair
 Description
 ============
 | Dragonair is a dragon Pokémob.
-| Dragonair evolves into :doc:`dragonite`:
+| Dragonair evolves into :ref:`dragonite`:
 |  -  At Level 55.
 | 
-| Dragonair evolves from :doc:`dratini`.
+| Dragonair evolves from :ref:`dratini`.

@@ -1,4 +1,4 @@
-.. leavanny:
+.. _leavanny:
 
 Leavanny
 ---------
@@ -14,4 +14,4 @@ Leavanny
 Description
 ============
 | Leavanny is a bug/grass Pokémob.
-| Leavanny evolves from :doc:`swadloon`.
+| Leavanny evolves from :ref:`swadloon`.

@@ -1,4 +1,4 @@
-.. charmeleon:
+.. _charmeleon:
 
 Charmeleon
 -----------
@@ -14,7 +14,7 @@ Charmeleon
 Description
 ============
 | Charmeleon is a fire Pokémob.
-| Charmeleon evolves into :doc:`charizard`:
+| Charmeleon evolves into :ref:`charizard`:
 |  -  At Level 36.
 | 
-| Charmeleon evolves from :doc:`charmander`.
+| Charmeleon evolves from :ref:`charmander`.

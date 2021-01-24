@@ -1,4 +1,4 @@
-.. salamence:
+.. _salamence:
 
 Salamence
 ----------
@@ -14,4 +14,4 @@ Salamence
 Description
 ============
 | Salamence is a dragon/flying Pokémob.
-| Salamence evolves from :doc:`shelgon`.
+| Salamence evolves from :ref:`shelgon`.

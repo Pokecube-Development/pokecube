@@ -1,4 +1,4 @@
-.. primarina:
+.. _primarina:
 
 Primarina
 ----------
@@ -14,4 +14,4 @@ Primarina
 Description
 ============
 | Primarina is a water/fairy Pokémob.
-| Primarina evolves from :doc:`brionne`.
+| Primarina evolves from :ref:`brionne`.

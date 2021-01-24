@@ -1,4 +1,4 @@
-.. wishiwashi:
+.. _wishiwashi:
 
 Wishiwashi
 -----------

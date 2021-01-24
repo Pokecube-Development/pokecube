@@ -1,4 +1,4 @@
-.. whimsicott:
+.. _whimsicott:
 
 Whimsicott
 -----------
@@ -14,4 +14,4 @@ Whimsicott
 Description
 ============
 | Whimsicott is a grass/fairy Pokémob.
-| Whimsicott evolves from :doc:`cottonee`.
+| Whimsicott evolves from :ref:`cottonee`.

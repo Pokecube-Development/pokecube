@@ -1,4 +1,4 @@
-.. gurdurr:
+.. _gurdurr:
 
 Gurdurr
 --------
@@ -14,7 +14,7 @@ Gurdurr
 Description
 ============
 | Gurdurr is a fighting Pokémob.
-| Gurdurr evolves into :doc:`conkeldurr`:
+| Gurdurr evolves into :ref:`conkeldurr`:
 |  -  After being traded.
 | 
-| Gurdurr evolves from :doc:`timburr`.
+| Gurdurr evolves from :ref:`timburr`.

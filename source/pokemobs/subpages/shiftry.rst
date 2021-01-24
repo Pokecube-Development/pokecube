@@ -1,4 +1,4 @@
-.. shiftry:
+.. _shiftry:
 
 Shiftry
 --------
@@ -14,4 +14,4 @@ Shiftry
 Description
 ============
 | Shiftry is a grass/dark Pokémob.
-| Shiftry evolves from :doc:`nuzleaf`.
+| Shiftry evolves from :ref:`nuzleaf`.

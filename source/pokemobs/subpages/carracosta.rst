@@ -1,4 +1,4 @@
-.. carracosta:
+.. _carracosta:
 
 Carracosta
 -----------
@@ -14,4 +14,4 @@ Carracosta
 Description
 ============
 | Carracosta is a water/rock Pokémob.
-| Carracosta evolves from :doc:`tirtouga`.
+| Carracosta evolves from :ref:`tirtouga`.

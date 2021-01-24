@@ -1,4 +1,4 @@
-.. lilligant:
+.. _lilligant:
 
 Lilligant
 ----------
@@ -14,4 +14,4 @@ Lilligant
 Description
 ============
 | Lilligant is a grass Pokémob.
-| Lilligant evolves from :doc:`petilil`.
+| Lilligant evolves from :ref:`petilil`.

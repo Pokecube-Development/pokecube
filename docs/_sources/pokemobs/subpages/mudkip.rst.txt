@@ -1,4 +1,4 @@
-.. mudkip:
+.. _mudkip:
 
 Mudkip
 -------
@@ -14,6 +14,6 @@ Mudkip
 Description
 ============
 | Mudkip is a water Pokémob.
-| Mudkip evolves into :doc:`marshtomp`:
+| Mudkip evolves into :ref:`marshtomp`:
 |  -  At Level 16.
 | 

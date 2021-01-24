@@ -1,4 +1,4 @@
-.. sentret:
+.. _sentret:
 
 Sentret
 --------
@@ -14,6 +14,6 @@ Sentret
 Description
 ============
 | Sentret is a normal Pokémob.
-| Sentret evolves into :doc:`furret`:
+| Sentret evolves into :ref:`furret`:
 |  -  At Level 15.
 | 

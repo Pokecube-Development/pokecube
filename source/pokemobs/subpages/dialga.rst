@@ -1,4 +1,4 @@
-.. dialga:
+.. _dialga:
 
 Dialga
 -------

@@ -1,4 +1,4 @@
-.. swalot:
+.. _swalot:
 
 Swalot
 -------
@@ -14,4 +14,4 @@ Swalot
 Description
 ============
 | Swalot is a poison Pokémob.
-| Swalot evolves from :doc:`gulpin`.
+| Swalot evolves from :ref:`gulpin`.

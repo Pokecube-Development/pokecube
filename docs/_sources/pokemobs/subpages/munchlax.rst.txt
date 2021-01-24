@@ -1,4 +1,4 @@
-.. munchlax:
+.. _munchlax:
 
 Munchlax
 ---------
@@ -14,6 +14,6 @@ Munchlax
 Description
 ============
 | Munchlax is a normal Pokémob.
-| Munchlax evolves into :doc:`snorlax`:
+| Munchlax evolves into :ref:`snorlax`:
 |  -  When Happy.
 | 

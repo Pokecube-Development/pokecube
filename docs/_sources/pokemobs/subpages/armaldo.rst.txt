@@ -1,4 +1,4 @@
-.. armaldo:
+.. _armaldo:
 
 Armaldo
 --------
@@ -14,4 +14,4 @@ Armaldo
 Description
 ============
 | Armaldo is a rock/bug Pokémob.
-| Armaldo evolves from :doc:`anorith`.
+| Armaldo evolves from :ref:`anorith`.

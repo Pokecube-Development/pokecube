@@ -1,4 +1,4 @@
-.. thwackey:
+.. _thwackey:
 
 Thwackey
 ---------
@@ -14,7 +14,7 @@ Thwackey
 Description
 ============
 | Thwackey is a grass Pokémob.
-| Thwackey evolves into :doc:`rillaboom`:
+| Thwackey evolves into :ref:`rillaboom`:
 |  -  At Level 35.
 | 
-| Thwackey evolves from :doc:`grookey`.
+| Thwackey evolves from :ref:`grookey`.

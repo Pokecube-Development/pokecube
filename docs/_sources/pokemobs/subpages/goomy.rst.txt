@@ -1,4 +1,4 @@
-.. goomy:
+.. _goomy:
 
 Goomy
 ------
@@ -14,6 +14,6 @@ Goomy
 Description
 ============
 | Goomy is a dragon Pokémob.
-| Goomy evolves into :doc:`sliggoo`:
+| Goomy evolves into :ref:`sliggoo`:
 |  -  At Level 40.
 | 

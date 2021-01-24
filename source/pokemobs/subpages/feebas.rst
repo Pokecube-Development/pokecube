@@ -1,4 +1,4 @@
-.. feebas:
+.. _feebas:
 
 Feebas
 -------
@@ -14,7 +14,7 @@ Feebas
 Description
 ============
 | Feebas is a water Pokémob.
-| Feebas evolves into :doc:`milotic`:
+| Feebas evolves into :ref:`milotic`:
 |  -  After being traded.
 |  -  When given a Prism Scale.
 | 

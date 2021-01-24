@@ -1,4 +1,4 @@
-.. regidrago:
+.. _regidrago:
 
 Regidrago
 ----------

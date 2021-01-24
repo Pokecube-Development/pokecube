@@ -1,4 +1,4 @@
-.. dedenne:
+.. _dedenne:
 
 Dedenne
 --------

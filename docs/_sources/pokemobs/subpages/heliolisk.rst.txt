@@ -1,4 +1,4 @@
-.. heliolisk:
+.. _heliolisk:
 
 Heliolisk
 ----------
@@ -14,4 +14,4 @@ Heliolisk
 Description
 ============
 | Heliolisk is a electric/normal Pokémob.
-| Heliolisk evolves from :doc:`helioptile`.
+| Heliolisk evolves from :ref:`helioptile`.

@@ -1,4 +1,4 @@
-.. torterra:
+.. _torterra:
 
 Torterra
 ---------
@@ -14,4 +14,4 @@ Torterra
 Description
 ============
 | Torterra is a grass/ground Pokémob.
-| Torterra evolves from :doc:`grotle`.
+| Torterra evolves from :ref:`grotle`.

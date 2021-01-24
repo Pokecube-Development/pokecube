@@ -1,4 +1,4 @@
-.. manectric:
+.. _manectric:
 
 Manectric
 ----------
@@ -14,4 +14,4 @@ Manectric
 Description
 ============
 | Manectric is a electric Pokémob.
-| Manectric evolves from :doc:`electrike`.
+| Manectric evolves from :ref:`electrike`.

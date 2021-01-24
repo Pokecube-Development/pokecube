@@ -1,4 +1,4 @@
-.. electrode:
+.. _electrode:
 
 Electrode
 ----------
@@ -14,4 +14,4 @@ Electrode
 Description
 ============
 | Electrode is a electric Pokémob.
-| Electrode evolves from :doc:`voltorb`.
+| Electrode evolves from :ref:`voltorb`.

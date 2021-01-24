@@ -1,4 +1,4 @@
-.. florges:
+.. _florges:
 
 Florges
 --------
@@ -14,4 +14,4 @@ Florges
 Description
 ============
 | Florges is a fairy Pokémob.
-| Florges evolves from :doc:`floette`.
+| Florges evolves from :ref:`floette`.

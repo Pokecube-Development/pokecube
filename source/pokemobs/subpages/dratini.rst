@@ -1,4 +1,4 @@
-.. dratini:
+.. _dratini:
 
 Dratini
 --------
@@ -14,6 +14,6 @@ Dratini
 Description
 ============
 | Dratini is a dragon Pokémob.
-| Dratini evolves into :doc:`dragonair`:
+| Dratini evolves into :ref:`dragonair`:
 |  -  At Level 30.
 | 

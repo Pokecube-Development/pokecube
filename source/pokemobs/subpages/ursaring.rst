@@ -1,4 +1,4 @@
-.. ursaring:
+.. _ursaring:
 
 Ursaring
 ---------
@@ -14,4 +14,4 @@ Ursaring
 Description
 ============
 | Ursaring is a normal Pokémob.
-| Ursaring evolves from :doc:`teddiursa`.
+| Ursaring evolves from :ref:`teddiursa`.

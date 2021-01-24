@@ -1,4 +1,4 @@
-.. dustox:
+.. _dustox:
 
 Dustox
 -------
@@ -14,4 +14,4 @@ Dustox
 Description
 ============
 | Dustox is a bug/poison Pokémob.
-| Dustox evolves from :doc:`cascoon`.
+| Dustox evolves from :ref:`cascoon`.

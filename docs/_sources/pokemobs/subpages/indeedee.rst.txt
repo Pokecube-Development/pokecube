@@ -1,4 +1,4 @@
-.. indeedee:
+.. _indeedee:
 
 Indeedee
 ---------

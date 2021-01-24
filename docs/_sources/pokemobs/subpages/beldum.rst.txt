@@ -1,4 +1,4 @@
-.. beldum:
+.. _beldum:
 
 Beldum
 -------
@@ -14,6 +14,6 @@ Beldum
 Description
 ============
 | Beldum is a steel/psychic Pokémob.
-| Beldum evolves into :doc:`metang`:
+| Beldum evolves into :ref:`metang`:
 |  -  At Level 20.
 | 

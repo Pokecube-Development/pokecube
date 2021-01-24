@@ -1,4 +1,4 @@
-.. moltres:
+.. _moltres:
 
 Moltres
 --------

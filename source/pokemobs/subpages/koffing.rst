@@ -1,4 +1,4 @@
-.. koffing:
+.. _koffing:
 
 Koffing
 --------
@@ -14,10 +14,10 @@ Koffing
 Description
 ============
 | Koffing is a poison Pokémob.
-| Koffing evolves into :doc:`weezing`:
+| Koffing evolves into :ref:`weezing`:
 |  -  At Level 35.
 | 
-| Koffing evolves into :doc:`weezing`:
+| Koffing evolves into :ref:`weezing`:
 |  -  At Level 35.
 |  -  In [Industrial Area].
 | 

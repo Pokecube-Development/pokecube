@@ -1,4 +1,4 @@
-.. slakoth:
+.. _slakoth:
 
 Slakoth
 --------
@@ -14,6 +14,6 @@ Slakoth
 Description
 ============
 | Slakoth is a normal Pokémob.
-| Slakoth evolves into :doc:`vigoroth`:
+| Slakoth evolves into :ref:`vigoroth`:
 |  -  At Level 18.
 | 

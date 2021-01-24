@@ -1,4 +1,4 @@
-.. golett:
+.. _golett:
 
 Golett
 -------
@@ -14,6 +14,6 @@ Golett
 Description
 ============
 | Golett is a ground/ghost Pokémob.
-| Golett evolves into :doc:`golurk`:
+| Golett evolves into :ref:`golurk`:
 |  -  At Level 43.
 | 

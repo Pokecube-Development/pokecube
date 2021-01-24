@@ -1,4 +1,4 @@
-.. zamazenta:
+.. _zamazenta:
 
 Zamazenta
 ----------

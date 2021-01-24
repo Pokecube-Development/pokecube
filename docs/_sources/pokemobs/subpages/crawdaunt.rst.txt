@@ -1,4 +1,4 @@
-.. crawdaunt:
+.. _crawdaunt:
 
 Crawdaunt
 ----------
@@ -14,4 +14,4 @@ Crawdaunt
 Description
 ============
 | Crawdaunt is a water/dark Pokémob.
-| Crawdaunt evolves from :doc:`corphish`.
+| Crawdaunt evolves from :ref:`corphish`.

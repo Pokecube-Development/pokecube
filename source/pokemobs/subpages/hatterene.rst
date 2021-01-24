@@ -1,4 +1,4 @@
-.. hatterene:
+.. _hatterene:
 
 Hatterene
 ----------
@@ -14,4 +14,4 @@ Hatterene
 Description
 ============
 | Hatterene is a psychic/fairy Pokémob.
-| Hatterene evolves from :doc:`hattrem`.
+| Hatterene evolves from :ref:`hattrem`.

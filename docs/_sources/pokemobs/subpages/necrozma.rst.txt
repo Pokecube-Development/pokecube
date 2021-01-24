@@ -1,4 +1,4 @@
-.. necrozma:
+.. _necrozma:
 
 Necrozma
 ---------

@@ -1,4 +1,4 @@
-.. electivire:
+.. _electivire:
 
 Electivire
 -----------
@@ -14,4 +14,4 @@ Electivire
 Description
 ============
 | Electivire is a electric Pokémob.
-| Electivire evolves from :doc:`electabuzz`.
+| Electivire evolves from :ref:`electabuzz`.

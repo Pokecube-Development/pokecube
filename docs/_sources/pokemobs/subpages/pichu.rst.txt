@@ -1,4 +1,4 @@
-.. pichu:
+.. _pichu:
 
 Pichu
 ------
@@ -14,6 +14,6 @@ Pichu
 Description
 ============
 | Pichu is a electric Pokémob.
-| Pichu evolves into :doc:`pikachu`:
+| Pichu evolves into :ref:`pikachu`:
 |  -  When Happy.
 | 

@@ -1,4 +1,4 @@
-.. vanillite:
+.. _vanillite:
 
 Vanillite
 ----------
@@ -14,6 +14,6 @@ Vanillite
 Description
 ============
 | Vanillite is a ice Pokémob.
-| Vanillite evolves into :doc:`vanillish`:
+| Vanillite evolves into :ref:`vanillish`:
 |  -  At Level 35.
 | 

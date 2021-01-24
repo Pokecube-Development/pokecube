@@ -1,4 +1,4 @@
-.. wobbuffet:
+.. _wobbuffet:
 
 Wobbuffet
 ----------
@@ -14,4 +14,4 @@ Wobbuffet
 Description
 ============
 | Wobbuffet is a psychic Pokémob.
-| Wobbuffet evolves from :doc:`wynaut`.
+| Wobbuffet evolves from :ref:`wynaut`.

@@ -1,4 +1,4 @@
-.. salazzle:
+.. _salazzle:
 
 Salazzle
 ---------
@@ -14,4 +14,4 @@ Salazzle
 Description
 ============
 | Salazzle is a poison/fire Pokémob.
-| Salazzle evolves from :doc:`salandit`.
+| Salazzle evolves from :ref:`salandit`.

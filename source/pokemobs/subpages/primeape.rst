@@ -1,4 +1,4 @@
-.. primeape:
+.. _primeape:
 
 Primeape
 ---------
@@ -14,4 +14,4 @@ Primeape
 Description
 ============
 | Primeape is a fighting Pokémob.
-| Primeape evolves from :doc:`mankey`.
+| Primeape evolves from :ref:`mankey`.

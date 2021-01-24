@@ -1,4 +1,4 @@
-.. ponyta:
+.. _ponyta:
 
 Ponyta
 -------
@@ -14,6 +14,6 @@ Ponyta
 Description
 ============
 | Ponyta is a fire Pokémob.
-| Ponyta evolves into :doc:`rapidash`:
+| Ponyta evolves into :ref:`rapidash`:
 |  -  At Level 40.
 | 

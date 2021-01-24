@@ -1,4 +1,4 @@
-.. victreebel:
+.. _victreebel:
 
 Victreebel
 -----------
@@ -14,4 +14,4 @@ Victreebel
 Description
 ============
 | Victreebel is a grass/poison Pokémob.
-| Victreebel evolves from :doc:`weepinbell`.
+| Victreebel evolves from :ref:`weepinbell`.

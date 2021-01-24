@@ -1,4 +1,4 @@
-.. beartic:
+.. _beartic:
 
 Beartic
 --------
@@ -14,4 +14,4 @@ Beartic
 Description
 ============
 | Beartic is a ice Pokémob.
-| Beartic evolves from :doc:`cubchoo`.
+| Beartic evolves from :ref:`cubchoo`.

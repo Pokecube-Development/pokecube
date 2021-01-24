@@ -1,4 +1,4 @@
-.. cobalion:
+.. _cobalion:
 
 Cobalion
 ---------

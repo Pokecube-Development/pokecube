@@ -1,4 +1,4 @@
-.. phione:
+.. _phione:
 
 Phione
 -------

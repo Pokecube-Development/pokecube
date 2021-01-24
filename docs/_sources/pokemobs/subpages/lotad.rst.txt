@@ -1,4 +1,4 @@
-.. lotad:
+.. _lotad:
 
 Lotad
 ------
@@ -14,6 +14,6 @@ Lotad
 Description
 ============
 | Lotad is a water/grass Pokémob.
-| Lotad evolves into :doc:`lombre`:
+| Lotad evolves into :ref:`lombre`:
 |  -  At Level 14.
 | 

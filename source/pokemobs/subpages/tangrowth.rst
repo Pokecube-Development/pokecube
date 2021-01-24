@@ -1,4 +1,4 @@
-.. tangrowth:
+.. _tangrowth:
 
 Tangrowth
 ----------
@@ -14,4 +14,4 @@ Tangrowth
 Description
 ============
 | Tangrowth is a grass Pokémob.
-| Tangrowth evolves from :doc:`tangela`.
+| Tangrowth evolves from :ref:`tangela`.

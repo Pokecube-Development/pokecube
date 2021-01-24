@@ -1,4 +1,4 @@
-.. rattata:
+.. _rattata:
 
 Rattata
 --------
@@ -14,6 +14,6 @@ Rattata
 Description
 ============
 | Rattata is a normal Pokémob.
-| Rattata evolves into :doc:`raticate`:
+| Rattata evolves into :ref:`raticate`:
 |  -  At Level 20.
 | 

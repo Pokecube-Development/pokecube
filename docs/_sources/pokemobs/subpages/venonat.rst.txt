@@ -1,4 +1,4 @@
-.. venonat:
+.. _venonat:
 
 Venonat
 --------
@@ -14,6 +14,6 @@ Venonat
 Description
 ============
 | Venonat is a bug/poison Pokémob.
-| Venonat evolves into :doc:`venomoth`:
+| Venonat evolves into :ref:`venomoth`:
 |  -  At Level 31.
 | 

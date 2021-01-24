@@ -1,4 +1,4 @@
-.. cherrim:
+.. _cherrim:
 
 Cherrim
 --------
@@ -14,4 +14,4 @@ Cherrim
 Description
 ============
 | Cherrim is a grass Pokémob.
-| Cherrim evolves from :doc:`cherubi`.
+| Cherrim evolves from :ref:`cherubi`.

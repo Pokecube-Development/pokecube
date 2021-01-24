@@ -1,4 +1,4 @@
-.. monferno:
+.. _monferno:
 
 Monferno
 ---------
@@ -14,7 +14,7 @@ Monferno
 Description
 ============
 | Monferno is a fire/fighting Pokémob.
-| Monferno evolves into :doc:`infernape`:
+| Monferno evolves into :ref:`infernape`:
 |  -  At Level 36.
 | 
-| Monferno evolves from :doc:`chimchar`.
+| Monferno evolves from :ref:`chimchar`.

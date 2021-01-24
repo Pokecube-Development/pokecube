@@ -1,4 +1,4 @@
-.. clefable:
+.. _clefable:
 
 Clefable
 ---------
@@ -14,4 +14,4 @@ Clefable
 Description
 ============
 | Clefable is a fairy Pokémob.
-| Clefable evolves from :doc:`clefairy`.
+| Clefable evolves from :ref:`clefairy`.

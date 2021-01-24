@@ -1,4 +1,4 @@
-.. silcoon:
+.. _silcoon:
 
 Silcoon
 --------
@@ -14,7 +14,7 @@ Silcoon
 Description
 ============
 | Silcoon is a bug Pokémob.
-| Silcoon evolves into :doc:`beautifly`:
+| Silcoon evolves into :ref:`beautifly`:
 |  -  At Level 10.
 | 
-| Silcoon evolves from :doc:`wurmple`.
+| Silcoon evolves from :ref:`wurmple`.

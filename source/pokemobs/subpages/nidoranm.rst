@@ -1,4 +1,4 @@
-.. nidoranm:
+.. _nidoranm:
 
 NidoranM
 ---------
@@ -14,6 +14,6 @@ NidoranM
 Description
 ============
 | NidoranM is a poison Pokémob.
-| NidoranM evolves into :doc:`nidorino`:
+| NidoranM evolves into :ref:`nidorino`:
 |  -  At Level 16.
 | 

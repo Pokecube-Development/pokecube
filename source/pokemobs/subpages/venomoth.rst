@@ -1,4 +1,4 @@
-.. venomoth:
+.. _venomoth:
 
 Venomoth
 ---------
@@ -14,4 +14,4 @@ Venomoth
 Description
 ============
 | Venomoth is a bug/poison Pokémob.
-| Venomoth evolves from :doc:`venonat`.
+| Venomoth evolves from :ref:`venonat`.

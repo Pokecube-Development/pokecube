@@ -1,4 +1,4 @@
-.. frogadier:
+.. _frogadier:
 
 Frogadier
 ----------
@@ -14,7 +14,7 @@ Frogadier
 Description
 ============
 | Frogadier is a water Pokémob.
-| Frogadier evolves into :doc:`greninja`:
+| Frogadier evolves into :ref:`greninja`:
 |  -  At Level 36.
 | 
-| Frogadier evolves from :doc:`froakie`.
+| Frogadier evolves from :ref:`froakie`.

@@ -1,4 +1,4 @@
-.. vibrava:
+.. _vibrava:
 
 Vibrava
 --------
@@ -14,7 +14,7 @@ Vibrava
 Description
 ============
 | Vibrava is a ground/dragon Pokémob.
-| Vibrava evolves into :doc:`flygon`:
+| Vibrava evolves into :ref:`flygon`:
 |  -  At Level 45.
 | 
-| Vibrava evolves from :doc:`trapinch`.
+| Vibrava evolves from :ref:`trapinch`.

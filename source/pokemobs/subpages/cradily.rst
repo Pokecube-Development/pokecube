@@ -1,4 +1,4 @@
-.. cradily:
+.. _cradily:
 
 Cradily
 --------
@@ -14,4 +14,4 @@ Cradily
 Description
 ============
 | Cradily is a rock/grass Pokémob.
-| Cradily evolves from :doc:`lileep`.
+| Cradily evolves from :ref:`lileep`.

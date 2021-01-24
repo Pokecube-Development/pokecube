@@ -1,4 +1,4 @@
-.. floatzel:
+.. _floatzel:
 
 Floatzel
 ---------
@@ -14,4 +14,4 @@ Floatzel
 Description
 ============
 | Floatzel is a water Pokémob.
-| Floatzel evolves from :doc:`buizel`.
+| Floatzel evolves from :ref:`buizel`.

@@ -1,4 +1,4 @@
-.. murkrow:
+.. _murkrow:
 
 Murkrow
 --------
@@ -14,6 +14,6 @@ Murkrow
 Description
 ============
 | Murkrow is a dark/flying Pokémob.
-| Murkrow evolves into :doc:`honchkrow`:
+| Murkrow evolves into :ref:`honchkrow`:
 |  -  When given a Dusk Stone.
 | 

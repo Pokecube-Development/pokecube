@@ -1,4 +1,4 @@
-.. umbreon:
+.. _umbreon:
 
 Umbreon
 --------
@@ -14,4 +14,4 @@ Umbreon
 Description
 ============
 | Umbreon is a dark Pokémob.
-| Umbreon evolves from :doc:`eevee`.
+| Umbreon evolves from :ref:`eevee`.

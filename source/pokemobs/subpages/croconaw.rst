@@ -1,4 +1,4 @@
-.. croconaw:
+.. _croconaw:
 
 Croconaw
 ---------
@@ -14,7 +14,7 @@ Croconaw
 Description
 ============
 | Croconaw is a water Pokémob.
-| Croconaw evolves into :doc:`feraligatr`:
+| Croconaw evolves into :ref:`feraligatr`:
 |  -  At Level 30.
 | 
-| Croconaw evolves from :doc:`totodile`.
+| Croconaw evolves from :ref:`totodile`.

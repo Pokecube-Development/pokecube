@@ -1,4 +1,4 @@
-.. kecleon:
+.. _kecleon:
 
 Kecleon
 --------

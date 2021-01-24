@@ -1,4 +1,4 @@
-.. igglybuff:
+.. _igglybuff:
 
 Igglybuff
 ----------
@@ -14,6 +14,6 @@ Igglybuff
 Description
 ============
 | Igglybuff is a normal/fairy Pokémob.
-| Igglybuff evolves into :doc:`jigglypuff`:
+| Igglybuff evolves into :ref:`jigglypuff`:
 |  -  When Happy.
 | 

@@ -1,4 +1,4 @@
-.. eldegoss:
+.. _eldegoss:
 
 Eldegoss
 ---------
@@ -14,4 +14,4 @@ Eldegoss
 Description
 ============
 | Eldegoss is a grass Pokémob.
-| Eldegoss evolves from :doc:`gossifleur`.
+| Eldegoss evolves from :ref:`gossifleur`.

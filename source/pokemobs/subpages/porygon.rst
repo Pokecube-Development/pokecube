@@ -1,4 +1,4 @@
-.. porygon:
+.. _porygon:
 
 Porygon
 --------

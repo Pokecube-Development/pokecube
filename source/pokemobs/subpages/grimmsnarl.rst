@@ -1,4 +1,4 @@
-.. grimmsnarl:
+.. _grimmsnarl:
 
 Grimmsnarl
 -----------
@@ -14,4 +14,4 @@ Grimmsnarl
 Description
 ============
 | Grimmsnarl is a dark/fairy Pokémob.
-| Grimmsnarl evolves from :doc:`morgrem`.
+| Grimmsnarl evolves from :ref:`morgrem`.

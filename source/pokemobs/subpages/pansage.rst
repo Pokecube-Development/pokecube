@@ -1,4 +1,4 @@
-.. pansage:
+.. _pansage:
 
 Pansage
 --------
@@ -14,6 +14,6 @@ Pansage
 Description
 ============
 | Pansage is a grass Pokémob.
-| Pansage evolves into :doc:`simisage`:
+| Pansage evolves into :ref:`simisage`:
 |  -  When given a Leaf Stone.
 | 

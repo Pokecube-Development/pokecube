@@ -1,4 +1,4 @@
-.. cottonee:
+.. _cottonee:
 
 Cottonee
 ---------
@@ -14,6 +14,6 @@ Cottonee
 Description
 ============
 | Cottonee is a grass/fairy Pokémob.
-| Cottonee evolves into :doc:`whimsicott`:
+| Cottonee evolves into :ref:`whimsicott`:
 |  -  When given a Sun Stone.
 | 

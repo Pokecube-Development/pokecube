@@ -1,4 +1,4 @@
-.. porygon2:
+.. _porygon2:
 
 Porygon2
 ---------
@@ -14,8 +14,8 @@ Porygon2
 Description
 ============
 | Porygon2 is a normal Pokémob.
-| Porygon2 evolves into :doc:`porygon-z`:
+| Porygon2 evolves into :ref:`porygon-z`:
 |  -  After being traded.
 |  -  When given a Dubious disc.
 | 
-| Porygon2 evolves from :doc:`porygon`.
+| Porygon2 evolves from :ref:`porygon`.

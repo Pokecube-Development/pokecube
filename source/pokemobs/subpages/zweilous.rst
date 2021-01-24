@@ -1,4 +1,4 @@
-.. zweilous:
+.. _zweilous:
 
 Zweilous
 ---------
@@ -14,7 +14,7 @@ Zweilous
 Description
 ============
 | Zweilous is a dark/dragon Pokémob.
-| Zweilous evolves into :doc:`hydreigon`:
+| Zweilous evolves into :ref:`hydreigon`:
 |  -  At Level 64.
 | 
-| Zweilous evolves from :doc:`deino`.
+| Zweilous evolves from :ref:`deino`.

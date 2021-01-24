@@ -1,4 +1,4 @@
-.. type_null:
+.. _type_null:
 
 Type: Null
 -----------
@@ -14,6 +14,6 @@ Type: Null
 Description
 ============
 | Type: Null is a normal Pokémob.
-| Type: Null evolves into :doc:`silvally`:
+| Type: Null evolves into :ref:`silvally`:
 |  -  When Happy.
 | 

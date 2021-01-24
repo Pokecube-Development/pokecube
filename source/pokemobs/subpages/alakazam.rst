@@ -1,4 +1,4 @@
-.. alakazam:
+.. _alakazam:
 
 Alakazam
 ---------
@@ -14,4 +14,4 @@ Alakazam
 Description
 ============
 | Alakazam is a psychic Pokémob.
-| Alakazam evolves from :doc:`kadabra`.
+| Alakazam evolves from :ref:`kadabra`.

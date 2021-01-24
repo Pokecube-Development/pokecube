@@ -1,4 +1,4 @@
-.. shuckle:
+.. _shuckle:
 
 Shuckle
 --------

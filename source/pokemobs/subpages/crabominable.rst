@@ -1,4 +1,4 @@
-.. crabominable:
+.. _crabominable:
 
 Crabominable
 -------------
@@ -14,4 +14,4 @@ Crabominable
 Description
 ============
 | Crabominable is a fighting/ice Pokémob.
-| Crabominable evolves from :doc:`crabrawler`.
+| Crabominable evolves from :ref:`crabrawler`.

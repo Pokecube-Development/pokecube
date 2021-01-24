@@ -1,4 +1,4 @@
-.. nidoqueen:
+.. _nidoqueen:
 
 Nidoqueen
 ----------
@@ -14,4 +14,4 @@ Nidoqueen
 Description
 ============
 | Nidoqueen is a poison/ground Pokémob.
-| Nidoqueen evolves from :doc:`nidorina`.
+| Nidoqueen evolves from :ref:`nidorina`.

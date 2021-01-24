@@ -1,4 +1,4 @@
-.. turtonator:
+.. _turtonator:
 
 Turtonator
 -----------

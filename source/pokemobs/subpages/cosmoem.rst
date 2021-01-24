@@ -1,4 +1,4 @@
-.. cosmoem:
+.. _cosmoem:
 
 Cosmoem
 --------
@@ -14,12 +14,12 @@ Cosmoem
 Description
 ============
 | Cosmoem is a psychic Pokémob.
-| Cosmoem evolves into :doc:`solgaleo`:
+| Cosmoem evolves into :ref:`solgaleo`:
 |  -  At Level 53.
 |  -  During the day.
 | 
-| Cosmoem evolves into :doc:`lunala`:
+| Cosmoem evolves into :ref:`lunala`:
 |  -  At Level 53.
 |  -  During Night.
 | 
-| Cosmoem evolves from :doc:`cosmog`.
+| Cosmoem evolves from :ref:`cosmog`.

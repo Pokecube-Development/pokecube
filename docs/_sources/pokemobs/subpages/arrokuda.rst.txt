@@ -1,4 +1,4 @@
-.. arrokuda:
+.. _arrokuda:
 
 Arrokuda
 ---------
@@ -14,6 +14,6 @@ Arrokuda
 Description
 ============
 | Arrokuda is a water Pokémob.
-| Arrokuda evolves into :doc:`barraskewda`:
+| Arrokuda evolves into :ref:`barraskewda`:
 |  -  At Level 26.
 | 

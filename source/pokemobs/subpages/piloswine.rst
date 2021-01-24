@@ -1,4 +1,4 @@
-.. piloswine:
+.. _piloswine:
 
 Piloswine
 ----------
@@ -14,7 +14,7 @@ Piloswine
 Description
 ============
 | Piloswine is a ice/ground Pokémob.
-| Piloswine evolves into :doc:`mamoswine`:
+| Piloswine evolves into :ref:`mamoswine`:
 |  -  And knows Ancient Power.
 | 
-| Piloswine evolves from :doc:`swinub`.
+| Piloswine evolves from :ref:`swinub`.

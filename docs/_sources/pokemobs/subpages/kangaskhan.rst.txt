@@ -1,4 +1,4 @@
-.. kangaskhan:
+.. _kangaskhan:
 
 Kangaskhan
 -----------

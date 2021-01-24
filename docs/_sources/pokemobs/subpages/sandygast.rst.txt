@@ -1,4 +1,4 @@
-.. sandygast:
+.. _sandygast:
 
 Sandygast
 ----------
@@ -14,6 +14,6 @@ Sandygast
 Description
 ============
 | Sandygast is a ghost/ground Pokémob.
-| Sandygast evolves into :doc:`palossand`:
+| Sandygast evolves into :ref:`palossand`:
 |  -  At Level 42.
 | 
