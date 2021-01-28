@@ -360,6 +360,7 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
 * Zekrom - Uses Dark Stone to summon it.
 * Glastrier - Uses Iceroot Carrot to summon it.
 * Spectrier - Uses Shaderoot Carrot to summon it.
+* Kanto Birds Galar Form - Appear near Legendary Tree. Need not be invoked.
 
 >Key items that have a recipe:
 
