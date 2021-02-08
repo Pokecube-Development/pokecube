@@ -65,8 +65,6 @@ You can see some in the Temple of the Tapus, but they have their own craft, the 
 	
 They also have an offering mechanism, if you deliver an item to the Totem and you receive a potion effect.
 The item you offer to the Totem, by default, is a diamond, but you can change that item using datapacks
-=======
-******************
 
 Strutures
 #########
