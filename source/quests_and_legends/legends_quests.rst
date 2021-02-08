@@ -117,6 +117,13 @@ List of new structures added
 .. image:: https://vignette.wikia.nocookie.net/pokecube-revival-ptbr/images/9/92/Space_temple.png/revision/latest?cb=20191222022323&path-prefix=pt-br
     :alt: spacetime_altar
 
+* Tapus Temple
+
+(:ref: `tapu koko`/:ref: `tapu fini`/:ref: `tapu lele`/:ref: `tapu bulu`)
+
+.. image:: ../_images/legends_wiki/tapus_temple
+    :alt: tapus_temple
+
 * Stone Portal
 
 (:ref:`zacian`/:ref:`zamazenta`)
@@ -203,6 +210,11 @@ and the blocks that do not have recipes are:
 
 .. image:: https://i.imgur.com/YibXYxO.png
     :alt: Legendy Block
+	
+* Tapus Core Spawn: use to summon: Tapu Koko,Lele,Fini,Bulu
+
+.. image:: ../_images/legends_wiki/tapus_spawn
+    :alt: tapus_spawn
 
 **Making Type: Null**
 ======================
@@ -280,8 +292,8 @@ Quest is the way for you to have the legendary pokemon's confidence, and thus ca
 2. Entei - Capture about 40 Pokemob Fire.
 3. Suicune - Capture about 40 Pokemob Water.
 4. Raikou - Capture about 30 Pokemob Electric.
-5. Ho-oh - Capture Entei/Suicune/Raikou.
-6. Lugia - Capture Moltres/Zapdos/Articuno >The Galar version can replace that of Kanto. 
+5. Ho-oh - Capture Entei/Suicune/Raikou. (When capturing you get a Rainbow feather)
+6. Lugia - Capture Moltres/Zapdos/Articuno >The Galar version can replace that of Kanto. (When capturing you get a Silver feather) 
 7. Thundurus/ Landorus/Tornadus - Capture the Meloetta.
 8. Keldeo - Capture Virizion/Terrakion/Cobalion.
 9. Groudon - Capture about 40 Pokemob Ground and Defeat 40 Pokemob Water.
@@ -297,12 +309,30 @@ Quest is the way for you to have the legendary pokemon's confidence, and thus ca
 19. Zekrom/Reshiram - Capture about 20 Pokemob Dragon.
 20. Kyurem - Capture Zekrom/Reshiram.
 21. Xerneas - Capture about 20 a 30 Pokemob Fairy.
-22. Yveltal - Capture 14 Pokemob Dark.
+22. Yveltal - Capture about 14 Pokemob Dark.
 23. Heatran - Capture about 30 Pokemob Fire.
-24. Necrozma - Capture Solgaleo/Lunala.
-25. Zacian/Zamazenta - Capture 18 Pokemob Steel.
-26. Eternatus - Capture Zacian/Zamazenta.
-27. Glastrier/Spectrier - Capture Calyrex.
+24. Tapu Koko - Capture about 20 Pokemob Electric
+25. Tapu Lele - Capture about 20 Pokemob Psychic
+26. Tapu Bulu - Capture about 20 Pokemob Grass
+27. Tapu Fini - Capture about 20 Pokemob Water
+28. Necrozma - Capture Solgaleo/Lunala.
+29. Zacian/Zamazenta - Capture 18 Pokemob Steel.
+30. Eternatus - Capture Zacian/Zamazenta.
+31. Glastrier/Spectrier - Capture Calyrex.
+
+**Quest for Items**
+-------------------
+Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
+
+1. Regis -Capture: Relicanth and Wailord. Reward: Regice,Registeel,Regirock,Regielecki,Regidrago Core.
+2. Regigigas -Capture: All Regis. Reward: Regigigas Orb.
+3. Uxie,Mespret,Azelf -Reward: mirror parts of Giratinas.
+4. Shaymin -Reward: Gracidea.
+5. Hoopa -Reward: Prison Bottle.
+6. Kyurem -Reward: The two DNA to change the shape to Black/White.
+7. Necrozma -Reward: The two items to change the shape of Solgaleo and Lunala.
+8. Tapus -Capture and Defeat: Gumshoos, Raticate Alola, Wishiwashi, Salazzle, Lurantis, Vikavolt, Mimikyu, Kommo-o. Reward: Koko,Bulu,Lele,Fini Orb.
+9. Glastrier/Spectrier -Reward: Regardless of which to capture, you win the item.
 
 > Not all legends are within Quest or Requisition, and these are exactly the ones you use to get stronger legends. You can see if they appear in the world or are stuck in the blocks; To find out, just go to his Pokewatch page and go to Spawn tab, if it is at 0% he can only be summoned or appear in Hoopa Portals.
 
@@ -358,6 +388,10 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
 * Heatran - Uses Magma Core to summon it.
 * Reshiram - Uses Light Stone to summon it.
 * Zekrom - Uses Dark Stone to summon it.
+* Tapu Koko - Uses Koko Orb to summon it.
+* Tapu Lele - Uses Lele Orb to summon it.
+* Tapu Fini - Uses Fini Orb to summon it.
+* Tapu Bulu - Uses Bulu Orb to summon it.
 * Glastrier - Uses Iceroot Carrot to summon it.
 * Spectrier - Uses Shaderoot Carrot to summon it.
 * Kanto Birds Galar Form - Appear near Legendary Tree. Need not be invoked.
@@ -396,6 +430,8 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
 .. image:: https://i.imgur.com/hq6oTds.png
     :alt: no_recipe
 .. image:: https://i.imgur.com/NfkEhuf.png
+    :alt: no_recipe
+.. image:: ../_images/legends_wiki/tapus_spawn
     :alt: no_recipe
 
 Key Items (Evolution/ Change Form)
