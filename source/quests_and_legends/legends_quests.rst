@@ -66,8 +66,8 @@ You can see some in the Temple of the Tapus, but they have their own craft, the 
 They also have an offering mechanism, if you deliver an item to the Totem and you receive a potion effect.
 The item you offer to the Totem, by default, is a diamond, but you can change that item using datapacks
 
-Strutures
-#########
+**Strutures**
+=============
 
 While exploring the world you may find a few different structures, they are the 'Temples of Legendary'. Legendary temples need a key item and a unique quest completed so you can summon it and capture it. But for the most part not all have unique structures, some share the structure.
 
@@ -198,8 +198,8 @@ List of new structures added
     :alt: zacian_zamazenta
 
 
-Summoning Blocks
-~~~~~~~~~~~~~~~~
+**Summoning Blocks**
+====================
 
 These blocks are used to summon the legendary. Use the correct key item and spawn the legendary.
 Not all blocks have a recipe, those that have can be placed by the player, and those that are not created appear in the structures by the map.
@@ -284,8 +284,8 @@ and the blocks that do not have recipes are:
 .. image:: ../_images/legends_wiki/tapus_spawn.png
     :alt: tapus_spawn
 
-Making Type: Null
-~~~~~~~~~~~~~~~~~~
+**Making Type: Null**
+=====================
 
 Type: Null is a pokemon created in the laboratory, so there's nothing more fair than creating it inside the Pokecube too :b
 
@@ -309,8 +309,8 @@ You will need: Potion of Regeneration, Imprisonment Helmet, Two Pokemob egg
 
 When items are in place, just power Cloning Divece using a Siphon and an electric pokemob (minimum level: 25)
 
-Summoning Regis
-~~~~~~~~~~~~~~~
+**Summoning Regis**
+===================
 
 To create the Summon the Regi you have chosen you have two options: Search the Temple or Create your Totem
 To create the Totem follow the images:
@@ -355,8 +355,8 @@ To create the Totem follow the images:
 .. image:: https://i.imgur.com/e9Gi6tz.png
     :alt: wrong location alert
 
-Quests
-######
+**Quests**
+==========
 
 Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pok�mon Generations arrive.
 
@@ -392,8 +392,8 @@ Quest is the way for you to have the legendary pokemon's confidence, and thus ca
 30. Eternatus - Capture :ref:`zacian`/:ref:`zamazenta`.
 31. Glastrier/Spectrier - Capture :ref:`calyrex`.
 
-**Quest for Items**
--------------------
+Quest for Items
+~~~~~~~~~~~~~~~~~~~
 Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
 
 1. Regis -Capture: Relicanth and Wailord. Reward: Regice,Registeel,Regirock,Regielecki,Regidrago Core.
@@ -408,8 +408,8 @@ Some quests can give the summoning items of some legendary ones, but don't worry
 
 > Not all legends are within Quest or Requisition, and these are exactly the ones you use to get stronger legends. You can see if they appear in the world or are stuck in the blocks; To find out, just go to his Pokewatch page and go to Spawn tab, if it is at 0% he can only be summoned or appear in Hoopa Portals.
 
-Key items
-#########
+**Key items**
+=============
 
 The legendary Pokemon that are Spawned by Altars precision beyond the Quest, a Key Item. This key item can be purchased by the Merchant from NPC villages, or by completing Quest where each Quest has its own reward.
 
@@ -508,7 +508,7 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
     :alt: no_recipe
 
 Key Items (Evolution/ Change Form)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 some legendary items, despite having a quest, are not used to summon the legendary, but to evolve or change it
 >Here is a list of items that are acquired by Quest / Localization / Purchase or Crafting
@@ -571,8 +571,8 @@ some legendary items, despite having a quest, are not used to summon the legenda
 .. image:: https://i.imgur.com/3xR4c2T.png
     :alt: Reward4
 
-Legendary and their respective Spawn blocks
-###########################################
+**Legendary and their respective Spawn blocks**
+===============================================
 
 .. image:: https://i.imgur.com/ZHtzo7s.png
     :alt: legendy
