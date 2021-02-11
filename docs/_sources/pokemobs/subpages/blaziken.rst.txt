@@ -3,10 +3,10 @@
 Blaziken
 ---------
 
-.. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/blaziken.png
+.. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/blaziken_male.png
     :width: 400
     :alt: Blaziken
-.. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/blazikens.png
+.. image:: ../../_images/pokemobs/gen_3/entity_icon/textures/blaziken_males.png
     :width: 400
     :alt: Blaziken
 

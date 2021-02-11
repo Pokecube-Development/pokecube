@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+
+<html lang="en_us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adjusting Worldgen via Datapacks &#8212; Pokecube Documentation 1.16.4-2.8.0 documentation</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/classic.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Commands in Pokecube" href="../commands/commands.html" />
+    <link rel="prev" title="Custom Spawns via Datapacks" href="editing_spawns.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../commands/commands.html" title="Commands in Pokecube"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="editing_spawns.html" title="Custom Spawns via Datapacks"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Datapacks</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Adjusting Worldgen via Datapacks</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="adjusting-worldgen-via-datapacks">
+<h1>Adjusting Worldgen via Datapacks<a class="headerlink" href="#adjusting-worldgen-via-datapacks" title="Permalink to this headline">¶</a></h1>
+<p>Worldgen for Pokecube can be adjusted via datapacks. These datapacks should go in <code class="docutils literal notranslate"><span class="pre">/config/pokecube/datapacks/</span></code> and require a reboot to apply.</p>
+<p>By default, there are 2 of these present, one under <code class="docutils literal notranslate"><span class="pre">data/pokecube/structures</span></code>, and one under <code class="docutils literal notranslate"><span class="pre">data/pokecube_legends/structures</span></code>, so those are the ones you would need to include in your datapack if you wish to override the default behaviour.</p>
+<div class="section" id="json-format">
+<h2>Json Format:<a class="headerlink" href="#json-format" title="Permalink to this headline">¶</a></h2>
+<p>The primary file in these datapacks is the <code class="docutils literal notranslate"><span class="pre">worldgen.json</span></code>, located in <code class="docutils literal notranslate"><span class="pre">/data/&lt;modid&gt;/structures/</span></code>. This json file is formatted as follows:</p>
+<div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;pools&quot;</span><span class="p">:[],</span>
+  <span class="nt">&quot;jigsaws&quot;</span><span class="p">:[]</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>These are lists of the following types of objects:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">pool</span></code> - a set of buildings/features which count as generally the same type</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">jigsaw</span></code> - the structure to register for worldgen, it will build features from <code class="docutils literal notranslate"><span class="pre">pools</span></code></p></li>
+</ul>
+<div class="section" id="format-for-a-pool">
+<h3>Format for a pool:<a class="headerlink" href="#format-for-a-pool" title="Permalink to this headline">¶</a></h3>
+<p>Below is an example of a pool:</p>
+<div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="s2">&quot;pokecube:scattered/ruins_rigid&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;rigid&quot;</span><span class="p">:</span><span class="kc">true</span><span class="p">,</span>
+  <span class="nt">&quot;biomeType&quot;</span><span class="p">:</span><span class="s2">&quot;ruin&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;options&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;pokecube:scattered/ruins_rigid/ancient_tomb&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;pokecube:scattered/ruins_rigid/ruin_1&quot;</span>
+  <span class="p">]</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>This example pool registers a pool by the name <code class="docutils literal notranslate"><span class="pre">pokecube:scattered/ruins_rigid</span></code>, which contains 2 options. Note that the files this references are <code class="docutils literal notranslate"><span class="pre">/data/pokecube/scattered/ruins_rigid/ancient_tomb.nbt</span></code>, and are <code class="docutils literal notranslate"><span class="pre">.nbt</span></code> files produced by the vanilla structure blocks.</p>
+<p>Options available for pools are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">name</span></code> - a unique name for this pool, this is required.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">rigid</span></code> - if false, the structure will fall to match terrain (default <code class="docutils literal notranslate"><span class="pre">true</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">water</span></code> - if true, the structure will be allowed to spawn below sea level (default <code class="docutils literal notranslate"><span class="pre">false</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">biomeType</span></code> - This is what <a class="reference internal" href="editing_spawns.html#subbiomes"><span class="std std-ref">subbiome</span></a> will be assigned to the structure.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">options</span></code> - this is a list of nbt files to include in the pool</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">include</span></code> - this is a list of vanilla pools to also include in the pool</p></li>
+</ul>
+</div>
+<div class="section" id="format-for-a-jigsaw">
+<h3>Format for a jigsaw:<a class="headerlink" href="#format-for-a-jigsaw" title="Permalink to this headline">¶</a></h3>
+<p>Below is an example of a jigsaw:</p>
+<div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="s2">&quot;pokecube:village&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="s2">&quot;pokecube:village/plains&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;root&quot;</span><span class="p">:</span><span class="s2">&quot;pokecube:village/plains/town_centers&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;distance&quot;</span><span class="p">:</span><span class="mi">32</span><span class="p">,</span>
+  <span class="nt">&quot;separation&quot;</span><span class="p">:</span><span class="mi">12</span><span class="p">,</span>
+  <span class="nt">&quot;size&quot;</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>
+  <span class="nt">&quot;priority&quot;</span><span class="p">:</span><span class="mi">10</span><span class="p">,</span>
+  <span class="nt">&quot;biomeType&quot;</span><span class="p">:</span><span class="s2">&quot;village&quot;</span><span class="p">,</span>
+  <span class="nt">&quot;needed_once&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;pokecenter&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;gym&quot;</span>
+  <span class="p">],</span>
+  <span class="nt">&quot;dimBlacklist&quot;</span><span class="p">:[</span>
+    <span class="s2">&quot;the_nether&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;the_end&quot;</span>
+  <span class="p">],</span>
+  <span class="nt">&quot;spawn&quot;</span><span class="p">:{</span>
+    <span class="nt">&quot;values&quot;</span><span class="p">:{</span>
+      <span class="nt">&quot;types&quot;</span><span class="p">:</span><span class="s2">&quot;all&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;typesBlacklist&quot;</span><span class="p">:</span><span class="s2">&quot;snowy&quot;</span><span class="p">,</span>
+      <span class="nt">&quot;categoryBlacklist&quot;</span><span class="p">:</span><span class="s2">&quot;desert,ocean,river,beach,mushroom,the_end,nether,savanna,mesa,taiga,icy,taiga&quot;</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="p">},</span>
+</pre></div>
+</div>
+<p>This shows most of the features of the jigsaw. It will register a structure that will show in <code class="docutils literal notranslate"><span class="pre">/locate</span></code> as <code class="docutils literal notranslate"><span class="pre">pokecube:village</span></code>, and will have a structure in it called <code class="docutils literal notranslate"><span class="pre">pokecube:village.plains</span></code>.</p>
+<p>valid options for the jigsaw are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">name</span></code> - This is the unique identifier for this jigsaw</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">type</span></code> - If specified, this is what will be registered for the structure in <code class="docutils literal notranslate"><span class="pre">/locate</span></code>, if not specified, <code class="docutils literal notranslate"><span class="pre">name</span></code> is used isntead.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">offset</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">size</span></code> - This is the maximum “depth” of the jigsaw, for things like villages, this represents how many times the roads are allowed to branch</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">distance</span></code> - The structure is guarenteed to try to spawn at least every this many chunks</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">separation</span></code> - The structure shouldn’t spawn closer than this many chunks to another copy of itself</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">biomeType</span></code> - Similar to in the pools, except a default for the entire structure</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">spawn</span></code> - the <a class="reference internal" href="editing_spawns.html#spawn-rules"><span class="std std-ref">spawn rule</span></a> for the structure, Note that this only matches based on biome, not subbiome or local values such as weather, etc</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">surface</span></code> - This spawns on the top of the ground (default <code class="docutils literal notranslate"><span class="pre">true</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">base_under</span></code> - This generates a “natural” base under the structure (default <code class="docutils literal notranslate"><span class="pre">true</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">water</span></code> - the structure will be allowed to generate under water (default <code class="docutils literal notranslate"><span class="pre">false</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">air</span></code> - the structure will generate a random distance above the ground, limited by <code class="docutils literal notranslate"><span class="pre">variance</span></code> and <code class="docutils literal notranslate"><span class="pre">height</span></code> (default <code class="docutils literal notranslate"><span class="pre">false</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">allow_void</span></code> - If false, the structure will not be allowed to spawn over an area which is lower than <code class="docutils literal notranslate"><span class="pre">minY</span></code> (default <code class="docutils literal notranslate"><span class="pre">false</span></code>)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">minY</span></code> - see <code class="docutils literal notranslate"><span class="pre">allow_void</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">height</span></code> - see <code class="docutils literal notranslate"><span class="pre">air</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">variance</span></code> - see <code class="docutils literal notranslate"><span class="pre">air</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">needed_once</span></code> - pool options with these flags must be present exactly once for this structure to complete</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">dimBlacklist</span></code> - This structure shouldn’t spawn in these dimensions</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">dimWhitelist</span></code> - This allows letting the structure spawn in dimensions in the <a class="reference internal" href="../configs/pokecube-common.html#pokecube-common-toml"><span class="std std-ref">softWorldgenDimBlacklist</span></a></p></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Adjusting Worldgen via Datapacks</a><ul>
+<li><a class="reference internal" href="#json-format">Json Format:</a><ul>
+<li><a class="reference internal" href="#format-for-a-pool">Format for a pool:</a></li>
+<li><a class="reference internal" href="#format-for-a-jigsaw">Format for a jigsaw:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="editing_spawns.html"
+                        title="previous chapter">Custom Spawns via Datapacks</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="../commands/commands.html"
+                        title="next chapter">Commands in Pokecube</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/datapacks/editing_worldgen.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../commands/commands.html" title="Commands in Pokecube"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="editing_spawns.html" title="Custom Spawns via Datapacks"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >Datapacks</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Adjusting Worldgen via Datapacks</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.4.3.
+    </div>
+  </body>
+</html>

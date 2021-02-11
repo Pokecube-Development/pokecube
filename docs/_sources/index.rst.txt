@@ -13,6 +13,7 @@ Welcome to Pokecube Documentation's documentation!
    getting_started/index
    configs/index
    datapacks/index
+   commands/commands
    quests_and_legends/index
    pokemobs/index
 

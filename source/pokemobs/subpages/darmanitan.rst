@@ -13,5 +13,5 @@ Darmanitan
 
 Description
 ============
-| Darmanitan is a fire/psychic Pokémob.
+| Darmanitan is a fire Pokémob.
 | Darmanitan evolves from :ref:`darumaka`.
