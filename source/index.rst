@@ -14,6 +14,7 @@ Welcome to Pokecube Documentation's documentation!
    configs/index
    datapacks/index
    commands/commands
+   trainers/index
    quests_and_legends/index
    pokemobs/index
 

@@ -14,20 +14,21 @@ This is the base command for some of the ``OP`` utility commands. These commands
 Arguments:
 ~~~~~~~~~~
 
--   cull            - This will remove any wild pokemobs not near a player
--   kill            - This kills all wild pokemobs
--   kill_all        - this kills all pokemobs
--   count           - This will display the number of each type of pokemob currently loaded, it will include wild and tamed pokemobs
--   restore         - This is used to recover lost/missing pokemobs
--   reset <user>    - This allows the target to select a new starter
+-   ``cull``            - This will remove any wild pokemobs not near a player
+-   ``kill``            - This kills all wild pokemobs
+-   ``kill_all``        - this kills all pokemobs
+-   ``count``           - This will display the number of each type of pokemob currently loaded, it will include wild and tamed pokemobs
+-   ``restore``         - This is used to recover lost/missing pokemobs
+-   ``reset <user>``    - This allows the target to select a new starter
 
 /pokecube restore
 ~~~~~~~~~~~~~~~~~
 
 This command then takes a few additional arguments:
 
--   check <player> [name]  - [name] is optional, this will print a list of pokemobs owned by <player>, and clicking on the name (or the [] around the name) will teleport the user to the last known location of the pokemob. The user may need to first transfer to the dimension the pokemob was last seen in, as this command does not track the last known dimension
--   give <player> [name]   - similar to ``check``, however clicking will instead give you the pokecube for the pokemob, you can then send this to the owner's PC by tossing it, or send it out by throwing it.
+-   ``check <player> [name]``  - [name] is optional, this will print a list of pokemobs owned by <player>, and clicking on the name (or the [] around the name) will teleport the user to the last known location of the pokemob. The user may need to first transfer to the dimension the pokemob was last seen in, as this command does not track the last known dimension
+-   ``give <player> [name]``   - similar to ``check``, however clicking will instead give you the pokecube for the pokemob, you can then send this to the owner's PC by tossing it, or send it out by throwing it.
+-   ``clear <player>``                  - This will clear the cache for the targetted player, Only use this if their cache is too corrupted to use!
 
 There are then versions of these options, with ``_pc`` and ``_deleted``, which list pokemobs last seen in PC, or pokemobs which were intentionally released/deleted by the owner.
 
@@ -38,10 +39,10 @@ This command is used to recall pokemobs, it will only work if the target pokemob
 
 This command takes one of the following arguments:
 
--   name    - targets by the given name
--   all     - targets all of your mobs
--   staying - targets your mobs set to "stay"
--   sitting - targets your mobs set to "sit"
+-   ``name``    - targets by the given name
+-   ``all``     - targets all of your mobs
+-   ``staying`` - targets your mobs set to "stay"
+-   ``sitting`` - targets your mobs set to "sit"
 
 .. _pokemake:
 
@@ -58,22 +59,22 @@ if the first value in ``<arguments>`` is a valid player selector, then that play
 
 Valid such arguments are below:
 
--   s           - Makes the pokemob shiny
--   item:<var>  - <var> is a valid argument for /give, it will assign this as the held item for the pokemob
--   l:<level>   - Sets the level of the pokemob to <level>
--   f:<name>    - Assigns the alternate texture/model for this mob, useful for unown, alcremie, etc
--   x:<f|m>     - Sets the gender to male (m) or female (f)
--   r:<int>     - Sets the (integer) red value for the pokemob
--   g:<int>     - Sets the (integer) green value for the pokemob
--   b:<int>     - Sets the (integer) blue value for the pokemob
--   a:<name>    - Gives the pokemob the ability <name>
--   m:<name>    - Adds <name> as a move for the mob, this argument can be repeated up to 4 times with different moves. Use :ref:`poketm` to determine the valid options for this argument
--   v:<x,y,z>   - Spawns the pokemob with an offset defined by <x,y,z>
--   i:<ivs>     - Sets the IVs for the mob, <ivs> should either be a single number, or a ``,`` separated list of 6 numbers
--   w           - Does the same initialization as for wild spawns (may trigger evolution, etc)
--   h:<size>    - Sets the mob's size
--   p:<nature>  - Sets the nature of the pokemob to <nature>
--   n:<name>    - Sets the nickname for the pokemob
+-   ``s``           - Makes the pokemob shiny
+-   ``item:<var>``  - <var> is a valid argument for /give, it will assign this as the held item for the pokemob
+-   ``l:<level>``   - Sets the level of the pokemob to <level>
+-   ``f:<name>``    - Assigns the alternate texture/model for this mob, useful for unown, alcremie, etc
+-   ``x:<f|m>``     - Sets the gender to male (m) or female (f)
+-   ``r:<int>``     - Sets the (integer) red value for the pokemob
+-   ``g:<int>``     - Sets the (integer) green value for the pokemob
+-   ``b:<int>``     - Sets the (integer) blue value for the pokemob
+-   ``a:<name>``    - Gives the pokemob the ability <name>
+-   ``m:<name>``    - Adds <name> as a move for the mob, this argument can be repeated up to 4 times with different moves. Use :ref:`poketm` to determine the valid options for this argument
+-   ``v:<x,y,z>``   - Spawns the pokemob with an offset defined by <x,y,z>
+-   ``i:<ivs>``     - Sets the IVs for the mob, <ivs> should either be a single number, or a ``,`` separated list of 6 numbers
+-   ``w``           - Does the same initialization as for wild spawns (may trigger evolution, etc)
+-   ``h:<size>``    - Sets the mob's size
+-   ``p:<nature>``  - Sets the nature of the pokemob to <nature>
+-   ``n:<name>``    - Sets the nickname for the pokemob
 
 /pokeegg
 ########
