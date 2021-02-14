@@ -30,7 +30,7 @@ The Text field below the types is the level to use for randomly assigned pokemob
 The lower two buttons define some extra initialization for the NPC, the left button will assign the gender, and the right button will toggle whether the trainer moves around by default. These can also be changed later via :ref:`npc_edit`.
 
 Spawn NPC
-~~~~~~~~~
+---------
 
 This summons a generic NPC, these are generally non-agressive, though can have pokemobs to defend themselves. Important types for these are as follows:
 
@@ -39,13 +39,13 @@ This summons a generic NPC, these are generally non-agressive, though can have p
 -   ``trader`` - This would be like the merchants in pokecenters
 
 Spawn Trainer
-~~~~~~~~~~~~~
+-------------
 
 This summons a Trainer NPC, which will offer battles for emeralds, and have similar behaviour to the ones found around villages, or spawning randomly. The type selected will determine the texture and automatically assigned pokemobs for the trainer.
 
 
 Spawn Leader
-~~~~~~~~~~~~~
+------------
 
 This summons an Gym Leader NPC, the gym leader will have a random badge asigned, and will only let each player defeat them once.
 
@@ -67,7 +67,7 @@ This gui will open if ``EditTrainer`` is pressed while the player is looking at 
 .. _edit_npc_main:
 
 Main Window
-~~~~~~~~~~~
+-----------
 
 The main window allows changing the name, type, gender and trades of the NPC, as well as deleting it. It also then has buttons which change to other pages which allow editing different values.
 
@@ -79,7 +79,7 @@ If the NPC has less than 6 pokemobs, an addtional pokemob can be added by clicki
 .. _edit_npc_pokemob:
 
 Editing Pokemobs
-~~~~~~~~~~~~~~~~
+----------------
 
 .. figure:: ../_images/trainer_editor/edit_pokemob.png
    :alt: NPC's Pokemob Editing
@@ -95,7 +95,7 @@ The ``delete`` button will remove this pokemob from the NPC, and ``back`` will r
 .. _add_npc_pokemob:
 
 Adding Pokemobs
-~~~~~~~~~~~~~~~
+---------------
 
 It should be mentioned, that you can also add and remove pokemobs from the NPC by shift right clicking them with a ``pokedex``, this will bring up their 6-slot inventory, and you can add/remove pokecubes from here as needed. If you take a pokecube out, it will assign ownership to you, and if you put one in, it will assign ownership to the NPC. This gui is an alternate way to access this behaviour.
 
@@ -110,7 +110,7 @@ This gui mostly differs from :ref:`edit_npc_pokemob` by the ``Add New`` button r
 
 
 Editing AI
-~~~~~~~~~~
+----------
 
 .. figure:: ../_images/trainer_editor/edit_ai.png
    :alt: NPC AI Editing
@@ -122,7 +122,7 @@ Editing AI
 This screen allows editing some of the AI related aspects of the NPC. It has values related to Cooldowns, as well as some allowed states for the NPC. It also is where you can specify the times for the NPC to stay in specified locations.
 
 Editing Messages
-~~~~~~~~~~~~~~~~
+----------------
 
 .. figure:: ../_images/trainer_editor/edit_message.png
    :alt: NPC Message Editing
@@ -139,7 +139,7 @@ This screen allows for editing the various chat messages sent when the player in
 -   Apply button - Press this to apply changes to the action
 
 Editing Rewards
-~~~~~~~~~~~~~~~
+---------------
 
 .. figure:: ../_images/trainer_editor/edit_reward.png
    :alt: NPC Reward Editing

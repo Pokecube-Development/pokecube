@@ -12,7 +12,7 @@ Note that any argument which is represented surrounded by [] is optional. A larg
 This is the base command for some of the ``OP`` utility commands. These commands are meant to be used by admins.
 
 Arguments:
-~~~~~~~~~~
+----------
 
 -   ``cull``            - This will remove any wild pokemobs not near a player
 -   ``kill``            - This kills all wild pokemobs
@@ -20,6 +20,8 @@ Arguments:
 -   ``count``           - This will display the number of each type of pokemob currently loaded, it will include wild and tamed pokemobs
 -   ``restore``         - This is used to recover lost/missing pokemobs
 -   ``reset <user>``    - This allows the target to select a new starter
+
+.. _pokerestore:
 
 /pokecube restore
 ~~~~~~~~~~~~~~~~~
@@ -96,6 +98,8 @@ It will generate a TM for the move <movename>, and if present, will give it to [
 #########
 
 This command is used to enter/exit secret bases, without needing to use the blocks created with secretpower.
+
+.. _meteor_cmd:
 
 /meteor
 #######
