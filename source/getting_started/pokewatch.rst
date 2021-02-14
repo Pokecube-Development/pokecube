@@ -70,7 +70,9 @@ Live Mode
    :name: pokemob_stats_2
    :width: 600
 
-In live mode, this displays the actual stats of the pokemob. The column ``TV`` shows the actual value of the stat, and the ``IV`` and ``EV`` columns show the IVs and EVs of the pokemob respectively.
+   Calm Natured :ref:`bulbasaur`, displaying the reduced ``ATT`` and raised ``DEFSP`` 
+
+In live mode, this displays the actual stats of the pokemob. The column ``TV`` shows the actual value of the stat, and the ``IV`` and ``EV`` columns show the IVs and EVs of the pokemob respectively. If your pokemob's nature affects stats, then the raised stat will have a red highlighted bar over it, and the lowered stat will have a green one.
 
 Battle
 ~~~~~~
