@@ -31,7 +31,7 @@ FAQ
 
 -  It still isn't there!
 
-   Something may have gone wrong, in this case, run ``/pokecube restore give @p``, and then click on the name of the mob in chat, you may need to click on the ``[]`` around the name rather than the text itself.
+   Something may have gone wrong, in this case, run ``/pokecube restore give @p``, and then click on the name of the mob in chat, you may need to click on the ``[]`` around the name rather than the text itself. More information about ``/pokecube restore`` can be found at :ref:`pokerestore`. 
 
 -  Where does <X> spawn?
 
