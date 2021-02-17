@@ -8,11 +8,11 @@ Sample Datapacks:
 
 These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 
-| Removing all Spawns: :download:`no_spawns.zip`
-|  This datapack overwrites the default files with completely blank spawns, thereby removing the existing spawns
+- Removing all Spawns: :download:`no_spawns.zip`
+    This datapack overwrites the default files with completely blank spawns, thereby removing the existing spawns
 
-| Adding Subbiomes and Spawns: :download:`new_subbiomes.zip`
-|  This datapack adds a set of new spawns, for new subbiomes `route_1` and `route_23`, these spawns have specific levels set.
+- Adding Subbiomes and Spawns: :download:`new_subbiomes.zip`
+    This datapack adds a set of new spawns, for new subbiomes `route_1` and `route_23`, these spawns have specific levels set.
 
 
 .. _spawn_rules:
@@ -21,8 +21,8 @@ Json Spawn Rule Format:
 -----------------------
 
 
-| Location selection in Pokecube uses a json object called a `SpawnRule`, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.
-| Here is an example of a spawns json
+Location selection in |Pokecube| uses a json object called a `SpawnRule`, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.
+Here is an example of a spawns json
 
 .. code-block:: json
 
@@ -34,10 +34,10 @@ Json Spawn Rule Format:
     }
 
 
-| This example will match a location which is of types `mountain` and `cave`, and not `wet`.
-| 
-| Below is a list of accepted values, and what they will do.
-| Any below that are a list, will be separated by commas, like in `types` in the example above
+This example will match a location which is of types `mountain` and `cave`, and not `wet`.
+
+Below is a list of accepted values, and what they will do.
+Any below that are a list, will be separated by commas, like in `types` in the example above
 
 -  `types` - list of types which are all required to be valid
 -  `typesBlacklist` - list of types which, if present, will invalidate
@@ -72,7 +72,7 @@ Json Spawn Rule Format:
 Biome Categories
 ~~~~~~~~~~~~~~~~
 
-| Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:
+Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:
 
 ::
 
@@ -149,14 +149,14 @@ Spawn rules then generally have an additional set of values, for specifying rate
 Applying Custom Subbiomes ingame
 ################################
 
-| If an item is renamed ``subbiome-><name>``, then it can be used as a subbiome setter, and will apply the subbiome ``<name>``
-| This works by sneak right clicking 1 corner to set, then sneak right clicking the other corner. The volume in between will be set as the selected subbiome.
-| Note that to sync to the f3 menu, you may need to open the watch or pokedex's interface in that chunk
+If an item is renamed ``subbiome-><name>``, then it can be used as a subbiome setter, and will apply the subbiome ``<name>``
+This works by sneak right clicking 1 corner to set, then sneak right clicking the other corner. The volume in between will be set as the selected subbiome.
+Note that to sync to the f3 menu, you may need to open the watch or pokedex's interface in that chunk
 
 Extra Notes/Info
 ################
 
-If trying to add a spawn for a Legendary pokemob, with a specific level and variance, you must set 
+If trying to add a spawn for a Legendary |pokemob|, with a specific level and variance, you must set 
 
 .. code-block::
 
@@ -164,3 +164,6 @@ If trying to add a spawn for a Legendary pokemob, with a specific level and vari
 
 
 in :ref:`pokecube-common.toml`.
+
+
+.. include:: ../.shared.rst

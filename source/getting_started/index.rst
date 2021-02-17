@@ -21,9 +21,9 @@ FAQ
 
    Check if there is a hotkey you can assin for <X> in the controls section of the minecraft options.
 
--  I Died, where did my pokemobs go?
+-  I Died, where did my |pokemobs| go?
 
-   On death, your pokemobs should go to the PC, you can usually find a PC in each pokecenter, or you can craft one yourself
+   On death, your |pokemobs| should go to the PC, you can usually find a PC in each pokecenter, or you can craft one yourself
 
 -  I checked PC, it didn't go there!
 
@@ -41,7 +41,9 @@ FAQ
 
    The initial location information does not fully account for extra conditions, such as time of day, or required :ref:`subbiomes <subbiomes>`. You may need to search around the general area until the mob appears in the :ref:`watch_local_spawns` page.
 
--  I tried to catch <X>, but it didn't go in the pokecube!
+-  I tried to catch <X>, but it didn't go in the |pokecube|!
 
-   if <X> is a special or otherwise legendary pokemob, it may have capture requirements, in that case, check :ref:`legend_quests` for more information.
+   if <X> is a special or otherwise legendary |pokemob|, it may have capture requirements, in that case, check :ref:`legend_quests` for more information.
    
+
+.. include:: ../.shared.rst
