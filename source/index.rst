@@ -6,6 +6,8 @@
 Welcome to Pokecube Documentation's documentation!
 ==================================================
 
+.. image:: _images/pokecube-banner.*
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:

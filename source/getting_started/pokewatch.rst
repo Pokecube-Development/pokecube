@@ -134,6 +134,8 @@ Breeding
 
 This page also does not differ based on the mode. This shows a list of |pokemobs| which, so long as not disabled via some other means (such as legendary, etc), this |pokemob| will attempt to breed with. This list does not specifically include things that transform such as :ref:`ditto`, as the breeding for that is handled by the move. Click a name in here will take you to the page for that |pokemob|.
 
+.. _watch_description:
+
 Description
 ~~~~~~~~~~~
 
@@ -144,6 +146,7 @@ Description
 
 This page also does not differ based on the mode. This page gives a general indication of how this |pokemob| evolves. It contains mostly the same information as the equivalent page on this site, however is generally more updated. Clicking a name on this page will take you to the page for that |pokemob|.
 
+In the case where this is used on a |pokemob| with capture requirements, then there will be a button to check the status of this requirement. It will print a message in chat when clicked, notifying you about what you need to do to catch the |pokemob|, or letting you know that you can catch it. More information about this is discussed in :ref:`legend_quests`.
 
 .. _watch_wiki:
 

@@ -22,7 +22,7 @@ copyright = '2021, Thutmose'
 author = 'Thutmose'
 
 # The full version, including alpha/beta/rc tags
-release = '3.9.0'
+release = '3.10.x'
 
 
 # -- General configuration ---------------------------------------------------
