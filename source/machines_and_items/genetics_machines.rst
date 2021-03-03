@@ -10,42 +10,6 @@ These blocks allow for extensive genetic manipulation of |pokemobs|, as well as 
 
 These blocks require energy to run, this can be provided via the :ref:`siphon`.
 
-.. _gene_selector:
-
-Gene Selector Books
-~~~~~~~~~~~~~~~~~~~
-
-The :ref:`gene_extractor` and :ref:`gene_splicer` require a selector to function.
-
-Selectors have 3 main sets of properties:
-
-1. List of genes to selector for
-2. Chance for selector to be lost on use
-3. Chance for DNA source to be lost on use
-
-.. warning:: Default selectors have 90% chance of DNA source loss.
-
-Making a Selector
-^^^^^^^^^^^^^^^^^
-
-Selectors are made via vanilla written books. You can place each required gene on a separate line of the first page of the book, and then when the book is signed, it can be used as a DNA selector. Valid genes can be found in the :ref:`Genetics Guide <watch_wiki>` in the watch, or via the tooltip of a filled |pokecube| in the GUI of any of the :ref:`gene_machines`. To select all genes, you can just use ``all``, instead of a specific gene name.
-
-Crafting a selector with a nether star will reduce the DNA loss chance to 0%, however will result in an increase in the selector loss chance.
-
-.. figure:: ../_images/machines_items/gene_selector_all.png
-   :alt: All Selector
-   :name: all_selector
-   :width: 600
-
-    An example of a selector for All genes
-
-.. figure:: ../_images/machines_items/gene_selector_ivs.png
-   :alt: All Selector
-   :name: ivs_selector
-   :width: 600
-
-   An example of a selector for the IVs gene
-
 .. _gene_extractor:
 
 ##############
@@ -97,5 +61,45 @@ Gene Splicer
 ############
 
 This thing is cheaty and overpowered.
+
+
+.. _gene_selector:
+
+###################
+Gene Selector Books
+###################
+
+The :ref:`gene_extractor` and :ref:`gene_splicer` require a selector to function.
+
+Selectors have 3 main sets of properties:
+
+1. List of genes to selector for
+2. Chance for selector to be lost on use
+3. Chance for DNA source to be lost on use
+
+.. warning:: Default selectors have 90% chance of DNA source loss.
+
+Making a Selector
+^^^^^^^^^^^^^^^^^
+
+Selectors are made via vanilla written books. You can place each required gene on a separate line of the first page of the book, and then when the book is signed, it can be used as a DNA selector. Valid genes can be found in the :ref:`Genetics Guide <watch_wiki>` in the watch, or via the tooltip of a filled |pokecube| in the GUI of any of the :ref:`gene_machines`. To select all genes, you can just use ``all``, instead of a specific gene name.
+
+Crafting a selector with a nether star will reduce the DNA loss chance to 0%, however will result in an increase in the selector loss chance.
+
+.. figure:: ../_images/machines_items/gene_selector_all.png
+   :alt: All Selector
+   :name: all_selector
+   :width: 600
+
+    An example of a selector for All genes
+
+
+.. figure:: ../_images/machines_items/gene_selector_ivs.png
+   :alt: All Selector
+   :name: ivs_selector
+   :width: 600
+
+   An example of a selector for the IVs gene
+
 
 .. include:: ../.shared.rst
