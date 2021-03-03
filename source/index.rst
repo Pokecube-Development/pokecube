@@ -18,6 +18,7 @@ Welcome to Pokecube Documentation's documentation!
    commands/commands
    trainers/index
    quests_and_legends/index
+   machines_and_items/index
    pokemobs/index
 
 

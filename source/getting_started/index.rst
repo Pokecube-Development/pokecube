@@ -9,9 +9,9 @@ Getting Started
 
    *
 
-****
-FAQ
-****
+*********************
+FAQ and Common Issues
+*********************
 
 -  How do I get a starter?
 
@@ -45,5 +45,12 @@ FAQ
 
    if <X> is a special or otherwise legendary |pokemob|, it may have capture requirements, in that case, check :ref:`legend_quests` for more information.
    
+-  I Placed a <X>, and now I can't pick it back up!
+
+   Some blocks are "protected", some examples of these are:
+   -  pokecenter
+   -  PC
+
+   Blocks like these can be instantly broken (and will drop) by left clicking them with a stick, provided that you were the player who placed the block.
 
 .. include:: ../.shared.rst

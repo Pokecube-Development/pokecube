@@ -284,6 +284,8 @@ and the blocks that do not have recipes are:
 .. image:: ../_images/legends_wiki/tapus_spawn.png
     :alt: tapus_spawn
 
+.. _make_type_null:
+
 **Making Type: Null**
 =====================
 
@@ -307,7 +309,7 @@ You will need: Potion of Regeneration II, Imprisonment Helmet, Two |Pokemob| egg
 .. image:: https://i.imgur.com/PXL1Y0K.png
     :alt: typenull_recipe
 
-When items are in place, just power Cloning Divece using a Siphon and an electric |pokemob| (Higher levels make this go much faster)
+When items are in place, just power the :ref:`cloner` using an :ref:`siphon`: and an electric |pokemob| (Higher levels make this go much faster).
 
 **Summoning Regis**
 ===================
