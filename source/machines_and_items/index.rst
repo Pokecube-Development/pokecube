@@ -7,3 +7,6 @@ Machines and Tools
    
    /machines_and_items/*
 
+
+
+.. include:: ../.shared.rst

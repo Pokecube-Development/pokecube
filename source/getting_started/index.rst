@@ -48,6 +48,7 @@ FAQ and Common Issues
 -  I Placed a <X>, and now I can't pick it back up!
 
    Some blocks are "protected", some examples of these are:
+   
    -  pokecenter
    -  PC
 

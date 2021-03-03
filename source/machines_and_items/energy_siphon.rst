@@ -29,4 +29,8 @@ There are 2 ways to link the energy siphon:
 
 Wireless linking of energy siphons can be disabled via ``wirelessSiphons`` in :ref:`pokecube_adventures-common.toml`.
 
+
+
+
+
 .. include:: ../.shared.rst

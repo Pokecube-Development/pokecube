@@ -24,4 +24,9 @@ To create a remote link to an :ref:`siphon`, the location where you are about to
 3. Replace the dirt block with the Warp Pad
 4. Link the :ref:`siphon` to the location stored in the linker
 
+
+
+
+
+
 .. include:: ../.shared.rst

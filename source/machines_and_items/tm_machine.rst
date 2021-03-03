@@ -28,4 +28,7 @@ When you first open the GUI, there are no displayed moves. To add moves to the l
 
 The ``<`` and ``>`` buttons can be used to cycle through the list is available moves, and then the apply button will map the selected move onto the TM in the TM slot. The TM used does not need to be blank, and this can be used to overwrite un-wanted TMs.
 
+
+
+
 .. include:: ../.shared.rst

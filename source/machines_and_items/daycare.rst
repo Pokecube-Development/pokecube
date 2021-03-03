@@ -17,3 +17,8 @@ when a |pokemobs| is near the the daycare block, the following will occur:
 3. Depending on the amount of power needed by the above functions (specified via ``dayCarePowerPerExp``), emeralds will be consumed. The number of emeralds consumed depends on the value of ``dayCarePowerPerFuel``, and for applying the breeding cooldown to a lvl 100 pokemob, it will instead cost power as if the pokemob was the level specified in ``dayCareLvl100EffectiveLevel``.
 
 These will happen every ``dayCareTickRate`` ticks, so lower values for that will result in faster action of the daycare block.
+
+
+
+
+.. include:: ../.shared.rst

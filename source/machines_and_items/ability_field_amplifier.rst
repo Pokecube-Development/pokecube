@@ -4,3 +4,6 @@
 Ability Field Amplifier
 ***********************
 
+
+
+.. include:: ../.shared.rst
