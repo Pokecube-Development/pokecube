@@ -28,7 +28,7 @@ This block is used to extract DNA from various sources, including:
 
 .. image:: ../_images/machines_items/gene_extractor_gui.*
 
-To use the extractor, place the source of the DNA in the left most slot (source slot), and then a bottle of water in the bottle slot (top slot). Next place the required selector in the book slot (bottom slot). The machine will then consume Forge Energy, and attempt to extract the selected DNA from the Source into the bottle.
+To use the extractor, place the source of the DNA in the left most slot (source slot), and then a bottle of water in the bottle slot (top slot). Next place the required :ref:`selector <gene_selector>` in the book slot (bottom slot). The machine will then consume Forge Energy, and attempt to extract the selected DNA from the Source into the bottle.
 
 .. warning:: Use with Legendary |pokemobs| is not advised, their DNA is volatile, and liable to be destroyed on extraction!
 
