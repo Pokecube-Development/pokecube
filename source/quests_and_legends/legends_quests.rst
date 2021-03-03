@@ -309,7 +309,7 @@ You will need: Potion of Regeneration II, Imprisonment Helmet, Two |Pokemob| egg
 .. image:: https://i.imgur.com/PXL1Y0K.png
     :alt: typenull_recipe
 
-When items are in place, just power the :ref:`cloner` using an :ref:`siphon`: and an electric |pokemob| (Higher levels make this go much faster).
+When items are in place, just power the :ref:`cloner` using an :ref:`siphon` and an electric |pokemob| (Higher levels make this go much faster).
 
 **Summoning Regis**
 ===================

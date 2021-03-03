@@ -93,11 +93,12 @@ Crafting a selector with a nether star will reduce the DNA loss chance to 0%, ho
    
    An example of a selector for All genes
 
+
 .. figure:: ../_images/machines_items/gene_selector_ivs.png
    :alt: All Selector
    :name: ivs_selector
    :width: 600
-
+   
    An example of a selector for the IVs gene
 
 
