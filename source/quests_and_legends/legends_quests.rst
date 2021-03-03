@@ -302,12 +302,12 @@ In it, you will find some NPCs to battle, and reaching the top floor you will fi
 Defeating him, you can open the trade menu, and there you will find Imprisonment Helmet, the main item to create Type: Null
 
 >Now comes the part you need to pay attention to!
-You will need: Potion of Regeneration, Imprisonment Helmet, Two |Pokemob| eggs
+You will need: Potion of Regeneration II, Imprisonment Helmet, Two |Pokemob| eggs
 
 .. image:: https://i.imgur.com/PXL1Y0K.png
     :alt: typenull_recipe
 
-When items are in place, just power Cloning Divece using a Siphon and an electric |pokemob| (minimum level: 25)
+When items are in place, just power Cloning Divece using a Siphon and an electric |pokemob| (Higher levels make this go much faster)
 
 **Summoning Regis**
 ===================
