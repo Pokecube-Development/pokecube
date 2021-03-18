@@ -16,7 +16,7 @@
     
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Legends, Quests and Dimensions" href="../quests_and_legends/index.html" />
+    <link rel="next" title="Adjusting Worldgen via Datapacks" href="editing_worldgen.html" />
     <link rel="prev" title="Datapacks" href="index.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
@@ -26,7 +26,7 @@
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
+          <a href="editing_worldgen.html" title="Adjusting Worldgen via Datapacks"
              accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="index.html" title="Datapacks"
@@ -60,7 +60,7 @@
 </div>
 </div>
 <div class="section" id="json-spawn-rule-format">
-<h3>Json Spawn Rule Format:<a class="headerlink" href="#json-spawn-rule-format" title="Permalink to this headline">¶</a></h3>
+<span id="spawn-rules"></span><h3>Json Spawn Rule Format:<a class="headerlink" href="#json-spawn-rule-format" title="Permalink to this headline">¶</a></h3>
 <div class="line-block">
 <div class="line">Location selection in Pokecube uses a json object called a <cite>SpawnRule</cite>, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.</div>
 <div class="line">Here is an example of a spawns json</div>
@@ -128,13 +128,9 @@
 </div>
 <div class="section" id="biome-types">
 <h4>Biome Types<a class="headerlink" href="#biome-types" title="Permalink to this headline">¶</a></h4>
-<div class="line-block">
-<div class="line">For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: <a class="reference external" href="https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?">BiomeDictionary</a></div>
-<div class="line"><br /></div>
-<div class="line">These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.</div>
-<div class="line"><br /></div>
-<div class="line">Here is the list of built in Subbiome types:</div>
-</div>
+<p>For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: <a class="reference external" href="https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?">BiomeDictionary</a></p>
+<p>These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.</p>
+<p id="subbiomes">Here is the list of built in Subbiome types:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">none</span>
 <span class="n">sky</span>
 <span class="n">flower</span>
@@ -222,8 +218,8 @@
   <p class="topless"><a href="index.html"
                         title="previous chapter">Datapacks</a></p>
   <h4>Next topic</h4>
-  <p class="topless"><a href="../quests_and_legends/index.html"
-                        title="next chapter">Legends, Quests and Dimensions</a></p>
+  <p class="topless"><a href="editing_worldgen.html"
+                        title="next chapter">Adjusting Worldgen via Datapacks</a></p>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -252,7 +248,7 @@
           <a href="../genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
+          <a href="editing_worldgen.html" title="Adjusting Worldgen via Datapacks"
              >next</a> |</li>
         <li class="right" >
           <a href="index.html" title="Datapacks"

@@ -13,4 +13,4 @@ Shaymin
 
 Description
 ============
-| Shaymin is a grass/flying Pokémob.
+| Shaymin is a grass Pokémob.

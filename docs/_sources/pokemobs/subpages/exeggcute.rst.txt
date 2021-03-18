@@ -16,7 +16,7 @@ Description
 | Exeggcute is a grass/psychic Pokémob.
 | Exeggcute evolves into :ref:`exeggutor`:
 |  -  When given a Leaf Stone.
-|  -  In [minecraft:beach, minecraft:mushroom_field_shore, minecraft:snowy_beach, minecraft:stone_shore].
+|  -  In [Beach, Mushroom Field Shore, Snowy Beach, Stone Shore].
 | 
 | Exeggcute evolves into :ref:`exeggutor`:
 |  -  When given a Leaf Stone.

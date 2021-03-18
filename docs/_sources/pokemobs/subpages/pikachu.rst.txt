@@ -16,7 +16,7 @@ Description
 | Pikachu is a electric Pokémob.
 | Pikachu evolves into :ref:`raichu`:
 |  -  When given a Thunder Stone.
-|  -  In [minecraft:beach, minecraft:mushroom_field_shore, minecraft:snowy_beach, minecraft:stone_shore].
+|  -  In [Beach, Mushroom Field Shore, Snowy Beach, Stone Shore].
 | 
 | Pikachu evolves into :ref:`raichu`:
 |  -  When given a Thunder Stone.

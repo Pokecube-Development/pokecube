@@ -1,8 +1,8 @@
 Pokecube Dimensions
 -------------------
 
-# **Pok�cube Dimensions:**
-The pok�cube has two dimensions to be explored by players. On this page, we'll see how to get to these dimensions, how they affect gameplay, Pok�mon exclusive to these locations
+# **|Pokecube| Dimensions:**
+|Pokecube| has two dimensions to be explored by players. On this page, we'll see how to get to these dimensions, how they affect gameplay, |Pokemob| exclusive to these locations
 
 # **Distorted World**
 
@@ -198,3 +198,6 @@ no. The only ores that appear in the dimension are Spectrum and Cosmic Ore, so y
 
 (1.16.4 +)
 Since you can return to the normal world if you die, this "danger" is not that great.
+
+
+.. include:: ../.shared.rst

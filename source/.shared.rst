@@ -1,0 +1,17 @@
+
+.. |pokecube| replace:: pokécube
+
+.. |Pokecube| replace:: Pokécube
+
+.. |pokemob| replace:: pokémob
+
+.. |Pokemob| replace:: Pokémob
+
+.. |pokecubes| replace:: pokécubes
+
+.. |Pokecubes| replace:: Pokécubes
+
+.. |pokemobs| replace:: pokémobs
+
+.. |Pokemobs| replace:: Pokémobs
+

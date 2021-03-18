@@ -1,5 +1,7 @@
+
+***************************
 Custom Spawns via Datapacks
-===========================
+***************************
 
 Sample Datapacks:
 #################
@@ -13,8 +15,10 @@ These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 |  This datapack adds a set of new spawns, for new subbiomes `route_1` and `route_23`, these spawns have specific levels set.
 
 
+.. _spawn_rules:
+
 Json Spawn Rule Format:
-***********************
+-----------------------
 
 
 | Location selection in Pokecube uses a json object called a `SpawnRule`, this is used for location specific spawning, evolution, etc. Below I will discuss the general structure of these.
@@ -95,11 +99,13 @@ Biome Types
 
 .. _BiomeDictionary: https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?
 
-| For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: `BiomeDictionary`_
-| 
-| These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.
-| 
-| Here is the list of built in Subbiome types:
+For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: `BiomeDictionary`_
+
+These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.
+
+.. _subbiomes:
+
+Here is the list of built in Subbiome types:
 
 ::
 

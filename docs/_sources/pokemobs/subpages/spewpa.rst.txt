@@ -16,19 +16,19 @@ Description
 | Spewpa is a bug Pokémob.
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:lukewarm_ocean, minecraft:ocean, minecraft:warm_ocean, minecraft:beach, minecraft:mushroom_field_shore, minecraft:stone_shore].
+|  -  In [Beach, Mushroom Field Shore, Stone Shore, Deep Lukewarm Ocean, Deep Ocean, Deep Warm Ocean, Lukewarm Ocean, Ocean, Warm Ocean].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:badlands, minecraft:badlands_plateau, minecraft:desert, minecraft:desert_hills, minecraft:desert_lakes, minecraft:wooded_badlands_plateau].
+|  -  In [Badlands, Badlands Plateau, Desert, Desert Hills, Desert Lakes, Wooded Badlands Plateau].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:basalt_deltas, minecraft:crimson_forest, minecraft:nether_wastes, minecraft:soul_sand_valley, minecraft:warped_forest].
+|  -  In [Basalt Deltas, Crimson Forest, Nether Wastes, Soul Sand Valley, Warped Forest].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:end_barrens, minecraft:end_highlands, minecraft:end_midlands, minecraft:small_end_islands, minecraft:the_end].
+|  -  In [End Barrens, End Highlands, End Midlands, Small End Islands, The End].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
@@ -36,15 +36,15 @@ Description
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:giant_tree_taiga, minecraft:giant_tree_taiga_hills, minecraft:ice_spikes, minecraft:snowy_beach, minecraft:snowy_mountains, minecraft:snowy_taiga, minecraft:snowy_taiga_hills, minecraft:snowy_taiga_mountains, minecraft:snowy_tundra, minecraft:taiga, minecraft:taiga_hills, minecraft:taiga_mountains, minecraft:the_end].
+|  -  In [Cold Ocean, Deep Cold Ocean, Deep Frozen Ocean, Frozen Ocean, Frozen River, Giant Tree Taiga, Giant Tree Taiga Hills, Ice Spikes, Snowy Beach, Snowy Mountains, Snowy Taiga, Snowy Taiga Hills, Snowy Taiga Mountains, Snowy Tundra, Taiga, Taiga Hills, Taiga Mountains, The End].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:swamp, minecraft:swamp_hills, minecraft:bamboo_jungle, minecraft:bamboo_jungle_hills, minecraft:jungle, minecraft:jungle_edge, minecraft:jungle_hills, minecraft:modified_jungle, minecraft:modified_jungle_edge].
+|  -  In [Bamboo Jungle, Bamboo Jungle Hills, Jungle, Jungle Edge, Jungle Hills, Modified Jungle, Modified Jungle Edge, Swamp, Swamp Hills].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:savanna, minecraft:savanna_plateau, minecraft:shattered_savanna, minecraft:shattered_savanna_plateau].
+|  -  In [Savanna, Savanna Plateau, Shattered Savanna, Shattered Savanna Plateau].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
@@ -52,7 +52,7 @@ Description
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.
-|  -  In [minecraft:plains, minecraft:sunflower_plains, minecraft:birch_forest, minecraft:birch_forest_hills, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:giant_spruce_taiga, minecraft:giant_spruce_taiga_hills, minecraft:tall_birch_forest, minecraft:wooded_hills].
+|  -  In [Plains, Sunflower Plains, Birch Forest, Birch Forest Hills, Dark Forest, Flower Forest, Forest, Giant Spruce Taiga, Giant Spruce Taiga Hills, Tall Birch Forest, Wooded Hills].
 | 
 | Spewpa evolves into :ref:`vivillon`:
 |  -  At Level 12.

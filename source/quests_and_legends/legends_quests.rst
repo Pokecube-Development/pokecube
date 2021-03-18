@@ -6,7 +6,7 @@ Legends and Quests
 
 **Extra: Decoration and Exploration Structures**
 ================================================
-The Pokecube adds some decorative blocks and structures for you to explore
+The |Pokecube| adds some decorative blocks and structures for you to explore
 
 Team Rocket's Hideout
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -284,10 +284,12 @@ and the blocks that do not have recipes are:
 .. image:: ../_images/legends_wiki/tapus_spawn.png
     :alt: tapus_spawn
 
+.. _make_type_null:
+
 **Making Type: Null**
 =====================
 
-Type: Null is a pokemon created in the laboratory, so there's nothing more fair than creating it inside the Pokecube too :b
+Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside the |Pokecube| too :b
 
 The first step is to find Aether Paradise, is the new structure that appears in the oceans:
 
@@ -302,12 +304,12 @@ In it, you will find some NPCs to battle, and reaching the top floor you will fi
 Defeating him, you can open the trade menu, and there you will find Imprisonment Helmet, the main item to create Type: Null
 
 >Now comes the part you need to pay attention to!
-You will need: Potion of Regeneration, Imprisonment Helmet, Two Pokemob egg
+You will need: Potion of Regeneration II, Imprisonment Helmet, Two |Pokemob| eggs
 
 .. image:: https://i.imgur.com/PXL1Y0K.png
     :alt: typenull_recipe
 
-When items are in place, just power Cloning Divece using a Siphon and an electric pokemob (minimum level: 25)
+When items are in place, just power the :ref:`cloner` using an :ref:`siphon` and an electric |pokemob| (Higher levels make this go much faster).
 
 **Summoning Regis**
 ===================
@@ -355,40 +357,42 @@ To create the Totem follow the images:
 .. image:: https://i.imgur.com/e9Gi6tz.png
     :alt: wrong location alert
 
+.. _quests_list:
+
 **Quests**
 ==========
 
-Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pok�mon Generations arrive.
+Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below.
 
-1. Celebi - Capture about 40 a 50 Pokemob Grass.
-2. Entei - Capture about 40 Pokemob Fire.
-3. Suicune - Capture about 40 Pokemob Water.
-4. Raikou - Capture about 30 Pokemob Electric.
+1. Celebi - Capture about 40 to 50 Grass |pokemobs|.
+2. Entei - Capture about 40 Fire |pokemobs|.
+3. Suicune - Capture about 40 Water |pokemobs|.
+4. Raikou - Capture about 30 Electric |pokemobs|.
 5. Ho-oh - Capture :ref:`entei`/:ref:`suicune`/:ref:`raikou`. (When capturing you get a Rainbow feather)
 6. Lugia - Capture :ref:`moltres`/:ref:`articuno`/:ref:`zapdos` >The Galar version can replace that of Kanto. (When capturing you get a Silver feather) 
 7. Thundurus/ Landorus/Tornadus - Capture the /:ref:`meloetta_aria`.
 8. Keldeo - Capture :ref:`virizion`/:ref:`terrakion`/:ref:`cobalion`.
-9. Groudon - Capture about 40 Pokemob Ground and Defeat 40 Pokemob Water.
-10. Kyogre - Capture 35 Pokemob Water and Defeat 40 Pokemob Ground.
+9. Groudon - Capture about 40 Ground |pokemobs| and Defeat 40 Water |pokemobs|.
+10. Kyogre - Capture 35 Water |pokemobs| and Defeat 40 Ground |pokemobs|.
 11. Rayquaza - Capture :ref:`kyogre`/:ref:`groudon`.
 12. Registrel/Regice/Regirock/Regieleki/Regidrago - Capture :ref:`relicanth` and :ref:`wailord`.
 13. Regigigas - Capture the Five Regis.
 14. Dialga/Palkia - Capture :ref:`uxie`/:ref:`mesprit`/:ref:`azelf`.
 15. Giratina - Capture :ref:`dialga`//:ref:`palkia`.
 16. Arceus - Capture the :ref:`dialga`/:ref:`palkia`/:ref:`giratina`.
-17. Victini - Capture about 20 Psychic Pokemob.
+17. Victini - Capture about 20 Psychic |pokemobs|.
 18. Volcanion - Capture :ref:`magearna`.
-19. Zekrom/Reshiram - Capture about 20 Pokemob Dragon.
+19. Zekrom/Reshiram - Capture about 20 Dragon |pokemobs|.
 20. Kyurem - Capture :ref:`reshiram`/:ref:`zekrom`.
-21. Xerneas - Capture about 20 a 30 Pokemob Fairy.
-22. Yveltal - Capture about 14 Pokemob Dark.
-23. Heatran - Capture about 30 Pokemob Fire.
-24. Tapu Koko - Capture about 20 Pokemob Electric
-25. Tapu Lele - Capture about 20 Pokemob Psychic
-26. Tapu Bulu - Capture about 20 Pokemob Grass
-27. Tapu Fini - Capture about 20 Pokemob Water
+21. Xerneas - Capture about 20 a 30 Fairy |pokemobs|.
+22. Yveltal - Capture about 14 Dark |pokemobs|.
+23. Heatran - Capture about 30 Fire |pokemobs|.
+24. Tapu Koko - Capture about 20 Electric |pokemobs|
+25. Tapu Lele - Capture about 20 Psychic |pokemobs|
+26. Tapu Bulu - Capture about 20 Grass |pokemobs|
+27. Tapu Fini - Capture about 20 Water |pokemobs|
 28. Necrozma - Capture :ref:`solgaleo`/:ref:`lunala`.
-29. Zacian/Zamazenta - Capture 18 Pokemob Steel.
+29. Zacian/Zamazenta - Capture 18 Steel |pokemobs|.
 30. Eternatus - Capture :ref:`zacian`/:ref:`zamazenta`.
 31. Glastrier/Spectrier - Capture :ref:`calyrex`.
 
@@ -610,3 +614,4 @@ some legendary items, despite having a quest, are not used to summon the legenda
     :alt: legendy
 
 
+.. include:: ../.shared.rst
