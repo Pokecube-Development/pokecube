@@ -4,7 +4,7 @@
 Legends and Quests
 ******************
 
-**Extra: Decoration and Exploration Structures**
+**Decoration and Exploration Structures**
 ================================================
 The |Pokecube| adds some decorative blocks and structures for you to explore
 
@@ -75,124 +75,146 @@ List of new structures added
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Forest Temple (:ref:`celebi`)
+* Biome: Forest
 
 .. image:: https://i.imgur.com/Ki90jlX.png
     :alt: Forest Temple
 
 * Ho-oh Temple (:ref:`ho-oh`)
+* Biome: Plains
 
 .. image:: https://i.imgur.com/CPj6imX.png
     :alt: Ho-oh Temple
 
-* Legendary tree (:ref:`Kanto Birds Galar Form`)
+* Legendary tree (:ref:`articuno_galar`/:ref:`zapdos_galar`/:ref:`moltres_galar`)
+* Biome: Plains
 
 .. image:: https://i.imgur.com/FHOsKbh.png
     :alt: Legendary tree
 
 * Kubfu Dojo Dark (:ref:`kubfu`)
+* Biome: Extreme Hills
 
 .. image:: https://i.imgur.com/yuK0vKW.png
     :alt: Kubfu Dojo Dark
 
-* Kubfu Dojo Water (:ref:`kubfu`)
+* Kubfu Dojo Water (:ref:`kubfu`) 
+* Biome: Beach
 
 .. image:: https://i.imgur.com/U8Qjqeu.png
     :alt: Kubfu Dojo Water
 
 * Sky Pillar (:ref:`rayquaza`)
+* Biome: Ocean
 
 .. image:: https://i.imgur.com/w7IulE2.png
     :alt: sky_pillar
 
-* Ruins of Regice (:ref:`regice`)
+* Ruins of Regice (:ref:`regice`) 
+* Biome: Snown
 
 .. image:: https://i.imgur.com/S4JW9kh.png
     :alt: Ruins of Regice
 
 * Ruins of Regirock (:ref:`regirock`)
+* Biome: Desert
 
 .. image:: https://i.imgur.com/BOhi3WL.png
     :alt: Ruins of Regirock
 
 * Ruins of Registeel (:ref:`registeel`)
+* Biome: Extreme Hills
 
 .. image:: https://i.imgur.com/kydUtVU.png
     :alt: Ruins of Registeel
 
 * Ruins of Regieleki (:ref:`regieleki`)
+* Biome: Savanna
 
 .. image:: https://i.imgur.com/Z54kcwV.png
     :alt: Ruins of Regieleki
 
 * Ruins of Regidrago (:ref:`regidrago`)
+* Biome: Mesa
 
 .. image:: https://i.imgur.com/QTQWY1A.png
     :alt: Ruins of Regidrago
 
 * Ruins of Regigigas (:ref:`regigigas`)
+* Biome: Snow
 
 .. image:: https://i.imgur.com/Tn6ACv9.png
     :alt: Ruins of Regigigas
 
 * Groudon Altar (:ref:`groudon`)
+* Dimension: Nether
 
 .. image:: ../_images/legends_wiki/groudon_temple.png
     :alt: Groudon Altar
 
 * Kyogre Altar (:ref:`kyogre`)
+* Biome: Ocean
 
 .. image:: ../_images/legends_wiki/kyogre_temple.png
     :alt: Kyogre Altar
 
 * Lugia Tower (:ref:`lugia`)
+* Biome: Beach
 
 .. image:: https://i.imgur.com/vNFVVeo.png
     :alt: Lugia Tower
 
 * Yveltal Egg (:ref:`yveltal`)
+* Biome: Desert
 
 .. image:: https://i.imgur.com/CqrUWEX.png
     :alt: Yveltal Egg
 
 * Xerneas Tree (:ref:`xerneas`)
+* Biome: Dark Oak Forest
 
 .. image:: https://i.imgur.com/rjylAOS.png
     :alt: Xerneas Tree
 
 * Keldeo Sword (:ref:`keldeo`)
+* Biome: Extreme Hills
 
 .. image:: https://i.imgur.com/csrqhU2.png
     :alt: Keldeo Sword
 
 * N's Castle (:ref:`zekrom`/:ref:`reshiram`)
+* Biome: Taiga
 
 .. image:: https://i.imgur.com/YBOfP50.png
     :alt: tao legendary
 
-* Nature's Altar
-
-(:ref:`thundurus_incarnate`/:ref:`tornadus_incarnate`/:ref:`landorus_incarnate`)
+* Nature's Altar (:ref:`thundurus_incarnate`/:ref:`tornadus_incarnate`/:ref:`landorus_incarnate`)
+* Biome: Swamp
 
 .. image:: https://i.imgur.com/tXuXMKQ.png
     :alt: Thundurus/Tornadus/Landorus Altar
 
-* Altar of Time and Space
-
-(:ref:`dialga`/:ref:`palkia`/:ref:`arceus`)
+* Altar of Time and Space (:ref:`dialga`/:ref:`palkia`/:ref:`arceus`)
+* Dimension: The End
 
 .. image:: https://vignette.wikia.nocookie.net/pokecube-revival-ptbr/images/9/92/Space_temple.png/revision/latest?cb=20191222022323&path-prefix=pt-br
     :alt: spacetime_altar
 
 * Tapus Temple
 
-(:ref:`tapu_koko`/:ref:`tapu_fini`/:ref:`tapu_lele`/:ref:`tapu_bulu`)
+(:ref:`tapu_koko`/:ref:`tapu_fini`/:ref:`tapu_lele`/:ref:`tapu_bulu`) Biome: Beach
 
 .. image:: ../_images/legends_wiki/tapus_temple.png
     :alt: tapus_temple
+	
+* Necrozma Tower (:ref:`necrozma`) 
+* Dimension: Ultra Space / Biome: Ultra Dark Valley
 
-* Stone Portal
+.. image:: ../_images/legends_wiki/necrozma_tower.png
+    :alt: necrozma_tower
 
-(:ref:`zacian`/:ref:`zamazenta`)
+* Stone Portal (:ref:`zacian`/:ref:`zamazenta`)
+* Biome: River
 
 .. image:: https://i.imgur.com/MoK0pVH.png
     :alt: zacian_zamazenta
@@ -228,7 +250,7 @@ The ones with recipe are:
 .. image:: https://i.imgur.com/emX2WrL.png
     :alt: Victini Block
 
-* Glastrier and Spectrier Summoning Block.
+* Trough Block Summoning Block: Glastrier and Spectrier.
 
 .. image:: https://i.imgur.com/PXWOLoY.png
     :alt: Horses Block
@@ -245,6 +267,7 @@ The ones with recipe are:
 and the blocks that do not have recipes are:
 
 * Legendary Spawn: is used by some legendaries: Groudon / Kyogre / Celebi / Rayquaza / Lugia / Ho-oh
+* Pokémob who can use this block as a second spawn option: Articuno / Moltres / Zapdos (+ Galar Forms)/ Deoxys / Jirachi / Necrozma / Entei / Suicune / Raikou / Cosmog
 
 .. image:: https://i.imgur.com/Shvmb3w.png
     :alt: Legendy Block
@@ -264,7 +287,7 @@ and the blocks that do not have recipes are:
 .. image:: https://i.imgur.com/wHLRHSc.png
     :alt: Legendy Block
 
-* Thundurus/Tornados/Landorus Summoning Block.
+* Nature Summoning Block: Thundurus/Tornados/Landorus.
 
 .. image:: https://i.imgur.com/e8r8Ek2.png
     :alt: Legendy Block
@@ -314,7 +337,8 @@ When items are in place, just power the :ref:`cloner` using an :ref:`siphon` and
 **Summoning Regis**
 ===================
 
-To create the Summon the Regi you have chosen you have two options: Search the Temple or Create your Totem
+In order to be able to summon the Regis you need to locate their temples. Each Regi has its own temple with a totem already built, if you play on a server or the temple doesn’t have the totem, you can build it (but this building must be inside the temple!)
+
 To create the Totem follow the images:
 
 > For the base you will use the Totem block:
@@ -357,60 +381,104 @@ To create the Totem follow the images:
 .. image:: https://i.imgur.com/e9Gi6tz.png
     :alt: wrong location alert
 
+
+**Secondary Spawn**
+===================
+
+Some |pokemob|, even though they appear naturally through biomes, can be summoned by items. These items cannot be acquired by Quest, only by purchasing with Merchants and Trainers after being defeated. Currently, not all Legendaries have a Secondary Spawn, but in the future everyone will have this option.
+
+- Items added:
+
+.. image:: ../_images/legends_wiki/extras.png
+    :alt: extras
+	
+They are for the respective |pokemobs|:
+> Zapdos/Moltres/Articuno (+ Galar Form) /Entei/Raikou/Suicune/Deoxys/Jirachi/Cosmog/Calyrex
+
+!with this addition, these |pokemobs| have catch rules, just like pokemobs that can only be summoned Lugia/Kyogre for example!
+
+for you to invoke them, you’ll need to use existing structures on the map:
+
+* Zapdos/Moltres/Articuno (+ Galar Form) > Lugia Tower
+* Entei/Raikou/Suicune > Ho-oh Tower
+* Deoxys/Jirachi > Sky Pillar
+* Cosmog > Time Space Altar
+* Calyrex > Trough Block Spawn (the Block must be in the Taiga biome).
+
 .. _quests_list:
 
 **Quests**
 ==========
 
-Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below.
+Quest is the way for you to have the legendary pokemon's confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
+*The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers*
 
-1. Celebi - Capture about 40 to 50 Grass |pokemobs|.
-2. Entei - Capture about 40 Fire |pokemobs|.
-3. Suicune - Capture about 40 Water |pokemobs|.
-4. Raikou - Capture about 30 Electric |pokemobs|.
-5. Ho-oh - Capture :ref:`entei`/:ref:`suicune`/:ref:`raikou`. (When capturing you get a Rainbow feather)
-6. Lugia - Capture :ref:`moltres`/:ref:`articuno`/:ref:`zapdos` >The Galar version can replace that of Kanto. (When capturing you get a Silver feather) 
-7. Thundurus/ Landorus/Tornadus - Capture the /:ref:`meloetta_aria`.
-8. Keldeo - Capture :ref:`virizion`/:ref:`terrakion`/:ref:`cobalion`.
-9. Groudon - Capture about 40 Ground |pokemobs| and Defeat 40 Water |pokemobs|.
-10. Kyogre - Capture 35 Water |pokemobs| and Defeat 40 Ground |pokemobs|.
-11. Rayquaza - Capture :ref:`kyogre`/:ref:`groudon`.
-12. Registrel/Regice/Regirock/Regieleki/Regidrago - Capture :ref:`relicanth` and :ref:`wailord`.
-13. Regigigas - Capture the Five Regis.
-14. Dialga/Palkia - Capture :ref:`uxie`/:ref:`mesprit`/:ref:`azelf`.
-15. Giratina - Capture :ref:`dialga`//:ref:`palkia`.
-16. Arceus - Capture the :ref:`dialga`/:ref:`palkia`/:ref:`giratina`.
-17. Victini - Capture about 20 Psychic |pokemobs|.
-18. Volcanion - Capture :ref:`magearna`.
-19. Zekrom/Reshiram - Capture about 20 Dragon |pokemobs|.
-20. Kyurem - Capture :ref:`reshiram`/:ref:`zekrom`.
-21. Xerneas - Capture about 20 a 30 Fairy |pokemobs|.
-22. Yveltal - Capture about 14 Dark |pokemobs|.
-23. Heatran - Capture about 30 Fire |pokemobs|.
-24. Tapu Koko - Capture about 20 Electric |pokemobs|
-25. Tapu Lele - Capture about 20 Psychic |pokemobs|
-26. Tapu Bulu - Capture about 20 Grass |pokemobs|
-27. Tapu Fini - Capture about 20 Water |pokemobs|
-28. Necrozma - Capture :ref:`solgaleo`/:ref:`lunala`.
-29. Zacian/Zamazenta - Capture 18 Steel |pokemobs|.
-30. Eternatus - Capture :ref:`zacian`/:ref:`zamazenta`.
-31. Glastrier/Spectrier - Capture :ref:`calyrex`.
+* Zapdos - Capture about 20 Electric |pokemobs|.
+* Moltre - Capture about 20 Fire |pokemobs|.
+* Articuno - Capture about 20 Electric |pokemobs|.
+* Zapdos Galar - Capture about 20 Electric |pokemobs|.
+* Moltres Galar - Capture about 20 Electric |pokemobs|.
+* Articuno Galar - Capture about 20 Electric |pokemobs|.
+* Deoxys - Capture about 20 Electric |pokemobs|.
+* Jirachi - Capture about 20 Electric |pokemobs|.
+* Cosmog - Capture about 20 Electric |pokemobs|.
+* Calyrex - Capture about 20 Electric |pokemobs|.
+
+* Celebi - Capture about 40 to 50 Grass |pokemobs|.
+* Entei - Capture about 20 Fire |pokemobs|.
+* Suicune - Capture about 20 Water |pokemobs|.
+* Raikou - Capture about 20 Electric |pokemobs|.
+* Ho-oh - Capture :ref:`entei`/:ref:`suicune`/:ref:`raikou`.
+* Lugia - Capture :ref:`moltres`/:ref:`articuno`/:ref:`zapdos`.
+* Thundurus/ Landorus/Tornadus - Capture the /:ref:`meloetta_aria`.
+* Keldeo - Capture :ref:`virizion`/:ref:`terrakion`/:ref:`cobalion`.
+* Groudon - Capture about 40 Ground |pokemobs| and Defeat 40 Water |pokemobs|.
+* Kyogre - Capture 35 Water |pokemobs| and Defeat 40 Ground |pokemobs|.
+* Rayquaza - Capture :ref:`kyogre`/:ref:`groudon`.
+* Registrel/Regice/Regirock/Regieleki/Regidrago - Capture :ref:`relicanth` and :ref:`wailord`.
+* Regigigas - Capture the Five Regis.
+* Dialga/Palkia - Capture :ref:`uxie`/:ref:`mesprit`/:ref:`azelf`.
+* Giratina - Capture :ref:`dialga`//:ref:`palkia`.
+* Arceus - Capture the :ref:`dialga`/:ref:`palkia`/:ref:`giratina`.
+* Victini - Capture about 20 Psychic |pokemobs|.
+* Volcanion - Capture :ref:`magearna`.
+* Zekrom/Reshiram - Capture about 20 Dragon |pokemobs|.
+* Kyurem - Capture :ref:`reshiram`/:ref:`zekrom`.
+* Xerneas - Capture about 20 a 30 Fairy |pokemobs|.
+* Yveltal - Capture about 14 Dark |pokemobs|.
+* Heatran - Capture about 30 Fire |pokemobs|.
+* Tapu Koko - Capture about 20 Electric |pokemobs|
+* Tapu Lele - Capture about 20 Psychic |pokemobs|
+* Tapu Bulu - Capture about 20 Grass |pokemobs|
+* Tapu Fini - Capture about 20 Water |pokemobs|
+* Necrozma - Capture :ref:`solgaleo`/:ref:`lunala`.
+* Zacian/Zamazenta - Capture 18 Steel |pokemobs|.
+* Eternatus - Capture :ref:`zacian`/:ref:`zamazenta`.
+* Glastrier/Spectrier - Capture :ref:`calyrex`.
 
 Quest for Items
 ~~~~~~~~~~~~~~~~~~~
 Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
 
-1. Regis -Capture: Relicanth and Wailord. Reward: Regice,Registeel,Regirock,Regielecki,Regidrago Core.
-2. Regigigas -Capture: All Regis. Reward: Regigigas Orb.
-3. Uxie,Mespret,Azelf -Reward: mirror parts of Giratinas.
-4. Shaymin -Reward: Gracidea.
-5. Hoopa -Reward: Prison Bottle.
-6. Kyurem -Reward: The two DNA to change the shape to Black/White.
-7. Necrozma -Reward: The two items to change the shape of Solgaleo and Lunala.
-8. Tapus -Capture and Defeat: Gumshoos, Raticate Alola, Wishiwashi, Salazzle, Lurantis, Vikavolt, Mimikyu, Kommo-o. Reward: Koko,Bulu,Lele,Fini Orb.
-9. Glastrier/Spectrier -Reward: Regardless of which to capture, you win the item.
+* Regis -Capture: Relicanth and Wailord. Reward: Regice,Registeel,Regirock,Regielecki,Regidrago Core.
+* Regigigas -Capture: All Regis. Reward: Regigigas Orb.
+* Uxie,Mespret,Azelf -Reward: mirror parts of Giratinas.
+* Shaymin -Reward: Gracidea.
+* Hoopa -Reward: Prison Bottle.
+* Kyurem -Reward: The two DNA to change the shape to Black/White.
+* Necrozma -Reward: The two items to change the shape of Solgaleo and Lunala.
+* Tapus -Capture and Defeat: Gumshoos, Raticate Alola, Wishiwashi, Salazzle, Lurantis, Vikavolt, Mimikyu, Kommo-o. Reward: Koko,Bulu,Lele,Fini Orb.
+* Glastrier/Spectrier -Reward: Regardless of which to capture, you win the item.
 
 > Not all legends are within Quest or Requisition, and these are exactly the ones you use to get stronger legends. You can see if they appear in the world or are stuck in the blocks; To find out, just go to his Pokewatch page and go to Spawn tab, if it is at 0% he can only be summoned or appear in Hoopa Portals.
+
+Rewards
+~~~~~~~~~~
+Upon completing the legendary missions you receive some rewards in addition to 'Quest for Items':
+
+* Emerald bonuses for most of the legendary who are captured
+* Ho-oh - When capturing you get a Rainbow feather
+* Lugia - When capturing you get a Silver feather
 
 **Key items**
 =============
@@ -471,7 +539,8 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
 * Tapu Bulu - Uses Bulu Orb to summon it.
 * Glastrier - Uses Iceroot Carrot to summon it.
 * Spectrier - Uses Shaderoot Carrot to summon it.
-* Kanto Birds Galar Form - Appear near Legendary Tree. Need not be invoked.
+* Kanto Birds Galar Form - Appear near Legendary Tree.
+* Necrozma - Uses Lighting Crystal to summon it.
 
 >Key items that have a recipe:
 
@@ -510,8 +579,10 @@ Each item has its requirement, but if it does not have a yellow warning, it mean
     :alt: no_recipe
 .. image:: ../_images/legends_wiki/tapus_spawn.png
     :alt: no_recipe
+.. image:: ../_images/legends_wiki/lighting_crystal.png
+    :alt: no_recipe
 
-Key Items (Evolution/ Change Form)
+Items (Evolution/ Change Form)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 some legendary items, despite having a quest, are not used to summon the legendary, but to evolve or change it
