@@ -416,13 +416,13 @@ Quest is the way for you to have the legendary pokemon's confidence, and thus ca
 * Zapdos - Capture about 20 Electric |pokemobs|.
 * Moltre - Capture about 20 Fire |pokemobs|.
 * Articuno - Capture about 20 Electric |pokemobs|.
-* Zapdos Galar - Capture about 20 Electric |pokemobs|.
-* Moltres Galar - Capture about 20 Electric |pokemobs|.
-* Articuno Galar - Capture about 20 Electric |pokemobs|.
-* Deoxys - Capture about 20 Electric |pokemobs|.
-* Jirachi - Capture about 20 Electric |pokemobs|.
-* Cosmog - Capture about 20 Electric |pokemobs|.
-* Calyrex - Capture about 20 Electric |pokemobs|.
+* Zapdos Galar - Capture about 20 Fighting |pokemobs|.
+* Moltres Galar - Capture about 20 Dark |pokemobs|.
+* Articuno Galar - Capture about 20 Flying |pokemobs|.
+* Deoxys - Capture about 20 Psychic |pokemobs|.
+* Jirachi - Capture about 20 Steel |pokemobs|.
+* Cosmog - Capture about 20 Psychic |pokemobs|.
+* Calyrex - Capture about 20 Grass |pokemobs|.
 
 * Celebi - Capture about 40 to 50 Grass |pokemobs|.
 * Entei - Capture about 20 Fire |pokemobs|.
