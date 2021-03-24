@@ -415,7 +415,7 @@ Quest is the way for you to have the legendary pokemon's confidence, and thus ca
 
 * Zapdos - Capture about 20 Electric |pokemobs|.
 * Moltre - Capture about 20 Fire |pokemobs|.
-* Articuno - Capture about 20 Electric |pokemobs|.
+* Articuno - Capture about 20 Ice |pokemobs|.
 * Zapdos Galar - Capture about 20 Fighting |pokemobs|.
 * Moltres Galar - Capture about 20 Dark |pokemobs|.
 * Articuno Galar - Capture about 20 Flying |pokemobs|.

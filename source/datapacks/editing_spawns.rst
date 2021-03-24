@@ -3,10 +3,10 @@
 Custom Spawns via Datapacks
 ***************************
 
+These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply. They can either be in a zip format, or extracted as a folder based datapack. A folder based pack may be easier to quickly adjust and edit.
+
 Sample Datapacks:
 #################
-
-These packs go in ``/config/pokecube/datapacks/`` and require a reboot to apply
 
 - Removing all Spawns: :download:`no_spawns.zip`
     This datapack overwrites the default files with completely blank spawns, thereby removing the existing spawns
