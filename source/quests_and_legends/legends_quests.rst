@@ -341,7 +341,7 @@ In order to be able to summon the Regis you need to locate their temples. Each R
 
 To create the Totem follow the images:
 
-> For the base you will use the Totem block:
+> For the base you will use the Golem Stone:
 
 .. image:: https://i.imgur.com/Lfqfjny.png
     :alt: Totem Base Block
