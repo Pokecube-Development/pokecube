@@ -109,6 +109,8 @@ It should be mentioned, that you can also add and remove |pokemobs| from the NPC
 This gui mostly differs from :ref:`edit_npc_pokemob` by the ``Add New`` button replacing ``delete``. In this gui, you can fill out the various values, then press ``Add New`` to create the |pokemob| and add it to the NPC's party.
 
 
+.. _edit_npc_ai:
+
 Editing AI
 ----------
 
@@ -119,7 +121,7 @@ Editing AI
    
    The gui for editing NPC AI
 
-This screen allows editing some of the AI related aspects of the NPC. It has values related to Cooldowns, as well as some allowed states for the NPC. It also is where you can specify the times for the NPC to stay in specified locations.
+This screen allows editing some of the AI related aspects of the NPC. It has values related to Cooldowns, as well as some allowed states for the NPC. It also is where you can specify the times for the NPC to stay in specified locations. Information about the format for the Guard Locations can be found :ref:`Here<poke_rt_tab>`
 
 Editing Messages
 ----------------
