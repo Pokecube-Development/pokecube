@@ -427,9 +427,16 @@ List of new structures added
 
 **Lugia Tower** (:ref:`lugia`)
 
-* Biome: Desert
+* Biome: Beach
 
 .. image:: ../_images/legends_wiki/lugia_tower.png
+    :alt: Lugia Tower
+
+**Yveltal Ruins** (:ref:`yveltal`)
+
+* Biome: Desert
+
+.. image:: ../_images/legends_wiki/yveltal_temple.png
     :alt: Yveltal Egg
 
 **Xerneas Tree** (:ref:`xerneas`)
