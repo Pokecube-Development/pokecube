@@ -28,25 +28,19 @@ Here is an example of a spawns json
 
     {
       "values":{
-        "types":"mountain,cave",
+        "types":"#minecraft:is_ocean,cave",
         "typesBlacklist":"wet"
       }
     }
 
 
-This example will match a location which is of types `mountain` and `cave`, and not `wet`.
+This example will match a location which is of types `#minecraft:is_ocean` and `cave`, and not `wet`.
 
 Below is a list of accepted values, and what they will do.
 Any below that are a list, will be separated by commas, like in `types` in the example above
 
 -  `types` - list of types which are all required to be valid
 -  `typesBlacklist` - list of types which, if present, will invalidate
-
--  `category` - list of specific biomes, any biome matching will be listed as allowed
--  `biomesBlacklist` - list of specific biomes, any biome matching will invalidate
-
--  `biomes` - list of biome categories, any biome matching will be listed as allowed
--  `categoryBlacklist` - list of biome categories, any biome matching will invalidate
 
 -  `structures` - list of structures which are required for spawning in
 -  `noStructures` - list of structures which will invalidate
@@ -69,37 +63,10 @@ Any below that are a list, will be separated by commas, like in `types` in the e
 
 \* if none of these 4 are present, the rule will be valid at all times
 
-Biome Categories
-~~~~~~~~~~~~~~~~
-
-Biome categories are a Vanilla Minecraft classification on biomes, the valid options are as follows:
-
-::
-
-    none
-    taiga
-    extreme_hills
-    jungle
-    mesa
-    plains
-    savanna
-    icy
-    the_end
-    beach
-    forest
-    ocean
-    desert
-    river
-    swamp
-    mushroom
-    nether
-
 Biome Types
 ~~~~~~~~~~~
 
-.. _BiomeDictionary: https://github.com/MinecraftForge/MinecraftForge/blob/c3e84646db70f518dd0b37a8fcfc42cb814d7ba8/src/main/java/net/minecraftforge/common/BiomeDictionary.java#L288-L366?
-
-For the types related fields, there are two different objects checked for validity. First, the Forge Biome Dictionary is checked. The list of built in types can be found here: `BiomeDictionary`_
+For the types related fields, there are two different objects checked for validity. First, the Biome tags are checked. These use the same format as regular vanilla biome tags for names.
 
 These will be checked first. If the listing does not match any of the Biome Types, then it will be assumed to be a Subbiome instead, and if not present, a Subbiome for the name will be added.
 
@@ -125,6 +92,8 @@ Here is the list of built in Subbiome types:
 Creating the custom spawn rules
 ###############################
 
+Custom spawn rules should go in the datapack under ``/data/<id>/database/pokemobs/spawns``. Examples of these files can be found in the `new_subbiomes` pack above, which uses `my_datapack` for `<id>`.
+
 Spawn rules then generally have an additional set of values, for specifying rates, numbers, etc, and are as follows:
 
 -  `min` - minimum number in a spawn pack (default 2)
@@ -135,15 +104,24 @@ Spawn rules then generally have an additional set of values, for specifying rate
 
 | An example of a spawn rule implementing several of these options is below:
 
-.. code-block:: json
-
+.. code-block:: Json
     {
-      "values": {
-        "types": "route_1",
-        "rate": "0.45",
-        "level": 2,
-        "variance": "x + (4 * rand())"
-      }
+        "rules": [
+            {
+              "and_preset": "route_1",
+              "entries": [
+                  { "key": "rattata", "rate": 0.55, "level": 2, "variance": "x + (3 * rand())" },
+                  { "key": "rattata", "rate": 0.45, "level": 2, "variance": "x + (4 * rand())" }
+              ]
+            },
+            {
+              "and_preset": "route_23",
+              "entries": [
+                  { "key": "sandslash", "rate": 0.05, "level": 41 },
+                  { "key": "arbok", "rate": 0.05, "level": 41 }
+              ]
+            }
+        ]
     }
 
 Applying Custom Subbiomes ingame
