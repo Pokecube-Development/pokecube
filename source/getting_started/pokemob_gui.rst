@@ -32,9 +32,15 @@ This is the default tab for the |pokemob|'s gui.
 
 The |pokemob|'s main inventory screen consists if several important buttons and slots for interacting with it. These are in three main sections. 
 
-On the left side of the |pokemob|'s picture are 2 slots. The upper of these is the Saddle Slot, and placing a saddle in this slot may allow riding the |pokemob|, so long as it is large enough (or you are small enough). Below the Saddle Slot is the Held Item Slot. This slot is used for held items for use in battle, or for special held item effects such as form changing.
+On the right side of the |pokemob|'s picture are 8 slots, 3 slots for special items, and then 5 main inventory slots which are separated from 3 buttons by a coloured bar. 
 
-On the right side of the |pokemob|'s picture are 5 slots, separated from 3 buttons by a coloured bar. The coloured bar is the hunger bar for the |pokemob|. Once this bar gets sufficiently low, the |pokemob| will want to find food to eat. If the bar gets too low, the |pokemob| will start to take damage, and eventually it may get too low for the |pokemob| to even eat, and it will die. The hunger bar can be re-filled in three main ways:
+The 3 special slots are:
+
+-  Saddle slot - placing a saddle in this slot may allow riding the |pokemob|, so long as it is large enough (or you are small enough)
+-  Held Item Slot - this is used for held items in combat and for form change items
+-  Offhand Slot - this has uses for the storage AI, or as an extra main inventory slot
+
+The coloured bar is the hunger bar for the |pokemob|. Once this bar gets sufficiently low, the |pokemob| will want to find food to eat. If the bar gets too low, the |pokemob| will start to take damage, and eventually it may get too low for the |pokemob| to even eat, and it will die. The hunger bar can be re-filled in three main ways:
 
 -  feeding your |pokemob| berries by placing them in the 5 slots above
 -  letting your |pokemob| find food by itself (some may eat nearby plants, etc)
