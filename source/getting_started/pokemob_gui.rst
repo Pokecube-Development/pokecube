@@ -9,12 +9,12 @@ You're |pokemob| can be interacted with via right click. Doing so should display
 -  while the pokemob is wearing a saddle - sneaking will allow access to the gui.
 -  you are holding an item that is used on the |pokemob|, such as a pokedex
 
+Most of the buttons, text boxes and slots in this gui have tooltips which describe their function.
+
 |Pokemob| Gui Tabs
 ##################
 
-The |pokemob| gui is separated into a variety of tabs. The main tab is the :ref:`Inventory Tab<poke_inv_tab>`. The gui generally has buttons along the top right side of the screen, which allow changing to different tabs.
-
-Screens where the |pokemob|'s name is visible can be used to change the nickname of the |pokemob|. This can be done by typing a different name into the box, and pressing Enter.
+The |pokemob| gui is separated into a variety of tabs. The main tab is the :ref:`Inventory Tab<poke_inv_tab>`. The tabs are located along to top of the screen, which allow changing to different tabs. Each tab has a tooltip when hovored to display the name of the tab.
 
 .. _poke_inv_tab:
 
@@ -28,7 +28,7 @@ Screens where the |pokemob|'s name is visible can be used to change the nickname
    
    A |pokemob|'s main inventory screen
 
-This tab is selected via the buttons labelled ``inv``.
+This is the default tab for the |pokemob|'s gui.
 
 The |pokemob|'s main inventory screen consists if several important buttons and slots for interacting with it. These are in three main sections. 
 
@@ -55,6 +55,8 @@ Below the hunger bar are the main stance buttons for your pokemob. Red text indi
 
 A |pokemob| set to ``Stay`` will follow the rules defined in the :ref:`Routes Tab<poke_rt_tab>`. If your mob is rubberbanding or teleporting somewhere, it is most likely a mis-configuration of that tab!
 
+The box containing |pokemob|'s can be used to change the nickname of the |pokemob|. This can be done by typing a different name into the box, and pressing Enter.
+
 .. _poke_ai_tab:
 
 |Pokemob| AI Toggles
@@ -67,51 +69,27 @@ A |pokemob| set to ``Stay`` will follow the rules defined in the :ref:`Routes Ta
    
    A |pokemob|'s AI toggle screen
 
-This tab is selected via the buttons labelled ``AI``.
+This is the second tab.
 
 This screen is used to enable/disable various AI routines for the |pokemob|.
 
-Enabled routines have a green bar, and disabled ones have a red bar. If your flying |pokemob| refuses to fly, it is probably because of a setting in here! The names of the routines may be cut off due to lack of space.
+Enabled routines have a checked box, and disabled ones have an empty box. If your flying |pokemob| refuses to fly, it is probably because of a setting in here! The names of the routines may be cut off due to lack of space.
 
 AI Routines are as follows:
 
--   ``GATHER`` - if enabled, the |pokemob| might try to collect items if configured correctly
--   ``BEEAI`` - Bees only. If enabled, the |pokemob| will act somewhat like a vanilla bee
--   ``ANTAI`` - Ants only. If enabled, the |pokemob| may try to build ant nests
--   ``BURROWS`` - Burrowers only. If enabled, the |pokemob| might try to make burrows for nests
--   ``STORE`` - If enabled, the |pokemob| will try to store items in its configured inventory
--   ``WANDER`` - If enabled, the |pokemob| will occasionally try to walk to a random location nearby
--   ``MATE`` - If enabled, the |pokemob| will ocassionaly try to mate with another |pokemob|
--   ``FOLLOW`` - If enabled, the |pokemob| will path to its owner while not set to sit or stay
--   ``AGRESSIVE`` - If disabled, the |pokemob| will not try to fight anything.
--   ``AIRBORNE`` - If disabled, the |pokemob| will not be able to fly
--   ``USEDOORS`` - If enabled, the |pokemob| will be able to use doors like a villager
+-   ``Gather`` - if enabled, the |pokemob| might try to collect items if configured correctly
+-   ``Bee AI`` - Bees only. If enabled, the |pokemob| will act somewhat like a vanilla bee
+-   ``Ant AI`` - Ants only. If enabled, the |pokemob| may try to build ant nests
+-   ``Burrows`` - Burrowers only. If enabled, the |pokemob| might try to make burrows for nests
+-   ``Store`` - If enabled, the |pokemob| will try to store items in its configured inventory
+-   ``Wanders`` - If enabled, the |pokemob| will occasionally try to walk to a random location nearby
+-   ``Mates`` - If enabled, the |pokemob| will ocassionaly try to mate with another |pokemob|
+-   ``Follows`` - If enabled, the |pokemob| will path to its owner while not set to sit or stay
+-   ``Combat`` - If disabled, the |pokemob| will not try to fight anything.
+-   ``Airborne`` - If disabled, the |pokemob| will not be able to fly
+-   ``Doors`` - If enabled, the |pokemob| will be able to use doors like a villager
 
-The ``GATHER`` and ``STORE`` routines are related to the :ref:`Storage Tab<_poke_st_tab>` for the pokemob
-
-.. _poke_st_tab:
-
-|Pokemob| Storage
---------------------
-
-.. figure:: ../_images/pokemob_gui/pokemob_storage.png
-   :alt: |Pokemob| Storage tab
-   :name: pokemob_storage
-   :width: 600
-   
-   A |pokemob|'s Storage configuration screen
-
-This tab is selected via the buttons labelled ``ST``.
-
-The main feature of this tab are the 5 input boxes to the right of the |pokemob|'s picture. These are as follows:
-
--   ``BERRRY`` - This takes a coordinate set for an inventory to look for berries in
--   ``STORE`` - This takes a coordinate set for an inventory to put items in
--   ``SIDE`` - The side to try to place the items in the  ``STORE`` block
--   ``EMPTY`` - This takes a coordinate set for an inventory to take items out of
--   ``SIDE`` - the side to try to take the items from in the ``EMPTY`` block
-
-Most of the features for this gui require the |pokemob| to be set to Stay, and to have a proper wandering range setup in the :ref:`Routes Tab<poke_rt_tab>`. The coordinates for these options can be obtained via the :ref:`location_linker`.
+The ``Gather`` and ``Store`` routines are related to the :ref:`Storage Tab<_poke_st_tab>` for the pokemob
 
 .. _poke_rt_tab:
 
@@ -125,7 +103,7 @@ Most of the features for this gui require the |pokemob| to be set to Stay, and t
    
    A |pokemob|'s Routes configuration screen
 
-This tab is selected via the buttons labelled ``RT``.
+This is the third tab.
 
 This screen consists of a list of waypoints for the |pokemob|. It has the same format as the Guard Locations in the :ref:`Trainer Editor<edit_npc_ai>`. The button labelled ``btn`` is used to apply changes to this list. To delete an entry, press the ``X`` button followed by the ``Y`` button. To re-order entries, use the up and down arrow buttons below the ``btn``.
 
@@ -138,5 +116,29 @@ Each entry consists of 3 text boxes. They are as follows:
 -   ``stay location`` - coordinate set of where to stay.
 
 The coordinates for the ``stay location`` can be obtained via the :ref:`location_linker`. The ``Active times`` times are in day ticks, so ``0 24000`` would be the entire day. If your |pokemob| is rubberbanding back to a location, it is most likely that you have ``allowed distance`` too small for what it wants to do.
+
+.. _poke_st_tab:
+
+|Pokemob| Storage
+--------------------
+
+.. figure:: ../_images/pokemob_gui/pokemob_storage.png
+   :alt: |Pokemob| Storage tab
+   :name: pokemob_storage
+   :width: 600
+   
+   A |pokemob|'s Storage configuration screen
+
+This is the fourth tab.
+
+The main feature of this tab are the 5 input boxes to the right of the |pokemob|'s picture. These are as follows:
+
+-   ``Berry`` - This takes a coordinate set for an inventory to look for berries in
+-   ``Store`` - This takes a coordinate set for an inventory to put items in
+-   ``Side`` - The side to try to place the items in the  ``Store`` block
+-   ``Empty`` - This takes a coordinate set for an inventory to take items out of
+-   ``Side`` - the side to try to take the items from in the ``Empty`` block
+
+Most of the features for this gui require the |pokemob| to be set to Stay, and to have a proper wandering range setup in the :ref:`Routes Tab<poke_rt_tab>`. The coordinates for these options can be obtained via the :ref:`location_linker`. The offhand slot is also visible in this tab, as written books can be used there to assign valid item filters for the Empty task.
 
 .. include:: ../.shared.rst

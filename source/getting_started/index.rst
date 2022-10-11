@@ -19,7 +19,7 @@ FAQ and Common Issues
 
 -  How do I do <X>
 
-   Check if there is a hotkey you can assin for <X> in the controls section of the minecraft options.
+   Check if there is a hotkey you can assign for <X> in the controls section of the Minecraft options.
 
 -  I Died, where did my |pokemobs| go?
 
