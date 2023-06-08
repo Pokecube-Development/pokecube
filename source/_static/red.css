@@ -24,6 +24,18 @@
     color: #fcfcfc;
 }
 
+.wy-nav-top {
+    display: none;
+    background: #ad2c1d;
+    color: #fff;
+    padding: .4045em .809em;
+    position: relative;
+    line-height: 50px;
+    text-align: center;
+    font-size: 100%;
+    *zoom: 1;
+}
+
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
     color: #ad2c1d;
     height: 32px;
