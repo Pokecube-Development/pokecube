@@ -265,7 +265,7 @@ div.code-block-caption {
     background-color: #872318;
 }
 
-a.btn.btn-contents {
+.btn-contents {
     display: inline-block;
     border-radius: 5px;
     line-height: normal;
@@ -281,14 +281,19 @@ a.btn.btn-contents {
     width: 250px;
 }
 
-a.btn.btn-contents:hover {
+.btn-contents:hover {
     background-color: #db0700;
 }
 
-a.btn.btn-contents:visited {
+.btn-contents:visited {
+    color: #ffffff;
     background-color: #3d3839;
 }
 
-a.btn.btn-contents:visited:hover {
+.btn-contents:visited:hover {
     background-color: #756e6f;
+}
+
+.btn-related {
+    width: 175px;
 }
