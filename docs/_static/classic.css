@@ -264,3 +264,30 @@ div.code-block-caption {
     color: #efefef;
     background-color: #872318;
 }
+
+a.btn.btn-contents {
+    display: inline-block;
+    border-radius: 5px;
+    line-height: normal;
+    white-space: nowrap;
+    text-align: center;
+    padding: 6px 12px 8px;
+    color: #ffffff;
+    background-color: #ad2c1d;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
+    margin: 0 0 5px;
+}
+
+a.btn.btn-contents:hover {
+    background-color: #db0700;
+}
+
+a.btn.btn-contents:visited {
+    background-color: #3d3839;
+}
+
+a.btn.btn-contents:visited:hover {
+    background-color: #756e6f;
+}
