@@ -13,7 +13,18 @@
 
 /* -- page layout ----------------------------------------------------------- */
 
+.wy-side-nav-search {
+    display: block;
+    width: 300px;
+    padding: .809em;
+    margin-bottom: .809em;
+    z-index: 200;
+    background-color: #ad2c1d;
+    text-align: center;
+    color: #fcfcfc;
+}
 
+/* -- button formatting ------------------------------------------------------ */
 
 .btn-contents {
     display: inline-block;
