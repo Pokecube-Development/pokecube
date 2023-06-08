@@ -1,0 +1,215 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>The Pokémob’s Gui &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">The Pokémob’s Gui</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="the-pokemob-s-gui">
+<span id="pokemob-gui"></span><h1>The Pokémob’s Gui<a class="headerlink" href="#the-pokemob-s-gui" title="Permalink to this heading">¶</a></h1>
+<p>You’re pokémob can be interacted with via right click. Doing so should display its gui in most cases. Exceptions include:</p>
+<ul class="simple">
+<li><p>while the pokemob is wearing a saddle - sneaking will allow access to the gui.</p></li>
+<li><p>you are holding an item that is used on the pokémob, such as a pokedex</p></li>
+</ul>
+<p>Most of the buttons, text boxes and slots in this gui have tooltips which describe their function.</p>
+<section id="pokemob-gui-tabs">
+<h2>Pokémob Gui Tabs<a class="headerlink" href="#pokemob-gui-tabs" title="Permalink to this heading">¶</a></h2>
+<p>The pokémob gui is separated into a variety of tabs. The main tab is the <a class="reference internal" href="#poke-inv-tab"><span class="std std-ref">Inventory Tab</span></a>. The tabs are located along to top of the screen, which allow changing to different tabs. Each tab has a tooltip when hovored to display the name of the tab.</p>
+<section id="pokemob-inventory">
+<span id="poke-inv-tab"></span><h3>Pokémob Inventory<a class="headerlink" href="#pokemob-inventory" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="id1">
+<a class="reference internal image-reference" href="../_images/pokemob_inventory.png"><img alt="|Pokemob| Inventory" src="../_images/pokemob_inventory.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">A pokémob’s main inventory screen</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This is the default tab for the pokémob’s gui.</p>
+<p>The pokémob’s main inventory screen consists if several important buttons and slots for interacting with it. These are in three main sections.</p>
+<p>On the right side of the pokémob’s picture are 8 slots, 3 slots for special items, and then 5 main inventory slots which are separated from 3 buttons by a coloured bar.</p>
+<p>The 3 special slots are:</p>
+<ul class="simple">
+<li><p>Saddle slot - placing a saddle in this slot may allow riding the pokémob, so long as it is large enough (or you are small enough)</p></li>
+<li><p>Held Item Slot - this is used for held items in combat and for form change items</p></li>
+<li><p>Offhand Slot - this has uses for the storage AI, or as an extra main inventory slot</p></li>
+</ul>
+<p>The coloured bar is the hunger bar for the pokémob. Once this bar gets sufficiently low, the pokémob will want to find food to eat. If the bar gets too low, the pokémob will start to take damage, and eventually it may get too low for the pokémob to even eat, and it will die. The hunger bar can be re-filled in three main ways:</p>
+<ul class="simple">
+<li><p>feeding your pokémob berries by placing them in the 5 slots above</p></li>
+<li><p>letting your pokémob find food by itself (some may eat nearby plants, etc)</p></li>
+<li><p>healing your pokémob at a pokecenter</p></li>
+</ul>
+<p>Above the hunger bar are the 5 slots of your pokémob’s main inventory. These slots are used for a variety of items, primarily for food for the pokémob.</p>
+<p>Other uses of these slots include:</p>
+<ul class="simple">
+<li><p>temporary storage while gathering items</p></li>
+<li><p>holding ender pearls for use with teleport</p></li>
+</ul>
+<p>Below the hunger bar are the main stance buttons for your pokemob. Red text indicates the “off” state for this stance. These buttons are as follows:</p>
+<ul class="simple">
+<li><p>Sitting button - toggles sit/stand. A sitting pokémob will not follow you unless attacked</p></li>
+<li><p>Staying button - toggles stay/follow. A staying pokémob will act like a wild pokemob in the general area told to stay. It will not protect you in battle, and you will not be able to see the HUD for its attacks.</p></li>
+<li><p>Guarding button - toggles guard mode. Guard mode will make the pokémob attack anything nearby that it decides is not friendly. If the pokemob is Staying, it will select targets near where it was told to stay, otherwise it will select targets near you. Guarding pokemobs will always select their own attacks, and will not care about hitting allies.</p></li>
+</ul>
+<p>A pokémob set to <code class="docutils literal notranslate"><span class="pre">Stay</span></code> will follow the rules defined in the <a class="reference internal" href="#poke-rt-tab"><span class="std std-ref">Routes Tab</span></a>. If your mob is rubberbanding or teleporting somewhere, it is most likely a mis-configuration of that tab!</p>
+<p>The box containing pokémob’s can be used to change the nickname of the pokémob. This can be done by typing a different name into the box, and pressing Enter.</p>
+</section>
+<section id="pokemob-ai-toggles">
+<span id="poke-ai-tab"></span><h3>Pokémob AI Toggles<a class="headerlink" href="#pokemob-ai-toggles" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="pokemob-ai">
+<a class="reference internal image-reference" href="../_images/pokemob_ai.png"><img alt="|Pokemob| AI tab" src="../_images/pokemob_ai.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">A pokémob’s AI toggle screen</span><a class="headerlink" href="#pokemob-ai" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This is the second tab.</p>
+<p>This screen is used to enable/disable various AI routines for the pokémob.</p>
+<p>Enabled routines have a checked box, and disabled ones have an empty box. If your flying pokémob refuses to fly, it is probably because of a setting in here! The names of the routines may be cut off due to lack of space.</p>
+<p>AI Routines are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">Gather</span></code> - if enabled, the pokémob might try to collect items if configured correctly</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Bee</span> <span class="pre">AI</span></code> - Bees only. If enabled, the pokémob will act somewhat like a vanilla bee</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Ant</span> <span class="pre">AI</span></code> - Ants only. If enabled, the pokémob may try to build ant nests</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Burrows</span></code> - Burrowers only. If enabled, the pokémob might try to make burrows for nests</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Store</span></code> - If enabled, the pokémob will try to store items in its configured inventory</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Wanders</span></code> - If enabled, the pokémob will occasionally try to walk to a random location nearby</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Mates</span></code> - If enabled, the pokémob will ocassionaly try to mate with another pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Follows</span></code> - If enabled, the pokémob will path to its owner while not set to sit or stay</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Combat</span></code> - If disabled, the pokémob will not try to fight anything.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Airborne</span></code> - If disabled, the pokémob will not be able to fly</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Doors</span></code> - If enabled, the pokémob will be able to use doors like a villager</p></li>
+</ul>
+<p>The <code class="docutils literal notranslate"><span class="pre">Gather</span></code> and <code class="docutils literal notranslate"><span class="pre">Store</span></code> routines are related to the <span class="xref std std-ref">Storage Tab</span> for the pokemob</p>
+</section>
+<section id="pokemob-routes">
+<span id="poke-rt-tab"></span><h3>Pokémob Routes<a class="headerlink" href="#pokemob-routes" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="id2">
+<a class="reference internal image-reference" href="../_images/pokemob_routes.png"><img alt="|Pokemob| Routes tab" src="../_images/pokemob_routes.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">A pokémob’s Routes configuration screen</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This is the third tab.</p>
+<p>This screen consists of a list of waypoints for the pokémob. It has the same format as the Guard Locations in the <a class="reference internal" href="../trainers/trainer_editor.html#edit-npc-ai"><span class="std std-ref">Trainer Editor</span></a>. The button labelled <code class="docutils literal notranslate"><span class="pre">btn</span></code> is used to apply changes to this list. To delete an entry, press the <code class="docutils literal notranslate"><span class="pre">X</span></code> button followed by the <code class="docutils literal notranslate"><span class="pre">Y</span></code> button. To re-order entries, use the up and down arrow buttons below the <code class="docutils literal notranslate"><span class="pre">btn</span></code>.</p>
+<p>These can be scrolled through with the larger up and down arrow buttons.</p>
+<p>Each entry consists of 3 text boxes. They are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">allowed</span> <span class="pre">distance</span></code> - How far the mob is allowed to be from the stay location</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Active</span> <span class="pre">times</span></code> - Start and end times for staying near the location</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">stay</span> <span class="pre">location</span></code> - coordinate set of where to stay.</p></li>
+</ul>
+<p>The coordinates for the <code class="docutils literal notranslate"><span class="pre">stay</span> <span class="pre">location</span></code> can be obtained via the <a class="reference internal" href="../machines_and_items/items.html#location-linker"><span class="std std-ref">Location Linker</span></a>. The <code class="docutils literal notranslate"><span class="pre">Active</span> <span class="pre">times</span></code> times are in day ticks, so <code class="docutils literal notranslate"><span class="pre">0</span> <span class="pre">24000</span></code> would be the entire day. If your pokémob is rubberbanding back to a location, it is most likely that you have <code class="docutils literal notranslate"><span class="pre">allowed</span> <span class="pre">distance</span></code> too small for what it wants to do.</p>
+</section>
+<section id="pokemob-storage">
+<span id="poke-st-tab"></span><h3>Pokémob Storage<a class="headerlink" href="#pokemob-storage" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="id3">
+<a class="reference internal image-reference" href="../_images/pokemob_storage.png"><img alt="|Pokemob| Storage tab" src="../_images/pokemob_storage.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">A pokémob’s Storage configuration screen</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This is the fourth tab.</p>
+<p>The main feature of this tab are the 5 input boxes to the right of the pokémob’s picture. These are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">Berry</span></code> - This takes a coordinate set for an inventory to look for berries in</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Store</span></code> - This takes a coordinate set for an inventory to put items in</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Side</span></code> - The side to try to place the items in the  <code class="docutils literal notranslate"><span class="pre">Store</span></code> block</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Empty</span></code> - This takes a coordinate set for an inventory to take items out of</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Side</span></code> - the side to try to take the items from in the <code class="docutils literal notranslate"><span class="pre">Empty</span></code> block</p></li>
+</ul>
+<p>Most of the features for this gui require the pokémob to be set to Stay, and to have a proper wandering range setup in the <a class="reference internal" href="#poke-rt-tab"><span class="std std-ref">Routes Tab</span></a>. The coordinates for these options can be obtained via the <a class="reference internal" href="../machines_and_items/items.html#location-linker"><span class="std std-ref">Location Linker</span></a>. The offhand slot is also visible in this tab, as written books can be used there to assign valid item filters for the Empty task.</p>
+</section>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">The Pokémob’s Gui</a><ul>
+<li><a class="reference internal" href="#pokemob-gui-tabs">Pokémob Gui Tabs</a><ul>
+<li><a class="reference internal" href="#pokemob-inventory">Pokémob Inventory</a></li>
+<li><a class="reference internal" href="#pokemob-ai-toggles">Pokémob AI Toggles</a></li>
+<li><a class="reference internal" href="#pokemob-routes">Pokémob Routes</a></li>
+<li><a class="reference internal" href="#pokemob-storage">Pokémob Storage</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/getting_started/pokemob_gui.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">The Pokémob’s Gui</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Pokémob Command Block &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Pokémob Command Block</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="pokemob-command-block">
+<span id="pokemob-commander"></span><h1>Pokémob Command Block<a class="headerlink" href="#pokemob-command-block" title="Permalink to this heading">¶</a></h1>
+<img alt="../_images/commander.png" src="../_images/commander.png" />
+<p>This block allows using redstone signals, or a ComputerCraft interface to issue commands to a pokémob. To link a pokémob to the commander, you right click it with the cube containing said mob, this page will mostly discuss the redstone signal applications.</p>
+<img alt="../_images/commander_gui.png" src="../_images/commander_gui.png" />
+<p>The commander block has a very simple GUI. It contains the command type to send, and then the arguments for those commands. The arguments will be discussed below for each type of command:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">ATTACKENTITY</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;id&gt;</span></code> - Attacks mob with given entity ID, not really useful as no way to get this with just Pokécube</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">ATTACKLOCATION</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;X&gt;</span> <span class="pre">&lt;Y&gt;</span> <span class="pre">&lt;Z&gt;</span></code> - Tells the pokémob to attack the given location, the <a class="reference internal" href="items.html#location-linker"><span class="std std-ref">Location Linker</span></a> can be used to get these coordinates</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">ATTACKNOTHING</span></code> - No arguments, just uses the attack, this can be used for healing/self moves, etc</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">CHANGEMOVEINDEX</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;Index&gt;</span></code> - Changes the selected move for the pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">CHANGEFORM</span></code> - Commands your pokémob to change form, similar to the mega evolve key</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">MOVETO</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;X&gt;</span> <span class="pre">&lt;Y&gt;</span> <span class="pre">&lt;Z&gt;</span> <span class="pre">&lt;S&gt;</span></code> - Tells the pokémob to move to the given location, with a speed specified by <code class="docutils literal notranslate"><span class="pre">&lt;S&gt;</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">STANCE</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;value&gt;</span> <span class="pre">&lt;state&gt;</span></code> - this changes the “stance” of the pokémob, <code class="docutils literal notranslate"><span class="pre">&lt;value&gt;</span></code> is <code class="docutils literal notranslate"><span class="pre">true</span></code> (for on) or <code class="docutils literal notranslate"><span class="pre">false</span></code> for (off), and <code class="docutils literal notranslate"><span class="pre">&lt;state&gt;</span></code> is one of the following:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">0</span></code>   - Stay on/off</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">1</span></code>   - Guard on/off</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">2</span></code>   - Sit on/off</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">3</span></code>   - Using G/Z Move on/off</p></li>
+</ul>
+</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">SWAPMOVES</span></code> - <code class="docutils literal notranslate"><span class="pre">&lt;A&gt;</span> <span class="pre">&lt;B&gt;</span></code> - Swaps moves of index <code class="docutils literal notranslate"><span class="pre">&lt;A&gt;</span></code> and <code class="docutils literal notranslate"><span class="pre">&lt;B&gt;</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">TELEPORT</span></code>  - No arguments, tells the pokémob to use teleport, this will mosty likely teleport the owner to the last selected teleport location, not very useful in general</p></li>
+</ul>
+<p>The command is applied by sending a redstone pulse to the block. Multiple commander blocks can be linked to the same pokémob.</p>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/machines_and_items/pokemob_command_block.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Pokémob Command Block</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

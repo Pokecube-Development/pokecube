@@ -1,0 +1,180 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Genetics Machines &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Genetics Machines</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="genetics-machines">
+<span id="gene-machines"></span><h1>Genetics Machines<a class="headerlink" href="#genetics-machines" title="Permalink to this heading">¶</a></h1>
+<p>These blocks allow for extensive genetic manipulation of pokémobs, as well as reviving fossils, and cloning of non-legendary pokémobs. These blocks are very dangerous, and should be used with great care.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Failure to properly use these devices can result in the complete loss of pokémobs and items!</p>
+</div>
+<p>These blocks require energy to run, this can be provided via the <a class="reference internal" href="energy_siphon.html#siphon"><span class="std std-ref">Energy Siphon</span></a>.</p>
+<section id="gene-extractor">
+<span id="id1"></span><h2>Gene Extractor<a class="headerlink" href="#gene-extractor" title="Permalink to this heading">¶</a></h2>
+<img alt="../_images/gene_extractor.png" src="../_images/gene_extractor.png" />
+<p>This block is used to extract DNA from various sources, including:</p>
+<ol class="arabic simple">
+<li><p>Filled pokécubes</p></li>
+<li><p>Fossils - contain species genes</p></li>
+<li><p>Bottles of DNA</p></li>
+</ol>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>The Gene Extractor can delete pokémobs when used on a filled pokécube!</p>
+</div>
+<img alt="../_images/gene_extractor_gui.png" src="../_images/gene_extractor_gui.png" />
+<p>To use the extractor, place the source of the DNA in the left most slot (source slot), and then a bottle of water in the bottle slot (top slot). Next place the required <a class="reference internal" href="#gene-selector"><span class="std std-ref">selector</span></a> in the book slot (bottom slot). The machine will then consume Forge Energy, and attempt to extract the selected DNA from the Source into the bottle.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Use with Legendary pokémobs is not advised, their DNA is volatile, and liable to be destroyed on extraction!</p>
+</div>
+</section>
+<section id="cloning-device">
+<span id="cloner"></span><h2>Cloning Device<a class="headerlink" href="#cloning-device" title="Permalink to this heading">¶</a></h2>
+<img alt="../_images/cloning_device.png" src="../_images/cloning_device.png" />
+<p>The Cloning Device allows reviving most sources of species DNA. In the case of Fossils, the DNA must first be <a class="reference internal" href="#gene-extractor"><span class="std std-ref">extracted</span></a>.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Placing a filled pokécube in the DNA slot of the cloner will destroy it when revived, and in the case of a legendary, it will revive wild, so you cannot re-capture it!</p>
+</div>
+<img alt="../_images/cloner_gui.png" src="../_images/cloner_gui.png" />
+<p>The Cloning Device gui has 3 main sections, the Egg/Material slot (Lower Left), the DNA Source slot (Upper Left), and the Other Items slots (Hexagon).</p>
+<p>An Egg of some form is always required in the Egg/Material slot!</p>
+<p>In the case of general DNA reviving, the DNA source goes in the DNA Source slot. For custom Recipes, such as <a class="reference internal" href="../quests_and_legends/legends_quests.html#make-type-null"><span class="std std-ref">Laboratory: Making Type Null</span></a>, the Other Items slots are used instead.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>DO NOT place the egg in the DNA Source slot when using Other Items slots recipes, the egg’s DNA will be spliced into the resulting mob, often resulting in un-wanted mutations and the loss of items!</p>
+</div>
+</section>
+<section id="gene-splicer">
+<span id="id2"></span><h2>Gene Splicer<a class="headerlink" href="#gene-splicer" title="Permalink to this heading">¶</a></h2>
+<p>This thing is cheaty and overpowered.</p>
+</section>
+<section id="gene-selector-books">
+<span id="gene-selector"></span><h2>Gene Selector Books<a class="headerlink" href="#gene-selector-books" title="Permalink to this heading">¶</a></h2>
+<p>The <a class="reference internal" href="#gene-extractor"><span class="std std-ref">Gene Extractor</span></a> and <a class="reference internal" href="#gene-splicer"><span class="std std-ref">Gene Splicer</span></a> require a selector to function.</p>
+<p>Selectors have 3 main sets of properties:</p>
+<ol class="arabic simple">
+<li><p>List of genes to selector for</p></li>
+<li><p>Chance for selector to be lost on use</p></li>
+<li><p>Chance for DNA source to be lost on use</p></li>
+</ol>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Default selectors have 90% chance of DNA source loss.</p>
+</div>
+<section id="making-a-selector">
+<h3>Making a Selector<a class="headerlink" href="#making-a-selector" title="Permalink to this heading">¶</a></h3>
+<p>Selectors are made via vanilla written books. You can place each required gene on a separate line of the first page of the book, and then when the book is signed, it can be used as a DNA selector. Valid genes can be found in the <a class="reference internal" href="../getting_started/pokewatch.html#watch-wiki"><span class="std std-ref">Genetics Guide</span></a> in the watch, or via the tooltip of a filled pokécube in the GUI of any of the <a class="reference internal" href="#gene-machines"><span class="std std-ref">Genetics Machines</span></a>. To select all genes, you can just use <code class="docutils literal notranslate"><span class="pre">all</span></code>, instead of a specific gene name.</p>
+<p>Crafting a selector with a nether star will reduce the DNA loss chance to 0%, however will result in an increase in the selector loss chance.</p>
+<figure class="align-default" id="all-selector">
+<a class="reference internal image-reference" href="../_images/gene_selector_all.png"><img alt="All Selector" src="../_images/gene_selector_all.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">An example of a selector for All genes</span><a class="headerlink" href="#all-selector" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<figure class="align-default" id="ivs-selector">
+<a class="reference internal image-reference" href="../_images/gene_selector_ivs.png"><img alt="All Selector" src="../_images/gene_selector_ivs.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">An example of a selector for the IVs gene</span><a class="headerlink" href="#ivs-selector" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+</section>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Genetics Machines</a><ul>
+<li><a class="reference internal" href="#gene-extractor">Gene Extractor</a></li>
+<li><a class="reference internal" href="#cloning-device">Cloning Device</a></li>
+<li><a class="reference internal" href="#gene-splicer">Gene Splicer</a></li>
+<li><a class="reference internal" href="#gene-selector-books">Gene Selector Books</a><ul>
+<li><a class="reference internal" href="#making-a-selector">Making a Selector</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/machines_and_items/genetics_machines.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Genetics Machines</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

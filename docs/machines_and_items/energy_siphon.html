@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Energy Siphon &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Energy Siphon</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="energy-siphon">
+<span id="siphon"></span><h1>Energy Siphon<a class="headerlink" href="#energy-siphon" title="Permalink to this heading">¶</a></h1>
+<img alt="../_images/energy_siphon.png" src="../_images/energy_siphon.png" />
+<p>This block extracts Forge Energy from nearby mobs. Electric pokémobs are producers and storages of Forge Energy, so this block can use them as a source of energy.</p>
+<p>The amount of power produced by an electric pokémobs depends on the level, and offensive stats of that pokémob. The specific amount produced can be edited via the <code class="docutils literal notranslate"><span class="pre">powerFunction</span></code> config option in <a class="reference internal" href="../configs/pokecube_adventures-common.html#pokecube-adventures-common-toml"><span class="std std-ref">pokecube_adventures-common.toml</span></a>. The maximum power that the energy siphon can extract, is then configured via <code class="docutils literal notranslate"><span class="pre">maxOutput</span></code> in the same file.</p>
+<section id="using-the-siphon">
+<h2>Using the Siphon<a class="headerlink" href="#using-the-siphon" title="Permalink to this heading">¶</a></h2>
+<p>The energy siphon will siphon from mobs within a radius of about 10 blocks. The update rate for new mobs is somewhat slow, so it may take a little while before it notices valid targets. Once it finds some, it will try to forward the energy from the target into linked blocks. The power produced depends on the distance to the mob, mobs closer to the siphon will produce much more power than mobs further away.</p>
+<p>The energy siphon can be linked to any blocks that will accept Forge Energy, this includes a large number of power consuming blocks from tech mods, etc.</p>
+<p>Pokémobs will get hungry as their energy is siphoned out, so you might need to consider how to keep them fed!</p>
+</section>
+<section id="linking-to-other-blocks">
+<h2>Linking to other blocks<a class="headerlink" href="#linking-to-other-blocks" title="Permalink to this heading">¶</a></h2>
+<p>There are 2 ways to link the energy siphon:</p>
+<ol class="arabic simple">
+<li><p>Place it directly adjacent to the block which needs to recieve energy.</p></li>
+<li><p>Using the <a class="reference internal" href="items.html#location-linker"><span class="std std-ref">Location Linker</span></a>, once the linker has a destination, simply right click the siphon with the linker to apply the link. To un-link the location, sneak and right click the siphon with the linker.</p></li>
+</ol>
+<p>Wireless linking of energy siphons can be disabled via <code class="docutils literal notranslate"><span class="pre">wirelessSiphons</span></code> in <a class="reference internal" href="../configs/pokecube_adventures-common.html#pokecube-adventures-common-toml"><span class="std std-ref">pokecube_adventures-common.toml</span></a>.</p>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Energy Siphon</a><ul>
+<li><a class="reference internal" href="#using-the-siphon">Using the Siphon</a></li>
+<li><a class="reference internal" href="#linking-to-other-blocks">Linking to other blocks</a></li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/machines_and_items/energy_siphon.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Energy Siphon</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,90 @@
+/*
+ * classic.css_t
+ * ~~~~~~~~~~~~~
+ *
+ * Sphinx stylesheet -- classic theme.
+ *
+ * :copyright: Copyright 2007-2021 by the Sphinx team, see AUTHORS.
+ * :license: BSD, see LICENSE for details.
+ *
+ */
+
+@import url("basic.css");
+
+/* -- page layout ----------------------------------------------------------- */
+
+body {
+    font-family: sans-serif;
+    font-size: 100%;
+    background-color: #872318;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+div.document {
+    background-color: #ad2c1d;
+}
+
+div.related {
+    background-color: #872318;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+
+
+/* -- body styles ----------------------------------------------------------- */
+
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #f2f2f2;
+    font-weight: normal;
+    color: #383434;
+    border-bottom: 1px solid #ccc;
+    margin: 20px -20px 10px -20px;
+    padding: 3px 0 3px 10px;
+}
+
+div.code-block-caption {
+    color: #efefef;
+    background-color: #872318;
+}
+
+.btn-contents {
+    display: inline-block;
+    border-radius: 5px;
+    line-height: normal;
+    white-space: nowrap;
+    text-align: center;
+    padding: 6px 12px 8px;
+    color: #ffffff;
+    background-color: #ad2c1d;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
+    margin: 0 0 5px;
+    width: 275px;
+}
+
+.btn-contents:hover {
+    background-color: #db0700;
+}
+
+.btn-contents:visited {
+    color: #ffffff;
+    background-color: #3d3839;
+}
+
+.btn-contents:visited:hover {
+    background-color: #756e6f;
+}
+
+.btn-related {
+    width: 175px;
+}

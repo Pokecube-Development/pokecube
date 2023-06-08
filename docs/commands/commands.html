@@ -1,23 +1,24 @@
 
 <!DOCTYPE html>
 
-<html lang="en_us">
+<html lang="en-us">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Commands in Pokecube &#8212; Pokecube Documentation 1.16.4-2.8.0 documentation</title>
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/classic.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Commands in Pokécube &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
     
-    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
     
     <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Legends, Quests and Dimensions" href="../quests_and_legends/index.html" />
-    <link rel="prev" title="Adjusting Worldgen via Datapacks" href="../datapacks/editing_worldgen.html" /> 
+    <link rel="search" title="Search" href="../search.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
@@ -25,14 +26,8 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a></li>
-        <li class="right" >
-          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
-             accesskey="N">next</a> |</li>
-        <li class="right" >
-          <a href="../datapacks/editing_worldgen.html" title="Adjusting Worldgen via Datapacks"
-             accesskey="P">previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
-        <li class="nav-item nav-item-this"><a href="">Commands in Pokecube</a></li> 
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Commands in Pokécube</a></li> 
       </ul>
     </div>  
 
@@ -41,90 +36,91 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="commands-in-pokecube">
-<h1>Commands in Pokecube<a class="headerlink" href="#commands-in-pokecube" title="Permalink to this headline">¶</a></h1>
-<p>Pokecube adds a variety of commands, mostly for debugging/utility purposes. These commands are discussed below.</p>
+  <section id="commands-in-pokecube">
+<h1>Commands in Pokécube<a class="headerlink" href="#commands-in-pokecube" title="Permalink to this heading">¶</a></h1>
+<p>Pokécube adds a variety of commands, mostly for debugging/utility purposes. These commands are discussed below.</p>
 <p>Note that any argument which is represented surrounded by [] is optional. A large number of these commands offer tab completion, so ensure to check those options ingame for valid values.</p>
-<div class="section" id="pokecube">
-<h2>/pokecube<a class="headerlink" href="#pokecube" title="Permalink to this headline">¶</a></h2>
+<section id="pokecube">
+<h2>/pokecube<a class="headerlink" href="#pokecube" title="Permalink to this heading">¶</a></h2>
 <p>This is the base command for some of the <code class="docutils literal notranslate"><span class="pre">OP</span></code> utility commands. These commands are meant to be used by admins.</p>
-<div class="section" id="arguments">
-<h3>Arguments:<a class="headerlink" href="#arguments" title="Permalink to this headline">¶</a></h3>
+<section id="arguments">
+<h3>Arguments:<a class="headerlink" href="#arguments" title="Permalink to this heading">¶</a></h3>
 <ul class="simple">
-<li><p>cull            - This will remove any wild pokemobs not near a player</p></li>
-<li><p>kill            - This kills all wild pokemobs</p></li>
-<li><p>kill_all        - this kills all pokemobs</p></li>
-<li><p>count           - This will display the number of each type of pokemob currently loaded, it will include wild and tamed pokemobs</p></li>
-<li><p>restore         - This is used to recover lost/missing pokemobs</p></li>
-<li><p>reset &lt;user&gt;    - This allows the target to select a new starter</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">cull</span></code>            - This will remove any wild pokémobs not near a player</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">kill</span></code>            - This kills all wild pokémobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">kill_all</span></code>        - this kills all pokémobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">count</span></code>           - This will display the number of each type of pokémob currently loaded, it will include wild and tamed pokémobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">restore</span></code>         - This is used to recover lost/missing pokémobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">reset</span> <span class="pre">&lt;user&gt;</span></code>    - This allows the target to select a new starter</p></li>
 </ul>
-</div>
-<div class="section" id="pokecube-restore">
-<h3>/pokecube restore<a class="headerlink" href="#pokecube-restore" title="Permalink to this headline">¶</a></h3>
+<section id="pokecube-restore">
+<span id="pokerestore"></span><h4>/pokecube restore<a class="headerlink" href="#pokecube-restore" title="Permalink to this heading">¶</a></h4>
 <p>This command then takes a few additional arguments:</p>
 <ul class="simple">
-<li><p>check &lt;player&gt; [name]  - [name] is optional, this will print a list of pokemobs owned by &lt;player&gt;, and clicking on the name (or the [] around the name) will teleport the user to the last known location of the pokemob. The user may need to first transfer to the dimension the pokemob was last seen in, as this command does not track the last known dimension</p></li>
-<li><p>give &lt;player&gt; [name]   - similar to <code class="docutils literal notranslate"><span class="pre">check</span></code>, however clicking will instead give you the pokecube for the pokemob, you can then send this to the owner’s PC by tossing it, or send it out by throwing it.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">check</span> <span class="pre">&lt;player&gt;</span> <span class="pre">[name]</span></code>  - [name] is optional, this will print a list of pokémobs owned by &lt;player&gt;, and clicking on the name (or the [] around the name) will teleport the user to the last known location of the pokémob. The user may need to first transfer to the dimension the pokémob was last seen in, as this command does not track the last known dimension</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">give</span> <span class="pre">&lt;player&gt;</span> <span class="pre">[name]</span></code>   - similar to <code class="docutils literal notranslate"><span class="pre">check</span></code>, however clicking will instead give you the pokécube for the pokémob, you can then send this to the owner’s PC by tossing it, or send it out by throwing it.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">clear</span> <span class="pre">&lt;player&gt;</span></code>                  - This will clear the cache for the targetted player, Only use this if their cache is too corrupted to use!</p></li>
 </ul>
-<p>There are then versions of these options, with <code class="docutils literal notranslate"><span class="pre">_pc</span></code> and <code class="docutils literal notranslate"><span class="pre">_deleted</span></code>, which list pokemobs last seen in PC, or pokemobs which were intentionally released/deleted by the owner.</p>
-</div>
-</div>
-<div class="section" id="pokerecall">
-<h2>/pokerecall<a class="headerlink" href="#pokerecall" title="Permalink to this headline">¶</a></h2>
-<p>This command is used to recall pokemobs, it will only work if the target pokemob is in a loaded chunk. If a player has abandoned a pokemob somewhere, and that chunk has unloaded, this command will not work, and they will need to go back to where they left it before they can recall it.</p>
+<p>There are then versions of these options, with <code class="docutils literal notranslate"><span class="pre">_pc</span></code> and <code class="docutils literal notranslate"><span class="pre">_deleted</span></code>, which list pokémobs last seen in PC, or pokémobs which were intentionally released/deleted by the owner.</p>
+</section>
+</section>
+</section>
+<section id="pokerecall">
+<h2>/pokerecall<a class="headerlink" href="#pokerecall" title="Permalink to this heading">¶</a></h2>
+<p>This command is used to recall pokémobs, it will only work if the target pokémob is in a loaded chunk. If a player has abandoned a pokémob somewhere, and that chunk has unloaded, this command will not work, and they will need to go back to where they left it before they can recall it.</p>
 <p>This command takes one of the following arguments:</p>
 <ul class="simple">
-<li><p>name    - targets by the given name</p></li>
-<li><p>all     - targets all of your mobs</p></li>
-<li><p>staying - targets your mobs set to “stay”</p></li>
-<li><p>sitting - targets your mobs set to “sit”</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">name</span></code>    - targets by the given name</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">all</span></code>     - targets all of your mobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">staying</span></code> - targets your mobs set to “stay”</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">sitting</span></code> - targets your mobs set to “sit”</p></li>
 </ul>
-</div>
-<div class="section" id="pokemake">
-<span id="id1"></span><h2>/pokemake<a class="headerlink" href="#pokemake" title="Permalink to this headline">¶</a></h2>
-<p>This command will spawn a pokemob, based on the arguments given. The general format of this command is as follows:</p>
+</section>
+<section id="pokemake">
+<span id="id1"></span><h2>/pokemake<a class="headerlink" href="#pokemake" title="Permalink to this heading">¶</a></h2>
+<p>This command will spawn a pokémob, based on the arguments given. The general format of this command is as follows:</p>
 <p><code class="docutils literal notranslate"><span class="pre">/pokemake</span> <span class="pre">&lt;pokemob&gt;</span> <span class="pre">&lt;arguents&gt;</span></code></p>
-<p>where <code class="docutils literal notranslate"><span class="pre">&lt;pokemob&gt;</span></code> is the name of the pokemob to spawn, and <code class="docutils literal notranslate"><span class="pre">&lt;arguments&gt;</span></code> is explained below:</p>
+<p>where <code class="docutils literal notranslate"><span class="pre">&lt;pokemob&gt;</span></code> is the name of the pokémob to spawn, and <code class="docutils literal notranslate"><span class="pre">&lt;arguments&gt;</span></code> is explained below:</p>
 <p>if the first value in <code class="docutils literal notranslate"><span class="pre">&lt;arguments&gt;</span></code> is a valid player selector, then that player will be assigned ownership of the spawned mob. Otherwise, arguments are usually a single letter, optionally preceeding a <code class="docutils literal notranslate"><span class="pre">:</span></code> followed by a value.</p>
 <p>Valid such arguments are below:</p>
 <ul class="simple">
-<li><p>s           - Makes the pokemob shiny</p></li>
-<li><p>item:&lt;var&gt;  - &lt;var&gt; is a valid argument for /give, it will assign this as the held item for the pokemob</p></li>
-<li><p>l:&lt;level&gt;   - Sets the level of the pokemob to &lt;level&gt;</p></li>
-<li><p>f:&lt;name&gt;    - Assigns the alternate texture/model for this mob, useful for unown, alcremie, etc</p></li>
-<li><p>x:&lt;f|m&gt;     - Sets the gender to male (m) or female (f)</p></li>
-<li><p>r:&lt;int&gt;     - Sets the (integer) red value for the pokemob</p></li>
-<li><p>g:&lt;int&gt;     - Sets the (integer) green value for the pokemob</p></li>
-<li><p>b:&lt;int&gt;     - Sets the (integer) blue value for the pokemob</p></li>
-<li><p>a:&lt;name&gt;    - Gives the pokemob the ability &lt;name&gt;</p></li>
-<li><p>m:&lt;name&gt;    - Adds &lt;name&gt; as a move for the mob, this argument can be repeated up to 4 times with different moves. Use <a class="reference internal" href="#poketm"><span class="std std-ref">/poketm</span></a> to determine the valid options for this argument</p></li>
-<li><p>v:&lt;x,y,z&gt;   - Spawns the pokemob with an offset defined by &lt;x,y,z&gt;</p></li>
-<li><p>i:&lt;ivs&gt;     - Sets the IVs for the mob, &lt;ivs&gt; should either be a single number, or a <code class="docutils literal notranslate"><span class="pre">,</span></code> separated list of 6 numbers</p></li>
-<li><p>w           - Does the same initialization as for wild spawns (may trigger evolution, etc)</p></li>
-<li><p>h:&lt;size&gt;    - Sets the mob’s size</p></li>
-<li><p>p:&lt;nature&gt;  - Sets the nature of the pokemob to &lt;nature&gt;</p></li>
-<li><p>n:&lt;name&gt;    - Sets the nickname for the pokemob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">s</span></code>           - Makes the pokémob shiny</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">item:&lt;var&gt;</span></code>  - &lt;var&gt; is a valid argument for /give, it will assign this as the held item for the pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">l:&lt;level&gt;</span></code>   - Sets the level of the pokémob to &lt;level&gt;</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">f:&lt;name&gt;</span></code>    - Assigns the alternate texture/model for this mob, useful for unown, alcremie, etc</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">x:&lt;f|m&gt;</span></code>     - Sets the gender to male (m) or female (f)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">r:&lt;int&gt;</span></code>     - Sets the (integer) red value for the pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">g:&lt;int&gt;</span></code>     - Sets the (integer) green value for the pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">b:&lt;int&gt;</span></code>     - Sets the (integer) blue value for the pokémob</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">a:&lt;name&gt;</span></code>    - Gives the pokémob the ability &lt;name&gt;</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">m:&lt;name&gt;</span></code>    - Adds &lt;name&gt; as a move for the mob, this argument can be repeated up to 4 times with different moves. Use <a class="reference internal" href="#poketm"><span class="std std-ref">/poketm</span></a> to determine the valid options for this argument</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">v:&lt;x,y,z&gt;</span></code>   - Spawns the pokémob with an offset defined by &lt;x,y,z&gt;</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">i:&lt;ivs&gt;</span></code>     - Sets the IVs for the mob, &lt;ivs&gt; should either be a single number, or a <code class="docutils literal notranslate"><span class="pre">,</span></code> separated list of 6 numbers</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">w</span></code>           - Does the same initialization as for wild spawns (may trigger evolution, etc)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">h:&lt;size&gt;</span></code>    - Sets the mob’s size</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">p:&lt;nature&gt;</span></code>  - Sets the nature of the pokémob to &lt;nature&gt;</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">n:&lt;name&gt;</span></code>    - Sets the nickname for the pokémob</p></li>
 </ul>
-</div>
-<div class="section" id="pokeegg">
-<h2>/pokeegg<a class="headerlink" href="#pokeegg" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="pokeegg">
+<h2>/pokeegg<a class="headerlink" href="#pokeegg" title="Permalink to this heading">¶</a></h2>
 <p>This command takes the same arguments as <code class="docutils literal notranslate"><span class="pre">/pokemake</span></code>, however then converts the mob into an egg. This may result in loss of some of the information (such as nickname, etc)</p>
-</div>
-<div class="section" id="poketm">
-<span id="id2"></span><h2>/poketm<a class="headerlink" href="#poketm" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="poketm">
+<span id="id2"></span><h2>/poketm<a class="headerlink" href="#poketm" title="Permalink to this heading">¶</a></h2>
 <p>This command is used as:</p>
 <p><code class="docutils literal notranslate"><span class="pre">/poketm</span> <span class="pre">&lt;movename&gt;</span> <span class="pre">[player]</span></code></p>
 <p>It will generate a TM for the move &lt;movename&gt;, and if present, will give it to [player], otherwise it will give it to the user of the command.</p>
-</div>
-<div class="section" id="pokebase">
-<h2>/pokebase<a class="headerlink" href="#pokebase" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="pokebase">
+<h2>/pokebase<a class="headerlink" href="#pokebase" title="Permalink to this heading">¶</a></h2>
 <p>This command is used to enter/exit secret bases, without needing to use the blocks created with secretpower.</p>
-</div>
-<div class="section" id="meteor">
-<h2>/meteor<a class="headerlink" href="#meteor" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="meteor">
+<span id="meteor-cmd"></span><h2>/meteor<a class="headerlink" href="#meteor" title="Permalink to this heading">¶</a></h2>
 <p>This command summons an explosive meteor at the user’s coordinates It takes an additional argument of the power of the blast to use, otherwise it uses a power of 100. The size of the blast can be adjusted via the meteor related options in <a class="reference internal" href="../configs/pokecube-common.html#pokecube-common-toml"><span class="std std-ref">pokecube-common.toml</span></a> and the explosion related options in <a class="reference internal" href="../configs/thutcore-common.html#thutcore-common-toml"><span class="std std-ref">thutcore-common.toml</span></a>.</p>
-</div>
-</div>
+</section>
+</section>
 
 
             <div class="clearer"></div>
@@ -133,12 +129,15 @@
       </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
-  <h3><a href="../index.html">Table of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Commands in Pokecube</a><ul>
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Commands in Pokécube</a><ul>
 <li><a class="reference internal" href="#pokecube">/pokecube</a><ul>
-<li><a class="reference internal" href="#arguments">Arguments:</a></li>
+<li><a class="reference internal" href="#arguments">Arguments:</a><ul>
 <li><a class="reference internal" href="#pokecube-restore">/pokecube restore</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a class="reference internal" href="#pokerecall">/pokerecall</a></li>
@@ -151,12 +150,7 @@
 </li>
 </ul>
 
-  <h4>Previous topic</h4>
-  <p class="topless"><a href="../datapacks/editing_worldgen.html"
-                        title="previous chapter">Adjusting Worldgen via Datapacks</a></p>
-  <h4>Next topic</h4>
-  <p class="topless"><a href="../quests_and_legends/index.html"
-                        title="next chapter">Legends, Quests and Dimensions</a></p>
+  </div>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -168,12 +162,12 @@
   <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="../search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
       <input type="submit" value="Go" />
     </form>
     </div>
 </div>
-<script>$('#searchbox').show(0);</script>
+<script>document.getElementById('searchbox').style.display = "block"</script>
         </div>
       </div>
       <div class="clearer"></div>
@@ -184,19 +178,13 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              >index</a></li>
-        <li class="right" >
-          <a href="../quests_and_legends/index.html" title="Legends, Quests and Dimensions"
-             >next</a> |</li>
-        <li class="right" >
-          <a href="../datapacks/editing_worldgen.html" title="Adjusting Worldgen via Datapacks"
-             >previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
-        <li class="nav-item nav-item-this"><a href="">Commands in Pokecube</a></li> 
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Commands in Pokécube</a></li> 
       </ul>
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2021, Thutmose.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.4.3.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
     </div>
   </body>
 </html>

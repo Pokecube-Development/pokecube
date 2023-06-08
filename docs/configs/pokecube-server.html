@@ -1,23 +1,24 @@
 
 <!DOCTYPE html>
 
-<html lang="en_us">
+<html lang="en-us">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>pokecube-server.toml &#8212; Pokecube Documentation 1.16.4-2.8.0 documentation</title>
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/classic.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>pokecube-server.toml &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
     
-    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
     
     <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="pokecube_adventures-client.toml" href="pokecube_adventures-client.html" />
-    <link rel="prev" title="pokecube-common.toml" href="pokecube-common.html" /> 
+    <link rel="search" title="Search" href="../search.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
@@ -25,14 +26,7 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a></li>
-        <li class="right" >
-          <a href="pokecube_adventures-client.html" title="pokecube_adventures-client.toml"
-             accesskey="N">next</a> |</li>
-        <li class="right" >
-          <a href="pokecube-common.html" title="pokecube-common.toml"
-             accesskey="P">previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
-          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Configs</a> &#187;</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">pokecube-server.toml</a></li> 
       </ul>
     </div>  
@@ -42,116 +36,64 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="pokecube-server-toml">
-<span id="id1"></span><h1>pokecube-server.toml<a class="headerlink" href="#pokecube-server-toml" title="Permalink to this headline">¶</a></h1>
-<div class="highlight-default notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre> 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53</pre></div></td><td class="code"><div class="highlight"><pre><span></span>
-<span class="p">[</span><span class="n">spawning</span><span class="p">]</span>
-	<span class="c1"># Pokemobs will not spawn further than this distance from a player</span>
-	<span class="n">maxSpawnRadius</span> <span class="o">=</span> <span class="mi">32</span>
-	<span class="c1"># Pokemobs will not spawn closer than this distance from a player</span>
-	<span class="n">minSpawnRadius</span> <span class="o">=</span> <span class="mi">16</span>
-
-<span class="p">[</span><span class="n">advanced</span><span class="p">]</span>
-	<span class="c1"># If true, vanilla mobs are treated as pokemobs as well</span>
-	<span class="n">vanilla_pokemobs</span> <span class="o">=</span> <span class="n">false</span>
-	<span class="c1"># Pokemobs larger than this are treated a bit differently to try to reduce lag when they move around</span>
-	<span class="n">largeMobForSplit</span> <span class="o">=</span> <span class="mf">2.0</span>
-	<span class="c1"># If true, mobs added by other mods are treated as pokemobs as well</span>
-	<span class="n">non_vanilla_pokemobs</span> <span class="o">=</span> <span class="n">false</span>
-	<span class="c1"># Time it takes for a pokemob to evolve, note that recalling during this time will cancel the evolution!</span>
-	<span class="n">evolutionTicks</span> <span class="o">=</span> <span class="mi">50</span>
-	<span class="c1"># Number of ender pearls required to teleport to a pokecenter in your current dimension, using the attack teleport</span>
-	<span class="n">telePearlsCostSameDim</span> <span class="o">=</span> <span class="mi">0</span>
-	<span class="c1"># A spacing around a player which prevnts them from riding something too fast off the edge of the loaded area. This effectively limits the speed at which they can generate terrain</span>
-	<span class="n">movementPauseThreshold</span> <span class="o">=</span> <span class="mf">32.0</span>
-	<span class="c1"># Number of ender pearls required to teleport to a pokecenter in a different diemsnion, using the attack teleport</span>
-	<span class="n">telePearlsCostOtherDim</span> <span class="o">=</span> <span class="mi">16</span>
-	<span class="c1"># Distance that secret base radar works within</span>
-	<span class="n">baseRadarRange</span> <span class="o">=</span> <span class="mi">64</span>
-
-<span class="p">[</span><span class="n">ai</span><span class="p">]</span>
-	<span class="c1"># scaling factor on riding speed while flying</span>
-	<span class="n">flySpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
-	<span class="c1"># scaling factor on riding speed while in water</span>
-	<span class="n">surfSpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
-	<span class="c1"># If true, dead wild pokemobs will vanish like normal mobs do on death</span>
-	<span class="n">wildDeadDespawn</span> <span class="o">=</span> <span class="n">true</span>
-	<span class="c1"># time it takes for the dead mobs to vanish if allowed</span>
-	<span class="n">deadDespawnTimer</span> <span class="o">=</span> <span class="mi">20</span>
-	<span class="c1"># if they did not vanish by this time, they will revive instead, wild ones at full hp, tame ones at 1 hp</span>
-	<span class="n">deadReviveTimer</span> <span class="o">=</span> <span class="mi">600</span>
-	<span class="c1"># Flying will not be allowed in these dimensions</span>
-	<span class="n">blackListedFlyDims</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;the_end&quot;</span><span class="p">,</span> <span class="s2">&quot;the_nether&quot;</span><span class="p">]</span>
-	<span class="c1"># scaling factor on riding speed while on ground</span>
-	<span class="n">groundSpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
-	<span class="c1"># If true, dead tame pokemobs will vanish like normal mobs do on death, they will return to their pokecubes when they vanish</span>
-	<span class="n">tameDeadDespawn</span> <span class="o">=</span> <span class="n">true</span>
-	<span class="c1"># Approximate cooldown for attacks in ticks, larger values will slow down combat</span>
-	<span class="n">attackCooldown</span> <span class="o">=</span> <span class="mi">20</span>
-
-<span class="p">[</span><span class="n">misc</span><span class="p">]</span>
-	<span class="c1"># Global size scaling factor for pokemobs</span>
-	<span class="n">scalefactor</span> <span class="o">=</span> <span class="mf">1.0</span>
-	<span class="c1"># Number of pages in the PC</span>
-	<span class="n">pcPageCount</span> <span class="o">=</span> <span class="mi">32</span>
-	<span class="c1"># If true, npcs will display their name tags, this is server config for syncing to clients for balance purposes</span>
-	<span class="n">npcNameTags</span> <span class="o">=</span> <span class="n">true</span>
-
+  <section id="pokecube-server-toml">
+<span id="id1"></span><h1>pokecube-server.toml<a class="headerlink" href="#pokecube-server-toml" title="Permalink to this heading">¶</a></h1>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span>
+<span class="linenos"> 2</span><span class="p">[</span><span class="n">spawning</span><span class="p">]</span>
+<span class="linenos"> 3</span>	<span class="c1"># Pokemobs will not spawn further than this distance from a player</span>
+<span class="linenos"> 4</span>	<span class="n">maxSpawnRadius</span> <span class="o">=</span> <span class="mi">32</span>
+<span class="linenos"> 5</span>	<span class="c1"># Pokemobs will not spawn closer than this distance from a player</span>
+<span class="linenos"> 6</span>	<span class="n">minSpawnRadius</span> <span class="o">=</span> <span class="mi">16</span>
+<span class="linenos"> 7</span>
+<span class="linenos"> 8</span><span class="p">[</span><span class="n">advanced</span><span class="p">]</span>
+<span class="linenos"> 9</span>	<span class="c1"># If true, vanilla mobs are treated as pokemobs as well</span>
+<span class="linenos">10</span>	<span class="n">vanilla_pokemobs</span> <span class="o">=</span> <span class="n">false</span>
+<span class="linenos">11</span>	<span class="c1"># Pokemobs larger than this are treated a bit differently to try to reduce lag when they move around</span>
+<span class="linenos">12</span>	<span class="n">largeMobForSplit</span> <span class="o">=</span> <span class="mf">2.0</span>
+<span class="linenos">13</span>	<span class="c1"># If true, mobs added by other mods are treated as pokemobs as well</span>
+<span class="linenos">14</span>	<span class="n">non_vanilla_pokemobs</span> <span class="o">=</span> <span class="n">false</span>
+<span class="linenos">15</span>	<span class="c1"># Time it takes for a pokemob to evolve, note that recalling during this time will cancel the evolution!</span>
+<span class="linenos">16</span>	<span class="n">evolutionTicks</span> <span class="o">=</span> <span class="mi">50</span>
+<span class="linenos">17</span>	<span class="c1"># Number of ender pearls required to teleport to a pokecenter in your current dimension, using the attack teleport</span>
+<span class="linenos">18</span>	<span class="n">telePearlsCostSameDim</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="linenos">19</span>	<span class="c1"># A spacing around a player which prevnts them from riding something too fast off the edge of the loaded area. This effectively limits the speed at which they can generate terrain</span>
+<span class="linenos">20</span>	<span class="n">movementPauseThreshold</span> <span class="o">=</span> <span class="mf">32.0</span>
+<span class="linenos">21</span>	<span class="c1"># Number of ender pearls required to teleport to a pokecenter in a different diemsnion, using the attack teleport</span>
+<span class="linenos">22</span>	<span class="n">telePearlsCostOtherDim</span> <span class="o">=</span> <span class="mi">16</span>
+<span class="linenos">23</span>	<span class="c1"># Distance that secret base radar works within</span>
+<span class="linenos">24</span>	<span class="n">baseRadarRange</span> <span class="o">=</span> <span class="mi">64</span>
+<span class="linenos">25</span>
+<span class="linenos">26</span><span class="p">[</span><span class="n">ai</span><span class="p">]</span>
+<span class="linenos">27</span>	<span class="c1"># scaling factor on riding speed while flying</span>
+<span class="linenos">28</span>	<span class="n">flySpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
+<span class="linenos">29</span>	<span class="c1"># scaling factor on riding speed while in water</span>
+<span class="linenos">30</span>	<span class="n">surfSpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
+<span class="linenos">31</span>	<span class="c1"># If true, dead wild pokemobs will vanish like normal mobs do on death</span>
+<span class="linenos">32</span>	<span class="n">wildDeadDespawn</span> <span class="o">=</span> <span class="n">true</span>
+<span class="linenos">33</span>	<span class="c1"># time it takes for the dead mobs to vanish if allowed</span>
+<span class="linenos">34</span>	<span class="n">deadDespawnTimer</span> <span class="o">=</span> <span class="mi">20</span>
+<span class="linenos">35</span>	<span class="c1"># if they did not vanish by this time, they will revive instead, wild ones at full hp, tame ones at 1 hp</span>
+<span class="linenos">36</span>	<span class="n">deadReviveTimer</span> <span class="o">=</span> <span class="mi">600</span>
+<span class="linenos">37</span>	<span class="c1"># Flying will not be allowed in these dimensions</span>
+<span class="linenos">38</span>	<span class="n">blackListedFlyDims</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;the_end&quot;</span><span class="p">,</span> <span class="s2">&quot;the_nether&quot;</span><span class="p">]</span>
+<span class="linenos">39</span>	<span class="c1"># scaling factor on riding speed while on ground</span>
+<span class="linenos">40</span>	<span class="n">groundSpeedFactor</span> <span class="o">=</span> <span class="mf">1.0</span>
+<span class="linenos">41</span>	<span class="c1"># If true, dead tame pokemobs will vanish like normal mobs do on death, they will return to their pokecubes when they vanish</span>
+<span class="linenos">42</span>	<span class="n">tameDeadDespawn</span> <span class="o">=</span> <span class="n">true</span>
+<span class="linenos">43</span>	<span class="c1"># Approximate cooldown for attacks in ticks, larger values will slow down combat</span>
+<span class="linenos">44</span>	<span class="n">attackCooldown</span> <span class="o">=</span> <span class="mi">20</span>
+<span class="linenos">45</span>
+<span class="linenos">46</span><span class="p">[</span><span class="n">misc</span><span class="p">]</span>
+<span class="linenos">47</span>	<span class="c1"># Global size scaling factor for pokemobs</span>
+<span class="linenos">48</span>	<span class="n">scalefactor</span> <span class="o">=</span> <span class="mf">1.0</span>
+<span class="linenos">49</span>	<span class="c1"># Number of pages in the PC</span>
+<span class="linenos">50</span>	<span class="n">pcPageCount</span> <span class="o">=</span> <span class="mi">32</span>
+<span class="linenos">51</span>	<span class="c1"># If true, npcs will display their name tags, this is server config for syncing to clients for balance purposes</span>
+<span class="linenos">52</span>	<span class="n">npcNameTags</span> <span class="o">=</span> <span class="n">true</span>
+<span class="linenos">53</span>
 </pre></div>
-</td></tr></table></div>
 </div>
+</section>
 
 
             <div class="clearer"></div>
@@ -160,12 +102,6 @@
       </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
-  <h4>Previous topic</h4>
-  <p class="topless"><a href="pokecube-common.html"
-                        title="previous chapter">pokecube-common.toml</a></p>
-  <h4>Next topic</h4>
-  <p class="topless"><a href="pokecube_adventures-client.html"
-                        title="next chapter">pokecube_adventures-client.toml</a></p>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -177,12 +113,12 @@
   <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="../search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
       <input type="submit" value="Go" />
     </form>
     </div>
 </div>
-<script>$('#searchbox').show(0);</script>
+<script>document.getElementById('searchbox').style.display = "block"</script>
         </div>
       </div>
       <div class="clearer"></div>
@@ -193,20 +129,13 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              >index</a></li>
-        <li class="right" >
-          <a href="pokecube_adventures-client.html" title="pokecube_adventures-client.toml"
-             >next</a> |</li>
-        <li class="right" >
-          <a href="pokecube-common.html" title="pokecube-common.toml"
-             >previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 1.16.4-2.8.0 documentation</a> &#187;</li>
-          <li class="nav-item nav-item-1"><a href="index.html" >Configs</a> &#187;</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">pokecube-server.toml</a></li> 
       </ul>
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2021, Thutmose.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.4.3.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
     </div>
   </body>
 </html>

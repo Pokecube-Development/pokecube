@@ -4,7 +4,7 @@
  *
  * Sphinx stylesheet -- classic theme.
  *
- * :copyright: Copyright 2007-2021 by the Sphinx team, see AUTHORS.
+ * :copyright: Copyright 2007-2023 by the Sphinx team, see AUTHORS.
  * :license: BSD, see LICENSE for details.
  *
  */
@@ -21,14 +21,15 @@ html {
 body {
     font-family: sans-serif;
     font-size: 100%;
-    background-color: #872318;
+    background-color: #11303d;
     color: #000;
     margin: 0;
     padding: 0;
 }
 
 div.document {
-    background-color: #ad2c1d;
+    display: flex;
+    background-color: #1c4e63;
 }
 
 div.documentwrapper {
@@ -60,7 +61,7 @@ div.footer a {
 }
 
 div.related {
-    background-color: #872318;
+    background-color: #133f52;
     line-height: 30px;
     color: #ffffff;
 }
@@ -149,7 +150,7 @@ div.body h6 {
     font-family: 'Trebuchet MS', sans-serif;
     background-color: #f2f2f2;
     font-weight: normal;
-    color: #383434;
+    color: #20435c;
     border-bottom: 1px solid #ccc;
     margin: 20px -20px 10px -20px;
     padding: 3px 0 3px 10px;
@@ -205,6 +206,8 @@ div.seealso {
     border: 1px solid #ff6;
 }
 
+nav.contents,
+aside.topic,
 div.topic {
     background-color: #eee;
 }
@@ -262,38 +265,5 @@ div.viewcode-block:target {
 
 div.code-block-caption {
     color: #efefef;
-    background-color: #872318;
-}
-
-.btn-contents {
-    display: inline-block;
-    border-radius: 5px;
-    line-height: normal;
-    white-space: nowrap;
-    text-align: center;
-    padding: 6px 12px 8px;
-    color: #ffffff;
-    background-color: #ad2c1d;
-    text-decoration: none;
-    font-weight: 400;
-    font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
-    margin: 0 0 5px;
-    width: 250px;
-}
-
-.btn-contents:hover {
-    background-color: #db0700;
-}
-
-.btn-contents:visited {
-    color: #ffffff;
-    background-color: #3d3839;
-}
-
-.btn-contents:visited:hover {
-    background-color: #756e6f;
-}
-
-.btn-related {
-    width: 175px;
+    background-color: #1c4e63;
 }
