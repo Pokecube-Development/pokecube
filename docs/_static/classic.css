@@ -278,6 +278,7 @@ a.btn.btn-contents {
     font-weight: 400;
     font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
     margin: 0 0 5px;
+    width: 250px;
 }
 
 a.btn.btn-contents:hover {
