@@ -24,17 +24,6 @@
     color: #fcfcfc;
 }
 
-.wy-nav-top {
-    display: none;
-    background: #ad2c1d;
-    color: #fff;
-    padding: .4045em .809em;
-    position: relative;
-    line-height: 50px;
-    text-align: center;
-    font-size: 100%;
-}
-
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
     color: #ad2c1d;
     height: 32px;
@@ -63,7 +52,7 @@
     font-weight: 400;
     font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
     margin: 0 0 5px;
-    width: 275px;
+    width: 50%;
 }
 
 .btn-contents:hover {
@@ -81,4 +70,19 @@
 
 .btn-related {
     width: 175px;
+}
+
+/* -- Media Overrides ------------------------------------------------------ */
+
+@media only screen and (max-width: 480px) {
+    .wy-nav-top {
+        display: none;
+        background: #ad2c1d;
+        color: #fff;
+        padding: .4045em .809em;
+        position: relative;
+        line-height: 50px;
+        text-align: center;
+        font-size: 100%;
+    }
 }
