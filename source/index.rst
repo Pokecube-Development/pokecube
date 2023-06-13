@@ -3,25 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pokecube Documentation's Documentation!
+**Welcome to Pokecube Documentation's Documentation!**
 ==================================================
 
 .. image:: _images/pokecube-banner.*
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+**Contents:**
+-------------
 
-   getting_started/index
-   configs/index
-   datapacks/index
-   resourcepacks/index
-   commands/commands
-   trainers/index
-   quests_and_legends/index
-   machines_and_items/index
-   pokemobs/index
- 
 .. button-link:: getting_started/index.html
    :class: btn btn-contents
 
@@ -66,7 +55,7 @@ Welcome to Pokecube Documentation's Documentation!
    :class: btn btn-contents
 
    Configs
-   
+
 .. button-link:: getting_started/index.html#faq
    :class: btn btn-contents
 
