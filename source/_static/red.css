@@ -37,6 +37,10 @@
     white-space: nowrap;
 }
 
+a.icon.icon-home {
+    color: #ad2c1d;
+}
+
 /* -- button formatting ------------------------------------------------------ */
 
 .btn-contents {
@@ -76,7 +80,6 @@
 
 @media only screen and (max-width: 480px) {
     .wy-nav-top {
-        /* display: top; */
         background: #ad2c1d;
         color: #fff;
         padding: .4045em .809em;
