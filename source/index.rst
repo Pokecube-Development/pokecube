@@ -60,3 +60,18 @@
    :class: btn btn-contents
 
    FAQ
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   :hidden:
+
+   getting_started/index
+   configs/index
+   datapacks/index
+   resourcepacks/index
+   commands/commands
+   trainers/index
+   quests_and_legends/index
+   machines_and_items/index
+   pokemobs/index
