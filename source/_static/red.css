@@ -76,7 +76,7 @@
 
 @media only screen and (max-width: 480px) {
     .wy-nav-top {
-        display: none;
+        /* display: top; */
         background: #ad2c1d;
         color: #fff;
         padding: .4045em .809em;
