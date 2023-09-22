@@ -4,7 +4,7 @@
 Ability Field Amplifier
 ***********************
 
-.. image:: ../_images/machines_items/afa.*
+.. image:: ../_images/machines_items/afa.png
 
 This block uses Forge Energy to work, and can be powered with the :ref:`siphon`.
 
@@ -18,7 +18,8 @@ The Ability Field Amplifier (AFA) has two uses:
    :name: afa_no_set
    :width: 600
    
-   The Empty GUI for the AFA, this shows the item slot, as well as the ``<`` and ``>`` buttons used for selecting the range of effect. The Power display is ordered: ``needed/provided``, so if the second number is smaller than the first, then you need to provide more power for the block to work.
+   The Empty GUI for the AFA, this shows the item slot, as well as the ``<`` and ``>`` buttons used for selecting the range of effect. 
+   The Power display is read as ``required/provided``, so if the power is in red, then you need to provide more power for the block to work.
 
 To broadcast an ability over a volume, you must first capture a |pokemob| which has the required ability, below are some example abilities, and their effects:
 
