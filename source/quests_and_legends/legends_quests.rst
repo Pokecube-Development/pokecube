@@ -15,18 +15,13 @@ About dimensions, there is an exclusive page for it, you can see it by clicking 
 **Exploration Structures**
 ==========================
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
-Exploitation structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
+Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
 
 Raids!
 ~~~~~~
-The Raids are here, and you can get strong |pokemob| and Gigantamax! Just find the Spots and start the battle!
+The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just find the Raid Spots and start the battle!
 
-**Raid Block**
-
-.. image:: ../_images/legends_wiki/raid_block.png
-   :alt: raid_info
-
-**Raid Structure**
+**Raid Structures**
 
 .. image:: ../_images/legends_wiki/raid_structure.png
    :alt: raid_info
@@ -36,17 +31,17 @@ The Raids are here, and you can get strong |pokemob| and Gigantamax! Just find t
 .. image:: ../_images/legends_wiki/raid_pokemob.png
    :alt: raid_info
 
-* Informações (Mechanics/Itens/Moves)
+* Information (Mechanics/Items/Moves)
 
-Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob| inventory
+Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob|'s inventory.
 Items are random, mixing |pokemob| Loot Table with Raid items.
 
-Itens
+Items
 ~~~~~
 
 **Wishing Piece:** is the item you use to activate Raid. But don't worry, Raids are reactivated after a while if you don't get this item.
 
-.. image:: ../_images/legends_wiki/items/shard.png
+.. image:: ../_images/legends_wiki/items/wishing_piece.png
    :alt: raid_info
 
 **Gigant Shard:** is the item you use to get Gigantamax! To use it, choose a |pokemob| that has Gigantamax and click on it with the item in hand **!DO NOT PUT INTO THE INVENTORY!**,
@@ -70,18 +65,18 @@ Catch |Pokemob| Raid
 
 To capture the |pokemob| of the raid we need two factors:
 
-* 1º - The |pokemob| needs to be extremely low on health!
-* 2º - You need to use Dynamax Cube to capture!
+* 1. The |pokemob| needs to be extremely low on health!
+* 2. You need to use a Dynamax Cube to capture!
 
 .. image:: ../_images/legends_wiki/dynamax_ball.png
    :alt: raid_info
 
-To create a Dynamax Cube you use: 
-
-* You can use any Poke Cube to create the Dynamax Cube!
+Recipe for a Dynamax Cube:
 
 .. image:: ../_images/legends_wiki/dynamax_ball_crafting.png
    :alt: raid_info
+
+* You can use any Pokecube to create the Dynamax Cube!
 
 **Be aware that Dynamax Cube doesn't use the capture chance of the Poke Cube you use in the Recipe, so if you use a Master Cube for the recipe, it will work like a normal Poke Cube!**
 
