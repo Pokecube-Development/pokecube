@@ -10,6 +10,8 @@ Useful Items
 Location Linker
 ###############
 
+.. image:: ../_images/machines_items/location_linker.png
+
 The location linker is an item which is used to link blocks and mobs to locations. When a block is right clicked with this item, one of two things will occur:
 
 1. In most cases, the location of the block will be stored to the linker, it will also be copied to clipboard, so that it can be pasted into certain GUIs.
@@ -18,6 +20,8 @@ The location linker is an item which is used to link blocks and mobs to location
 ##########
 Exp. Share
 ##########
+
+.. image:: ../_images/machines_items/exp_share.png
 
 This item will give additional exp to the |pokemob| holding it, so long as a |pokemob| with the same owner gains exp from battle. The |pokemob| holding the Exp. Share must be outside of its |pokecube|, and must not be set to ``Sitting``.
 
@@ -29,6 +33,8 @@ Note: Currently Exp. Shares have a tendency to break rarely on use, most often w
 Revive
 ######
 
+.. image:: ../_images/machines_items/revive.png
+
 Revives can be either bought in stores, or crafted by brewing oran berries into bottles of water. Revives have 2 methods of use:
 
 1.  Craft with the |pokecube| containing a fainted |pokemob|, this will revive it.
@@ -37,6 +43,8 @@ Revives can be either bought in stores, or crafted by brewing oran berries into 
 ###########
 Shiny Charm
 ###########
+
+.. image:: ../_images/machines_items/shiny_charm.png
 
 This item has 3 uses, only one of which is actually a good idea:
 
