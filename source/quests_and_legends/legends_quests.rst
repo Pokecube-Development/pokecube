@@ -83,36 +83,40 @@ Crafting recipe for a Dynamax Cube for 1.19.2 and older:
 
 * You can use any Pokecube to create the Dynamax Cube!
 
-**Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Master Cube for the recipe, it will work like a normal Pokecube!**
+**Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
 
 .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
    :alt: raid_info
 
-- Currently, the Dynamax Cube will become a common Pokecube, in the future it will be modified to return the Pokecube used in the recipe!
+* Currently, the Dynamax Cube will become a common Pokecube, in the future it will be modified to return the Pokecube used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Dynamax & Gigantamx:** 
-To use the unique moves, first you need to go to the Controls Menu and add a key in the |pokecube| section and then find the G/Z-Move.
-Once this is done, you need to be in an area that allows you to use Dynamax. **Raids** and some **gyms in towns** allow |pokemob|s to Dynamax.
-But if you want to create a spot outside these places, just craft the Dynamax Spot block. 
+1. Open the controls menu and add a key in the |pokecube| section.
+2. Find or craft the Dynamax Spot block.
+3. Find **Raid Spots** or **Gyms** in towns with a Dynamax Power Spot block.
 
 .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
    :alt: max_spot
 
-After everything is ready, just press the **-M-** button **(remember that you need to be equipped with a mega evolution item: hat, ring, etc)** and your |pokemob| becomes Dynamax.
-While your |pokemob| is in this form, press the previously configured key and the Moves will be changed to Dynamax Moves.
+After everything is ready, equip a mega evolution item, press the **`M`** button, and your |pokemob| will Dynamax or Gigantamx. /n
+While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
 
-**Z-Moves:** Z-Moves increase the strength of a specific move of your |pokemob|. To use it, you need to equip z-move in |pokemob| and it needs to have a move corresponding to z-crystal **(Z-Crystal Grass = Move Grass)**
-With that in mind, just click the configured key and the move will become the Z-Move, but **ATTENTION!** the move can only be executed once, to execute it multiple times you need to collect your |pokemob| and throw it back into battle.
-|Pokemob| exclusive Z-Crystals are integrated with base Z-Crytals, the difference is that the specific |pokemob| needs to have the specific Move to use the exclusive Z-Move.
+**Z-Moves:** 
+Z-Moves increase the strength of a specific move of your |pokemob|. 
+1. Equip your |pokemob| with a z-crystal corresponding to its move **(Grassium Z = Move Grass)**
+2. Press the configured key and the move will become the Z-Move, **but** the move can only be executed *once*.
+3. To execute it multiple times you need to collect your |pokemob| and throw it back into battle.
+4. |Pokemob| exclusive Z-Crystals are integrated with base Z-Crytals.
+5. The difference is that the specific |pokemob| needs to have the specific move to use the exclusive Z-Move.
 
-**An example:**
+**Example:**
 
-* Pikachu with Thunderwave, if you use electric Z-move, it will use Gigavolt Havoc
+* Pikachu with Thunderwave + Electric Z-Move = Gigavolt Havoc
 
-* Pikachu with Thunderbolt, if you use the electric Z-move, it will use 10,000,000 Volt Thunderbolt
+* Pikachu with Thunderbolt + Electric Z-Move = 10,000,000 Volt Thunderbolt
 
 Team's Hideout
 ~~~~~~~~~~~~~~
