@@ -71,12 +71,12 @@ To capture the |pokemob| of the raid we need two factors:
 .. image:: ../_images/legends_wiki/dynamax_ball.png
    :alt: raid_info
 
-Recipe for a Dynamax Cube for 1.20.1+:
+Smithing recipe for a Dynamax Cube for 1.20.1+:
 
-.. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
+.. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
    :alt: raid_info
 
-Recipe for a Dynamax Cube for 1.19.2 and older:
+Crafting recipe for a Dynamax Cube for 1.19.2 and older:
 
 .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
    :alt: raid_info
@@ -85,19 +85,18 @@ Recipe for a Dynamax Cube for 1.19.2 and older:
 
 **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Master Cube for the recipe, it will work like a normal Pokecube!**
 
-.. image:: ../_images/legends_wiki/dynamax_catch.png
-   :alt: raid_info
 .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
    :alt: raid_info
 
-> Currently, after capture, the Dynamax Cube will become a common Poke Cube, in the future it will be modified to return the Poke Cube used in the recipe!
+- Currently, the Dynamax Cube will become a common Pokecube, in the future it will be modified to return the Pokecube used in the recipe!
 
-Use (Dynamax/Gigantamx/Z-Move)
+Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Dyna/G-Moves:** To use the unique moves of these shapes, first you need to go to the Controls Menu and add a key in the |pokecube| area and then G/Z-Move.
-Once this is done, you need to be in an area that allows you to use Dynamax. **Raids** allow by default the use of Dynamax, as well as the **gyms in village**.
-But if you want to create a spot outside these places, just create the Max Spot block. 
+**Dynamax & Gigantamx:** 
+To use the unique moves, first you need to go to the Controls Menu and add a key in the |pokecube| section and then find the G/Z-Move.
+Once this is done, you need to be in an area that allows you to use Dynamax. **Raids** and some **gyms in towns** allow |pokemob|s to Dynamax.
+But if you want to create a spot outside these places, just craft the Dynamax Spot block. 
 
 .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
    :alt: max_spot
@@ -117,7 +116,7 @@ With that in mind, just click the configured key and the move will become the Z-
 
 Team's Hideout
 ~~~~~~~~~~~~~~
-The hideouts are structures based on the villain teams from the Pokémon games, in the mod you can find three secret bases: Rocket, Magma and Aqua.
+The hideouts are structures based on the villain teams from the Pokémon games, in the mod you can find three secret bases: Team Rocket, Team Magma, and Team Aqua.
 The structures differ in their subterranean base, but have a similar top, which makes the structure more versatile when generated in the world.
 
 The Bases only appear in the **Biome: Plain**
