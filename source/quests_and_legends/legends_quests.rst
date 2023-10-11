@@ -52,7 +52,7 @@ if the item disappears from your hand it means that it worked, otherwise, check 
 
 **Mints:** This item can change your |pokemob| Nature, just use it in the same way as the Gigant Shard.
 
-.. image:: ../_images/legends_wiki/items/adamantmint.png
+.. image:: ../_images/legends_wiki/items/mint.png
    :alt: raid_info
 
 **Z-Crystal:** are the items that grant the Z-Move.
