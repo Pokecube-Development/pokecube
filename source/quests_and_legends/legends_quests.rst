@@ -26,7 +26,7 @@ The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just fi
 .. image:: ../_images/legends_wiki/raid_structure.png
    :alt: raid_info
 
-**Raid Dynamax Pokémob**
+**Dynamax Pokémob from Raids**
 
 .. image:: ../_images/legends_wiki/raid_pokemob.png
    :alt: raid_info
@@ -36,31 +36,31 @@ The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just fi
 Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob|'s inventory.
 Items are random, mixing |pokemob| Loot Table with Raid items.
 
-Items
+Unique Items
 ~~~~~
 
-**Wishing Piece:** is the item you use to activate Raid. But don't worry, Raids are reactivated after a while if you don't get this item.
+**Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
 
 .. image:: ../_images/legends_wiki/items/wishing_piece.png
    :alt: raid_info
 
-**Gigant Shard:** is the item you use to get Gigantamax! To use it, choose a |pokemob| that has Gigantamax and click on it with the item in hand **!DO NOT PUT INTO THE INVENTORY!**,
-if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has gigantamax. (Capturing |pokemob| in gigantamax form doesn't need to use the item!)
+**Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and click on it with the item in hand **It does not go in the |pokemob|'s inventory**,
+if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. (Capturing a |pokemob| in their gigantamax form dont require the item!)
 
 .. image:: ../_images/legends_wiki/items/gigashard.png
    :alt: raid_info
 
-**Mints:** This item can change your |pokemob| Nature, just use it in the same way as the Gigant Shard.
+**Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
 
 .. image:: ../_images/legends_wiki/items/mint.png
    :alt: raid_info
 
-**Z-Crystal:** are the items that grant the Z-Move.
+**Z-Crystal:** Grants Z-Moves.
 
-.. image:: ../_images/legends_wiki/items/z_water.png
+.. image:: ../_images/legends_wiki/items/z_crystal.png
    :alt: raid_info
 
-Catch |Pokemob| Raid
+Catching |Pokemob|s from Raids
 ~~~~~~~~~~~~~~~~~~
 
 To capture the |pokemob| of the raid we need two factors:
@@ -71,14 +71,19 @@ To capture the |pokemob| of the raid we need two factors:
 .. image:: ../_images/legends_wiki/dynamax_ball.png
    :alt: raid_info
 
-Recipe for a Dynamax Cube:
+Recipe for a Dynamax Cube for 1.20.1+:
 
-.. image:: ../_images/legends_wiki/dynamax_ball_crafting.png
+.. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
+   :alt: raid_info
+
+Recipe for a Dynamax Cube for 1.19.2 and older:
+
+.. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
    :alt: raid_info
 
 * You can use any Pokecube to create the Dynamax Cube!
 
-**Be aware that Dynamax Cube doesn't use the capture chance of the Poke Cube you use in the Recipe, so if you use a Master Cube for the recipe, it will work like a normal Poke Cube!**
+**Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Master Cube for the recipe, it will work like a normal Pokecube!**
 
 .. image:: ../_images/legends_wiki/dynamax_catch.png
    :alt: raid_info
