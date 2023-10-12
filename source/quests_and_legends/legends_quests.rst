@@ -119,7 +119,7 @@ Z-Moves increase the strength of a specific move of your |pokemob|.
 * Pikachu with Thunderbolt ➕ Electric Z-Move 🟰 10,000,000 Volt Thunderbolt
 
 Team Hideouts
-~~~~~~~~~~~~~~
+==============
 The hideouts are structures based on the villain teams from the Pokémon games, in the mod you can find three secret bases: Team Rocket, Team Magma, and Team Aqua.
 The structures differ in their subterranean base, but have a similar top, which makes the structure more versatile when generated in the world.
 
@@ -189,36 +189,27 @@ The Aether Foundation, more than just an exploration structure, it is considered
 .. image:: ../_images/legends_wiki/aether_f_bossroom_1.png
    :alt: aether_foundation
 
-**Miscellaneous Blocks**
+**Blocks**
 ========================
-In addition to the structures, the Legends expansion adds some extra blocks to the mod, some are just aesthetic and some have unique functions!
+In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
-Totens Blocks
+Totem Blocks
 ~~~~~~~~~~~~~
 
-.. image:: ../_images/legends_wiki/totens_decoratives.png
+.. image:: ../_images/legends_wiki/totems_decorative.png
    :alt: totens_decoratives
 		
-The Totem Blocks are decorative blocks themed by the Tapus of Alola |pokemob|.
-Each totem has a special function, which can be activated by right-clicking and holding one of the list items:
+* The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
+* Each totem grants a special effect.
+* Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
+* Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
+* Dye your totems to use for building!
 
-.. image:: ../_images/legends_wiki/tapus_totems.png
-    :alt: totem_items
+.. image:: ../_images/legends_wiki/totem_color.png
+    :alt: totem_color
 
-[Diamond] - The list can be customized by Datapacks!
-
-Each totem gives the player a temporary effect and can be used anywhere:
-
-* Tapu Koko Totem [Speed Effect]
-
-* Tapu Bulu Totem [Resistance Effect]
-
-* Tapu Fini Totem [Health Boost Effect]
-
-* Tapu Lele Totem [Glowing Effect]
-
-Recipes:
-
+Totem Recipes:
+===========
 **Totem Block**
 
 .. image:: ../_images/legends_wiki/totem_block_recipe.png
@@ -243,11 +234,6 @@ Recipes:
 
 .. image:: ../_images/legends_wiki/koko_recipe.png
     :alt: koko_recipe
-	
-> use the dyes to have color variations for the totems.
-
-.. image:: ../_images/legends_wiki/totem_color.png
-    :alt: totem_color
 
 
 Mirage Spot
