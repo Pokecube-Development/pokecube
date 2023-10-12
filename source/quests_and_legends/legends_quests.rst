@@ -62,6 +62,22 @@ Totem Recipes:
 .. image:: ../_images/legends_wiki/tapu_lele_recipe.png
     :alt: lele_recipe
 
+.. card-carousel:: 2
+
+    .. card:: card 1
+        :img-background: ../_images/legends_wiki/golem_stone_recipe.png
+        :img-alt: golem_stone
+        :class-card: sd-text-black
+
+        Golem Stone
+
+    .. card:: card 2
+        :img-background: ../_images/legends_wiki/totem_block_recipe.png
+        :img-alt: golem_stone
+        :class-card: sd-text-black
+
+        Golem Stone
+
 
 Mirage Spot
 ~~~~~~~~~~~
