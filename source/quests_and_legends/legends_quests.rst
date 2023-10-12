@@ -37,6 +37,7 @@ Totem Recipes:
 
 .. image:: ../_images/legends_wiki/golem_stone_recipe.png
     :alt: totem_block
+
 **Totem Block**
 
 .. image:: ../_images/legends_wiki/totem_block_recipe.png
@@ -64,19 +65,29 @@ Totem Recipes:
 
 .. card-carousel:: 2
 
-    .. card:: card 1
-        :img-background: ../_images/legends_wiki/golem_stone_recipe.png
-        :img-alt: golem_stone
+    .. grid-item-card:: Golem Stone
+        :img-top: ../_images/legends_wiki/golem_stone_recipe.png
+        :img-alt: Golem Stone
         :class-card: sd-text-black
 
         Golem Stone
+        ^^^
 
-    .. card:: card 2
-        :img-background: ../_images/legends_wiki/totem_block_recipe.png
-        :img-alt: golem_stone
+    .. grid-item-card:: Totem Block
+        :img-top: ../_images/legends_wiki/totem_block_recipe.png
+        :img-alt: Totem Block
         :class-card: sd-text-black
 
-        Golem Stone
+        Recipe
+        +++
+
+    .. grid-item-card:: Tapu Bulu Totem
+        :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
+        :img-alt: Tapu Bulu Totem
+        :class-card: sd-text-black
+
+        Recipe
+        +++
 
 
 Mirage Spot
