@@ -12,6 +12,79 @@ On this page you will find information about the structures of the legends, thei
 
 About dimensions, there is an exclusive page for it, you can see it by clicking here: :ref:`legend_dimensions`
 
+**Blocks**
+===========
+In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
+
+Totem Blocks
+~~~~~~~~~~~~~
+
+.. image:: ../_images/legends_wiki/totems_decorative.png
+   :alt: totens_decoratives
+		
+* The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
+* Each totem grants a special effect.
+* Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
+* Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
+* Dye your totems to use for building!
+
+.. image:: ../_images/legends_wiki/totem_colors.png
+    :alt: totem_color
+
+Totem Recipes:
+~~~~~~~~~~~~~
+**Golem Stone**
+
+.. image:: ../_images/legends_wiki/golem_stone_recipe.png
+    :alt: totem_block
+**Totem Block**
+
+.. image:: ../_images/legends_wiki/totem_block_recipe.png
+    :alt: totem_block
+	
+**Tapu Bulu Totem**
+
+.. image:: ../_images/legends_wiki/tapu_bulu_recipe.png
+    :alt: bulu_recipe
+
+**Tapu Fini Totem**
+
+.. image:: ../_images/legends_wiki/tapu_fini_recipe.png
+    :alt: fini_recipe
+	
+**Tapu Koko Totem**
+
+.. image:: ../_images/legends_wiki/tapu_koko_recipe.png
+    :alt: koko_recipe
+	
+**Tapu Lele Totem**
+
+.. image:: ../_images/legends_wiki/tapu_lele_recipe.png
+    :alt: lele_recipe
+
+
+Mirage Spot
+~~~~~~~~~~~
+Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
+This block can spawn a random |pokemob| (except Legendary). You currently cannot get it in survival. But one way to get in touch with this block is to have a Hoopa. 
+
+**If you have a Hoopa, it must have Move: Hyperspace Hole and have LV: 40 or higher**
+
+**If your Hoopa meets the requirements you can generate a portal. Just use the move out of combat. The creation of the portal has a cooldown, so it cannot be spammed.**
+
+**If the block is placed in the creative, that is, without being created by Hoopa, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated**
+
+**[Remembering that all these options are customized in mod settings or by Datapacks]**
+
+.. image:: ../_images/legends_wiki/hoopa_portal_on.png
+    :alt: hoopa_portal
+
+.. image:: ../_images/legends_wiki/hoopa_portal_off.png
+    :alt: hoopa_portal
+
+.. image:: ../_images/legends_wiki/hoopa_create.png
+    :alt: hoopa_portal
+
 **Exploration Structures**
 ==========================
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
@@ -188,75 +261,6 @@ The Aether Foundation, more than just an exploration structure, it is considered
 * Find the Aether Foundation bosses, and battle them!
 .. image:: ../_images/legends_wiki/aether_f_bossroom_1.png
    :alt: aether_foundation
-
-**Blocks**
-========================
-In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
-
-Totem Blocks
-~~~~~~~~~~~~~
-
-.. image:: ../_images/legends_wiki/totems_decorative.png
-   :alt: totens_decoratives
-		
-* The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
-* Each totem grants a special effect.
-* Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
-* Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
-* Dye your totems to use for building!
-
-.. image:: ../_images/legends_wiki/totem_color.png
-    :alt: totem_color
-
-Totem Recipes:
-===========
-**Totem Block**
-
-.. image:: ../_images/legends_wiki/totem_block_recipe.png
-    :alt: totem_block
-
-**Totem Block (Tapu Fini)**
-
-.. image:: ../_images/legends_wiki/fini_recipe.png
-    :alt: fini_recipe
-	
-**Totem Block (Tapu Bulu)**
-
-.. image:: ../_images/legends_wiki/bulu_recipe.png
-    :alt: bulu_recipe
-	
-**Totem Block (Tapu Lele)**
-
-.. image:: ../_images/legends_wiki/lele_recipe.png
-    :alt: lele_recipe
-	
-**Totem Block (Tapu Fini)**
-
-.. image:: ../_images/legends_wiki/koko_recipe.png
-    :alt: koko_recipe
-
-
-Mirage Spot
-~~~~~~~~~~~
-Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-This block can spawn a random |pokemob| (except Legendary). You currently cannot get it in survival. But one way to get in touch with this block is to have a Hoopa. 
-
-**If you have a Hoopa, it must have Move: Hyperspace Hole and have LV: 40 or higher**
-
-**If your Hoopa meets the requirements you can generate a portal. Just use the move out of combat. The creation of the portal has a cooldown, so it cannot be spammed.**
-
-**If the block is placed in the creative, that is, without being created by Hoopa, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated**
-
-**[Remembering that all these options are customized in mod settings or by Datapacks]**
-
-.. image:: ../_images/legends_wiki/hoopa_portal_on.png
-    :alt: hoopa_portal
-
-.. image:: ../_images/legends_wiki/hoopa_portal_off.png
-    :alt: hoopa_portal
-
-.. image:: ../_images/legends_wiki/hoopa_create.png
-    :alt: hoopa_portal
 
 **Legendary Structures**
 ========================
@@ -595,7 +599,7 @@ In order to be able to summon the Regis you need to locate their temples. Each R
 
 For the base you will use the Golem Stone:
 
-.. image:: ../_images/legends_wiki/golem_block_recipe.png
+.. image:: ../_images/legends_wiki/golem_stone_recipe.png
     :alt: Golem Base Block
 
 And to the Top, you will use the Core Blocks:
