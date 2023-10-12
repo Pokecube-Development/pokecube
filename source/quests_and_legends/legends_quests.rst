@@ -66,15 +66,12 @@ Totem Recipes:
 Mirage Spot
 ~~~~~~~~~~~
 Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-This block can spawn a random |pokemob| (except Legendary). You currently cannot get it in survival. But one way to get in touch with this block is to have a Hoopa. 
+This block can spawn a random |pokemob| except Legendaries.
 
-**If you have a Hoopa, it must have Move: Hyperspace Hole and have LV: 40 or higher**
-
-**If your Hoopa meets the requirements you can generate a portal. Just use the move out of combat. The creation of the portal has a cooldown, so it cannot be spammed.**
-
-**If the block is placed in the creative, that is, without being created by Hoopa, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated**
-
-**[Remembering that all these options are customized in mod settings or by Datapacks]**
+* If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
+* Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
+* If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
+* This is customizable in **configs** or by **datapacks**.
 
 .. image:: ../_images/legends_wiki/hoopa_portal_on.png
     :alt: hoopa_portal
