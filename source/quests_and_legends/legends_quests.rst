@@ -114,36 +114,28 @@ Z-Moves increase the strength of a specific move of your |pokemob|.
 
 **Example:**
 
-* Pikachu with Thunderwave + Electric Z-Move = Gigavolt Havoc
+* Pikachu with Thunderwave ➕ Electric Z-Move 🟰 Gigavolt Havoc
 
-* Pikachu with Thunderbolt + Electric Z-Move = 10,000,000 Volt Thunderbolt
+* Pikachu with Thunderbolt ➕ Electric Z-Move 🟰 10,000,000 Volt Thunderbolt
 
-Team's Hideout
+Team Hideouts
 ~~~~~~~~~~~~~~
 The hideouts are structures based on the villain teams from the Pokémon games, in the mod you can find three secret bases: Team Rocket, Team Magma, and Team Aqua.
 The structures differ in their subterranean base, but have a similar top, which makes the structure more versatile when generated in the world.
 
-The Bases only appear in the **Biome: Plain**
+Team Rocket:
+~~~~~~~~~~~~~~
+Team Rocket Hideouts only appear in **Plains**.
 
-* Base Entrance:
-
-.. image:: ../_images/legends_wiki/team_magma_top.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_rocket_top_1.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_rocket_top_2.png
+.. image:: ../_images/legends_wiki/team_rocket_base.png
    :alt: teams_hideout
 
-* Team Rocket's base has a look reminiscent of the Red/Blue games; At the end of the structure, you can battle Giovanni.
+* Team Rocket's base has a look reminiscent of the Red/Blue games.
 
-.. image:: ../_images/legends_wiki/team_rocket_room_a.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_rocket_room_b.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_rocket_room_c.png
-   :alt: teams_hideout
 .. image:: ../_images/legends_wiki/team_rocket_giovanni.png
    :alt: teams_hideout
+
+* Find Giovanni, and battle him!
 
 * The Team Magma base looks similar to the Team Rocket base, but with alternate paths, you can battle Maxie.
 
