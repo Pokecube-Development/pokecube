@@ -125,39 +125,46 @@ The structures differ in their subterranean base, but have a similar top, which 
 
 Team Rocket:
 ~~~~~~~~~~~~~~
-Team Rocket Hideouts only appear in **Plains**.
+* Team Rocket Hideouts only appears in **Plains**.
+* Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
+
+.. image:: ../_images/legends_wiki/team_rocket_base_2.png
+   :alt: teams_hideout
 
 .. image:: ../_images/legends_wiki/team_rocket_base.png
    :alt: teams_hideout
 
-* Team Rocket's base has a look reminiscent of the Red/Blue games.
+* Find Giovanni, and battle him!
 
 .. image:: ../_images/legends_wiki/team_rocket_giovanni.png
    :alt: teams_hideout
 
-* Find Giovanni, and battle him!
+Team Magma:
+~~~~~~~~~~~~~~
+* The Team Magma's Hideout only appears in **Deserts** or **Badlands**.
 
-* The Team Magma base looks similar to the Team Rocket base, but with alternate paths, you can battle Maxie.
+.. image:: ../_images/legends_wiki/team_magma_base.png
+   :alt: teams_hideout
 
-.. image:: ../_images/legends_wiki/team_magma_room_1.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_magma_room_2.png
-   :alt: teams_hideout
+* Find Maxie, and battle him!
 .. image:: ../_images/legends_wiki/team_magma_boss_room.png
    :alt: teams_hideout
 
-* The Team Aqua base looks similar to the Team Rocket base, but with alternate paths, you can battle Archie.
+Team Aqua:
+~~~~~~~~~~~~~~
+* Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
 
-.. image:: ../_images/legends_wiki/team_magma_room_1.png
+.. image:: ../_images/legends_wiki/team_aqua_base.png
    :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_magma_room_2.png
-   :alt: teams_hideout
-.. image:: ../_images/legends_wiki/team_magma_boss_room.png
+
+* Find Archie, and battle him!
+
+.. image:: ../_images/legends_wiki/team_aqua_boss_room.png
    :alt: teams_hideout
 
 Elite Four
 ~~~~~~~~~~
-Yes, there is an elite four. But in this case, it's much more complicated to beat her! The structure has four trainers, which are rotated when the structure is generated, so you will always have different trainers when you find the building. Trainers sell strong items, but they also have strong |pokemob|, so be warned!
+Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat her! The structure has four trainers, which are rotated when the structure is generated, so you will always have different trainers when you find the building. Trainers sell strong items, but they also have strong |pokemob|, so be warned!
 The structure appears in all biomes, except Oceans and Beaches.
 
 .. image:: ../_images/legends_wiki/elite_four.png
