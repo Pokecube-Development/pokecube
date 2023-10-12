@@ -63,5 +63,5 @@ html_static_path = ['_static']
 html_style = 'red.css'
 
 html_css_files = [
-    'red.css',
+    'red.css'
 ]
