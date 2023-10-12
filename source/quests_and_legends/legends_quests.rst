@@ -164,37 +164,28 @@ Team Aqua:
 
 Elite Four
 ~~~~~~~~~~
-Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat her! The structure has four trainers, which are rotated when the structure is generated, so you will always have different trainers when you find the building. Trainers sell strong items, but they also have strong |pokemob|, so be warned!
-The structure appears in all biomes, except Oceans and Beaches.
+Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat her! 
+
+* The structure has four trainers, which are randomized when the structure is generated. 
+* Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
+* The structure appears in **all** biomes, except Oceans and Beaches.
 
 .. image:: ../_images/legends_wiki/elite_four.png
-   :alt: elite_four
-.. image:: ../_images/legends_wiki/elite_four_room_1.png
-   :alt: elite_four
-.. image:: ../_images/legends_wiki/elite_four_room_top.png
    :alt: elite_four
 
 .. _aether_foundation:
 
 Aether Foundation
 ~~~~~~~~~~~~~~~~~
-The Aether Foundation has more than the function of an exploration structure, you can live in the structure, as it is considered a "Village",
-you can battle and buy important items with Organization bosses.
+The Aether Foundation, more than just an exploration structure, it is considered a Village.
 
-The structure appears in Biome: Warm Ocean.
+* Buy important items from Aether Foundation bosses.
+* The structure appears in **Warm Oceans**.
 
 .. image:: ../_images/legends_wiki/aether_foundation.png
    :alt: aether_foundation
-.. image:: ../_images/legends_wiki/aether_f_merchant.png
-   :alt: aether_foundation
-.. image:: ../_images/legends_wiki/aether_f_mainroom.png
-   :alt: aether_foundation
-.. image:: ../_images/legends_wiki/aether_f_labroom.png
-   :alt: aether_foundation
-.. image:: ../_images/legends_wiki/aether_f_extraroom.png
-   :alt: aether_foundation
-.. image:: ../_images/legends_wiki/aether_f_underwater_room.png
-   :alt: aether_foundation
+   
+* Find the Aether Foundation bosses, and battle them!
 .. image:: ../_images/legends_wiki/aether_f_bossroom_1.png
    :alt: aether_foundation
 
