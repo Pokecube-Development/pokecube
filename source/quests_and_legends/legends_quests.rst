@@ -103,17 +103,17 @@ The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just fi
 **Raid Structures**
 
 .. image:: ../_images/legends_wiki/raid_structure.png
-   :alt: raid_info
+   :alt: Raid Structure
 
 **Dynamax Pokémob from Raids**
 
 .. image:: ../_images/legends_wiki/raid_pokemob.png
-   :alt: raid_info
+   :alt: Dynamax Pokémob from Raids
 
-* Information (Mechanics/Items/Moves)
+**Information (Mechanics/Items/Moves)**
 
-Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
-Items are random, mixing |pokemob| Loot Table with Raid items.
+Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
+Items are random, mixing |pokemob| drops with Raid items.
 
 Unique Items
 ~~~~~~~~~~~~~
@@ -149,39 +149,37 @@ Capturing |Pokemobs| from Raids
 
 .. dropdown:: Capturing |Pokemobs|
     :animate: fade-in-slide-down
-    :icon: dot
 
     To capture the |pokemob| of the raid we need two factors:
-    :raw-html: `<br />`
 
-    1. The |pokemob| needs to be extremely low on health.
-    2. You need to use the Dynamax Cube to capture.
+    🔸 The |pokemob| needs to be extremely low on health.
+    🔸 You need to use the Dynamax Cube to capture.
 
     .. image:: ../_images/legends_wiki/dynamax_ball.png
         :alt: Dynamax Cube
 
-    :raw-html: `<br />`
+
 
     .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
         :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
-    :raw-html: `<br />`
+
 
     Smithing recipe for a Dynamax Cube for 1.20.1+
 
     .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
         :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-    :raw-html:`<br />`
+
     Crafting recipe for a Dynamax Cube for 1.19.2 and older
 
     .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
         :alt: Dynamax Cube converts to regular |pokecube|
 
-    :raw-html: `<br />`
-    :octicon: `dot-fill;red-dot` You can use any Pokecube to create the Dynamax Cube!
-    :octicon: `dot-fill;red-dot`  **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
-    :octicon: `dot-fill;red-dot`  Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
+
+    🔸 You can use any Pokecube to create the Dynamax Cube!
+    🔸 **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
+    🔸 Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
