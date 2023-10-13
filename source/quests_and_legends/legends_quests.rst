@@ -64,8 +64,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
     * The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
     * Each totem grants a special effect.
-    * Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
-    * Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
+    * Activate by right-clicking while holding anything tagged as ``forge:gems/diamond``.
+    * Customize this by changing the item tag ``pokecube_legends:totem_fuel`` using a datapack.
     * Dye your totems to use for building!
 
     .. carousel::
