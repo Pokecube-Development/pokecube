@@ -32,39 +32,38 @@ Totem Blocks
     :alt: totem_color
 
 Totem Recipes:
-~~~~~~~~~~~~~
-.. card-carousel:: 1
+~~~~~~~~~~~~~~~
 
-    .. grid-item-card:: Golem Stone
-        :img-top: ../_images/legends_wiki/golem_stone_recipe.png
-        :img-alt: Golem Stone
-        :text-align: center
-
-    .. grid-item-card:: Totem Block
-        :img-top: ../_images/legends_wiki/totem_block_recipe.png
-        :img-alt: Totem Block
-        :text-align: center
-
-    .. grid-item-card:: Tapu Bulu Totem
-        :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
-        :img-alt: Tapu Bulu Totem
-        :text-align: center
-
-    .. grid-item-card:: Tapu Fini Totem
-        :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
-        :img-alt: Tapu Fini Totem
-        :text-align: center
-
-    .. grid-item-card:: Tapu Koko Totem
-        :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
-        :img-alt: Tapu Koko Totem
-        :text-align: center
-
-    .. grid-item-card:: Tapu Lele Totem
-        :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
-        :img-alt: Tapu Lele Totem
-        :text-align: center
-
+.. dropdown:: Recipes
+    .. card-carousel:: 1
+        .. grid-item::
+            :margin: auto
+            .. grid-item-card:: Golem Stone
+                :img-top: ../_images/legends_wiki/golem_stone_recipe.png
+                :img-alt: Golem Stone
+                :text-align: center
+            .. grid-item-card:: Totem Block
+                :img-top: ../_images/legends_wiki/totem_block_recipe.png
+                :img-alt: Totem Block
+                :text-align: center
+            .. grid-item-card:: Tapu Bulu Totem
+                :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
+                :img-alt: Tapu Bulu Totem
+                :text-align: center
+            .. grid-item-card:: Tapu Fini Totem
+                :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
+                :img-alt: Tapu Fini Totem
+                :text-align: center
+            .. grid-item-card:: Tapu Koko Totem
+                :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
+                :img-alt: Tapu Koko Totem
+                :text-align: center
+            .. grid-item-card:: Tapu Lele Totem
+                :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
+                :img-alt: Tapu Lele Totem
+                :text-align: center
+    :animate: fade-in-slide-down
+    
 
 Mirage Spot
 ~~~~~~~~~~~
