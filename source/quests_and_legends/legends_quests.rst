@@ -56,17 +56,19 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
     * Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
     * Dye your totems to use for building!
 
-    .. grid:: 2
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-        .. grid-item-card:: Totem Tower
-            :img-bottom: ../_images/legends_wiki/totems_decorative.png
-            :img-alt: Totem Tower
-            :text-align: center
+        .. figure:: ../_images/legends_wiki/totems_decorative.png
 
-        .. grid-item-card:: Totem Color Variants
-            :img-bottom: ../_images/legends_wiki/totem_colors.png
-            :img-alt: Totem Color Variants
-            :text-align: center
+            Totem Tower
+
+        .. figure:: 
+        
+            Totem Color Variants
 
     .. dropdown:: Recipes
         :animate: fade-in-slide-down
