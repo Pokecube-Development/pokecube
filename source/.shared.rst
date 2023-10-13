@@ -17,5 +17,7 @@
 
 .. |pokemob's| replace:: pokémob's
 
+.. |**pokemob's**| replace:: **pokémob's**
+
 .. |Pokemob's| replace:: Pokémob's
 
