@@ -33,36 +33,6 @@ Totem Blocks
 
 Totem Recipes:
 ~~~~~~~~~~~~~
-**Golem Stone**
-
-.. image:: ../_images/legends_wiki/golem_stone_recipe.png
-    :alt: totem_block
-
-**Totem Block**
-
-.. image:: ../_images/legends_wiki/totem_block_recipe.png
-    :alt: totem_block
-	
-**Tapu Bulu Totem**
-
-.. image:: ../_images/legends_wiki/tapu_bulu_recipe.png
-    :alt: bulu_recipe
-
-**Tapu Fini Totem**
-
-.. image:: ../_images/legends_wiki/tapu_fini_recipe.png
-    :alt: fini_recipe
-	
-**Tapu Koko Totem**
-
-.. image:: ../_images/legends_wiki/tapu_koko_recipe.png
-    :alt: koko_recipe
-	
-**Tapu Lele Totem**
-
-.. image:: ../_images/legends_wiki/tapu_lele_recipe.png
-    :alt: lele_recipe
-
 .. card-carousel:: 1
 
     .. grid-item-card:: Golem Stone
@@ -78,6 +48,21 @@ Totem Recipes:
     .. grid-item-card:: Tapu Bulu Totem
         :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
         :img-alt: Tapu Bulu Totem
+        :text-align: center
+
+    .. grid-item-card:: Tapu Fini Totem
+        :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
+        :img-alt: Tapu Fini Totem
+        :text-align: center
+
+    .. grid-item-card:: Tapu Koko Totem
+        :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
+        :img-alt: Tapu Koko Totem
+        :text-align: center
+
+    .. grid-item-card:: Tapu Lele Totem
+        :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
+        :img-alt: Tapu Lele Totem
         :text-align: center
 
 
