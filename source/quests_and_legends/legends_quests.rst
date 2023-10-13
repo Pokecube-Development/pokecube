@@ -139,71 +139,71 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
 Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
 
-Raids!
-~~~~~~
-The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just find the Raid Spots and start the battle!
+.. dropdown:: Raids!
+    
+    Raids are here, and you can get a stronger |pokemob| and Gigantamax it! Just find the Raid Spots and start the battle!
 
-**Raid Structures**
+    - Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
+    - Items are random, mixing |pokemob| drops with Raid items.
 
-.. image:: ../_images/legends_wiki/raid_structure.png
-   :alt: Raid Structure
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-**Dynamax Pokémob from Raids**
+        .. figure:: ../_images/legends_wiki/raid_structure.png
 
-.. image:: ../_images/legends_wiki/raid_pokemob.png
-   :alt: Dynamax Pokémob from Raids
+            Raid Structures
 
-**Information (Mechanics/Items/Moves)**
+        .. figure:: ../_images/legends_wiki/raid_pokemob.png
+            
+            Dynamax |Pokemob| from Raids
 
-Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
-Items are random, mixing |pokemob| drops with Raid items.
 
-Capturing |Pokemobs| from Raids
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    .. dropdown:: Capturing |Pokemobs| from Raids
+        :animate: fade-in-slide-down
 
-.. dropdown:: Capturing |Pokemobs|
-    :animate: fade-in-slide-down
+        .. grid:: 1
 
-    .. grid:: 1
+            .. grid-item-card::  Capturing
 
-        .. grid-item-card::  Capturing
+                To capture the |pokemob| of the raid we need two factors:
 
-            To capture the |pokemob| of the raid we need two factors:
+                - You need to use the Dynamax Cube to capture.
+                - The |pokemob| needs to be extremely low on health.
 
-            - You need to use the Dynamax Cube to capture.
-            - The |pokemob| needs to be extremely low on health.
+                .. image:: ../_images/legends_wiki/dynamax_ball.png
+                    :alt: Dynamax Cube
 
-            .. image:: ../_images/legends_wiki/dynamax_ball.png
-                :alt: Dynamax Cube
+        .. grid:: 1
 
-    .. grid:: 1
+            .. grid-item-card::  Smithing Recipe
 
-        .. grid-item-card::  Smithing Recipe
+                .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
+                    :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
-            .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
-                :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
+                1.20.1+
 
-            1.20.1+
+        .. grid:: 1
 
-    .. grid:: 1
+            .. grid-item-card::  Crafting Recipe
 
-        .. grid-item-card::  Crafting Recipe
+                .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
+                    :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-            .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
-                :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
+                1.19.2 and older
 
-            1.19.2 and older
+        .. grid:: 1
 
-    .. grid:: 1
+            .. grid-item-card::  Dynamax Cube
 
-        .. grid-item-card::  Dynamax Cube
+                .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
+                    :alt: Dynamax Cube converts to regular |pokecube|
 
-            .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
-                :alt: Dynamax Cube converts to regular |pokecube|
-
-            - You can use any Pokecube to create the Dynamax Cube!
-            - **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
-            - Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
+                - You can use any Pokecube to create the Dynamax Cube!
+                - **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
+                - Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
