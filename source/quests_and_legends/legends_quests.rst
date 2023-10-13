@@ -70,24 +70,15 @@ Totem Recipes:
         :img-alt: Golem Stone
         :class-card: sd-text-black
 
-        Golem Stone
-        ^^^
-
     .. grid-item-card:: Totem Block
         :img-top: ../_images/legends_wiki/totem_block_recipe.png
         :img-alt: Totem Block
         :class-card: sd-text-black
 
-        Recipe
-        +++
-
     .. grid-item-card:: Tapu Bulu Totem
         :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
         :img-alt: Tapu Bulu Totem
         :class-card: sd-text-black
-
-        Recipe
-        +++
 
 
 Mirage Spot
