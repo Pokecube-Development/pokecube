@@ -62,48 +62,48 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             :img-bottom: ../_images/legends_wiki/totems_decorative.png
             :img-alt: Totem Tower
             :text-align: center
-            :width: 50%
 
         .. grid-item-card:: Totem Color Variants
             :img-bottom: ../_images/legends_wiki/totem_colors.png
             :img-alt: Totem Color Variants
             :text-align: center
-            :width: 50%
 
     .. dropdown:: Recipes
         :animate: fade-in-slide-down
 
-        .. grid:: 3
-            
-            .. grid-item-card:: Golem Stone
-                :img-top: ../_images/legends_wiki/golem_stone_recipe.png
-                :img-alt: Golem Stone
-                :text-align: center
+        .. card-carousel:: 2
 
-            .. grid-item-card:: Totem Block
-                :img-top: ../_images/legends_wiki/totem_block_recipe.png
-                :img-alt: Totem Block
-                :text-align: center
+            .. grid:: 3
+                
+                .. grid-item-card:: Golem Stone
+                    :img-top: ../_images/legends_wiki/golem_stone_recipe.png
+                    :img-alt: Golem Stone
+                    :text-align: center
 
-            .. grid-item-card:: Tapu Bulu Totem
-                :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
-                :img-alt: Tapu Bulu Totem
-                :text-align: center
+                .. grid-item-card:: Totem Block
+                    :img-top: ../_images/legends_wiki/totem_block_recipe.png
+                    :img-alt: Totem Block
+                    :text-align: center
 
-            .. grid-item-card:: Tapu Fini Totem
-                :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
-                :img-alt: Tapu Fini Totem
-                :text-align: center
+                .. grid-item-card:: Tapu Bulu Totem
+                    :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
+                    :img-alt: Tapu Bulu Totem
+                    :text-align: center
 
-            .. grid-item-card:: Tapu Koko Totem
-                :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
-                :img-alt: Tapu Koko Totem
-                :text-align: center
+                .. grid-item-card:: Tapu Fini Totem
+                    :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
+                    :img-alt: Tapu Fini Totem
+                    :text-align: center
 
-            .. grid-item-card:: Tapu Lele Totem
-                :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
-                :img-alt: Tapu Lele Totem
-                :text-align: center
+                .. grid-item-card:: Tapu Koko Totem
+                    :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
+                    :img-alt: Tapu Koko Totem
+                    :text-align: center
+
+                .. grid-item-card:: Tapu Lele Totem
+                    :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
+                    :img-alt: Tapu Lele Totem
+                    :text-align: center
     
 .. dropdown:: Mirage Spots
     :animate: fade-in-slide-down
@@ -116,14 +116,23 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
     * If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
     * This is customizable in **configs** or by **datapacks**.
 
-    .. image:: ../_images/legends_wiki/hoopa_portal_on.png
-        :alt: hoopa_portal
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-    .. image:: ../_images/legends_wiki/hoopa_portal_off.png
-        :alt: hoopa_portal
+        .. figure:: ../_images/legends_wiki/hoopa_portal_on.png
 
-    .. image:: ../_images/legends_wiki/hoopa_create.png
-        :alt: hoopa_portal
+            Hoopa Portal
+
+        .. figure:: ../_images/legends_wiki/hoopa_portal_off.png
+
+            Hoopa Portal when Open
+
+        .. figure:: ../_images/legends_wiki/hoopa_create.png
+
+            Hoopa creating a Portal
 
 **Exploration Structures**
 ==========================
@@ -154,7 +163,6 @@ Capturing |Pokemobs| from Raids
 
 .. dropdown:: Capturing |Pokemobs|
     :animate: fade-in-slide-down
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     .. grid:: 1
 
