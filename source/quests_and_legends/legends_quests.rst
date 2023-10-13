@@ -69,7 +69,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         .. figure:: ../_images/legends_wiki/totem_colors.png
         
             Totem Color Variants
-:raw-html:`<br />`
+    :raw-html:`<br />`
 
     .. dropdown:: Recipes
         :animate: fade-in-slide-down
