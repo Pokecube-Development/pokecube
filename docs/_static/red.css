@@ -37,14 +37,14 @@
      white-space: nowrap;
  }
 
- .wy-side-nav-search .wy-dropdown>a, .wy-side-nav-search>a {
-    color: #fcfcfc;
-}
- 
- a {
+ a.icon.icon-home, a.fa.fa-github {
      color: #ad2c1d;
  }
- 
+
+ .wy-side-nav-search .wy-dropdown>a, .wy-side-nav-search>a {
+    color: #fcfcfc;
+ }
+
  /* -- button formatting ------------------------------------------------------ */
  .red-dot {
     color: #ad2c1d;
