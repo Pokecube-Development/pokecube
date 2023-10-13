@@ -61,8 +61,5 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_css_files = [
-    'red.css',
-    'sphinx_rtd_theme.css',
-    'default.css',
-    'css/theme.css'
+    'red.css'
 ]
