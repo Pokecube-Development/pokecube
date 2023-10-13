@@ -25,35 +25,41 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Wishing Piece
 
-            .. image:: ../_images/legends_wiki/items/wishing_piece.png
-                :alt: Wishing Piece
-
             - Activates raids. 
             - Raids reactivate if you don't receive this item.
 
-        .. grid-item-card:: Gigant Shard
+            .. image:: ../_images/legends_wiki/items/wishing_piece.png
+                :alt: Wishing Piece
 
-            .. image:: ../_images/legends_wiki/items/gigashard.png
-                :alt: Gigant Shard
+    .. grid:: 1
+
+        .. grid-item-card:: Gigant Shard
 
             - Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
             - **It does not go in the** |**pokemob's**| **inventory!** :raw-html:`<br />`
             - If the item disappears from your hand means that it is working, otherwise, check if the chosen |pokemob| has the Gigantamax ability. :raw-html:`<br />`
             - Capturing a |pokemob| in their Gigantamax form does not require the item!
 
+            .. image:: ../_images/legends_wiki/items/gigashard.png
+                :alt: Gigant Shard
+
+    .. grid:: 1
+
         .. grid-item-card:: Z-Crystals
+
+            - Grants Z-Moves.
 
             .. image:: ../_images/legends_wiki/items/z_electric.png
                 :alt: Electric Z-Crystal
 
-            - Grants Z-Moves.
+    .. grid:: 1
 
         .. grid-item-card:: Mints
 
+            - Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
+
             .. image:: ../_images/legends_wiki/items/mint.png
                 :alt: Mints
-
-            - Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
 
 **Blocks**
 ~~~~~~~~~~~~~
