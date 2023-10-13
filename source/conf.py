@@ -64,5 +64,6 @@ html_style = 'default'
 
 html_css_files = [
     'default.css',
+    'css/theme.css',
     'red.css'
 ]
