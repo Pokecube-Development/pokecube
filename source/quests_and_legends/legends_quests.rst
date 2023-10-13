@@ -14,111 +14,10 @@ On this page you will find information about the structures of the legends, thei
 
 About dimensions, there is an exclusive page for it, you can see it by clicking here: :ref:`legend_dimensions`
 
-**Blocks**
-===========
-In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
-
-Totem Blocks
+Items
 ~~~~~~~~~~~~~
 
-.. image:: ../_images/legends_wiki/totems_decorative.png
-   :alt: totens_decoratives
-		
-* The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
-* Each totem grants a special effect.
-* Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
-* Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
-* Dye your totems to use for building!
-
-.. image:: ../_images/legends_wiki/totem_colors.png
-    :alt: totem_color
-
-Totem Recipes:
-~~~~~~~~~~~~~~~
-
-.. dropdown:: Recipes
-    :animate: fade-in-slide-down
-
-    .. card-carousel:: 6
-        
-        .. grid-item-card:: Golem Stone
-            :img-top: ../_images/legends_wiki/golem_stone_recipe.png
-            :img-alt: Golem Stone
-            :text-align: center
-
-        .. grid-item-card:: Totem Block
-            :img-top: ../_images/legends_wiki/totem_block_recipe.png
-            :img-alt: Totem Block
-            :text-align: center
-
-        .. grid-item-card:: Tapu Bulu Totem
-            :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
-            :img-alt: Tapu Bulu Totem
-            :text-align: center
-
-        .. grid-item-card:: Tapu Fini Totem
-            :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
-            :img-alt: Tapu Fini Totem
-            :text-align: center
-
-        .. grid-item-card:: Tapu Koko Totem
-            :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
-            :img-alt: Tapu Koko Totem
-            :text-align: center
-
-        .. grid-item-card:: Tapu Lele Totem
-            :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
-            :img-alt: Tapu Lele Totem
-            :text-align: center
-    
-
-Mirage Spot
-~~~~~~~~~~~
-Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-This block can spawn a random |pokemob| except Legendaries.
-
-* If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
-* Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
-* If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
-* This is customizable in **configs** or by **datapacks**.
-
-.. image:: ../_images/legends_wiki/hoopa_portal_on.png
-    :alt: hoopa_portal
-
-.. image:: ../_images/legends_wiki/hoopa_portal_off.png
-    :alt: hoopa_portal
-
-.. image:: ../_images/legends_wiki/hoopa_create.png
-    :alt: hoopa_portal
-
-**Exploration Structures**
-==========================
-In this expansion, several structures were added, and in this part we'll look at exploration structures.
-Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
-
-Raids!
-~~~~~~
-The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just find the Raid Spots and start the battle!
-
-**Raid Structures**
-
-.. image:: ../_images/legends_wiki/raid_structure.png
-   :alt: Raid Structure
-
-**Dynamax Pokémob from Raids**
-
-.. image:: ../_images/legends_wiki/raid_pokemob.png
-   :alt: Dynamax Pokémob from Raids
-
-**Information (Mechanics/Items/Moves)**
-
-Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
-Items are random, mixing |pokemob| drops with Raid items.
-
-Unique Items
-~~~~~~~~~~~~~
-
-.. dropdown:: Items
+.. dropdown:: Unique Items
     :animate: fade-in-slide-down
 
     .. image:: ../_images/legends_wiki/items/wishing_piece.png
@@ -144,11 +43,118 @@ Unique Items
 
     **Z-Crystal:** Grants Z-Moves.
 
+**Blocks**
+===========
+In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
+
+.. dropdown:: Totem Blocks
+    :animate: fade-in-slide-down
+            
+    * The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
+    * Each totem grants a special effect.
+    * Activate by right-clicking while holding anything tagged as **forge:gems/diamond**.
+    * Customize this by changing the item tag **pokecube_legends:totem_fuel** using a datapack.
+    * Dye your totems to use for building!
+
+    .. grid:: 2
+
+        .. grid-item-card:: Totem Tower
+            :img-bottom: ../_images/legends_wiki/totems_decorative.png
+            :img-alt: Totem Tower
+            :text-align: center
+            :width: 50%
+
+        .. grid-item-card:: Totem Color Variants
+            :img-bottom: ../_images/legends_wiki/totem_colors.png
+            :img-alt: Totem Color Variants
+            :text-align: center
+            :width: 50%
+
+    .. dropdown:: Recipes
+        :animate: fade-in-slide-down
+
+        .. grid:: 3
+            
+            .. grid-item-card:: Golem Stone
+                :img-top: ../_images/legends_wiki/golem_stone_recipe.png
+                :img-alt: Golem Stone
+                :text-align: center
+
+            .. grid-item-card:: Totem Block
+                :img-top: ../_images/legends_wiki/totem_block_recipe.png
+                :img-alt: Totem Block
+                :text-align: center
+
+            .. grid-item-card:: Tapu Bulu Totem
+                :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
+                :img-alt: Tapu Bulu Totem
+                :text-align: center
+
+            .. grid-item-card:: Tapu Fini Totem
+                :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
+                :img-alt: Tapu Fini Totem
+                :text-align: center
+
+            .. grid-item-card:: Tapu Koko Totem
+                :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
+                :img-alt: Tapu Koko Totem
+                :text-align: center
+
+            .. grid-item-card:: Tapu Lele Totem
+                :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
+                :img-alt: Tapu Lele Totem
+                :text-align: center
+    
+.. dropdown:: Mirage Spots
+    :animate: fade-in-slide-down
+
+    Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
+    This block can spawn a random |pokemob| except Legendaries.
+
+    * If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
+    * Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
+    * If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
+    * This is customizable in **configs** or by **datapacks**.
+
+    .. image:: ../_images/legends_wiki/hoopa_portal_on.png
+        :alt: hoopa_portal
+
+    .. image:: ../_images/legends_wiki/hoopa_portal_off.png
+        :alt: hoopa_portal
+
+    .. image:: ../_images/legends_wiki/hoopa_create.png
+        :alt: hoopa_portal
+
+**Exploration Structures**
+==========================
+In this expansion, several structures were added, and in this part we'll look at exploration structures.
+Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
+
+Raids!
+~~~~~~
+The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just find the Raid Spots and start the battle!
+
+**Raid Structures**
+
+.. image:: ../_images/legends_wiki/raid_structure.png
+   :alt: Raid Structure
+
+**Dynamax Pokémob from Raids**
+
+.. image:: ../_images/legends_wiki/raid_pokemob.png
+   :alt: Dynamax Pokémob from Raids
+
+**Information (Mechanics/Items/Moves)**
+
+Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
+Items are random, mixing |pokemob| drops with Raid items.
+
 Capturing |Pokemobs| from Raids
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. dropdown:: Capturing |Pokemobs|
     :animate: fade-in-slide-down
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     .. grid:: 1
 
@@ -156,13 +162,8 @@ Capturing |Pokemobs| from Raids
 
             To capture the |pokemob| of the raid we need two factors:
 
-            🔸 The |pokemob| needs to be extremely low on health.
-
-            .. hlist:: 
-                :columns: 1
-
-                * 🔸 You need to use the Dynamax Cube to capture.
-                * 🔸 The |pokemob| needs to be extremely low on health.
+            - You need to use the Dynamax Cube to capture.
+            - The |pokemob| needs to be extremely low on health.
 
             .. image:: ../_images/legends_wiki/dynamax_ball.png
                 :alt: Dynamax Cube
@@ -174,7 +175,7 @@ Capturing |Pokemobs| from Raids
             .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
                 :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
-            Smithing recipe for a Dynamax Cube for 1.20.1+
+            1.20.1+
 
     .. grid:: 1
 
@@ -183,8 +184,7 @@ Capturing |Pokemobs| from Raids
             .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
                 :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-
-            Crafting recipe for a Dynamax Cube for 1.19.2 and older
+            1.19.2 and older
 
     .. grid:: 1
 
@@ -192,7 +192,6 @@ Capturing |Pokemobs| from Raids
 
             .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
                 :alt: Dynamax Cube converts to regular |pokecube|
-
 
             - You can use any Pokecube to create the Dynamax Cube!
             - **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
