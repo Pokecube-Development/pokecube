@@ -119,26 +119,28 @@ Unique Items
 .. dropdown:: Items
     :animate: fade-in-slide-down
 
-    **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
-
     .. image:: ../_images/legends_wiki/items/wishing_piece.png
         :alt: Wishing Piece
 
-    **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and click on it with the item in hand **It does not go in the |pokemob|'s inventory**,
-    if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. (Capturing a |pokemob| in their gigantamax form dont require the item!)
+    **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
 
     .. image:: ../_images/legends_wiki/items/gigashard.png
         :alt: Gigant Shard
 
-    **Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
+    **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
+    **It does not go in the |pokemob|'s inventory!**
+    If the item disappears from your hand means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. 
+    Capturing a |pokemob| in their gigantamax form does not require the item!
 
     .. image:: ../_images/legends_wiki/items/mint.png
         :alt: Mints
 
-    **Z-Crystal:** Grants Z-Moves.
+    **Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
 
     .. image:: ../_images/legends_wiki/items/z_electric.png
         :alt: Electric Z-Crystal
+
+    **Z-Crystal:** Grants Z-Moves.
 
 Catching |Pokemobs| from Raids
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
