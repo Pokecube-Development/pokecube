@@ -63,6 +63,5 @@ html_static_path = ['_static']
 html_style = 'default'
 
 html_css_files = [
-    'css/theme.css',
     'red.css'
 ]
