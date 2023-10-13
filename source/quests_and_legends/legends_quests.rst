@@ -37,7 +37,7 @@ Totem Recipes:
 .. dropdown:: Recipes
     :animate: fade-in-slide-down
 
-    .. card-carousel:: 1
+    .. card-carousel:: 6
 
         .. grid-item-card:: Golem Stone
             :img-top: ../_images/legends_wiki/golem_stone_recipe.png
