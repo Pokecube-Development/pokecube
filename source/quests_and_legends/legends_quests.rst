@@ -8,11 +8,11 @@ Legends and Quests
 
 **Introduction**
 ================
-The |Pokecube| has bases that complement each other, Legends is one of those bases.
-|Pokecube| Legends is the part that manages structures/dimensions and how legendary |pokemob| behave, both in spawn and capture.
-On this page you will find information about the structures of the legends, their spawn forms, decorative blocks, exclusive blocks of legends and extra information. 
+The |Pokecube| has modules that complement each other, Legends is one of those modules. :raw-html:`<br />`
+|Pokecube| Legends is the part that manages structures, dimensions, & behavior of legendary |pokemob| for spawning and capturing. :raw-html:`<br />`
+On this page you will find information about the legendary structures, their spawn forms, items, & exclusive blocks of |Pokecube| Legends. 
 
-About dimensions, there is an exclusive page for it, you can see it by clicking here: :ref:`legend_dimensions`
+For dimensions, visit it by clicking here: :ref:`legend_dimensions`
 
 Items
 ~~~~~~~~~~~~~
@@ -29,19 +29,19 @@ Items
         :alt: Gigant Shard
 
     **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
-    **It does not go in the |pokemob's| inventory!**
-    If the item disappears from your hand means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. 
-    Capturing a |pokemob| in their gigantamax form does not require the item!
-
-    .. image:: ../_images/legends_wiki/items/mint.png
-        :alt: Mints
-
-    **Mints:** Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
+    **It does not go in the |pokemob's| inventory!** :raw-html:`<br />`
+    If the item disappears from your hand means that it is working, otherwise, check if the chosen |pokemob| has the Gigantamax ability. :raw-html:`<br />`
+    Capturing a |pokemob| in their Gigantamax form does not require the item!
 
     .. image:: ../_images/legends_wiki/items/z_electric.png
         :alt: Electric Z-Crystal
 
     **Z-Crystal:** Grants Z-Moves.
+
+    .. image:: ../_images/legends_wiki/items/mint.png
+        :alt: Mints
+
+    **Mints:** Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
 
 **Blocks**
 ===========
@@ -70,42 +70,40 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         
             Totem Color Variants
 
+ :raw-html:`<br />`
+
     .. dropdown:: Recipes
         :animate: fade-in-slide-down
 
-        .. card-carousel:: 2
-
-            .. grid:: 3
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+            
+            .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
                 
-                .. grid-item-card:: Golem Stone
-                    :img-top: ../_images/legends_wiki/golem_stone_recipe.png
-                    :img-alt: Golem Stone
-                    :text-align: center
+                Golem Stone
 
-                .. grid-item-card:: Totem Block
-                    :img-top: ../_images/legends_wiki/totem_block_recipe.png
-                    :img-alt: Totem Block
-                    :text-align: center
+            .. figure:: ../_images/legends_wiki/totem_block_recipe.png
+                
+                Totem Core
 
-                .. grid-item-card:: Tapu Bulu Totem
-                    :img-top: ../_images/legends_wiki/tapu_bulu_recipe.png
-                    :img-alt: Tapu Bulu Totem
-                    :text-align: center
+            .. figure:: ../_images/legends_wiki/tapu_bulu_recipe.png
+                
+                Tapu Bulu Totem
 
-                .. grid-item-card:: Tapu Fini Totem
-                    :img-top: ../_images/legends_wiki/tapu_fini_recipe.png
-                    :img-alt: Tapu Fini Totem
-                    :text-align: center
+            .. figure:: ../_images/legends_wiki/tapu_fini_recipe.png
+                
+                Tapu Fini Totem
+                
+            .. figure:: ../_images/legends_wiki/tapu_koko_recipe.png
+                
+                Tapu Koko Totem
 
-                .. grid-item-card:: Tapu Koko Totem
-                    :img-top: ../_images/legends_wiki/tapu_koko_recipe.png
-                    :img-alt: Tapu Koko Totem
-                    :text-align: center
-
-                .. grid-item-card:: Tapu Lele Totem
-                    :img-top: ../_images/legends_wiki/tapu_lele_recipe.png
-                    :img-alt: Tapu Lele Totem
-                    :text-align: center
+            .. figure:: ../_images/legends_wiki/tapu_lele_recipe.png
+                
+                Tapu Lele Totem
     
 .. dropdown:: Mirage Spots
     :animate: fade-in-slide-down
