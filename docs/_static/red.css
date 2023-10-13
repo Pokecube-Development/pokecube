@@ -36,8 +36,12 @@
      font-size: 85%;
      white-space: nowrap;
  }
+
+ .wy-side-nav-search .wy-dropdown>a, .wy-side-nav-search>a {
+    color: #fcfcfc;
+}
  
- a.icon.icon-home {
+ a {
      color: #ad2c1d;
  }
  
