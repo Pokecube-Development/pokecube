@@ -125,7 +125,6 @@ Unique Items
         :alt: Wishing Piece
 
     **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     .. image:: ../_images/legends_wiki/items/gigashard.png
         :alt: Gigant Shard
@@ -158,10 +157,12 @@ Capturing |Pokemobs| from Raids
             To capture the |pokemob| of the raid we need two factors:
 
             🔸 The |pokemob| needs to be extremely low on health.
-            .. hlist:: 
 
-            * 🔸 You need to use the Dynamax Cube to capture.
-            * 🔸 The |pokemob| needs to be extremely low on health.
+            .. hlist:: 
+                :columns: 1
+
+                * 🔸 You need to use the Dynamax Cube to capture.
+                * 🔸 The |pokemob| needs to be extremely low on health.
 
             .. image:: ../_images/legends_wiki/dynamax_ball.png
                 :alt: Dynamax Cube
