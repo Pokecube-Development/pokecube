@@ -24,8 +24,10 @@
      color: #fcfcfc;
  }
  
+
+ /* "Contents:" text in side menu */
  .wy-menu-vertical header, .wy-menu-vertical p.caption {
-     color: #fcfcfc;
+     color: #ad2c1d;
      height: 32px;
      line-height: 32px;
      padding: 0 1.618em;
@@ -37,7 +39,7 @@
      white-space: nowrap;
  }
 
- a.icon.icon-home {
+ .wy-breadcrumbs a.icon.icon-home {
      color: #ad2c1d;
  }
 
