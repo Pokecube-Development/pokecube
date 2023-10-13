@@ -13,4 +13,7 @@ build:
 # Optionally declare the Python requirements required to build your docs
 python:
   install:
-  - requirements: source/requirements.txt
+    - requirements: source/requirements.txt
+      extra_requirements:
+        - rtd
+        - theme_rtd
