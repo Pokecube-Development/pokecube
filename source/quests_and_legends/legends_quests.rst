@@ -114,28 +114,31 @@ Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those ite
 Items are random, mixing |pokemob| Loot Table with Raid items.
 
 Unique Items
-~~~~~
+~~~~~~~~~~~~~
 
-**Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
+.. dropdown:: Items
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/items/wishing_piece.png
-   :alt: raid_info
+    **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
 
-**Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and click on it with the item in hand **It does not go in the |pokemob|'s inventory**,
-if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. (Capturing a |pokemob| in their gigantamax form dont require the item!)
+    .. image:: ../_images/legends_wiki/items/wishing_piece.png
+    :alt: raid_info
 
-.. image:: ../_images/legends_wiki/items/gigashard.png
-   :alt: raid_info
+    **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and click on it with the item in hand **It does not go in the |pokemob|'s inventory**,
+    if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. (Capturing a |pokemob| in their gigantamax form dont require the item!)
 
-**Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
+    .. image:: ../_images/legends_wiki/items/gigashard.png
+    :alt: raid_info
 
-.. image:: ../_images/legends_wiki/items/mint.png
-   :alt: raid_info
+    **Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
 
-**Z-Crystal:** Grants Z-Moves.
+    .. image:: ../_images/legends_wiki/items/mint.png
+    :alt: raid_info
 
-.. image:: ../_images/legends_wiki/items/z_crystal.png
-   :alt: raid_info
+    **Z-Crystal:** Grants Z-Moves.
+
+    .. image:: ../_images/legends_wiki/items/z_electric.png
+    :alt: raid_info
 
 Catching |Pokemob|s from Raids
 ~~~~~~~~~~~~~~~~~~
