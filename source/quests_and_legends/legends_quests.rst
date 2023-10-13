@@ -38,7 +38,7 @@ Totem Recipes:
     :animate: fade-in-slide-down
 
     .. card-carousel:: 6
-
+        
         .. grid-item-card:: Golem Stone
             :img-top: ../_images/legends_wiki/golem_stone_recipe.png
             :img-alt: Golem Stone
@@ -122,26 +122,26 @@ Unique Items
     **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
 
     .. image:: ../_images/legends_wiki/items/wishing_piece.png
-    :alt: raid_info
+        :alt: Wishing Piece
 
     **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and click on it with the item in hand **It does not go in the |pokemob|'s inventory**,
     if the item disappears from your hand it means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. (Capturing a |pokemob| in their gigantamax form dont require the item!)
 
     .. image:: ../_images/legends_wiki/items/gigashard.png
-    :alt: raid_info
+        :alt: Gigant Shard
 
     **Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
 
     .. image:: ../_images/legends_wiki/items/mint.png
-    :alt: raid_info
+        :alt: Mints
 
     **Z-Crystal:** Grants Z-Moves.
 
     .. image:: ../_images/legends_wiki/items/z_electric.png
-    :alt: raid_info
+        :alt: Electric Z-Crystal
 
-Catching |Pokemob|s from Raids
-~~~~~~~~~~~~~~~~~~
+Catching |Pokemobs| from Raids
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To capture the |pokemob| of the raid we need two factors:
 
