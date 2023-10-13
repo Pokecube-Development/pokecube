@@ -41,7 +41,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - If the item disappears from your hand means that it is working, otherwise, check if the chosen |pokemob| has the Gigantamax ability. :raw-html:`<br />`
             - Capturing a |pokemob| in their Gigantamax form does not require the item!
 
-        .. grid-item-card:: Z-Crystal
+        .. grid-item-card:: Z-Crystals
 
             .. image:: ../_images/legends_wiki/items/z_electric.png
                 :alt: Electric Z-Crystal
