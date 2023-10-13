@@ -110,7 +110,7 @@ The Raids are here, and you can get a stronger |pokemob| and Gigantamax! Just fi
 
 * Information (Mechanics/Items/Moves)
 
-Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob|'s inventory.
+Defeated |pokemob| drop Raid's exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
 Items are random, mixing |pokemob| Loot Table with Raid items.
 
 Unique Items
@@ -128,14 +128,14 @@ Unique Items
         :alt: Gigant Shard
 
     **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
-    **It does not go in the |pokemob|'s inventory!**
+    **It does not go in the |pokemob's| inventory!**
     If the item disappears from your hand means that it worked, otherwise, check if the chosen |pokemob| has the Gigantamax ability. 
     Capturing a |pokemob| in their gigantamax form does not require the item!
 
     .. image:: ../_images/legends_wiki/items/mint.png
         :alt: Mints
 
-    **Mints:** Changes your |pokemob|'s Nature, just use it in the same way as the Gigant Shard.
+    **Mints:** Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
 
     .. image:: ../_images/legends_wiki/items/z_electric.png
         :alt: Electric Z-Crystal
@@ -145,32 +145,35 @@ Unique Items
 Catching |Pokemobs| from Raids
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To capture the |pokemob| of the raid we need two factors:
+.. dropdown::
+    :animate: fade-in-slide-down
 
-* 1. The |pokemob| needs to be extremely low on health!
-* 2. You need to use a Dynamax Cube to capture!
+    To capture the |pokemob| of the raid we need two factors:
 
-.. image:: ../_images/legends_wiki/dynamax_ball.png
-   :alt: raid_info
+    * 1. The |pokemob| needs to be extremely low on health!
+    * 2. You need to use a Dynamax Cube to capture!
 
-Smithing recipe for a Dynamax Cube for 1.20.1+:
+    .. image:: ../_images/legends_wiki/dynamax_ball.png
+        :alt: Dynamax Cube
 
-.. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
-   :alt: raid_info
+    Smithing recipe for a Dynamax Cube for 1.20.1+:
 
-Crafting recipe for a Dynamax Cube for 1.19.2 and older:
+    .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
+        :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
-.. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
-   :alt: raid_info
+    Crafting recipe for a Dynamax Cube for 1.19.2 and older:
 
-* You can use any Pokecube to create the Dynamax Cube!
+    .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
+        :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-**Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
+    * You can use any Pokecube to create the Dynamax Cube!
 
-.. image:: ../_images/legends_wiki/dynamax_ball_convert.png
-   :alt: raid_info
+    **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
 
-* Currently, the Dynamax Cube will become a common Pokecube, in the future it will be modified to return the Pokecube used in the recipe!
+    .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
+        :alt: Dynamax Cube converts to regular |pokecube|
+
+    * Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
