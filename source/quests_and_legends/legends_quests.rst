@@ -121,6 +121,46 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             .. figure:: ../_images/legends_wiki/tapu_lele_recipe.png
                 
                 Tapu Lele Totem
+
+
+**Special Moves**
+~~~~~~~~~~~~~~~~~~
+
+.. dropdown:: Dynamax & Gigantamx
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Dynamax & Gigantamx
+            
+            1. Open the controls menu and add a key in the |pokecube| section.
+            2. Find or craft the Dynamax Spot block.
+            3. Find **Raid Spots** or **Gyms** in towns with a Dynamax Power Spot block.
+
+            - After everything is ready, equip a mega evolution item, press the ``M`` button, and your |pokemob| will Dynamax or Gigantamx.
+            - While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
+
+            .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
+                :alt: max_spot
+
+.. dropdown:: Z-Moves
+    :animate: fade-in-slide-down
+
+        Z-Moves increase the strength of a specific move of your |pokemob|. 
+        1. Equip your |pokemob| with a z-crystal corresponding to its move **(Grassium Z = Move Grass)**
+        2. Press the configured key and the move will become the Z-Move, **but** the move can only be executed *once*.
+        3. To execute it multiple times you need to collect your |pokemob| and throw it back into battle.
+        
+        - |Pokemob| exclusive Z-Crystals are integrated with base Z-Crytals.
+        - The difference is that the specific |pokemob| needs to have the specific move to use the exclusive Z-Move.
+
+        **Example:**
+
+        * Pikachu's Thunderwave Move :octicon:`add;` Electrium Z :octicon:`equal;` Gigavolt Havoc
+        * Pikachu's Thunderbolt Move + Electrium Z = 10,000,000 Volt Thunderbolt
+
+        .. image:: ../_images/legends_wiki/items/z_electric.png
+            :alt: max_spot
     
 .. dropdown:: Mirage Spots
     :animate: fade-in-slide-down
@@ -160,7 +200,8 @@ Exploration structures are buildings that do not have links with legendary |poke
     
     Raids are here, and you can get a stronger |pokemob| and Gigantamax it! Just find the Raid Spots and start the battle!
 
-    - Defeated |pokemobs| drop Raid exclusive items, but if you catch them, those items will be in the |pokemob's| inventory.
+    - Defeated |pokemobs| drop Raid exclusive items.
+    - Raid |pokemobs| can only be caught after defeat.
     - Items are random, mixing |pokemob| drops with Raid items.
 
     .. carousel::
@@ -221,34 +262,6 @@ Exploration structures are buildings that do not have links with legendary |poke
 
             .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
                 :alt: Dynamax Cube converts to regular |pokecube|
-
-Special Moves (Dynamax/Gigantamx/Z-Move)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Dynamax & Gigantamx:** 
-1. Open the controls menu and add a key in the |pokecube| section.
-2. Find or craft the Dynamax Spot block.
-3. Find **Raid Spots** or **Gyms** in towns with a Dynamax Power Spot block.
-
-.. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
-   :alt: max_spot
-
-After everything is ready, equip a mega evolution item, press the **`M`** button, and your |pokemob| will Dynamax or Gigantamx. :raw-html:`<br />`
-While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
-
-**Z-Moves:** 
-Z-Moves increase the strength of a specific move of your |pokemob|. 
-1. Equip your |pokemob| with a z-crystal corresponding to its move **(Grassium Z = Move Grass)**
-2. Press the configured key and the move will become the Z-Move, **but** the move can only be executed *once*.
-3. To execute it multiple times you need to collect your |pokemob| and throw it back into battle.
-4. |Pokemob| exclusive Z-Crystals are integrated with base Z-Crytals.
-5. The difference is that the specific |pokemob| needs to have the specific move to use the exclusive Z-Move.
-
-**Example:**
-
-* Pikachu with Thunderwave ➕ Electric Z-Move 🟰 Gigavolt Havoc
-
-* Pikachu with Thunderbolt ➕ Electric Z-Move 🟰 10,000,000 Volt Thunderbolt
 
 Team Hideouts
 ==============
