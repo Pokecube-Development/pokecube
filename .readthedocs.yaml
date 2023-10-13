@@ -14,8 +14,3 @@ build:
 python:
   install:
     - requirements: source/requirements.txt
-    - method: pip
-      path: .
-      extra_requirements:
-        - rtd
-        - theme_rtd
