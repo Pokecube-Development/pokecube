@@ -42,7 +42,11 @@
  } */
  
  /* -- button formatting ------------------------------------------------------ */
- 
+ .red-dot {
+    color: #ad2c1d;
+    background-color: #ad2c1d;
+ }
+
  .btn-contents {
      display: inline-block;
      border-radius: 5px;

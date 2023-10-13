@@ -1,4 +1,6 @@
 .. _legend_quests:
+.. role:: raw-html(raw)
+    :format: html
 
 ******************
 Legends and Quests
@@ -150,6 +152,7 @@ Capturing |Pokemobs| from Raids
     :icon: dot
 
     To capture the |pokemob| of the raid we need two factors:
+    :raw-html: `<br />`
 
     1. The |pokemob| needs to be extremely low on health.
     2. You need to use the Dynamax Cube to capture.
@@ -157,26 +160,28 @@ Capturing |Pokemobs| from Raids
     .. image:: ../_images/legends_wiki/dynamax_ball.png
         :alt: Dynamax Cube
 
+    :raw-html: `<br />`
 
     .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
         :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
+    :raw-html: `<br />`
 
     Smithing recipe for a Dynamax Cube for 1.20.1+
 
     .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
         :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-
+    :raw-html:`<br />`
     Crafting recipe for a Dynamax Cube for 1.19.2 and older
 
     .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
         :alt: Dynamax Cube converts to regular |pokecube|
 
-
-    :octicon: 'dot-fill' You can use any Pokecube to create the Dynamax Cube!
-    :octicon: 'dot-fill'  **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
-    :octicon: 'dot-fill'  Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
+    :raw-html: `<br />`
+    :octicon: `dot-fill;red-dot` You can use any Pokecube to create the Dynamax Cube!
+    :octicon: `dot-fill;red-dot`  **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
+    :octicon: `dot-fill;red-dot`  Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -189,7 +194,7 @@ Special Moves (Dynamax/Gigantamx/Z-Move)
 .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
    :alt: max_spot
 
-After everything is ready, equip a mega evolution item, press the **`M`** button, and your |pokemob| will Dynamax or Gigantamx. /n
+After everything is ready, equip a mega evolution item, press the **`M`** button, and your |pokemob| will Dynamax or Gigantamx. :raw-html:`<br />`
 While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
 
 **Z-Moves:** 
