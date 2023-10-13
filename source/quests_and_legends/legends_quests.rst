@@ -66,7 +66,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
             Totem Tower
 
-        .. figure:: 
+        .. figure:: ../_images/legends_wiki/totem_colors.png
         
             Totem Color Variants
 
