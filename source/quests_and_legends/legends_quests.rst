@@ -16,35 +16,47 @@ For dimensions, visit it by clicking here: :ref:`legend_dimensions`
 
 Items
 ~~~~~~~~~~~~~
+In addition to the structures, the |Pokecube| Legends expansion adds many items to the mod, many with unique functions!
 
 .. dropdown:: Unique Items
     :animate: fade-in-slide-down
 
-    .. image:: ../_images/legends_wiki/items/wishing_piece.png
-        :alt: Wishing Piece
+    .. grid:: 1
 
-    **Wishing Piece:** Activates raids. But don't worry, raids are reactivated after a while if you don't receive this item.
+        .. grid-item-card:: Wishing Piece
 
-    .. image:: ../_images/legends_wiki/items/gigashard.png
-        :alt: Gigant Shard
+            .. image:: ../_images/legends_wiki/items/wishing_piece.png
+                :alt: Wishing Piece
 
-    **Gigant Shard:** Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
-    **It does not go in the** |**pokemob's**| **inventory!** :raw-html:`<br />`
-    If the item disappears from your hand means that it is working, otherwise, check if the chosen |pokemob| has the Gigantamax ability. :raw-html:`<br />`
-    Capturing a |pokemob| in their Gigantamax form does not require the item!
+            - Activates raids. 
+            - Raids reactivate if you don't receive this item.
 
-    .. image:: ../_images/legends_wiki/items/z_electric.png
-        :alt: Electric Z-Crystal
+        .. grid-item-card:: Gigant Shard
 
-    **Z-Crystal:** Grants Z-Moves.
+            .. image:: ../_images/legends_wiki/items/gigashard.png
+                :alt: Gigant Shard
 
-    .. image:: ../_images/legends_wiki/items/mint.png
-        :alt: Mints
+            - Triggers Gigantamax! To use it, choose a |pokemob| that has the Gigantamax ability and right-click on it with the item.
+            - **It does not go in the** |**pokemob's**| **inventory!** :raw-html:`<br />`
+            - If the item disappears from your hand means that it is working, otherwise, check if the chosen |pokemob| has the Gigantamax ability. :raw-html:`<br />`
+            - Capturing a |pokemob| in their Gigantamax form does not require the item!
 
-    **Mints:** Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
+        .. grid-item-card:: Z-Crystal
+
+            .. image:: ../_images/legends_wiki/items/z_electric.png
+                :alt: Electric Z-Crystal
+
+            - Grants Z-Moves.
+
+        .. grid-item-card:: Mints
+
+            .. image:: ../_images/legends_wiki/items/mint.png
+                :alt: Mints
+
+            - Changes your |pokemob's| Nature, just use it in the same way as the Gigant Shard.
 
 **Blocks**
-===========
+~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
 .. dropdown:: Totem Blocks
@@ -69,8 +81,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         .. figure:: ../_images/legends_wiki/totem_colors.png
         
             Totem Color Variants
+        
     :raw-html:`<br />`
-
     .. dropdown:: Recipes
         :animate: fade-in-slide-down
 
@@ -179,30 +191,30 @@ Exploration structures are buildings that do not have links with legendary |poke
 
         .. grid-item-card::  Smithing Recipe
 
+            - 1.20.1+
+
             .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
                 :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
-
-            1.20.1+
 
     .. grid:: 1
 
         .. grid-item-card::  Crafting Recipe
 
+            - 1.19.2 and older
+
             .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
                 :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
-
-            1.19.2 and older
 
     .. grid:: 1
 
         .. grid-item-card::  Dynamax Cube
 
-            .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
-                :alt: Dynamax Cube converts to regular |pokecube|
-
             - You can use any |Pokecube| to create the Dynamax Cube!
             - **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
             - Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
+
+            .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
+                :alt: Dynamax Cube converts to regular |pokecube|
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
