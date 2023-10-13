@@ -142,37 +142,35 @@ Unique Items
 
     **Z-Crystal:** Grants Z-Moves.
 
-Catching |Pokemobs| from Raids
+Capturing |Pokemobs| from Raids
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. dropdown::
+.. dropdown:: Capturing |Pokemobs|
     :animate: fade-in-slide-down
 
     To capture the |pokemob| of the raid we need two factors:
 
-    * 1. The |pokemob| needs to be extremely low on health!
-    * 2. You need to use a Dynamax Cube to capture!
+    1. The |pokemob| needs to be extremely low on health!
+    2. You need to use the Dynamax Cube to capture!
 
     .. image:: ../_images/legends_wiki/dynamax_ball.png
         :alt: Dynamax Cube
 
-    Smithing recipe for a Dynamax Cube for 1.20.1+:
-
     .. image:: ../_images/legends_wiki/dynamax_ball_smithing_1.20.png
         :alt: 1.20+ Smithing Recipe: Wishing Stone + |Pokecube| + Ruby = Dynamax Cube 
 
-    Crafting recipe for a Dynamax Cube for 1.19.2 and older:
+    Smithing recipe for a Dynamax Cube for 1.20.1+
 
     .. image:: ../_images/legends_wiki/dynamax_ball_crafting_1.19.png
         :alt: 1.19 & older Smithing Recipe: Wishing Stone + |Pokecube| = Dynamax Cube 
 
-    * You can use any Pokecube to create the Dynamax Cube!
-
-    **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
+    Crafting recipe for a Dynamax Cube for 1.19.2 and older
 
     .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
         :alt: Dynamax Cube converts to regular |pokecube|
 
+    * You can use any Pokecube to create the Dynamax Cube!
+    **Be aware that Dynamax Cube does not use the capture chance of the pokecube you used in the recipe, so if you use a Mastercube for the recipe, it will work like a normal Pokecube!**
     * Currently, the Dynamax Cube will become a common |Pokecube|, in the future it will be modified to return the |Pokecube| used in the recipe!
 
 Special Moves (Dynamax/Gigantamx/Z-Move)
