@@ -419,8 +419,8 @@ The structures differ depending on their biome, which makes the structure more v
 
 **Legendary Structures**
 ========================
-While exploring the world you will find many different structures. They are the **'Temples of Legendary'**. :raw-html:`<br />`
-- Legendary temples need a special item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
+While exploring the world you will find many different structures. They are the **'Temples of Legendary'**.
+- Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share the structure.
 
 Celebi
@@ -495,13 +495,13 @@ Kubfu
     .. image:: ../_images/legends_wiki/kubfu_tower_water.png
         :alt: Water Kubfu Tower
 
-Rayquaza
-~~~~~~~~~
+Sky Pillar
+~~~~~~~~~~~
 
-.. dropdown:: Sky Pillar
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`rayquaza`
+    * Summons :ref:`articuno`, :ref:`deoxys`, :ref:`hoopa`, :ref:`latias`, :ref:`latios`, :ref:`jirachi`, :ref:`rayquaza`, & :ref:`zapdos`
     * Found in **Beaches** & **Stony Shores**
     * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
 
