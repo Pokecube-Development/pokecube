@@ -495,14 +495,18 @@ Kubfu
     .. image:: ../_images/legends_wiki/kubfu_tower_water.png
         :alt: Water Kubfu Tower
 
-**Sky Pillar** (:ref:`rayquaza`)
+Rayquaza
+~~~~~~~~~
 
-* Biome: Ocean
+.. dropdown:: Sky Pillar
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/sky_pillar.png
-    :alt: sky_pillar
-.. image:: ../_images/legends_wiki/sky_pillar_room.png
-    :alt: sky_pillar
+    * Summons :ref:`rayquaza`
+    * Found in **Beaches** & **Stony Shores**
+    * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
+
+    .. image:: ../_images/legends_wiki/sky_pillar.png
+        :alt: sky_pillar
 
 **Ruins of Regice** (:ref:`regice`)
 
