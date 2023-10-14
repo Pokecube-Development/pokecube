@@ -424,28 +424,31 @@ While exploring the world you will find many different structures. They are the 
 Legendary temples need a key item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
 Not all |pokemobs| have unique structures, some share the structure.
 
-Forest Temple
-~~~~~~~~~~~~~~
+:ref:`celebi` Temple
+~~~~~~~~~~~~~~~~~~~~~
 
-.. dropdown:: Forest Temple
+.. dropdown:: Temple for Celebi
     :animate: fade-in-slide-down
 
-    * Summons :ref:`celebi`
-    * Found in **Forests** or biomes tagged as ``#minecraft:is_forest``, or ``#minecraft:is_jungle``, ``#forge:is_lush``.
+    * Summons :ref:`celebi`.
+    * Found in **Forests**.
+    * Found in biomes tagged as ``#minecraft:is_forest``, or ``#minecraft:is_jungle``, ``#forge:is_lush``.
 
     .. image:: ../_images/legends_wiki/celebi_temple.png
-        :alt: Forest Temple
+        :alt: Celebi Temple
 
-**Ho-oh Temple** (:ref:`ho-oh`)
+:ref:`ho-oh` Temple
+~~~~~~~~~~~~~~~~~~~~
 
-* Biome: Plains
+.. dropdown:: Temple for Ho-Oh
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/ho_oh_tower.png
-    :alt: Ho-oh Temple
-.. image:: ../_images/legends_wiki/ho_oh_tower_room_1.png
-    :alt: Ho-oh Temple
-.. image:: ../_images/legends_wiki/ho_oh_tower_room_2.png
-    :alt: Ho-oh Temple
+    * Summons 
+    * Found in **Plains**.
+    * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``.
+
+    .. image:: ../_images/legends_wiki/ho_oh_tower.png
+        :alt: Ho-oh Temple
 
 **Legendary Tree** (Articuno/Zapdos/Moltres Galar)
 
