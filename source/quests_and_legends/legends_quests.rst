@@ -49,7 +49,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
             - Grants Z-Moves.
 
-            .. image:: ../_images/legends_wiki/items/z_electric.png
+            .. image:: ../_images/legends_wiki/items/z_ice.png
                 :alt: Electric Z-Crystal
 
     .. grid:: 1
@@ -182,7 +182,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
         **Example:**
 
-        * Pikachu's Thunderwave Move :octicon:`add;` Electrium Z :octicon:`equal;` Gigavolt Havoc
+        * Pikachu's Thunderwave Move + Electrium Z = Gigavolt Havoc
         * Pikachu's Thunderbolt Move + Electrium Z = 10,000,000 Volt Thunderbolt
 
         .. image:: ../_images/legends_wiki/items/z_electric.png
@@ -194,6 +194,7 @@ In this expansion, several structures were added, and in this part we'll look at
 Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
 
 .. dropdown:: Raids!
+    :animate: fade-in-slide-down
     
     Raids are here, and you can get a stronger |pokemob| and Gigantamax it! Just find the Raid Spots and start the battle!
 
@@ -260,78 +261,153 @@ Exploration structures are buildings that do not have links with legendary |poke
             .. image:: ../_images/legends_wiki/dynamax_ball_convert.png
                 :alt: Dynamax Cube converts to regular |pokecube|
 
-Team Hideouts
-==============
-The hideouts are structures based on the villain teams from the Pokémon games, in the mod you can find three secret bases: Team Rocket, Team Magma, and Team Aqua.
-The structures differ in their subterranean base, but have a similar top, which makes the structure more versatile when generated in the world.
-
-Team Rocket:
+Villain Lairs
 ~~~~~~~~~~~~~~
-* Team Rocket Hideouts only appears in **Plains**.
-* Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
+The lairs are structures based on the villain teams from the Pokémon games, in this mod you can find 5 secret lairs.
+The structures differ depending on their biome, which makes the structure more versatile.
 
-.. image:: ../_images/legends_wiki/team_rocket_base_2.png
-   :alt: teams_hideout
+.. _team_rocket:
 
-.. image:: ../_images/legends_wiki/team_rocket_base.png
-   :alt: teams_hideout
+.. dropdown:: Team Rocket
+    :animate: fade-in-slide-down
 
-* Find Giovanni, and battle him!
+    * Team Rocket Hideouts only appears in **Plains** or biomes tagged as ``"#forge:is_plains"``.
+    * Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
+    * Find Giovanni, and battle him!
 
-.. image:: ../_images/legends_wiki/team_rocket_giovanni.png
-   :alt: teams_hideout
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-Team Magma:
-~~~~~~~~~~~~~~
-* The Team Magma's Hideout only appears in **Deserts** or **Badlands**.
+        .. figure:: ../_images/legends_wiki/team_rocket_base_2.png
 
-.. image:: ../_images/legends_wiki/team_magma_base.png
-   :alt: teams_hideout
+            Team Rocket Village Hideout
 
-* Find Maxie, and battle him!
-  
-.. image:: ../_images/legends_wiki/team_magma_boss_room.png
-   :alt: teams_hideout
+        .. figure:: ../_images/legends_wiki/team_rocket_base.png
 
-Team Aqua:
-~~~~~~~~~~~~~~
-* Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
+            Team Rocket Hideout
 
-.. image:: ../_images/legends_wiki/team_aqua_base.png
-   :alt: teams_hideout
+        .. figure:: ../_images/legends_wiki/team_rocket_giovanni.png
 
-* Find Archie, and battle him!
+            Battle Giovanni!
 
-.. image:: ../_images/legends_wiki/team_aqua_boss_room.png
-   :alt: teams_hideout
+.. _team_magma:
 
-Elite Four
-~~~~~~~~~~
-Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat her! 
+.. dropdown:: Team Magma
+    :animate: fade-in-slide-down
+    
+    * The Team Magma's Hideout only appears in **Deserts**, **Badlands**, or biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
+    * Find Maxie, and battle him!
 
-* The structure has four trainers, which are randomized when the structure is generated. 
-* Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
-* The structure appears in **all** biomes, except Oceans and Beaches.
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-.. image:: ../_images/legends_wiki/elite_four.png
-   :alt: elite_four
+        .. figure:: ../_images/legends_wiki/team_magma_base.png
+            
+            Team Magma... Hideout?
+
+        .. figure:: ../_images/legends_wiki/team_magma_boss_room.png
+            
+            Battle Maxie!
+
+.. _team_aqua:
+
+.. dropdown:: Team Aqua
+    :animate: fade-in-slide-down
+
+    * Team Aqua's Hideout only appears in **Beaches**, **Swamps**, or biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
+    * Find Archie, and battle him!
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/team_aqua_base.png
+            
+            Team Aqua... Hideout?
+
+        .. figure:: ../_images/legends_wiki/team_aqua_boss_room.png
+            
+            Battle Archie!
+
+.. _elite_four:
+
+.. dropdown:: Elite Four
+    :animate: fade-in-slide-down
+
+    Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat them! 
+
+    * The structure appears in any biomes tagged as ``#minecraft:is_overworld``, except for Oceans, Rivers, Beaches, or Mushroom Island biomes.
+    * The structure has four trainers, which are randomized when the structure is generated. 
+    * Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
+    * Battle the Elite Four!
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/elite_four.png
+            
+            Elite Four
+
+        .. figure:: ../_images/legends_wiki/elite_four_boss_1.png
+
+            Battle Shauntal!
+            
+            One of the Elite Four!
+
+        .. figure:: ../_images/legends_wiki/elite_four_boss_2.png
+
+            Battle Grimsley!
+            
+            One of the Elite Four!
+
+        .. figure:: ../_images/legends_wiki/elite_four_boss_3.png
+
+            Battle Olivia!
+            
+            One of the Elite Four!
+
+        .. figure:: ../_images/legends_wiki/elite_four_boss_4.png
+
+            Battle Blue!
+            
+            One of the Elite Four!
+
 
 .. _aether_foundation:
 
-Aether Foundation
-~~~~~~~~~~~~~~~~~
-The Aether Foundation, more than just an exploration structure, it is considered a Village.
+.. dropdown:: Aether Foundation
+    :animate: fade-in-slide-down
 
-* Buy important items from Aether Foundation bosses.
-* The structure appears in **Warm Oceans**.
+    * The structure appears in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**.
+    * The structure does not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
+    * The Aether Foundation is considered a Village.
+    * Buy important items from Aether Foundation bosses.
+    * Find the Aether Foundation bosses, and battle them!
 
-.. image:: ../_images/legends_wiki/aether_foundation.png
-   :alt: aether_foundation
-   
-* Find the Aether Foundation bosses, and battle them!
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-.. image:: ../_images/legends_wiki/aether_f_boss_room.png
-   :alt: aether_foundation
+        .. figure:: ../_images/legends_wiki/aether_foundation.png
+            
+            Aether Foundation
+
+        .. figure:: ../_images/legends_wiki/aether_f_boss_room.png
+            
+            Battle the Aether Bosses!
 
 **Legendary Structures**
 ========================
