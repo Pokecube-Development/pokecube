@@ -420,17 +420,21 @@ The structures differ depending on their biome, which makes the structure more v
 
 **Legendary Structures**
 ========================
-While exploring the world you may find a few different structures, they are the 'Temples of Legendary'. Legendary temples need a key item and a unique quest completed so you can summon it and capture it. But for the most part not all have unique structures, some share the structure.
+While exploring the world you will find many different structures. They are the **'Temples of Legendary'**. :raw-html:`<br />`
+Legendary temples need a key item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
+Not all |pokemobs| have unique structures, some share the structure.
 
-List of new structures added
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Forest Temple
+~~~~~~~~~~~~~~
 
-**Forest Temple** (:ref:`celebi`)
+.. dropdown:: Forest Temple
+    :animate: fade-in-slide-down
 
-* Biome: Forest
+    * Summons :ref:`celebi`
+    * Found in **Forests** or biomes tagged as ``#minecraft:is_forest``, or ``#minecraft:is_jungle``, ``#forge:is_lush``.
 
-.. image:: ../_images/legends_wiki/celebi_temple.png
-    :alt: Forest Temple
+    .. image:: ../_images/legends_wiki/celebi_temple.png
+        :alt: Forest Temple
 
 **Ho-oh Temple** (:ref:`ho-oh`)
 
