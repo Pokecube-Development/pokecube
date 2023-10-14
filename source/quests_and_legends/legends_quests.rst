@@ -269,15 +269,16 @@ Villain Lairs
 The lairs are structures based on the villain teams from the Pokémon games, in this mod you can find 5 secret lairs.
 The structures differ depending on their biome, which makes the structure more versatile.
 
-.. _team_rocket:
+.. _aether_foundation:
 
-.. dropdown:: Team Rocket
+.. dropdown:: Aether Foundation
     :animate: fade-in-slide-down
 
-    * Team Rocket's Hideout appear in **Plains**.
-    * Their hideouts also appear in biomes tagged as ``"#forge:is_plains"``.
-    * Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
-    * Find Giovanni, and battle him!
+    * The structure appears in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**.
+    * It will not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
+    * The Aether Foundation is considered a Village.
+    * Buy important items from Aether Foundation bosses.
+    * Find the Aether Foundation bosses, and battle them!
 
     .. carousel::
         :show_captions_below:
@@ -285,63 +286,13 @@ The structures differ depending on their biome, which makes the structure more v
         :show_indicators:
         :show_shadows:
 
-        .. figure:: ../_images/legends_wiki/team_rocket_base_2.png
-
-            Team Rocket Village Hideout
-
-        .. figure:: ../_images/legends_wiki/team_rocket_base.png
-
-            Team Rocket Hideout
-
-        .. figure:: ../_images/legends_wiki/team_rocket_giovanni.png
-
-            Battle Giovanni!
-
-.. _team_magma:
-
-.. dropdown:: Team Magma
-    :animate: fade-in-slide-down
-    
-    * The Team Magma's Hideout appears in **Deserts** or **Badlands**.
-    * Their hideouts also appear in biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
-    * Find Maxie, and battle him!
-
-    .. carousel::
-        :show_captions_below:
-        :show_controls:
-        :show_indicators:
-        :show_shadows:
-
-        .. figure:: ../_images/legends_wiki/team_magma_base.png
+        .. figure:: ../_images/legends_wiki/aether_foundation.png
             
-            Team Magma... Hideout?
+            Aether Foundation
 
-        .. figure:: ../_images/legends_wiki/team_magma_boss_room.png
+        .. figure:: ../_images/legends_wiki/aether_f_boss_room.png
             
-            Battle Maxie!
-
-.. _team_aqua:
-
-.. dropdown:: Team Aqua
-    :animate: fade-in-slide-down
-
-    * Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
-    * Their hideouts also appear in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
-    * Find Archie, and battle him!
-
-    .. carousel::
-        :show_captions_below:
-        :show_controls:
-        :show_indicators:
-        :show_shadows:
-
-        .. figure:: ../_images/legends_wiki/team_aqua_base.png
-            
-            Team Aqua... Hideout?
-
-        .. figure:: ../_images/legends_wiki/team_aqua_boss_room.png
-            
-            Battle Archie!
+            Battle the Aether Bosses!
 
 .. _elite_four:
 
@@ -392,17 +343,14 @@ The structures differ depending on their biome, which makes the structure more v
             
             One of the Elite Four!
 
+.. _team_aqua:
 
-.. _aether_foundation:
-
-.. dropdown:: Aether Foundation
+.. dropdown:: Team Aqua
     :animate: fade-in-slide-down
 
-    * The structure appears in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**.
-    * It will not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
-    * The Aether Foundation is considered a Village.
-    * Buy important items from Aether Foundation bosses.
-    * Find the Aether Foundation bosses, and battle them!
+    * Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
+    * Their hideouts also appear in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
+    * Find Archie, and battle him!
 
     .. carousel::
         :show_captions_below:
@@ -410,13 +358,64 @@ The structures differ depending on their biome, which makes the structure more v
         :show_indicators:
         :show_shadows:
 
-        .. figure:: ../_images/legends_wiki/aether_foundation.png
+        .. figure:: ../_images/legends_wiki/team_aqua_base.png
             
-            Aether Foundation
+            Team Aqua... Hideout?
 
-        .. figure:: ../_images/legends_wiki/aether_f_boss_room.png
+        .. figure:: ../_images/legends_wiki/team_aqua_boss_room.png
             
-            Battle the Aether Bosses!
+            Battle Archie!
+
+.. _team_magma:
+
+.. dropdown:: Team Magma
+    :animate: fade-in-slide-down
+    
+    * The Team Magma's Hideout appears in **Deserts** or **Badlands**.
+    * Their hideouts also appear in biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
+    * Find Maxie, and battle him!
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/team_magma_base.png
+            
+            Team Magma... Hideout?
+
+        .. figure:: ../_images/legends_wiki/team_magma_boss_room.png
+            
+            Battle Maxie!
+
+.. _team_rocket:
+
+.. dropdown:: Team Rocket
+    :animate: fade-in-slide-down
+
+    * Team Rocket's Hideout appear in **Plains**.
+    * Their hideouts also appear in biomes tagged as ``"#forge:is_plains"``.
+    * Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
+    * Find Giovanni, and battle him!
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/team_rocket_base_2.png
+
+            Team Rocket Village Hideout
+
+        .. figure:: ../_images/legends_wiki/team_rocket_base.png
+
+            Team Rocket Hideout
+
+        .. figure:: ../_images/legends_wiki/team_rocket_giovanni.png
+
+            Battle Giovanni!
 
 **Legendary Structures**
 ========================
