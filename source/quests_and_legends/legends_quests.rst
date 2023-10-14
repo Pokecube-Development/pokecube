@@ -421,8 +421,8 @@ The structures differ depending on their biome, which makes the structure more v
 **Legendary Structures**
 ========================
 While exploring the world you will find many different structures. They are the **'Temples of Legendary'**. :raw-html:`<br />`
-Legendary temples need a special item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
-Not all |pokemobs| have unique structures, some share the structure.
+- Legendary temples need a special item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
+- Not all |pokemobs| have unique structures, some share the structure.
 
 Celebi Temple
 ~~~~~~~~~~~~~~

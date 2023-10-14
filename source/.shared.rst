@@ -2,6 +2,8 @@
 .. |pokecube| replace:: pokécube
 
 .. |Pokecube| replace:: Pokécube
+  
+.. |**Pokecube**| replace:: **Pokécube**
 
 .. |pokemob| replace:: pokémob
 
