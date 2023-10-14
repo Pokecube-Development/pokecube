@@ -121,7 +121,35 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             .. figure:: ../_images/legends_wiki/tapu_lele_recipe.png
                 
                 Tapu Lele Totem
+    
+.. dropdown:: Mirage Spots
+    :animate: fade-in-slide-down
 
+    Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
+    This block can spawn a random |pokemob| except Legendaries.
+
+    * If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
+    * Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
+    * If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
+    * This is customizable in **configs** or by **datapacks**.
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/hoopa_portal_on.png
+
+            Hoopa Portal
+
+        .. figure:: ../_images/legends_wiki/hoopa_portal_off.png
+
+            Hoopa Portal when Open
+
+        .. figure:: ../_images/legends_wiki/hoopa_create.png
+
+            Hoopa creating a Portal
 
 **Special Moves**
 ~~~~~~~~~~~~~~~~~~
@@ -161,35 +189,6 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
         .. image:: ../_images/legends_wiki/items/z_electric.png
             :alt: max_spot
-    
-.. dropdown:: Mirage Spots
-    :animate: fade-in-slide-down
-
-    Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-    This block can spawn a random |pokemob| except Legendaries.
-
-    * If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
-    * Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
-    * If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
-    * This is customizable in **configs** or by **datapacks**.
-
-    .. carousel::
-        :show_captions_below:
-        :show_controls:
-        :show_indicators:
-        :show_shadows:
-
-        .. figure:: ../_images/legends_wiki/hoopa_portal_on.png
-
-            Hoopa Portal
-
-        .. figure:: ../_images/legends_wiki/hoopa_portal_off.png
-
-            Hoopa Portal when Open
-
-        .. figure:: ../_images/legends_wiki/hoopa_create.png
-
-            Hoopa creating a Portal
 
 **Exploration Structures**
 ==========================
