@@ -70,9 +70,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
     * The Totem Blocks are blocks themed after the |pokemob| Tapus of Alola.
     * Each totem grants a special effect.
+    * Dye your totems to use for building!
     * Activate by right-clicking while holding anything tagged as ``forge:gems/diamond``.
     * Customize this by changing the item tag ``pokecube_legends:totem_fuel`` using a datapack.
-    * Dye your totems to use for building!
 
     .. carousel::
         :show_captions_below:
@@ -126,10 +126,11 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
     :animate: fade-in-slide-down
 
     Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-    This block can spawn a random |pokemob| except Legendaries.
+    This block can spawn any |pokemobs| except Legendaries.
 
     * If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
-    * Use the move out of combat to create the portal. The creation of the portal has a cooldown, so it can't be spammed.
+    * Use the move out of combat to create the portal. 
+    * The creation of the portal has a cooldown, so it can't be spammed.
     * If the block is placed in **creative**, the portal creates an internal cooldown and is disabled until the time runs out and is reactivated.
     * This is customizable in **configs** or by **datapacks**.
 
@@ -145,11 +146,11 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
         .. figure:: ../_images/legends_wiki/hoopa_portal_off.png
 
-            Hoopa Portal when Open
+            Open Hoopa Portal
 
         .. figure:: ../_images/legends_wiki/hoopa_create.png
 
-            Hoopa creating a Portal
+            Hoopa Portal Creation
 
 **Special Moves**
 ~~~~~~~~~~~~~~~~~~
@@ -157,24 +158,21 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 .. dropdown:: Dynamax & Gigantamx
     :animate: fade-in-slide-down
 
-    .. grid:: 1
+        1. Open the controls menu and add a key in the |pokecube| section.
+        2. Find or craft the Dynamax Spot block.
+        3. Find **Raid Spots** or **Gyms** in towns with a Dynamax Power Spot block.
 
-        .. grid-item-card:: Dynamax & Gigantamx
-            
-            1. Open the controls menu and add a key in the |pokecube| section.
-            2. Find or craft the Dynamax Spot block.
-            3. Find **Raid Spots** or **Gyms** in towns with a Dynamax Power Spot block.
+        - After everything is ready, equip a mega evolution item, press the ``M`` button, and your |pokemob| will Dynamax or Gigantamx.
+        - While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
 
-            - After everything is ready, equip a mega evolution item, press the ``M`` button, and your |pokemob| will Dynamax or Gigantamx.
-            - While your |pokemob| is in this form, press the configured key and the moves will be changed to Dynamax or Gigantamx moves.
-
-            .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
-                :alt: max_spot
+        .. image:: ../_images/legends_wiki/max_dynamax_block_recipe.png
+            :alt: max_spot
 
 .. dropdown:: Z-Moves
     :animate: fade-in-slide-down
 
         Z-Moves increase the strength of a specific move of your |pokemob|. 
+
         1. Equip your |pokemob| with a z-crystal corresponding to its move **(Grassium Z = Move Grass)**
         2. Press the configured key and the move will become the Z-Move, **but** the move can only be executed *once*.
         3. To execute it multiple times you need to collect your |pokemob| and throw it back into battle.
