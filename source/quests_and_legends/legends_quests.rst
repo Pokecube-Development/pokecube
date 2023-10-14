@@ -325,7 +325,7 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Aqua
     :animate: fade-in-slide-down
 
-    * Team Aqua's Hideout only appears in **Beaches**, **Swamps**.
+    * Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
     * Their hideouts also appear in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
     * Find Archie, and battle him!
 
@@ -421,29 +421,29 @@ The structures differ depending on their biome, which makes the structure more v
 **Legendary Structures**
 ========================
 While exploring the world you will find many different structures. They are the **'Temples of Legendary'**. :raw-html:`<br />`
-Legendary temples need a key item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
+Legendary temples need a special item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
 Not all |pokemobs| have unique structures, some share the structure.
 
-:ref:`celebi` Temple
-~~~~~~~~~~~~~~~~~~~~~
+Celebi Temple
+~~~~~~~~~~~~~~
 
-.. dropdown:: Temple for Celebi
+.. dropdown:: 
     :animate: fade-in-slide-down
 
     * Summons :ref:`celebi`.
     * Found in **Forests**.
-    * Found in biomes tagged as ``#minecraft:is_forest``, or ``#minecraft:is_jungle``, ``#forge:is_lush``.
+    * Found in biomes tagged as ``#minecraft:is_forest``, ``#minecraft:is_jungle``, or ``#forge:is_lush``.
 
     .. image:: ../_images/legends_wiki/celebi_temple.png
         :alt: Celebi Temple
 
-:ref:`ho-oh` Temple
-~~~~~~~~~~~~~~~~~~~~
+Ho-Oh Temple
+~~~~~~~~~~~~~
 
-.. dropdown:: Temple for Ho-Oh
+.. dropdown:: Info
     :animate: fade-in-slide-down
 
-    * Summons 
+    * Summons :ref:`ho-oh`
     * Found in **Plains**.
     * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``.
 
