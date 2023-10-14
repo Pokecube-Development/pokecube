@@ -423,63 +423,77 @@ While exploring the world you will find many different structures. They are the 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it. :raw-html:`<br />`
 - Not all |pokemobs| have unique structures, some share the structure.
 
-Celebi Temple
-~~~~~~~~~~~~~~
+Celebi
+~~~~~~~
 
-.. dropdown:: 
+.. dropdown:: Celebi Temple
     :animate: fade-in-slide-down
 
-    * Summons :ref:`celebi`.
-    * Found in **Forests**.
-    * Found in biomes tagged as ``#minecraft:is_forest``, ``#minecraft:is_jungle``, or ``#forge:is_lush``.
+    * Summons :ref:`celebi`
+    * Found in **Forests**
+    * Found in biomes tagged as ``#minecraft:is_forest``, ``#minecraft:is_jungle``, or ``#forge:is_lush``
 
     .. image:: ../_images/legends_wiki/celebi_temple.png
         :alt: Celebi Temple
 
-Ho-Oh Temple
-~~~~~~~~~~~~~
+Ho-Oh
+~~~~~~
 
-.. dropdown:: Info
+.. dropdown:: Ho-Oh Temple
     :animate: fade-in-slide-down
 
     * Summons :ref:`ho-oh`
-    * Found in **Plains**.
-    * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``.
+    * Found in **Plains**
+    * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``
 
     .. image:: ../_images/legends_wiki/ho_oh_tower.png
         :alt: Ho-oh Temple
 
-**Legendary Tree** (Articuno/Zapdos/Moltres Galar)
+Articuno, Zapdos, & Moltres
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Biome: Plains
+.. dropdown:: Legendary Tree
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/legendy_tree.png
-    :alt: Legendary tree
-.. image:: ../_images/legends_wiki/legendy_tree_base.png
-    :alt: Legendary tree
+    * Summons :ref:`articuno`, :ref:`zapdos`, & :ref:`moltres`
+    * Found in **Plains** & **Forests**
+    * Found in biomes tagged as ``#minecraft:is_forest``, ``#forge:is_plains``, ``#pokecube_world:is_ultraspace/is_forest``, or ``#pokecube_world:is_ultraspace/is_plains``
 
-**Kubfu Dojo** (:ref:`kubfu`)
+    .. image:: ../_images/legends_wiki/legendary_tree.png
+        :alt: Legendary tree
 
-* Biome: Extreme Hills
+Kubfu
+~~~~~~
 
-.. image:: ../_images/legends_wiki/kubfu_dojo.png
-    :alt: Kubfu Dojo
-.. image:: ../_images/legends_wiki/kubfu_dojo_inside.png
-    :alt: Kubfu Dojo
+.. dropdown:: Kubfu Dojo
+    :animate: fade-in-slide-down
 
-**Kubfu Tower Dark** (:ref:`kubfu`)
+    * Summons :ref:`kubfu`
+    * Found in **Plains**
+    * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``
 
-* Biome: Extreme Hills
+    .. image:: ../_images/legends_wiki/kubfu_dojo.png
+        :alt: Kubfu Dojo
 
-.. image:: ../_images/legends_wiki/kubfu_tower_dark.png
-    :alt: Kubfu Tower
+.. dropdown:: Dark Kubfu Tower
+    :animate: fade-in-slide-down
 
-**Kubfu Tower Water** (:ref:`kubfu`)
+    * Summons :ref:`kubfu`
+    * Found in **Extreme Hills**
+    * Found in biomes tagged as ``#minecraft:is_hill`` or ``#pokecube_world:is_ultraspace/is_hill``
 
-* Biome: Beach
+    .. image:: ../_images/legends_wiki/kubfu_tower_dark.png
+        :alt: Dark Kubfu Tower
 
-.. image:: ../_images/legends_wiki/kubfu_tower_water.png
-    :alt: Kubfu Tower
+.. dropdown:: Water Kubfu Tower
+    :animate: fade-in-slide-down
+
+    * Summons :ref:`kubfu`
+    * Found in **Beaches** & **Stony Shores**
+    * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
+
+    .. image:: ../_images/legends_wiki/kubfu_tower_water.png
+        :alt: Water Kubfu Tower
 
 **Sky Pillar** (:ref:`rayquaza`)
 
