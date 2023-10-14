@@ -193,7 +193,10 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
 Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
 
-.. dropdown:: Raids!
+Raids
+~~~~~~
+
+.. dropdown:: Raid Sturctures
     :animate: fade-in-slide-down
     
     Raids are here, and you can get a stronger |pokemob| and Gigantamax it! Just find the Raid Spots and start the battle!
@@ -271,7 +274,8 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Rocket
     :animate: fade-in-slide-down
 
-    * Team Rocket Hideouts only appears in **Plains** or biomes tagged as ``"#forge:is_plains"``.
+    * Team Rocket's Hideout appear in **Plains**.
+    * Their hideouts also appear in biomes tagged as ``"#forge:is_plains"``.
     * Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
     * Find Giovanni, and battle him!
 
@@ -298,7 +302,8 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Magma
     :animate: fade-in-slide-down
     
-    * The Team Magma's Hideout only appears in **Deserts**, **Badlands**, or biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
+    * The Team Magma's Hideout appears in **Deserts** or **Badlands**.
+    * Their hideouts also appear in biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
     * Find Maxie, and battle him!
 
     .. carousel::
@@ -320,7 +325,8 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Aqua
     :animate: fade-in-slide-down
 
-    * Team Aqua's Hideout only appears in **Beaches**, **Swamps**, or biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
+    * Team Aqua's Hideout only appears in **Beaches**, **Swamps**.
+    * Their hideouts also appear in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
     * Find Archie, and battle him!
 
     .. carousel::
@@ -344,7 +350,8 @@ The structures differ depending on their biome, which makes the structure more v
 
     Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat them! 
 
-    * The structure appears in any biomes tagged as ``#minecraft:is_overworld``, except for Oceans, Rivers, Beaches, or Mushroom Island biomes.
+    * The structure appears in any biomes tagged as ``#minecraft:is_overworld``.
+    * It will not appear in biomes tagged as ``#minecraft:is_beach``, ``#minecraft:is_ocean``, ``#minecraft:is_river``, or ``#forge:is_mushroom``.
     * The structure has four trainers, which are randomized when the structure is generated. 
     * Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
     * Battle the Elite Four!
@@ -357,7 +364,9 @@ The structures differ depending on their biome, which makes the structure more v
 
         .. figure:: ../_images/legends_wiki/elite_four.png
             
-            Elite Four
+            Elite Four Tower
+
+            Will you deaf all four?
 
         .. figure:: ../_images/legends_wiki/elite_four_boss_1.png
 
@@ -390,7 +399,7 @@ The structures differ depending on their biome, which makes the structure more v
     :animate: fade-in-slide-down
 
     * The structure appears in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**.
-    * The structure does not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
+    * It will not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
     * The Aether Foundation is considered a Village.
     * Buy important items from Aether Foundation bosses.
     * Find the Aether Foundation bosses, and battle them!
