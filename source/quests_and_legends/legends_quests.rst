@@ -478,7 +478,7 @@ Kubfu
 .. dropdown:: Dark Kubfu Tower
     :animate: fade-in-slide-down
 
-    * Summons :ref:`kubfu`
+    * Contains **Parchment of Darkness**
     * Found in **Extreme Hills**
     * Found in biomes tagged as ``#minecraft:is_hill`` or ``#pokecube_world:is_ultraspace/is_hill``
 
@@ -488,7 +488,7 @@ Kubfu
 .. dropdown:: Water Kubfu Tower
     :animate: fade-in-slide-down
 
-    * Summons :ref:`kubfu`
+    * Contains **Parchment of Water**
     * Found in **Beaches** & **Stony Shores**
     * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
 
