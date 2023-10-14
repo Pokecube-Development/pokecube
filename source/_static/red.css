@@ -39,15 +39,28 @@
      white-space: nowrap;
  }
 
+ /* Home Icon */
  .wy-breadcrumbs a.icon.icon-home {
      color: #ad2c1d;
  }
 
+ /* Github Link */
  a.fa.fa-github {
      color: #ad2c1d;
  }
 
- /* -- button formatting ------------------------------------------------------ */
+ /* Carousel Caption Background */
+ .scc-below-control {
+    border-radius: 100rem;
+    margin-top: 0.75rem;
+ }
+
+ /* Carousel Captions */
+ .scbs-carousel-caption {
+    padding-top: 0.75rem;
+ }
+
+ /* Button Formatting */
  .red-dot {
     color: #ad2c1d;
     background-color: #ad2c1d;
