@@ -61,6 +61,27 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             .. image:: ../_images/legends_wiki/items/mint.png
                 :alt: Mints
 
+    .. grid:: 1
+
+        .. grid-item-card:: Exploration Maps
+
+            - An alternative way to locate legendary structures!
+            - Found in Ruins
+
+            .. carousel::
+                :show_captions_below:
+                :show_controls:
+                :show_indicators:
+                :show_shadows:
+
+                .. figure:: ../_images/legends_wiki/treasure_map_looking.png
+                    
+                    Treasure Map
+
+                .. figure:: ../_images/legends_wiki/treasure_map_legend.png
+                    
+                    Ruins: Location of Maps
+
 **Blocks**
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
@@ -420,6 +441,7 @@ The structures differ depending on their biome, which makes the structure more v
 **Legendary Structures**
 ========================
 While exploring the world you will find many different structures. They are the **'Temples of Legendary'**.
+
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share the structure.
 
@@ -712,22 +734,6 @@ Ruins of Regi
     :alt: zacian_zamazenta
 .. image:: ../_images/legends_wiki/zamazenta_temple.png
     :alt: zacian_zamazenta
-
-Treasure Maps
-~~~~~~~~~~~~~
-An alternative way to locate the legendary structures is to search for treasure maps!
-They are located in this structure, similar to a ruin.
-
-.. image:: ../_images/legends_wiki/treasure_map_legend.png
-    :alt: treasure map
-
-When you open the chest you will find maps with the location of the structures.
-
-.. image:: ../_images/legends_wiki/treasure_maps.png
-    :alt: treasure map
-
-.. image:: ../_images/legends_wiki/treasure_map_looking.png
-    :alt: treasure map
 
 **Summoning Blocks**
 ====================
