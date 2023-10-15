@@ -514,75 +514,87 @@ Sky Pillar
     .. image:: ../_images/legends_wiki/sky_pillar.png
         :alt: sky_pillar
 
-Ruins of Regi (:ref:`regice`)
-~~~~~~~~~~~~~~~~
+Ruins of Regi
+~~~~~~~~~~~~~~
 
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Biome: Snown
+    .. dropdown:: Regice Temple
+        :animate: fade-in-slide-down
 
-    .. image:: ../_images/legends_wiki/regice_temple.png
+        * Summons :ref:`regice`
+        * Found in **Snowy** Biomes
+        * Found in biomes tagged as ``#forge:is_cold/overworld``
+
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+
+            .. figure::  ../_images/legends_wiki/regice_temple.png
+                
+                Regice Temple
+
+            .. figure:: ../_images/legends_wiki/regice_totem_template.png
+                
+                Regice Totem Template
+
+    **Ruins of Regirock** (:ref:`regirock`)
+
+    * Biome: Desert
+
+    .. image:: ../_images/legends_wiki/regirock_temple.png
+        :alt: Ruins of Regirock
+    .. image:: ../_images/legends_wiki/regirock_temple_inside.png
+        :alt: Ruins of Regirock
+    .. image:: ../_images/legends_wiki/regirock_totem_room.png
+        :alt: Ruins of Regirock
+
+    **Ruins of Registeel** (:ref:`registeel`)
+
+    * Biome: Extreme Hills
+
+    .. image:: ../_images/legends_wiki/registeel_temple.png
+        :alt: Ruins of Registeel
+    .. image:: ../_images/legends_wiki/registeel_temple_inside.png
+        :alt: Ruins of Registeel
+    .. image:: ../_images/legends_wiki/registeel_totem_room.png
+        :alt: Ruins of Registeel
+
+    **Ruins of Regieleki** (:ref:`regieleki`)
+
+    * Biome: Savanna
+
+    .. image:: ../_images/legends_wiki/regielec_temple.png
+        :alt: Ruins of Regieleki
+    .. image:: ../_images/legends_wiki/regielec_temple_inside.png
+        :alt: Ruins of Regieleki
+    .. image:: ../_images/legends_wiki/regielec_totem_room.png
+        :alt: Ruins of Regieleki
+
+    **Ruins of Regidrago** (:ref:`regidrago`)
+
+    * Biome: Badlands
+
+    .. image:: ../_images/legends_wiki/regidrago_temple.png
+        :alt: Ruins of Regidrago
+    .. image:: ../_images/legends_wiki/regidrago_temple_inside.png
         :alt: Ruins of Regice
-    .. image:: ../_images/legends_wiki/regice_temple_inside.png
-        :alt: Ruins of Regice
-    .. image:: ../_images/legends_wiki/regice_totem_room.png
+    .. image:: ../_images/legends_wiki/regidrago_totem_room.png
         :alt: Ruins of Regice
 
-**Ruins of Regirock** (:ref:`regirock`)
+    **Ruins of Regigigas** (:ref:`regigigas`)
 
-* Biome: Desert
+    * Biome: Snow
 
-.. image:: ../_images/legends_wiki/regirock_temple.png
-    :alt: Ruins of Regirock
-.. image:: ../_images/legends_wiki/regirock_temple_inside.png
-    :alt: Ruins of Regirock
-.. image:: ../_images/legends_wiki/regirock_totem_room.png
-    :alt: Ruins of Regirock
-
-**Ruins of Registeel** (:ref:`registeel`)
-
-* Biome: Extreme Hills
-
-.. image:: ../_images/legends_wiki/registeel_temple.png
-    :alt: Ruins of Registeel
-.. image:: ../_images/legends_wiki/registeel_temple_inside.png
-    :alt: Ruins of Registeel
-.. image:: ../_images/legends_wiki/registeel_totem_room.png
-    :alt: Ruins of Registeel
-
-**Ruins of Regieleki** (:ref:`regieleki`)
-
-* Biome: Savanna
-
-.. image:: ../_images/legends_wiki/regielec_temple.png
-    :alt: Ruins of Regieleki
-.. image:: ../_images/legends_wiki/regielec_temple_inside.png
-    :alt: Ruins of Regieleki
-.. image:: ../_images/legends_wiki/regielec_totem_room.png
-    :alt: Ruins of Regieleki
-
-**Ruins of Regidrago** (:ref:`regidrago`)
-
-* Biome: Badlands
-
-.. image:: ../_images/legends_wiki/regidrago_temple.png
-    :alt: Ruins of Regidrago
-.. image:: ../_images/legends_wiki/regidrago_temple_inside.png
-    :alt: Ruins of Regice
-.. image:: ../_images/legends_wiki/regidrago_totem_room.png
-    :alt: Ruins of Regice
-
-**Ruins of Regigigas** (:ref:`regigigas`)
-
-* Biome: Snow
-
-.. image:: ../_images/legends_wiki/regigigas_temple.png
-    :alt: Ruins of Regigigas
-.. image:: ../_images/legends_wiki/regigigas_mainroom.png
-    :alt: Ruins of Regice
-.. image:: ../_images/legends_wiki/regigigas_totemroom.png
-    :alt: Ruins of Regice
+    .. image:: ../_images/legends_wiki/regigigas_temple.png
+        :alt: Ruins of Regigigas
+    .. image:: ../_images/legends_wiki/regigigas_mainroom.png
+        :alt: Ruins of Regice
+    .. image:: ../_images/legends_wiki/regigigas_totemroom.png
+        :alt: Ruins of Regice
 
 **Groudon Altar** (:ref:`groudon`)
 
