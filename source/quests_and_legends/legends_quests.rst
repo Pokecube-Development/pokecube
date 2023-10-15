@@ -541,16 +541,26 @@ Ruins of Regi
                 
                 Regice Totem Template
 
-    **Ruins of Regirock** (:ref:`regirock`)
+    .. dropdown:: Regirock Temple
+        :animate: fade-in-slide-down
 
-    * Biome: Desert
+        * Summons :ref:`regirock`
+        * Found in **Deserts**
+        * Found in biomes tagged as ``#forge:is_sandy``
 
-    .. image:: ../_images/legends_wiki/regirock_temple.png
-        :alt: Ruins of Regirock
-    .. image:: ../_images/legends_wiki/regirock_temple_inside.png
-        :alt: Ruins of Regirock
-    .. image:: ../_images/legends_wiki/regirock_totem_room.png
-        :alt: Ruins of Regirock
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+
+            .. figure:: ../_images/legends_wiki/regirock_temple.png
+                
+                Regirock Temple
+
+            .. figure:: ../_images/legends_wiki/regirock_totem_template.png
+                
+                Regirock Totem Template
 
     **Ruins of Registeel** (:ref:`registeel`)
 
