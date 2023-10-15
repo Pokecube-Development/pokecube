@@ -562,16 +562,26 @@ Ruins of Regi
                 
                 Regirock Totem Template
 
-    **Ruins of Registeel** (:ref:`registeel`)
+    .. dropdown:: Registeel Temple
+        :animate: fade-in-slide-down
 
-    * Biome: Extreme Hills
+        * Summons :ref:`registeel`
+        * Found in **Extreme Hills** & **Taigas**
+        * Found in biomes tagged as ``#minecraft:is_hill`` or ``#minecraft:is_taiga``
 
-    .. image:: ../_images/legends_wiki/registeel_temple.png
-        :alt: Ruins of Registeel
-    .. image:: ../_images/legends_wiki/registeel_temple_inside.png
-        :alt: Ruins of Registeel
-    .. image:: ../_images/legends_wiki/registeel_totem_room.png
-        :alt: Ruins of Registeel
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+
+            .. figure:: ../_images/legends_wiki/registeel_temple.png
+                
+                Registeel Temple
+                
+            .. figure:: ../_images/legends_wiki/registeel_totem_template.png
+                
+                Registeel Totem Template
 
     **Ruins of Regieleki** (:ref:`regieleki`)
 
