@@ -604,16 +604,26 @@ Ruins of Regi
                 
                 Registeel Totem Template
 
-    **Ruins of Regieleki** (:ref:`regieleki`)
+    .. dropdown:: Regieleki Temple
+        :animate: fade-in-slide-down
 
-    * Biome: Savanna
+        * Summons :ref:`regieleki`
+        * Found in **Badlands**
+        * Found in biomes tagged as ``#minecraft:is_badlands``
 
-    .. image:: ../_images/legends_wiki/regielec_temple.png
-        :alt: Ruins of Regieleki
-    .. image:: ../_images/legends_wiki/regielec_temple_inside.png
-        :alt: Ruins of Regieleki
-    .. image:: ../_images/legends_wiki/regielec_totem_room.png
-        :alt: Ruins of Regieleki
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+
+            .. figure:: ../_images/legends_wiki/regieleki_temple.png
+                
+                Regieleki Temple
+                
+            .. figure:: ../_images/legends_wiki/regieleki_totem_template.png
+                
+                Regieleki Totem Template
 
     **Ruins of Regidrago** (:ref:`regidrago`)
 
