@@ -632,24 +632,38 @@ Ruins of Regi
         * Found in the **Nether**
         * Found in biomes tagged as ``#minecraft:is_nether``
 
-        .. figure:: ../_images/legends_wiki/regidrago_temple.png
-            
-            Regidrago Temple
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
 
-        .. figure:: ../_images/legends_wiki/regidrago_totem_template.png
-            
-            Regidrago Totem Template
+            .. figure:: ../_images/legends_wiki/regidrago_temple.png
+                
+                Regidrago Temple
 
-    **Ruins of Regigigas** (:ref:`regigigas`)
+            .. figure:: ../_images/legends_wiki/regidrago_totem_template.png
+                
+                Regidrago Totem Template
 
-    * Biome: Snow
+    .. dropdown:: Regigigas Temple
+        :animate: fade-in-slide-down
 
-    .. image:: ../_images/legends_wiki/regigigas_temple.png
-        :alt: Ruins of Regigigas
-    .. image:: ../_images/legends_wiki/regigigas_mainroom.png
-        :alt: Ruins of Regice
-    .. image:: ../_images/legends_wiki/regigigas_totemroom.png
-        :alt: Ruins of Regice
+        * Summons :ref:`regigigas`
+        * Found in **Cold** biomes
+        * Found in biomes tagged as ``#forge:is_cold/overworld``
+
+        .. carousel::
+            :show_captions_below:
+            :show_controls:
+            :show_indicators:
+            :show_shadows:
+
+            .. figure:: ../_images/legends_wiki/regigigas_temple.png
+                :alt: Regigigas Temple
+
+            .. figure:: ../_images/legends_wiki/regigigas_totem_template.png
+                :alt: Regigigas Totem Template
 
 **Groudon Altar** (:ref:`groudon`)
 
