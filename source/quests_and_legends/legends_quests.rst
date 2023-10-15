@@ -61,26 +61,25 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             .. image:: ../_images/legends_wiki/items/mint.png
                 :alt: Mints
 
-    .. grid:: 1
+.. dropdown:: Exploration Maps
+    :animate: fade-in-slide-down
 
-        .. grid-item-card:: Exploration Maps
+    - An alternative way to locate legendary structures!
+    - Found in Ruins
 
-            - An alternative way to locate legendary structures!
-            - Found in Ruins
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
 
-            .. carousel::
-                :show_captions_below:
-                :show_controls:
-                :show_indicators:
-                :show_shadows:
+        .. figure:: ../_images/legends_wiki/treasure_map_looking.png
+            
+            Treasure Map
 
-                .. figure:: ../_images/legends_wiki/treasure_map_looking.png
-                    
-                    Treasure Map
-
-                .. figure:: ../_images/legends_wiki/treasure_map_legend.png
-                    
-                    Ruins: Location of Maps
+        .. figure:: ../_images/legends_wiki/treasure_map_legend.png
+            
+            Ruins: Location of Maps
 
 **Blocks**
 ~~~~~~~~~~~~~
