@@ -423,59 +423,62 @@ While exploring the world you will find many different structures. They are the 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share the structure.
 
-Celebi
-~~~~~~~
+Celebi Temple
+~~~~~~~~~~~~~~
 
-.. dropdown:: Celebi Temple
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`celebi`
+    * Summons :ref:`articuno`, :ref:`celebi`, :ref:`diancie`, :ref:`moltres`, :ref:`zapdos`
     * Found in **Forests**
     * Found in biomes tagged as ``#minecraft:is_forest``, ``#minecraft:is_jungle``, or ``#forge:is_lush``
 
     .. image:: ../_images/legends_wiki/celebi_temple.png
         :alt: Celebi Temple
 
-Ho-Oh
-~~~~~~
+Ho-Oh Temple
+~~~~~~~~~~~~~
 
-.. dropdown:: Ho-Oh Temple
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`ho-oh`
+    * Summons :ref:`articuno`, :ref:`entei`, :ref:`ho-oh`, :ref:`hoopa_confined`, :ref:`raikou`, :ref:`suicune`, :ref:`zapdos`
     * Found in **Plains**
     * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``
 
     .. image:: ../_images/legends_wiki/ho_oh_tower.png
         :alt: Ho-oh Temple
 
-Articuno, Zapdos, & Moltres
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Legendary Tree
+~~~~~~~~~~~~~~~
 
-.. dropdown:: Legendary Tree
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`zapdos`, & :ref:`moltres`
+    * Summons :ref:`articuno`, :ref:`diancie`, :ref:`moltres`, :ref:`zapdos`
     * Found in **Plains** & **Forests**
     * Found in biomes tagged as ``#minecraft:is_forest``, ``#forge:is_plains``, ``#pokecube_world:is_ultraspace/is_forest``, or ``#pokecube_world:is_ultraspace/is_plains``
 
     .. image:: ../_images/legends_wiki/legendary_tree.png
         :alt: Legendary tree
 
-Kubfu
-~~~~~~
+Kubfu Dojo
+~~~~~~~~~~~
 
-.. dropdown:: Kubfu Dojo
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`kubfu`
+    * Summons :ref:`articuno`, :ref:`entei`, :ref:`hoopa_confined`, :ref:`kubfu`, :ref:`moltres`, & :ref:`zapdos`
     * Found in **Plains**
     * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``
 
     .. image:: ../_images/legends_wiki/kubfu_dojo.png
         :alt: Kubfu Dojo
 
-.. dropdown:: Dark Kubfu Tower
+Dark Kubfu Tower
+~~~~~~~~~~~~~~~~~
+
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
     * Contains **Parchment of Darkness**
@@ -485,7 +488,10 @@ Kubfu
     .. image:: ../_images/legends_wiki/kubfu_tower_dark.png
         :alt: Dark Kubfu Tower
 
-.. dropdown:: Water Kubfu Tower
+Water Kubfu Tower
+~~~~~~~~~~~~~~~~~~
+
+.. dropdown:: Description
     :animate: fade-in-slide-down
 
     * Contains **Parchment of Water**
@@ -501,23 +507,27 @@ Sky Pillar
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`deoxys`, :ref:`hoopa`, :ref:`latias`, :ref:`latios`, :ref:`jirachi`, :ref:`rayquaza`, & :ref:`zapdos`
+    * Summons :ref:`articuno`, :ref:`deoxys`, :ref:`hoopa_confined`, :ref:`latias`, :ref:`latios`, :ref:`jirachi`, :ref:`rayquaza`, & :ref:`zapdos`
     * Found in **Beaches** & **Stony Shores**
     * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
 
     .. image:: ../_images/legends_wiki/sky_pillar.png
         :alt: sky_pillar
 
-**Ruins of Regice** (:ref:`regice`)
+Ruins of Regi (:ref:`regice`)
+~~~~~~~~~~~~~~~~
 
-* Biome: Snown
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/regice_temple.png
-    :alt: Ruins of Regice
-.. image:: ../_images/legends_wiki/regice_temple_inside.png
-    :alt: Ruins of Regice
-.. image:: ../_images/legends_wiki/regice_totem_room.png
-    :alt: Ruins of Regice
+    * Biome: Snown
+
+    .. image:: ../_images/legends_wiki/regice_temple.png
+        :alt: Ruins of Regice
+    .. image:: ../_images/legends_wiki/regice_temple_inside.png
+        :alt: Ruins of Regice
+    .. image:: ../_images/legends_wiki/regice_totem_room.png
+        :alt: Ruins of Regice
 
 **Ruins of Regirock** (:ref:`regirock`)
 
