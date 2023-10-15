@@ -625,16 +625,20 @@ Ruins of Regi
                 
                 Regieleki Totem Template
 
-    **Ruins of Regidrago** (:ref:`regidrago`)
+    .. dropdown:: Regidrago Temple
+        :animate: fade-in-slide-down
 
-    * Biome: Badlands
+        * Summons :ref:`regidrago`
+        * Found in the **Nether**
+        * Found in biomes tagged as ``#minecraft:is_nether``
 
-    .. image:: ../_images/legends_wiki/regidrago_temple.png
-        :alt: Ruins of Regidrago
-    .. image:: ../_images/legends_wiki/regidrago_temple_inside.png
-        :alt: Ruins of Regice
-    .. image:: ../_images/legends_wiki/regidrago_totem_room.png
-        :alt: Ruins of Regice
+        .. figure:: ../_images/legends_wiki/regidrago_temple.png
+            
+            Regidrago Temple
+
+        .. figure:: ../_images/legends_wiki/regidrago_totem_template.png
+            
+            Regidrago Totem Template
 
     **Ruins of Regigigas** (:ref:`regigigas`)
 
