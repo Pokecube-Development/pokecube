@@ -533,7 +533,7 @@ Sky Pillar
     * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
 
     .. image:: ../_images/legends_wiki/sky_pillar.png
-        :alt: sky_pillar
+        :alt: Sky Pillar
 
 Ruins of Regi
 ~~~~~~~~~~~~~~
@@ -660,10 +660,25 @@ Ruins of Regi
             :show_shadows:
 
             .. figure:: ../_images/legends_wiki/regigigas_temple.png
-                :alt: Regigigas Temple
+                
+                Regigigas Temple
 
             .. figure:: ../_images/legends_wiki/regigigas_totem_template.png
-                :alt: Regigigas Totem Template
+                
+                Regigigas Totem Template
+
+Kyogre Temple
+~~~~~~~~~~~~~~
+
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    * Summons :ref:`hoopa_confined`, :ref:`kyogre`, :ref:`manaphy_necklace`, :ref:`moltres`, :ref:`zapdos`
+    * Found in **Oceans**
+    * Found in biomes tagged as ``#forge:is_water``
+
+    .. image:: ../_images/legends_wiki/kyogre_temple.png
+        :alt: Kyogre Altar
 
 **Groudon Altar** (:ref:`groudon`)
 
@@ -671,13 +686,6 @@ Ruins of Regi
 
 .. image:: ../_images/legends_wiki/groudon_temple.png
     :alt: Groudon Altar
-
-**Kyogre Altar** (:ref:`kyogre`)
-
-* Biome: Ocean
-
-.. image:: ../_images/legends_wiki/kyogre_temple.png
-    :alt: Kyogre Altar
 
 **Lugia Tower** (:ref:`lugia`)
 
