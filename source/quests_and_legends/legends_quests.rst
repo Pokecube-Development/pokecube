@@ -678,14 +678,20 @@ Kyogre Temple
     * Found in biomes tagged as ``#forge:is_water``
 
     .. image:: ../_images/legends_wiki/kyogre_temple.png
-        :alt: Kyogre Altar
+        :alt: Kyogre Temple
 
-**Groudon Altar** (:ref:`groudon`)
+Groudon Temple
+~~~~~~~~~~~~~~~
 
-* Dimension: Nether
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/groudon_temple.png
-    :alt: Groudon Altar
+    * Summons :ref:`entei`, :ref:`groudon`, :ref:`hoopa_confined`
+    * Found in the **Nether**
+    * Found in biomes tagged as ``#minecraft:is_nether``
+
+    .. image:: ../_images/legends_wiki/groudon_temple.png
+        :alt: Groudon Temple
 
 **Lugia Tower** (:ref:`lugia`)
 
