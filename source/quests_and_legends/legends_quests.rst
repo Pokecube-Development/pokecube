@@ -693,16 +693,23 @@ Groudon Temple
     .. image:: ../_images/legends_wiki/groudon_temple.png
         :alt: Groudon Temple
 
-**Lugia Tower** (:ref:`lugia`)
+Lugia Tower
+~~~~~~~~~~~~
 
-* Biome: Beach
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/lugia_tower.png
-    :alt: Lugia Tower
+    * Summons :ref:`articuno`, :ref:`hoopa_confined`, :ref:`latias`, :ref:`latios`, :ref:`lugia`, :ref:`moltres`, :ref:`zapdos`
+    * Found in **Beaches** or **Stony Shores**
+    * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
+
+    .. image:: ../_images/legends_wiki/lugia_tower.png
+        :alt: Lugia Tower
+
+Yveltal Ruins
+~~~~~~~~~~~~~~
 
 **Yveltal Ruins** (:ref:`yveltal`)
-
-* Biome: Desert
 
 .. image:: ../_images/legends_wiki/yveltal_temple.png
     :alt: Yveltal Egg
