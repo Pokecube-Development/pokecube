@@ -545,7 +545,7 @@ Ruins of Regi
         :animate: fade-in-slide-down
 
         * Summons :ref:`regice`
-        * Found in **Snowy** Biomes
+        * Found in **snowy** Biomes
         * Found in biomes tagged as ``#forge:is_cold/overworld``
 
         .. carousel::
@@ -650,7 +650,7 @@ Ruins of Regi
         :animate: fade-in-slide-down
 
         * Summons :ref:`regigigas`
-        * Found in **Cold** biomes
+        * Found in **cold** biomes
         * Found in biomes tagged as ``#forge:is_cold/overworld``
 
         .. carousel::
@@ -709,10 +709,15 @@ Lugia Tower
 Yveltal Ruins
 ~~~~~~~~~~~~~~
 
-**Yveltal Ruins** (:ref:`yveltal`)
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/yveltal_temple.png
-    :alt: Yveltal Egg
+    * Summons :ref:`yveltal` & :ref:`zygardecube`
+    * Found in **sandy** biomes
+    * Found in biomes tagged as ``#forge:is_sandy`` or ``#pokecube_world:is_ultraspace/is_sandy``
+
+    .. image:: ../_images/legends_wiki/yveltal_temple.png
+        :alt: Yveltal Ruins
 
 **Xerneas Tree** (:ref:`xerneas`)
 
