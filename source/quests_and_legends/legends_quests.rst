@@ -673,7 +673,7 @@ Kyogre Temple
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`hoopa_confined`, :ref:`kyogre`, :ref:`manaphy_necklace`, :ref:`moltres`, :ref:`zapdos`
+    * Summons :ref:`hoopa_confined`, :ref:`kyogre`, :ref:`manaphy`, :ref:`moltres`, :ref:`zapdos`
     * Found in **Oceans**
     * Found in biomes tagged as ``#forge:is_water``
 
@@ -686,7 +686,7 @@ Groudon Temple
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`entei`, :ref:`groudon`, :ref:`hoopa_confined`
+    * Summons :ref:`entei`, :ref:`groudon`, & :ref:`hoopa_confined`
     * Found in the **Nether**
     * Found in biomes tagged as ``#minecraft:is_nether``
 
@@ -699,7 +699,7 @@ Lugia Tower
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`hoopa_confined`, :ref:`latias`, :ref:`latios`, :ref:`lugia`, :ref:`moltres`, :ref:`zapdos`
+    * Summons :ref:`articuno`, :ref:`hoopa_confined`, :ref:`latias`, :ref:`latios`, :ref:`lugia`, :ref:`moltres`, & :ref:`zapdos`
     * Found in **Beaches** or **Stony Shores**
     * Found in biomes tagged as ``#minecraft:is_beach`` or ``#pokecube_world:is_ultraspace/is_beach``
 
