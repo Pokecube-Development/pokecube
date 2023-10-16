@@ -712,7 +712,7 @@ Yveltal Ruins
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`yveltal` & :ref:`zygardecube`
+    * Summons :ref:`yveltal` & :ref:`zygarde_50`
     * Found in **sandy** biomes
     * Found in biomes tagged as ``#forge:is_sandy`` or ``#pokecube_world:is_ultraspace/is_sandy``
 
@@ -721,10 +721,18 @@ Yveltal Ruins
 
 **Xerneas Tree** (:ref:`xerneas`)
 
-* Biome: Dark Oak Forest
+Xerneas Tree
+~~~~~~~~~~~~~
 
-.. image:: ../_images/legends_wiki/xerneas_tree.png
-    :alt: Xerneas Tree
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    * Summons :ref:`xerneas` & :ref:`zygarde_50`
+    * Found in **Dark Forests**
+    * Found in biomes tagged as ``#forge:is_spooky`` or ``#pokecube_world:is_ultraspace/is_forest``
+
+    .. image:: ../_images/legends_wiki/xerneas_tree.png
+        :alt: Xerneas Tree
 
 **Keldeo Altar** (:ref:`keldeo`)
 
