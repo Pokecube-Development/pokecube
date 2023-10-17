@@ -719,8 +719,6 @@ Yveltal Ruins
     .. image:: ../_images/legends_wiki/yveltal_temple.png
         :alt: Yveltal Ruins
 
-**Xerneas Tree** (:ref:`xerneas`)
-
 Xerneas Tree
 ~~~~~~~~~~~~~
 
@@ -734,12 +732,18 @@ Xerneas Tree
     .. image:: ../_images/legends_wiki/xerneas_tree.png
         :alt: Xerneas Tree
 
-**Keldeo Altar** (:ref:`keldeo`)
+Keldeo Altar
+~~~~~~~~~~~~~
 
-* Biome: Extreme Hills
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/keldeo_temple.png
-    :alt: Keldeo Sword
+    * Summons :ref:`xerneas` & :ref:`zygarde_50`
+    * Found in **Extreme Hills**, **Mountains**, & **Taigas**
+    * Found in biomes tagged as ``#minecraft:is_hill``, ``#minecraft:is_mountain``, ``#minecraft:is_taiga``, or ``#forge:is_coniferous``
+
+    .. image:: ../_images/legends_wiki/keldeo_temple.png
+        :alt: Keldeo Altar
 
 **N's Castle** (:ref:`zekrom`/:ref:`reshiram`)
 
