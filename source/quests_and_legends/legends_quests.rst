@@ -294,11 +294,11 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Aether Foundation
     :animate: fade-in-slide-down
 
-    * The structure appears in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**.
-    * It will not appear in biomes tagged as ``#forge:is_cold`` or ``#forge:is_snowy``.
-    * The Aether Foundation is considered a Village.
-    * Buy important items from Aether Foundation bosses.
     * Find the Aether Foundation bosses, and battle them!
+    * Buy important items from Aether Foundation bosses
+    * Considered a Village
+    * Found in biomes tagged as ``#minecraft:is_ocean``, such as **Warm Oceans**
+    * Found in biomes **not** tagged as ``#forge:is_cold`` or ``#forge:is_snowy``
 
     .. carousel::
         :show_captions_below:
@@ -321,11 +321,10 @@ The structures differ depending on their biome, which makes the structure more v
 
     Yes, there is an **Elite Four**! But in this case, it's much more complicated to beat them! 
 
-    * The structure appears in any biomes tagged as ``#minecraft:is_overworld``.
-    * It will not appear in biomes tagged as ``#minecraft:is_beach``, ``#minecraft:is_ocean``, ``#minecraft:is_river``, or ``#forge:is_mushroom``.
-    * The structure has four trainers, which are randomized when the structure is generated. 
-    * Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
     * Battle the Elite Four!
+    * Trainers sell strong items, but they also have strong |pokemobs|, so be warned!
+    * Found in any biomes tagged as ``#minecraft:is_overworld``
+    * Found in biomes **not** tagged as ``#minecraft:is_beach``, ``#minecraft:is_ocean``, ``#minecraft:is_river``, or ``#forge:is_mushroom``
 
     .. carousel::
         :show_captions_below:
@@ -368,9 +367,9 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Aqua
     :animate: fade-in-slide-down
 
-    * Team Aqua's Hideout only appears in **Beaches** or **Swamps**.
-    * Their hideouts also appear in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``.
     * Find Archie, and battle him!
+    * Found in **Beaches** or **Swamps**
+    * Found in biomes tagged as ``#minecraft:is_beach`` or ``#forge:is_swamp``
 
     .. carousel::
         :show_captions_below:
@@ -391,9 +390,9 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Magma
     :animate: fade-in-slide-down
     
-    * The Team Magma's Hideout appears in **Deserts** or **Badlands**.
-    * Their hideouts also appear in biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``.
     * Find Maxie, and battle him!
+    * Found in **Deserts** or **Badlands**
+    * Found in biomes tagged as ``#minecraft:is_badlands`` or ``#forge:is_sandy``
 
     .. carousel::
         :show_captions_below:
@@ -414,10 +413,10 @@ The structures differ depending on their biome, which makes the structure more v
 .. dropdown:: Team Rocket
     :animate: fade-in-slide-down
 
-    * Team Rocket's Hideout appear in **Plains**.
-    * Their hideouts also appear in biomes tagged as ``"#forge:is_plains"``.
-    * Team Rocket's Hideout has a look reminiscent of the Red/Blue games.
     * Find Giovanni, and battle him!
+    * Team Rocket's Hideout has a look reminiscent of the Red/Blue games
+    * Found in **Plains**
+    * Found in biomes tagged as ``"#forge:is_plains"``
 
     .. carousel::
         :show_captions_below:
@@ -444,13 +443,38 @@ While exploring the world you will find many different structures. They are the 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share structures.
 
+Castle of N (:ref:`zekrom`/:ref:`reshiram`)
+~~~~~~~~~~~~
+
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    * Find N, and battle him!
+    * Summons :ref:`reshiram` & :ref:`zekrom`
+    * Found in **Taigas**
+    * Found in biomes tagged as ``#minecraft:is_taiga``
+
+    .. carousel::
+        :show_captions_below:
+        :show_controls:
+        :show_indicators:
+        :show_shadows:
+
+        .. figure:: ../_images/legends_wiki/castle_n.png
+            
+            Castle of N
+            
+        .. figure:: ../_images/legends_wiki/castle_n_boss_room.png
+            
+            Battle N!
+
 Celebi Temple
 ~~~~~~~~~~~~~~
 
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`celebi`, :ref:`diancie`, :ref:`moltres`, :ref:`zapdos`
+    * Summons :ref:`articuno`, :ref:`celebi`, :ref:`diancie`, :ref:`moltres`, & :ref:`zapdos`
     * Found in **Forests**
     * Found in biomes tagged as ``#minecraft:is_forest``, ``#minecraft:is_jungle``, or ``#forge:is_lush``
 
@@ -463,7 +487,7 @@ Ho-Oh Temple
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`entei`, :ref:`ho-oh`, :ref:`hoopa_confined`, :ref:`raikou`, :ref:`suicune`, :ref:`zapdos`
+    * Summons :ref:`articuno`, :ref:`entei`, :ref:`ho-oh`, :ref:`hoopa_confined`, :ref:`raikou`, :ref:`suicune`, & :ref:`zapdos`
     * Found in **Plains**
     * Found in biomes tagged as ``#forge:is_plains`` or ``#pokecube_world:is_ultraspace/is_plains``
 
@@ -476,7 +500,7 @@ Legendary Tree
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno`, :ref:`diancie`, :ref:`moltres`, :ref:`zapdos`
+    * Summons :ref:`articuno`, :ref:`diancie`, :ref:`moltres`, & :ref:`zapdos`
     * Found in **Plains** & **Forests**
     * Found in biomes tagged as ``#minecraft:is_forest``, ``#forge:is_plains``, ``#pokecube_world:is_ultraspace/is_forest``, or ``#pokecube_world:is_ultraspace/is_plains``
 
@@ -673,7 +697,7 @@ Kyogre Temple
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`hoopa_confined`, :ref:`kyogre`, :ref:`manaphy`, :ref:`moltres`, :ref:`zapdos`
+    * Summons :ref:`hoopa_confined`, :ref:`kyogre`, :ref:`manaphy`, :ref:`moltres`, & :ref:`zapdos`
     * Found in **Oceans**
     * Found in biomes tagged as ``#forge:is_water``
 
@@ -738,25 +762,12 @@ Keldeo Altar
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`xerneas` & :ref:`zygarde_50`
+    * Summons :ref:`cobalion`, :ref:`keldeo`, :ref:`terrakion`, & :ref:`virizion`
     * Found in **Extreme Hills**, **Mountains**, & **Taigas**
     * Found in biomes tagged as ``#minecraft:is_hill``, ``#minecraft:is_mountain``, ``#minecraft:is_taiga``, or ``#forge:is_coniferous``
 
     .. image:: ../_images/legends_wiki/keldeo_temple.png
         :alt: Keldeo Altar
-
-**N's Castle** (:ref:`zekrom`/:ref:`reshiram`)
-
-* Biome: Taiga
-
-.. image:: ../_images/legends_wiki/castle_n.png
-    :alt: tao legendary
-.. image:: ../_images/legends_wiki/castle_n_room_1.png
-    :alt: tao legendary
-.. image:: ../_images/legends_wiki/castle_n_room_2.png
-    :alt: tao legendary
-.. image:: ../_images/legends_wiki/castle_n_boss_room.png
-    :alt: tao legendary
 
 **Nature's Altar** (:ref:`thundurus_incarnate`/:ref:`tornadus_incarnate`/:ref:`landorus_incarnate`)
 
