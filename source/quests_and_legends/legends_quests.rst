@@ -769,12 +769,18 @@ Keldeo Altar
     .. image:: ../_images/legends_wiki/keldeo_temple.png
         :alt: Keldeo Altar
 
-**Nature's Altar** (:ref:`thundurus_incarnate`/:ref:`tornadus_incarnate`/:ref:`landorus_incarnate`)
+Nature's Place
+~~~~~~~~~~~~~~~
 
-* Biome: Swamp
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/nature_place.png
-    :alt: Thundurus/Tornadus/Landorus Altar
+    * Summons :ref:`landorus_incarnate`, :ref:`meloetta_aria`, :ref:`thundurus_incarnate`, & :ref:`tornadus_incarnate`
+    * Found in **Swamps**
+    * Found in biomes tagged as ``#forge:is_swamp``
+
+    .. image:: ../_images/legends_wiki/nature_place.png
+        :alt: Nature's Place
 
 **Altar of Time and Space** (:ref:`dialga`/:ref:`palkia`/:ref:`arceus`)
 
