@@ -443,7 +443,7 @@ While exploring the world you will find many different structures. They are the 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share structures.
 
-Castle of N (:ref:`zekrom`/:ref:`reshiram`)
+Castle of N 
 ~~~~~~~~~~~~
 
 .. dropdown:: Description
