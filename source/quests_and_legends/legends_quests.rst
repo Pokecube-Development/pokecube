@@ -795,17 +795,18 @@ Altar of Time & Space
     .. image:: ../_images/legends_wiki/time_space_temple.png
         :alt: Altar of Time & Space
 
-**Tapus Temple**
-(:ref:`tapu_koko`/:ref:`tapu_fini`/:ref:`tapu_lele`/:ref:`tapu_bulu`)
- 
-* Biome: Beach
+Tapu Center
+~~~~~~~~~~~~
 
-.. image:: ../_images/legends_wiki/tapus_temple.png
-    :alt: tapus_temple
-.. image:: ../_images/legends_wiki/tapus_center.png
-    :alt: tapus_temple
-.. image:: ../_images/legends_wiki/tapus_room.png
-    :alt: tapus_temple
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    * Summons :ref:`tapu_bulu`, :ref:`tapu_fini`, :ref:`tapu_koko`, & :ref:`tapu_lele`
+    * Found in **Beaches** & **Stony Shores**
+    * Found in biomes tagged as ``#minecraft:is_beach``
+
+    .. image:: ../_images/legends_wiki/tapus_center.png
+        :alt: Tapu Center
 	
 **Necrozma Tower** (:ref:`necrozma`) 
 
