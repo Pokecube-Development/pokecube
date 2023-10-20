@@ -807,6 +807,25 @@ Tapu Center
 
     .. image:: ../_images/legends_wiki/tapus_center.png
         :alt: Tapu Center
+
+Zacian Ruined Portal
+~~~~~~~~~~~~~~~~~~~~~
+
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    * Summons :ref:`articuno` & :ref:`zacian`
+    * Found in **Dark Forests**
+    * Found in biomes tagged as ``#forge:is_spooky`` or ``#pokecube_world:is_ultraspace/is_taiga``
+
+    .. image:: ../_images/legends_wiki/zacian_temple.png
+        :alt: Zacian Ruined Portal
+
+**Stone Portal** (:ref:`zacian`/:ref:`zamazenta`)
+
+* Biome: River
+.. image:: ../_images/legends_wiki/zamazenta_temple.png
+    :alt: zacian_zamazenta
 	
 **Necrozma Tower** (:ref:`necrozma`) 
 
@@ -814,15 +833,6 @@ Tapu Center
 
 .. image:: ../_images/legends_wiki/necrozma_tower.png
     :alt: necrozma_tower
-
-**Stone Portal** (:ref:`zacian`/:ref:`zamazenta`)
-
-* Biome: River
-
-.. image:: ../_images/legends_wiki/zacian_temple.png
-    :alt: zacian_zamazenta
-.. image:: ../_images/legends_wiki/zamazenta_temple.png
-    :alt: zacian_zamazenta
 
 **Summoning Blocks**
 ====================
