@@ -814,7 +814,7 @@ Zacian Ruined Portal
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno` & :ref:`zacian`
+    * Summons :ref:`zacian`
     * Found in **Dark Forests**
     * Found in biomes tagged as ``#forge:is_spooky`` or ``#pokecube_world:is_ultraspace/is_taiga``
 
@@ -827,19 +827,25 @@ Zamazenta Ruined Portal
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    * Summons :ref:`articuno` & :ref:`zamazenta`
+    * Summons :ref:`zamazenta`
     * Found in **Dark Forests**
     * Found in biomes tagged as ``#forge:is_spooky`` or ``#pokecube_world:is_ultraspace/is_taiga``
 
     .. image:: ../_images/legends_wiki/zamazenta_temple.png
         :alt: Zamazenta Ruined Portal
 	
-**Necrozma Tower** (:ref:`necrozma`) 
+Necrozma Tower
+~~~~~~~~~~~~~~~
 
-* Dimension: Ultra Space / Biome: Ultra Dark Valley
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/necrozma_tower.png
-    :alt: necrozma_tower
+    * Summons :ref:`necrozma`
+    * Found in **Ultra Space**
+    * Found in biomes tagged as ``#pokecube_world:is_ultraspace/is_deltas``
+
+    .. image:: ../_images/legends_wiki/necrozma_tower.png
+        :alt: Necrozma Tower
 
 **Summoning Blocks**
 ====================
