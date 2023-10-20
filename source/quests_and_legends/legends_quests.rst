@@ -782,12 +782,18 @@ Nature's Place
     .. image:: ../_images/legends_wiki/nature_place.png
         :alt: Nature's Place
 
-**Altar of Time and Space** (:ref:`dialga`/:ref:`palkia`/:ref:`arceus`)
+Altar of Time & Space
+~~~~~~~~~~~~~~~~~~~~~~
 
-* Dimension: The End
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-.. image:: ../_images/legends_wiki/time_space_temple.png
-    :alt: Space Time Altar
+    * Summons :ref:`arceus`, :ref:`dialga`, & :ref:`palkia`
+    * Found in **The End**
+    * Found in biomes tagged as ``#minecraft:is_end``
+
+    .. image:: ../_images/legends_wiki/time_space_temple.png
+        :alt: Altar of Time & Space
 
 **Tapus Temple**
 (:ref:`tapu_koko`/:ref:`tapu_fini`/:ref:`tapu_lele`/:ref:`tapu_bulu`)
