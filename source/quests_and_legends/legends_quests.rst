@@ -85,6 +85,83 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
+.. dropdown:: Spawner Blocks
+    :animate: fade-in-slide-down
+
+    These blocks are used to summon legendary |pokemobs|. Use the correct summoning item to spawn the legendary |pokemob|.
+    Some blocks have a recipe and others are found in structures.
+
+    .. dropdown:: Spawners found in structures:
+        :animate: fade-in-slide-down
+        
+        .. image:: ../_images/legends_wiki/legendary_blocks_no_recipe.png
+            :alt: Spawners found in structures
+
+    .. dropdown:: Craftable Spawners:
+        :animate: fade-in-slide-down
+
+        .. image:: ../_images/legends_wiki/legendary_blocks_recipes.png
+            :alt: Craftable Spawners
+
+        .. dropdown:: Regi Recipes
+            :animate: fade-in-slide-down
+
+            .. carousel::
+                :show_captions_below:
+                :show_controls:
+                :show_indicators:
+                :show_shadows:
+            
+                **The core block of the Regis**
+
+                .. image:: ../_images/legends_wiki/regirock_block_recipe.png
+                    :alt: Regirock Core Recipe
+                .. image:: ../_images/legends_wiki/regice_block_recipe.png
+                    :alt: Regice Core Recipe
+                .. image:: ../_images/legends_wiki/registeel_block_recipe.png
+                    :alt: Registeel Core Recipe
+                .. image:: ../_images/legends_wiki/regieleck_block_recipe.png
+                    :alt: Regieleki Core Recipe
+                .. image:: ../_images/legends_wiki/regidrago_block_recipe.png
+                    :alt: Regidrago Core Recipe
+                .. image:: ../_images/legends_wiki/regigigas_block_recipe.png
+                    :alt: Regigigas Core Recipe
+
+        .. dropdown:: Recipes
+            :animate: fade-in-slide-down
+
+            .. carousel::
+                :show_captions_below:
+                :show_controls:
+                :show_indicators:
+                :show_shadows:
+
+                **Victini's Summoning Block**
+
+                .. image:: ../_images/legends_wiki/vicktini_block_recipe.png
+                    :alt: Victini Block
+
+                **Trough Block Summoning Block: Glastrier and Spectrier**
+
+                .. image:: ../_images/legends_wiki/calyrex_block_recipe.png
+                    :alt: Horses Block
+
+                **Heatran Summoning Block**
+
+                .. image:: ../_images/legends_wiki/heatran_block_recipe.png
+                    :alt: Heatran Recipe
+
+                **Magearna Summoning Block**
+
+                .. image:: ../_images/legends_wiki/magearna_block_recipe.png
+                    :alt: Magearna Recipe
+
+                **Legendary Summoning Block**
+
+                .. image:: ../_images/legends_wiki/legendary_block_recipe.png
+                    :alt: Legendary Recipe
+
+
 .. dropdown:: Totem Blocks
     :animate: fade-in-slide-down
 
@@ -146,7 +223,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
     :animate: fade-in-slide-down
 
     Another curious block is the Mirage Spot, but you might know it as Hoopa Portal.
-    This block can spawn any |pokemobs| except Legendaries.
+    This block can spawn any |pokemob| except for Legendaries.
 
     * If you have a Hoopa, it must have the move **Hyperspace Hole** and be **Level 40** or higher.
     * Use the move out of combat to create the portal. 
@@ -846,61 +923,6 @@ Necrozma Tower
 
     .. image:: ../_images/legends_wiki/necrozma_tower.png
         :alt: Necrozma Tower
-
-**Summoning Blocks**
-====================
-These blocks are used to summon the legendary. Use the correct key item and spawn the legendary.
-Not all blocks have a recipe, those that have can be placed by the player, and those that are not created appear in the structures by the map.
-
-The ones with recipe are:
-
-.. image:: ../_images/legends_wiki/lengedary_blocks_recipes.png
-    :alt: regis blocks view
-	
-**The core block of the Regis**
-
-.. image:: ../_images/legends_wiki/regirock_block_recipe.png
-    :alt: Regirock Core Recipe
-.. image:: ../_images/legends_wiki/regice_block_recipe.png
-    :alt: Regice Core Recipe
-.. image:: ../_images/legends_wiki/registeel_block_recipe.png
-    :alt: Registeel Core Recipe
-.. image:: ../_images/legends_wiki/regieleck_block_recipe.png
-    :alt: Regieleki Core Recipe
-.. image:: ../_images/legends_wiki/regidrago_block_recipe.png
-    :alt: Regidrago Core Recipe
-.. image:: ../_images/legends_wiki/regigigas_block_recipe.png
-    :alt: Regigigas Core Recipe
-
-**Victini's Summoning Block**
-
-.. image:: ../_images/legends_wiki/vicktini_block_recipe.png
-    :alt: Victini Block
-
-**Trough Block Summoning Block: Glastrier and Spectrier**
-
-.. image:: ../_images/legends_wiki/calyrex_block_recipe.png
-    :alt: Horses Block
-
-**Heatran Summoning Block**
-
-.. image:: ../_images/legends_wiki/heatran_block_recipe.png
-    :alt: Heatran Recipe
-
-**Magearna Summoning Block**
-
-.. image:: ../_images/legends_wiki/magearna_block_recipe.png
-    :alt: Magearna Recipe
-
-**Legendary Summoning Block**
-
-.. image:: ../_images/legends_wiki/legendary_block_recipe.png
-    :alt: Legendary Recipe
-
-and the blocks that do not have recipes are:
-
-.. image:: ../_images/legends_wiki/lengedary_blocksno_recipe.png
-    :alt: Legendy Blocks No Recipe
 
 .. _make_type_null:
 
