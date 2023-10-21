@@ -135,6 +135,14 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                 :show_controls:
                 :show_indicators:
                 :show_shadows:
+            
+                .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
+                    
+                    Golem Stone
+
+                .. figure:: ../_images/legends_wiki/totem_block_recipe.png
+                    
+                    Totem Core
 
                 **Victini's Summoning Block**
 
