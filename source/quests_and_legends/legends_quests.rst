@@ -91,7 +91,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
     These blocks are used to summon legendary |pokemobs|. Use the correct summoning item to spawn the legendary |pokemob|.
     Some blocks have a recipe and others are found in structures.
 
-    .. dropdown:: Spawners found in structures:
+    .. dropdown:: Structure Spawners:
         :animate: fade-in-slide-down
         
         .. image:: ../_images/legends_wiki/legendary_blocks_no_recipe.png
@@ -103,7 +103,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         .. image:: ../_images/legends_wiki/legendary_blocks_recipes.png
             :alt: Craftable Spawners
         :raw-html:`<br />`
-        
+
         .. dropdown:: Regi Recipes
             :animate: fade-in-slide-down
 
