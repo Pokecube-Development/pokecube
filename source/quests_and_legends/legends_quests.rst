@@ -101,8 +101,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         :animate: fade-in-slide-down
 
         .. image:: ../_images/legends_wiki/legendary_blocks_recipes.png
-            :alt: Craftable Spawners
-        :raw-html:`<br />`
+            :alt: Craftable Spawners :raw-html:`<br />`
 
         .. dropdown:: Regi Recipes
             :animate: fade-in-slide-down
@@ -170,35 +169,35 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                     
                     Victini Spawner
                     
-                    - Spawns :ref:`victini`
+                    - Spawns Victini
 
                 .. figure:: ../_images/legends_wiki/calyrex_block_recipe.png
                     :alt: Trough Spawner Recipe
                     
                     Trough Spawner
                     
-                    - Spawns :ref:`glastrier` & :ref:`spectrier`
+                    - Spawns Glastrier & Spectrier
 
                 .. figure:: ../_images/legends_wiki/heatran_block_recipe.png
                     :alt: Heatran Spawner Recipe
                     
                     Heatran Spawner
                     
-                    - Spawns :ref:`heatran`
+                    - Spawns Heatran
 
                 .. figure:: ../_images/legends_wiki/magearna_block_recipe.png
                     :alt: Magearna Spawner Recipe
                     
                     Magearna Spawner
                     
-                    - Spawns :ref:`magearna`
+                    - Spawns Magearna
 
                 .. figure:: ../_images/legends_wiki/legendary_block_recipe.png
                     :alt: Legendary Spawner Recipe
                     
                     Legendary Spawner
 
-                    - Spawns various legendaries
+                    - Spawns various legendaries :raw-html:`<br />`
                     - Crafted with the Legendary Orb
 
 
