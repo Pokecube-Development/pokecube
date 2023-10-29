@@ -101,7 +101,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         :animate: fade-in-slide-down
 
         .. image:: ../_images/legends_wiki/legendary_blocks_recipes.png
-            :alt: Craftable Spawners :raw-html:`<br />`
+            :alt: Craftable Spawners
+        :raw-html:`<br />`
 
         .. dropdown:: Regi Recipes
             :animate: fade-in-slide-down
