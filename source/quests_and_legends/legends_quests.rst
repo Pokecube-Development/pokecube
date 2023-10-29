@@ -115,18 +115,46 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             
                 **The core block of the Regis**
 
-                .. image:: ../_images/legends_wiki/regirock_block_recipe.png
+            
+                .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
+                    :alt: Golem Stone Recipe
+                    
+                    Golem Stone
+
+                .. figure:: ../_images/legends_wiki/totem_block_recipe.png
+                    :alt: Totem Core Recipe
+                    
+                    Totem Core
+
+                .. figure:: ../_images/legends_wiki/regirock_block_recipe.png
                     :alt: Regirock Core Recipe
-                .. image:: ../_images/legends_wiki/regice_block_recipe.png
+                    
+                    Regirock Core
+
+                .. figure:: ../_images/legends_wiki/regice_block_recipe.png
                     :alt: Regice Core Recipe
-                .. image:: ../_images/legends_wiki/registeel_block_recipe.png
+                    
+                    Regice Core
+
+                .. figure:: ../_images/legends_wiki/registeel_block_recipe.png
                     :alt: Registeel Core Recipe
-                .. image:: ../_images/legends_wiki/regieleck_block_recipe.png
+                    
+                    Registeel Core
+
+                .. figure:: ../_images/legends_wiki/regieleck_block_recipe.png
                     :alt: Regieleki Core Recipe
-                .. image:: ../_images/legends_wiki/regidrago_block_recipe.png
+                    
+                    Regieleki Core
+
+                .. figure:: ../_images/legends_wiki/regidrago_block_recipe.png
                     :alt: Regidrago Core Recipe
-                .. image:: ../_images/legends_wiki/regigigas_block_recipe.png
+                    
+                    Regidrago Core
+
+                .. figure:: ../_images/legends_wiki/regigigas_block_recipe.png
                     :alt: Regigigas Core Recipe
+                    
+                    Regigigas Core
 
         .. dropdown:: Recipes
             :animate: fade-in-slide-down
@@ -136,39 +164,42 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                 :show_controls:
                 :show_indicators:
                 :show_shadows:
-            
-                .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
+
+                .. figure:: ../_images/legends_wiki/vicktini_block_recipe.png
+                    :alt: Victini Spawner Recipe
                     
-                    Golem Stone
-
-                .. figure:: ../_images/legends_wiki/totem_block_recipe.png
+                    Victini Spawner
                     
-                    Totem Core
+                    - Spawns :ref:`victini`
 
-                **Victini's Summoning Block**
+                .. figure:: ../_images/legends_wiki/calyrex_block_recipe.png
+                    :alt: Trough Spawner Recipe
+                    
+                    Trough Spawner
+                    
+                    - Spawns :ref:`glastrier` & :ref:`spectrier`
 
-                .. image:: ../_images/legends_wiki/vicktini_block_recipe.png
-                    :alt: Victini Block
+                .. figure:: ../_images/legends_wiki/heatran_block_recipe.png
+                    :alt: Heatran Spawner Recipe
+                    
+                    Heatran Spawner
+                    
+                    - Spawns :ref:`heatran`
 
-                **Trough Block Summoning Block: Glastrier and Spectrier**
+                .. figure:: ../_images/legends_wiki/magearna_block_recipe.png
+                    :alt: Magearna Spawner Recipe
+                    
+                    Magearna Spawner
+                    
+                    - Spawns :ref:`magearna`
 
-                .. image:: ../_images/legends_wiki/calyrex_block_recipe.png
-                    :alt: Horses Block
+                .. figure:: ../_images/legends_wiki/legendary_block_recipe.png
+                    :alt: Legendary Spawner Recipe
+                    
+                    Legendary Spawner
 
-                **Heatran Summoning Block**
-
-                .. image:: ../_images/legends_wiki/heatran_block_recipe.png
-                    :alt: Heatran Recipe
-
-                **Magearna Summoning Block**
-
-                .. image:: ../_images/legends_wiki/magearna_block_recipe.png
-                    :alt: Magearna Recipe
-
-                **Legendary Summoning Block**
-
-                .. image:: ../_images/legends_wiki/legendary_block_recipe.png
-                    :alt: Legendary Recipe
+                    - Spawns various legendaries
+                    - Crafted with the Legendary Orb
 
 
 .. dropdown:: Totem Blocks
