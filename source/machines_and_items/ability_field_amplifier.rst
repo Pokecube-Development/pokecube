@@ -21,10 +21,10 @@ This block uses Forge Energy to work, and can be powered with the :ref:`siphon`.
 
       - Broadcast an Ability over a volume around the block
       - Broadcast the Shiny Charm effect around the block 
-         - second worst use for shiny charm
+      * This is the second worst use for the shiny charm
          
       The Empty GUI for the AFA shows the item slot, as well as the ``<`` and ``>`` buttons used for selecting the range of effect. :raw-html:`<br />`
-      The Power display is read as ``required/provided``. If the power is colored red, then more power is required for it to function.
+      The Power display is read as ``required/provided``. If the power font is colored red, then more power is required for it to function.
 
 .. grid:: 1
 
@@ -53,7 +53,9 @@ This block uses Forge Energy to work, and can be powered with the :ref:`siphon`.
          :name: afa_shiny_set
          :width: 600
 
-      For the use with a shiny charm, place the charm in the slot, and then select the range in a similar manner. :raw-html:`<br />`
+      - Broadcast the Shiny Charm effect around the block 
+
+      Place the charm in the slot, and then select the range in a similar manner. :raw-html:`<br />`
       Here is the second worst application of the shiny charm displayed.
 
       .. include:: ../.shared.rst
