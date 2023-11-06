@@ -980,34 +980,32 @@ Necrozma Tower
 
 .. _make_type_null:
 
-**Laboratory: Making Type Null**
-================================
+**Built Pokémobs**
+===================
 
-Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside the |Pokecube| too :b
+Type: Null 
+~~~~~~~~~~~
 
-The first step is to find Aether Paradise, is the new structure that appears in the oceans:
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+    
+    Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside the |Pokecube| too :b
 
-.. image:: ../_images/legends_wiki/aether_foundation.png
-    :alt: Aether_Paradise
+    1. Find the :ref:`aether_foundation` in Warm Oceans
+    2. Find Faba, & battle him!
+    3. Trade for the Imprisonment Helmet 
+    4. Craft a :ref:`cloner` and a :ref:`siphon`
+    5. To power the :ref:`cloner`, use the :ref:`siphon` with an electric |pokemob|.
+    6. Mutate a |Pokemob| Egg using a Potion of Regeneration II, the Imprisonment Helmet, & another |Pokemob| Egg.
 
-In it, you will find some NPCs to battle, and reaching the top floor you will find the NPC Faba
+    .. image:: ../_images/legends_wiki/aether_foundation.png
+        :alt: Aether Foundation
 
-.. image:: ../_images/legends_wiki/faba_room.png
-    :alt: Faba_Pokecube
+    .. image:: ../_images/legends_wiki/type_null_recipe.png
+        :alt: Type Null Mutation Recipe
 
-Defeating him, you can open the trade menu, and there you will find Imprisonment Helmet, the main item to create Type: Null
-
-**Now comes the part you need to pay attention to!**
-
-You will need: Potion of Regeneration II, Imprisonment Helmet, Two |pokemob| eggs
-
-.. image:: ../_images/legends_wiki/typenull_recipe.png
-    :alt: typenull_recipe
-
-When items are in place, just power the :ref:`cloner` using an :ref:`siphon` and an electric |pokemob| (Higher levels make this go much faster).
-
-**Making Golens of Regis**
-==========================
+Regi Golems
+~~~~~~~~~~~~
 
 In order to be able to summon the Regis you need to locate their temples. Each Regi has its own temple with a totem already built, if you play on a server or the temple doesn’t have the totem, you can build it (but this building must be inside the temple!)
 
