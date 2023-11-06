@@ -102,6 +102,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
 .. _craftable_spawners: Craftable Spawners
 
+`Craftable Spawners`_
+
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
 
@@ -423,7 +425,9 @@ Villain Lairs
 The lairs are structures based on the villain teams from the Pokémon games, in this mod you can find 5 secret lairs.
 The structures differ depending on their biome, which makes the structure more versatile.
 
-.. _aether_foundation: Aether Foundation
+.. _aether_foundation: 
+
+Aether Foundation
 
 .. dropdown:: Aether Foundation
     :animate: fade-in-slide-down
@@ -994,8 +998,8 @@ Type: Null
     
     Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
 
-    1. Find the _`aether_foundation` in Warm Oceans
-    2. Find Faba, & battle him!
+    1. Find the :ref:`aether_foundation` in Warm Oceans
+    2. Find Faba, and battle him!
     3. Trade for the Imprisonment Helmet 
     4. Craft a :ref:`cloner` and a :ref:`siphon`
     5. To power the :ref:`cloner`, use the :ref:`siphon` with an electric |pokemob|.
@@ -1025,21 +1029,21 @@ Regi Golems
             - Follow the pattern to build a golem
             - Build it with Golem Stone and one of the golem cores
             - Right-click the Golem Core with the respective **Key Item**
-            - See _`craftable_spawners` for recipes
-            :raw-html:`<br />`
-
-            - :ref:`regice` requires any type of ice or snow
-            - :ref:`regidrago` requires obsidian
-            - :ref:`regieleki` requires redstone blocks
-            - :ref:`regigigas` requires any type of end stone
-            - :ref:`regirock` requires any type of terracotta
-            - :ref:`registeel` requires iron blocks
+            - See `Craftable Spawners`_ for recipes
+            - See :ref:`Craftable Spawners` for recipes
 
             .. dropdown:: Building Pattern
                 :animate: fade-in-slide-down
 
                 .. image:: ../_images/legends_wiki/golens_build_1.png
                     :alt: Golem Core Blocks
+
+                - :ref:`regice` requires any type of ice or snow
+                - :ref:`regidrago` requires obsidian
+                - :ref:`regieleki` requires redstone blocks
+                - :ref:`regigigas` requires any type of end stone
+                - :ref:`regirock` requires any type of terracotta
+                - :ref:`registeel` requires iron blocks
 
     .. grid:: 1
 
