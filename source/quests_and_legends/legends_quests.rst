@@ -16,7 +16,8 @@ On this page you will find information about the legendary structures, their spa
 For dimensions, visit it by clicking here: :ref:`legend_dimensions`
 
 Items
-~~~~~~~~~~~~~
+~~~~~~
+
 In addition to the structures, the |Pokecube| Legends expansion adds many items to the mod, many with unique functions!
 
 .. dropdown:: Unique Items
@@ -102,7 +103,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
 .. _craftable_spawners: Craftable Spawners
 
-`Craftable Spawners`_
+.. _Craftable Spawners:
 
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
@@ -428,6 +429,7 @@ The structures differ depending on their biome, which makes the structure more v
 .. _aether_foundation: 
 
 Aether Foundation
+------------------
 
 .. dropdown:: Aether Foundation
     :animate: fade-in-slide-down
@@ -1035,7 +1037,7 @@ Regi Golems
             .. dropdown:: Building Pattern
                 :animate: fade-in-slide-down
 
-                .. image:: ../_images/legends_wiki/golens_build_1.png
+                .. image:: ../_images/legends_wiki/golem_patterns.png
                     :alt: Golem Core Blocks
 
                 - :ref:`regice` requires any type of ice or snow
