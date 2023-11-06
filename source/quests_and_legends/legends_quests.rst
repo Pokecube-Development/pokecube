@@ -61,6 +61,19 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             .. image:: ../_images/legends_wiki/items/mint.png
                 :alt: Mints
 
+.. dropdown:: Pokepuffs
+    :animate: fade-in-slide-down
+
+    - Player edible cakes
+    - Discover the effects of each Pokepuff!
+    - Increases type damage for |pokemobs|
+
+    .. image:: ../_images/legends_wiki/items/pinap_pokepuff.png
+        :alt: Pinap Pokepuff
+
+    .. image:: ../_images/legends_wiki/pokepuff_recipes.gif
+        :alt: Pokepuff Recipes
+
 .. dropdown:: Exploration Maps
     :animate: fade-in-slide-down
 
