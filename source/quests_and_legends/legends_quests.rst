@@ -68,8 +68,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
     - Discover the effects of each Pokepuff!
     - Increases type damage for |pokemobs|
 
-    .. image:: ../_images/legends_wiki/items/pinap_pokepuff.png
-        :alt: Pinap Pokepuff
+    .. image:: ../_images/legends_wiki/items/pokepuffs.gif
+        :alt: Pokepuffs
+    :raw-html:`<br />`
 
     .. image:: ../_images/legends_wiki/pokepuff_recipes.gif
         :alt: Pokepuff Recipes
