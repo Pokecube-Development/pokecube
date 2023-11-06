@@ -989,7 +989,7 @@ Type: Null
 .. dropdown:: Description
     :animate: fade-in-slide-down
     
-    Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside the |Pokecube| too :b
+    Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
 
     1. Find the :ref:`aether_foundation` in Warm Oceans
     2. Find Faba, & battle him!
@@ -1007,42 +1007,79 @@ Type: Null
 Regi Golems
 ~~~~~~~~~~~~
 
-In order to be able to summon the Regis you need to locate their temples. Each Regi has its own temple with a totem already built, if you play on a server or the temple doesn’t have the totem, you can build it (but this building must be inside the temple!)
+.. dropdown:: Description
+    :animate: fade-in-slide-down
 
-**To create the Golem follow the images:**
+    In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
+    Each Regi has its own temple with a totem already built. :raw-html:`<br />`
+    If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
 
-For the base you will use the Golem Stone:
+    .. grid:: 1
 
-.. image:: ../_images/legends_wiki/golem_stone_recipe.png
-    :alt: Golem Base Block
+        .. grid-item-card:: Building the Regi Golems
 
-And to the Top, you will use the Core Blocks:
+            - Follow the pattern to build a golem
+            - Build it with Golem Stone and one of the golem cores
+            - Right-click the Golem Core with the respective Key Item
+  
+            - :ref:`regice` requires any type of ice or snow
+            - :ref:`regidrago` requires obsidian
+            - :ref:`regieleki` requires redstone blocks
+            - :ref:`regigigas` requires any type of end stone
+            - :ref:`regirock` requires any type of terracotta
+            - :ref:`registeel` requires iron blocks
 
-.. image:: ../_images/legends_wiki/golens_build_1.png
-    :alt: Cores Golem Blocks
+            .. image:: ../_images/legends_wiki/golem_stone_recipe.png
+                :alt: Golem Stone Recipe
 
-> You can use any type of Ice for the Ice Golem
+            .. image:: ../_images/legends_wiki/golens_build_1.png
+                 :alt: Golem Core Blocks
 
-To Activate, simply use the Key Item of your respective Golem
+    .. grid:: 1
 
-.. image:: ../_images/legends_wiki/items/dragocore.png
-    :alt: Keys
-.. image:: ../_images/legends_wiki/items/thundercore.png
-    :alt: Keys
-.. image:: ../_images/legends_wiki/items/icecore.png
-    :alt: Keys
-.. image:: ../_images/legends_wiki/items/steelcore.png
-    :alt: Keys
-.. image:: ../_images/legends_wiki/items/rockcore.png
-    :alt: Keys
-.. image:: ../_images/legends_wiki/items/regisorb.png
-    :alt: Keys
+        .. grid-item-card:: Activating the Regi Golems
 
-> This is true for all blocks that use the key item: if it is out of the correct place of invocation or if it is the block you created and was placed in the wrong place, you will get this message when you try to use a key item in that block.
-The correct location is just in the Golem temple area, if you want to remove this restriction, you need to create a Datapack by modifying the Spawn location.
+            - If Golem Core you created was placed in the wrong area, you will get this message when you try to use a key item on that block.
+            - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
 
-.. image:: https://i.imgur.com/e9Gi6tz.png
-    :alt: wrong location alert
+            .. image:: https://i.imgur.com/e9Gi6tz.png
+                :alt: wrong location alert
+
+            .. carousel::
+                :show_captions_below:
+                :show_controls:
+                :show_indicators:
+                :show_shadows:
+
+                .. figure:: ../_images/legends_wiki/items/dragocore.png
+                    :alt: Keys
+
+                    Regidrago Drago Core
+
+                .. figure:: ../_images/legends_wiki/items/thundercore.png
+                    :alt: Keys
+                    
+                    Regieleki Thunder Core
+
+                .. figure:: ../_images/legends_wiki/items/icecore.png
+                    :alt: Keys
+
+                    Regice Ice Core
+
+                .. figure:: ../_images/legends_wiki/items/steelcore.png
+                    :alt: Keys
+
+                    Registeel Steel Core
+
+                .. figure:: ../_images/legends_wiki/items/rockcore.png
+                    :alt: Keys
+
+                    Regirock Rock Core
+
+                .. figure:: ../_images/legends_wiki/items/regisorb.png
+                    :alt: Keys
+
+                    Regigigas Orb
 
 **Secondary Spawn**
 ===================
