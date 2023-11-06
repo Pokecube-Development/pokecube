@@ -1,4 +1,5 @@
 .. _legend_quests:
+
 .. role:: raw-html(raw)
     :format: html
 
@@ -71,7 +72,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
     .. image:: ../_images/legends_wiki/items/pokepuffs.gif
         :alt: Pokepuffs
     
-    
+
     .. image:: ../_images/legends_wiki/pokepuff_recipes.gif
         :alt: Pokepuff Recipes
 
@@ -100,6 +101,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
 .. _craftable_spawners: Craftable Spawners
+
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
 
@@ -992,7 +994,7 @@ Type: Null
     
     Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
 
-    1. Find the `aether_foundation`_ in Warm Oceans
+    1. Find the _`aether_foundation` in Warm Oceans
     2. Find Faba, & battle him!
     3. Trade for the Imprisonment Helmet 
     4. Craft a :ref:`cloner` and a :ref:`siphon`
@@ -1022,8 +1024,8 @@ Regi Golems
 
             - Follow the pattern to build a golem
             - Build it with Golem Stone and one of the golem cores
-            - Right-click the Golem Core with the respective Key Item
-            - See `craftable_spawners`_ for recipes
+            - Right-click the Golem Core with the respective **Key Item**
+            - See _`craftable_spawners` for recipes
             :raw-html:`<br />`
 
             - :ref:`regice` requires any type of ice or snow
@@ -1033,8 +1035,11 @@ Regi Golems
             - :ref:`regirock` requires any type of terracotta
             - :ref:`registeel` requires iron blocks
 
-            .. image:: ../_images/legends_wiki/golens_build_1.png
-                 :alt: Golem Core Blocks
+            .. dropdown:: Building Pattern
+                :animate: fade-in-slide-down
+
+                .. image:: ../_images/legends_wiki/golens_build_1.png
+                    :alt: Golem Core Blocks
 
     .. grid:: 1
 
