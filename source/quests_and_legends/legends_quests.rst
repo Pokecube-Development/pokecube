@@ -99,6 +99,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
+.. _craftable_spawners:
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
 
@@ -1021,6 +1022,7 @@ Regi Golems
             - Follow the pattern to build a golem
             - Build it with Golem Stone and one of the golem cores
             - Right-click the Golem Core with the respective Key Item
+            - See :ref:`craftable_spawners` for recipes
   
             - :ref:`regice` requires any type of ice or snow
             - :ref:`regidrago` requires obsidian
@@ -1028,9 +1030,6 @@ Regi Golems
             - :ref:`regigigas` requires any type of end stone
             - :ref:`regirock` requires any type of terracotta
             - :ref:`registeel` requires iron blocks
-
-            .. image:: ../_images/legends_wiki/golem_stone_recipe.png
-                :alt: Golem Stone Recipe
 
             .. image:: ../_images/legends_wiki/golens_build_1.png
                  :alt: Golem Core Blocks
@@ -1045,41 +1044,44 @@ Regi Golems
             .. image:: https://i.imgur.com/e9Gi6tz.png
                 :alt: wrong location alert
 
-            .. carousel::
-                :show_captions_below:
-                :show_controls:
-                :show_indicators:
-                :show_shadows:
+            .. dropdown:: Key Items
+                :animate: fade-in-slide-down
 
-                .. figure:: ../_images/legends_wiki/items/dragocore.png
-                    :alt: Keys
+                .. carousel::
+                    :show_captions_below:
+                    :show_controls:
+                    :show_indicators:
+                    :show_shadows:
 
-                    Regidrago Drago Core
+                    .. figure:: ../_images/legends_wiki/items/dragocore.png
+                        :alt: Keys
 
-                .. figure:: ../_images/legends_wiki/items/thundercore.png
-                    :alt: Keys
-                    
-                    Regieleki Thunder Core
+                        Regidrago Drago Core
 
-                .. figure:: ../_images/legends_wiki/items/icecore.png
-                    :alt: Keys
+                    .. figure:: ../_images/legends_wiki/items/thundercore.png
+                        :alt: Keys
+                        
+                        Regieleki Thunder Core
 
-                    Regice Ice Core
+                    .. figure:: ../_images/legends_wiki/items/icecore.png
+                        :alt: Keys
 
-                .. figure:: ../_images/legends_wiki/items/steelcore.png
-                    :alt: Keys
+                        Regice Ice Core
 
-                    Registeel Steel Core
+                    .. figure:: ../_images/legends_wiki/items/steelcore.png
+                        :alt: Keys
 
-                .. figure:: ../_images/legends_wiki/items/rockcore.png
-                    :alt: Keys
+                        Registeel Steel Core
 
-                    Regirock Rock Core
+                    .. figure:: ../_images/legends_wiki/items/rockcore.png
+                        :alt: Keys
 
-                .. figure:: ../_images/legends_wiki/items/regisorb.png
-                    :alt: Keys
+                        Regirock Rock Core
 
-                    Regigigas Orb
+                    .. figure:: ../_images/legends_wiki/items/regisorb.png
+                        :alt: Keys
+
+                        Regigigas Orb
 
 **Secondary Spawn**
 ===================
