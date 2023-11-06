@@ -99,7 +99,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
-.. _craftable_spawners:
+.. _craftable_spawners: Craftable Spawners
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
 
@@ -421,7 +421,7 @@ Villain Lairs
 The lairs are structures based on the villain teams from the Pokémon games, in this mod you can find 5 secret lairs.
 The structures differ depending on their biome, which makes the structure more versatile.
 
-.. _aether_foundation:
+.. _aether_foundation: Aether Foundation
 
 .. dropdown:: Aether Foundation
     :animate: fade-in-slide-down
@@ -992,7 +992,7 @@ Type: Null
     
     Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
 
-    1. Find the :ref:`aether_foundation` in Warm Oceans
+    1. Find the `aether_foundation`_ in Warm Oceans
     2. Find Faba, & battle him!
     3. Trade for the Imprisonment Helmet 
     4. Craft a :ref:`cloner` and a :ref:`siphon`
@@ -1001,6 +1001,7 @@ Type: Null
 
     .. image:: ../_images/legends_wiki/aether_foundation.png
         :alt: Aether Foundation
+    :raw-html:`<br />`
 
     .. image:: ../_images/legends_wiki/type_null_recipe.png
         :alt: Type Null Mutation Recipe
@@ -1022,8 +1023,9 @@ Regi Golems
             - Follow the pattern to build a golem
             - Build it with Golem Stone and one of the golem cores
             - Right-click the Golem Core with the respective Key Item
-            - See :ref:`craftable_spawners` for recipes
-  
+            - See `craftable_spawners`_ for recipes
+            :raw-html:`<br />`
+
             - :ref:`regice` requires any type of ice or snow
             - :ref:`regidrago` requires obsidian
             - :ref:`regieleki` requires redstone blocks
@@ -1043,6 +1045,7 @@ Regi Golems
 
             .. image:: https://i.imgur.com/e9Gi6tz.png
                 :alt: wrong location alert
+            :raw-html:`<br />`
 
             .. dropdown:: Key Items
                 :animate: fade-in-slide-down
