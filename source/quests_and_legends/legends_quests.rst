@@ -70,8 +70,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
     .. image:: ../_images/legends_wiki/items/pokepuffs.gif
         :alt: Pokepuffs
-    :raw-html:`<br />`
-
+    
+    
     .. image:: ../_images/legends_wiki/pokepuff_recipes.gif
         :alt: Pokepuff Recipes
 
