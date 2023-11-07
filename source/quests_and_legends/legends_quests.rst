@@ -126,6 +126,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             :animate: fade-in-slide-down
             
             **The core of the Regis**
+
             - See `Regi Golems`_ for building patterns
 
             .. carousel::
@@ -1019,9 +1020,9 @@ Regi Golems
 .. dropdown:: Description
     :animate: fade-in-slide-down
 
-    In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
-    Each Regi has its own temple with a totem already built. :raw-html:`<br />`
-    If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
+    - In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
+    - Each Regi has its own temple with a totem already built. :raw-html:`<br />`
+    - If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
 
     .. _Regi Golems:
 
@@ -1051,41 +1052,25 @@ Regi Golems
 
         .. grid-item-card:: Activating the Regi Golems
 
-            - If Golem Core you created was placed in the wrong area, you will get the message ``Regirock does not spawn in this location`` when you try to use a key item on that block.
+            - If Golem Core you created was placed in the wrong area, you will get the following message when you try to use a key item on that block.
             - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
+            ``Regirock does not spawn in this location``
 
             .. dropdown:: Key Items
                 :animate: fade-in-slide-down
 
                 .. image:: ../_images/legends_wiki/items/dragocore.png
-                    :alt: Keys
-
-                    Drago Core
-
+                    :alt: Drago Core Key
                 .. image:: ../_images/legends_wiki/items/thundercore.png
-                    :alt: Keys
-                    
-                    Thunder Core
-
+                    :alt: Thunder Core Key
                 .. image:: ../_images/legends_wiki/items/icecore.png
-                    :alt: Keys
-
-                    Ice Core
-
+                    :alt: Ice Core Key
                 .. image:: ../_images/legends_wiki/items/steelcore.png
-                    :alt: Keys
-
-                    Steel Core
-
+                    :alt: Steel Core Key
                 .. image:: ../_images/legends_wiki/items/rockcore.png
-                    :alt: Keys
-
-                    Rock Core
-
+                    :alt: Rock Core Key
                 .. image:: ../_images/legends_wiki/items/regisorb.png
-                    :alt: Keys
-
-                    Regigigas Core
+                    :alt: Regigigas Core Key
 
 **Secondary Spawn**
 ===================
