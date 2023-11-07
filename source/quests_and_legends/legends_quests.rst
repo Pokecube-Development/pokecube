@@ -1047,6 +1047,24 @@ Regi Golems
                 - :ref:`regirock` requires any type of terracotta
                 - :ref:`registeel` requires iron blocks
 
+            .. dropdown:: Block Tags
+                :animate: fade-in-slide-down
+
+                The blocks used to build the golems use blocks tags, which can be customized using datapacks.
+
+                - :ref:`regice` accepts any block tagged as ``#pokecube_legends:arceus_approved/regice``
+                * This tag includes the block tags ``#minecraft:snow`` & ``#minecraft:ice``
+                - :ref:`regidrago` accepts any block tagged as ``#pokecube_legends:arceus_approved/regidrago``
+                * This tag includes the block tags ``#forge:obsidian``
+                - :ref:`regieleki` accepts any block tagged as ``#pokecube_legends:arceus_approved/regieleki``
+                * This tag includes the block tags ``#forge:storage_blocks/redstone``
+                - :ref:`regigigas` accepts any block tagged as ``#pokecube_legends:arceus_approved/regigigas``
+                * This tag includes the block tags ``#forge:end_stones``
+                - :ref:`regirock` accepts any block tagged as ``#pokecube_legends:arceus_approved/regirock``
+                * This tag includes the block tags ``#minecraft:terracotta``
+                - :ref:`registeel` accepts any block tagged as ``#pokecube_legends:arceus_approved/registeel``
+                * This tag includes the block tags ``#forge:storage_blocks/iron``
+
     .. grid:: 1
 
         .. grid-item-card:: Activating the Regi Golems
