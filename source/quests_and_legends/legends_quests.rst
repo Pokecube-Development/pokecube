@@ -1067,32 +1067,32 @@ Regi Golems
                     :show_indicators:
                     :show_shadows:
 
-                    .. figure:: ../_images/legends_wiki/items/dragocore.png
+                    .. image:: ../_images/legends_wiki/items/dragocore.png
                         :alt: Keys
 
                         Drago Core
 
-                    .. figure:: ../_images/legends_wiki/items/thundercore.png
+                    .. image:: ../_images/legends_wiki/items/thundercore.png
                         :alt: Keys
                         
                         Thunder Core
 
-                    .. figure:: ../_images/legends_wiki/items/icecore.png
+                    .. image:: ../_images/legends_wiki/items/icecore.png
                         :alt: Keys
 
                         Ice Core
 
-                    .. figure:: ../_images/legends_wiki/items/steelcore.png
+                    .. image:: ../_images/legends_wiki/items/steelcore.png
                         :alt: Keys
 
                         Steel Core
 
-                    .. figure:: ../_images/legends_wiki/items/rockcore.png
+                    .. image:: ../_images/legends_wiki/items/rockcore.png
                         :alt: Keys
 
                         Rock Core
 
-                    .. figure:: ../_images/legends_wiki/items/regisorb.png
+                    .. image:: ../_images/legends_wiki/items/regisorb.png
                         :alt: Keys
 
                         Regigigas Core
