@@ -101,8 +101,6 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
-.. _Craftable Spawners:
-
 .. dropdown:: Spawner Blocks
     :animate: fade-in-slide-down
 
@@ -115,7 +113,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         .. image:: ../_images/legends_wiki/legendary_blocks_no_recipe.png
             :alt: Spawners found in structures
 
-    .. _Craftable Spawners 2:
+    .. _Craftable Spawners:
 
     .. dropdown:: Craftable Spawners:
         :animate: fade-in-slide-down
@@ -1031,14 +1029,13 @@ Regi Golems
             - Build it with Golem Stone and one of the golem cores
             - Right-click the Golem Core with the respective **Key Item**
             - See `Craftable Spawners`_ for recipes
-            - See `Craftable Spawners 2`_ for recipes
 
             .. dropdown:: Building Pattern
                 :animate: fade-in-slide-down
 
                 .. image:: ../_images/legends_wiki/golem_patterns.png
                     :alt: Golem Core Blocks
-
+                :raw-html:`<br />`
 
                 - :ref:`regice` requires any type of ice or snow
                 - :ref:`regidrago` requires obsidian
