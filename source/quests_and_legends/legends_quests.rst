@@ -1031,7 +1031,6 @@ Regi Golems
         .. grid-item-card:: Building the Regi Golems
 
             - Build it with Golem Stone and one of the golem cores
-            - Right-click the Golem Core with the respective **Key Item**
             - See `Craftable Spawners`_ for recipes
 
             .. dropdown:: Building Pattern
@@ -1051,26 +1050,26 @@ Regi Golems
     .. grid:: 1
 
         .. grid-item-card:: Activating the Regi Golems
-
-            - If Golem Core you created was placed in the wrong area, you will get the following message when you try to use a key item on that block.
+            
+            - Right-click the Golem Core with the **Key Item** to summon the Regi Golem
+            - If Golem Core you created was placed in the wrong area, you will get the message below when you use a key item on that block.
             - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
             ``Regirock does not spawn in this location``
 
-            .. dropdown:: Key Items
-                :animate: fade-in-slide-down
-
-                .. image:: ../_images/legends_wiki/items/dragocore.png
-                    :alt: Drago Core Key
-                .. image:: ../_images/legends_wiki/items/thundercore.png
-                    :alt: Thunder Core Key
-                .. image:: ../_images/legends_wiki/items/icecore.png
-                    :alt: Ice Core Key
-                .. image:: ../_images/legends_wiki/items/steelcore.png
-                    :alt: Steel Core Key
-                .. image:: ../_images/legends_wiki/items/rockcore.png
-                    :alt: Rock Core Key
-                .. image:: ../_images/legends_wiki/items/regisorb.png
-                    :alt: Regigigas Core Key
+            **Key Items:**
+            
+            .. image:: ../_images/legends_wiki/items/dragocore.png
+                :alt: Drago Core Key
+            .. image:: ../_images/legends_wiki/items/thundercore.png
+                :alt: Thunder Core Key
+            .. image:: ../_images/legends_wiki/items/icecore.png
+                :alt: Ice Core Key
+            .. image:: ../_images/legends_wiki/items/steelcore.png
+                :alt: Steel Core Key
+            .. image:: ../_images/legends_wiki/items/rockcore.png
+                :alt: Rock Core Key
+            .. image:: ../_images/legends_wiki/items/regisorb.png
+                :alt: Regigigas Core Key
 
 **Secondary Spawn**
 ===================
