@@ -124,15 +124,15 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
         .. dropdown:: Regi Recipes
             :animate: fade-in-slide-down
+            
+            **The core of the Regis**
+            - See `Regi Golems`_ for building patterns
 
             .. carousel::
                 :show_captions_below:
                 :show_controls:
                 :show_indicators:
                 :show_shadows:
-            
-                **The core of the Regis**
-                - See `Regi Golems`_ for building patterns
 
             
                 .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
@@ -1067,33 +1067,39 @@ Regi Golems
                     :show_indicators:
                     :show_shadows:
 
-                    .. image:: ../_images/legends_wiki/items/dragocore.png
+                    .. figure:: ../_images/legends_wiki/items/dragocore.png
                         :alt: Keys
+                        :width: 50%
 
                         Drago Core
 
-                    .. image:: ../_images/legends_wiki/items/thundercore.png
+                    .. figure:: ../_images/legends_wiki/items/thundercore.png
                         :alt: Keys
+                        :width: 50%
                         
                         Thunder Core
 
-                    .. image:: ../_images/legends_wiki/items/icecore.png
+                    .. figure:: ../_images/legends_wiki/items/icecore.png
                         :alt: Keys
+                        :width: 50%
 
                         Ice Core
 
-                    .. image:: ../_images/legends_wiki/items/steelcore.png
+                    .. figure:: ../_images/legends_wiki/items/steelcore.png
                         :alt: Keys
+                        :width: 50%
 
                         Steel Core
 
-                    .. image:: ../_images/legends_wiki/items/rockcore.png
+                    .. figure:: ../_images/legends_wiki/items/rockcore.png
                         :alt: Keys
+                        :width: 50%
 
                         Rock Core
 
-                    .. image:: ../_images/legends_wiki/items/regisorb.png
+                    .. figure:: ../_images/legends_wiki/items/regisorb.png
                         :alt: Keys
+                        :width: 50%
 
                         Regigigas Core
 
