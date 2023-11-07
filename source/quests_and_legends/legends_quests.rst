@@ -131,7 +131,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                 :show_indicators:
                 :show_shadows:
             
-                **The core block of the Regis**
+                **The core of the Regis**
+                - See `Regi Golems`_ for building patterns
 
             
                 .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
@@ -1021,6 +1022,8 @@ Regi Golems
     In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
     Each Regi has its own temple with a totem already built. :raw-html:`<br />`
     If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
+
+    .. _Regi Golems:
 
     .. grid:: 1
 
