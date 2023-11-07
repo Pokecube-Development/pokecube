@@ -1061,47 +1061,35 @@ Regi Golems
             .. dropdown:: Key Items
                 :animate: fade-in-slide-down
 
-                .. carousel::
-                    :show_captions_below:
-                    :show_controls:
-                    :show_indicators:
-                    :show_shadows:
+                .. image:: ../_images/legends_wiki/items/dragocore.png
+                    :alt: Keys
 
-                    .. figure:: ../_images/legends_wiki/items/dragocore.png
-                        :alt: Keys
-                        :width: 50%
+                    Drago Core
 
-                        Drago Core
+                .. image:: ../_images/legends_wiki/items/thundercore.png
+                    :alt: Keys
+                    
+                    Thunder Core
 
-                    .. figure:: ../_images/legends_wiki/items/thundercore.png
-                        :alt: Keys
-                        :width: 50%
-                        
-                        Thunder Core
+                .. image:: ../_images/legends_wiki/items/icecore.png
+                    :alt: Keys
 
-                    .. figure:: ../_images/legends_wiki/items/icecore.png
-                        :alt: Keys
-                        :width: 50%
+                    Ice Core
 
-                        Ice Core
+                .. image:: ../_images/legends_wiki/items/steelcore.png
+                    :alt: Keys
 
-                    .. figure:: ../_images/legends_wiki/items/steelcore.png
-                        :alt: Keys
-                        :width: 50%
+                    Steel Core
 
-                        Steel Core
+                .. image:: ../_images/legends_wiki/items/rockcore.png
+                    :alt: Keys
 
-                    .. figure:: ../_images/legends_wiki/items/rockcore.png
-                        :alt: Keys
-                        :width: 50%
+                    Rock Core
 
-                        Rock Core
+                .. image:: ../_images/legends_wiki/items/regisorb.png
+                    :alt: Keys
 
-                    .. figure:: ../_images/legends_wiki/items/regisorb.png
-                        :alt: Keys
-                        :width: 50%
-
-                        Regigigas Core
+                    Regigigas Core
 
 **Secondary Spawn**
 ===================
