@@ -101,8 +101,6 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 ~~~~~~~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
-.. _craftable_spawners: Craftable Spawners
-
 .. _Craftable Spawners:
 
 .. dropdown:: Spawner Blocks
@@ -116,6 +114,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         
         .. image:: ../_images/legends_wiki/legendary_blocks_no_recipe.png
             :alt: Spawners found in structures
+
+    .. _Craftable Spawners 2:
 
     .. dropdown:: Craftable Spawners:
         :animate: fade-in-slide-down
@@ -1028,17 +1028,17 @@ Regi Golems
 
         .. grid-item-card:: Building the Regi Golems
 
-            - Follow the pattern to build a golem
             - Build it with Golem Stone and one of the golem cores
             - Right-click the Golem Core with the respective **Key Item**
             - See `Craftable Spawners`_ for recipes
-            - See :ref:`Craftable Spawners` for recipes
+            - See `Craftable Spawners 2`_ for recipes
 
             .. dropdown:: Building Pattern
                 :animate: fade-in-slide-down
 
                 .. image:: ../_images/legends_wiki/golem_patterns.png
                     :alt: Golem Core Blocks
+
 
                 - :ref:`regice` requires any type of ice or snow
                 - :ref:`regidrago` requires obsidian
@@ -1070,32 +1070,32 @@ Regi Golems
                     .. figure:: ../_images/legends_wiki/items/dragocore.png
                         :alt: Keys
 
-                        Regidrago Drago Core
+                        Drago Core
 
                     .. figure:: ../_images/legends_wiki/items/thundercore.png
                         :alt: Keys
                         
-                        Regieleki Thunder Core
+                        Thunder Core
 
                     .. figure:: ../_images/legends_wiki/items/icecore.png
                         :alt: Keys
 
-                        Regice Ice Core
+                        Ice Core
 
                     .. figure:: ../_images/legends_wiki/items/steelcore.png
                         :alt: Keys
 
-                        Registeel Steel Core
+                        Steel Core
 
                     .. figure:: ../_images/legends_wiki/items/rockcore.png
                         :alt: Keys
 
-                        Regirock Rock Core
+                        Rock Core
 
                     .. figure:: ../_images/legends_wiki/items/regisorb.png
                         :alt: Keys
 
-                        Regigigas Orb
+                        Regigigas Core
 
 **Secondary Spawn**
 ===================
