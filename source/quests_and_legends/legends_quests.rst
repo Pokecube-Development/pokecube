@@ -1054,10 +1054,6 @@ Regi Golems
             - If Golem Core you created was placed in the wrong area, you will get the message ``Regirock does not spawn in this location`` when you try to use a key item on that block.
             - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
 
-            .. image:: https://i.imgur.com/e9Gi6tz.png
-                :alt: wrong location alert
-            :raw-html:`<br />`
-
             .. dropdown:: Key Items
                 :animate: fade-in-slide-down
 
