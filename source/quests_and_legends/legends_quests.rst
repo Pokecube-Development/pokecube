@@ -7,8 +7,8 @@
 Legends and Quests
 ******************
 
-**Introduction**
-================
+Introduction
+=============
 The |Pokecube| has modules that complement each other, Legends is one of those modules. :raw-html:`<br />`
 |Pokecube| Legends is the part that manages structures, dimensions, & behavior of legendary |pokemob| for spawning and capturing. :raw-html:`<br />`
 On this page you will find information about the legendary structures, their spawn forms, items, & exclusive blocks of |Pokecube| Legends. 
@@ -381,8 +381,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             
             Ruins: Location of Maps
 
-**Blocks**
-~~~~~~~~~~~~~
+Blocks
+~~~~~~~
 In addition to the structures, the |Pokecube| Legends expansion adds many blocks to the mod, many with unique functions!
 
 .. dropdown:: Spawner Blocks
@@ -593,8 +593,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
             Hoopa Portal Creation
 
-**Special Moves**
-~~~~~~~~~~~~~~~~~~
+Special Moves
+~~~~~~~~~~~~~~
 
 .. dropdown:: Dynamax & Gigantamx
     :animate: fade-in-slide-down
@@ -629,8 +629,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         .. image:: ../_images/legends_wiki/items/z_electric.png
             :alt: max_spot
 
-**Exploration Structures**
-==========================
+Exploration Structures
+=======================
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
 Exploration structures are buildings that do not have links with legendary |pokemob|, they can be explored by players to get items or special trades.
 
@@ -860,8 +860,8 @@ Aether Foundation
 
             Battle Giovanni!
 
-**Legendary Structures**
-========================
+Legendary Structures
+=====================
 While exploring the world you will find many different structures. They are the **'Temples of Legendary'**.
 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
@@ -1331,8 +1331,8 @@ Necrozma Tower
 
 .. _Built Pokémobs:
 
-**Built Pokémobs**
-===================
+Built Pokémobs
+===============
 
 .. _Type-Null:
 
@@ -1437,8 +1437,8 @@ Regi Golems
 
 .. _quests_list:
 
-**Legends Pokémob Quests**
-============================
+Legendary Pokémob Quests
+=========================
 
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
