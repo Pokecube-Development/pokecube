@@ -66,15 +66,16 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 .. dropdown:: Summoning Items
     :animate: fade-in-slide-down
 
-    - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items. 
+    - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
     - These items can be acquired only by purchasing with Merchants or Trainers after being defeated
+    - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
 
     .. grid:: 1
 
         .. grid-item-card:: Articuno
 
-            - Lugia Tower
-
+            - Find the `Lugia Tower`_
+            
             .. image:: ../_images/legends_wiki/items/ice_wing.png
                 :alt: Articuno Key Item
 
@@ -82,8 +83,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Articuno
 
-            - Legendary Tree
-
+            - Find the `Legendary Tree`_
+            
             .. image:: ../_images/legends_wiki/items/ice_dark_wing.png
                 :alt: Galar Articuno Key Item
 
@@ -91,7 +92,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Moltres
 
-            * Moltres
+            - Find the `Lugia Tower`_
+            
             .. image:: ../_images/legends_wiki/items/fire_wing.png
                 :alt: Moltres Key Item
 
@@ -99,7 +101,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Moltres
 
-            * Moltres Galar Form
+            - Find the `Legendary Tree`_
+            
             .. image:: ../_images/legends_wiki/items/dark_fire_wing.png
                 :alt: Moltres Key Item
 
@@ -107,7 +110,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Zapdos
 
-            * Zapdos
+            - Find the `Lugia Tower`_
+            
             .. image:: ../_images/legends_wiki/items/electric_wing.png
                 :alt: Zapdos Key Item
 
@@ -115,7 +119,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Zapdos
 
-            * Zapdos Galar Form
+            - Find the `Legendary Tree`_
+            
             .. image:: ../_images/legends_wiki/items/static_wing.png
                 :alt: Zapdos Key Item
 
@@ -123,7 +128,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Entei
 
-            * Entei
+            - Find the `Ho-Oh Tower`_
+            
             .. image:: ../_images/legends_wiki/items/flame_gem.png
                 :alt: Entei Key Item
 
@@ -131,7 +137,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Raikou
 
-            * Raikou
+            - Find the `Ho-Oh Tower`_
+            
             .. image:: ../_images/legends_wiki/items/thunder_gem.png
                 :alt: Raikou Key Item
 
@@ -139,7 +146,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Suicune
 
-            * Suicune
+            - Find the `Ho-Oh Tower`_
+            
             .. image:: ../_images/legends_wiki/items/water_gem.png
                 :alt: Suicune Key Item
 
@@ -147,7 +155,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Deoxys
 
-            * Deoxys
+            - Find the `Sky Pillar`_
+            
             .. image:: ../_images/legends_wiki/items/meteor_shard.png
                 :alt: Deoxys Key Item
 
@@ -155,31 +164,37 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Jirachi
 
-            * Jirachi
+            - Find the `Sky Pillar`_
+            
             .. image:: ../_images/legends_wiki/items/star_core.png
                 :alt: Jirachi Key Item
 
     .. grid:: 1
 
-        .. grid-item-card:: Latios & Latias
-
-            * Latios/Latias
-            .. image:: ../_images/legends_wiki/items/soul_dew.png
-                :alt: Latios & Latias Key Item
-
-    .. grid:: 1
-
         .. grid-item-card:: Cresselia
 
-            * Cresselia
+            - Find the `Sky Pillar`_
+            
             .. image:: ../_images/legends_wiki/items/lunar_wing.png
                 :alt: Cresselia Key Item
 
     .. grid:: 1
 
+        .. grid-item-card:: Latios & Latias
+
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+            
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latios & Latias Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Darkrai
 
-            * Darkrai
+            - Find the `Yveltal Ruins`_
+            
             .. image:: ../_images/legends_wiki/items/nightmare_book.png
                 :alt: Darkrai Key Item
 
@@ -187,7 +202,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Manaphy
 
-            * Manaphy
+            - Find the `Kyogre Temple`_
+            
             .. image:: ../_images/legends_wiki/items/manaphy_necklace.png
                 :alt: Manaphy Key Item
 
@@ -195,7 +211,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Hoopa Confined
 
-            * Hoopa Confined
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            
             .. image:: ../_images/legends_wiki/items/prisonbottle.png
                 :alt: Hoopa Key Item
 
@@ -203,7 +221,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Meloetta
 
-            * Meloetta
+            - Find the `Nature's Place`_
+            
             .. image:: ../_images/legends_wiki/items/meloetta_ocarina.png
                 :alt: Meloetta Key Item
 
@@ -211,7 +230,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Kyurem
 
-            * Kyurem
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            
             .. image:: ../_images/legends_wiki/items/kyurem_core.png
                 :alt: Kyurem Key Item
 
@@ -219,7 +240,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Virizion
 
-            * Virizion
+            - Find the `Keldeo Altar`_
+            
             .. image:: ../_images/legends_wiki/items/virizion_sword.png
                 :alt: Virizion Key Item
 
@@ -227,7 +249,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Cobalion
 
-            * Cobalion
+            - Find the `Keldeo Altar`_
+            
             .. image:: ../_images/legends_wiki/items/cobalion_sword.png
                 :alt: Cobalion Key Item
 
@@ -235,7 +258,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Terrakion
 
-            * Terrakion
+            - Find the `Keldeo Altar`_
+            
             .. image:: ../_images/legends_wiki/items/terrakion_sword.png
                 :alt: Terrakion Key Item
 
@@ -243,7 +267,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Diancie
 
-            * Diancie
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
+            
             .. image:: ../_images/legends_wiki/items/diamond_gem.png
                 :alt: Diancie Key Item
 
@@ -251,7 +277,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Azelf
 
-            * Azelf
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
             .. image:: ../_images/legends_wiki/items/azelf_gem.png
                 :alt: Azelf Key Item
 
@@ -259,7 +286,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Mesprit
 
-            * Mesprit
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
             .. image:: ../_images/legends_wiki/items/mesprit_gem.png
                 :alt: Mesprit Key Item
 
@@ -267,7 +295,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Uxie
 
-            * Uxie
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
             .. image:: ../_images/legends_wiki/items/uxie_gem.png
                 :alt: Uxie Key Item
 
@@ -275,8 +304,8 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Volcanion
 
-            - Right-click on the **Magearna Spawner**
-            - Must be in a **Village**
+            - Craft & then right-click the **Magearna Spawner**
+            - Must be placed in a **Village**
             
             .. image:: ../_images/legends_wiki/items/steam_core.png
                 :alt: Volcanion Key Item
@@ -303,35 +332,20 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Calyrex
 
-            - Right-click on the **Trough Spawner**
-            - Must be in a **Taiga** Biome or any biome tagged as ``#minecraft:is_taiga``
+            - Craft & then right-click the **Trough Spawner**
+            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
 
             .. image:: ../_images/legends_wiki/items/wooden_crown.png
                 :alt: Calyrex Key Item
 
-    **with this addition, these pokémobs have catch rules, just like pokémob that can only be summoned Lugia/Kyogre for example!**
+    .. grid:: 1
 
-    for you to invoke them, get the item from the |pokemob| respective and look for the structure it needs, or place the main block in the requested biome:
+        .. grid-item-card:: Zygarde
 
-    * Zapdos/Moltres/Articuno > Lugia Tower
-    * Zapdos/Moltres/Articuno Galar Form > Legendy Tree
-    * Entei/Raikou/Suicune > Ho-oh Tower
-    * Deoxys/Jirachi > Sky Pillar
-    * Latios > Legendary Block place in Biome: Stone Beach
-    * Latias > Legendary Block place in Biome: Beach
-    * Darkrai > Ruins of Yveltal
-    * Cresselia > Sky Pillar
-    * Manaphy > Kyogre Temple
-    * Uxie/Mesprit/Azelf > Zacian/Zamazenta Temple
-    * Meloetta > Nature Temple
-    * Kyurem > Legendary Block place in Biome: Snowy (any biome that has snow, except mountain peaks)
-    * Hoopa > Legendary Block place in Biome Ruins
-    * Volcanion > Magearna Block place in Biome: Village
-    * Diancie > Legendary Block place in Biome: Extreme Hills
-    * Cobalion/Virizion/Terrakion > Keldeo Altar
-    * Zygarde > Ruins of Yveltal/Xerneas Tree
-    * Cosmog > Time Space Altar
-    * Calyrex > Trough Block place in Biome: Taiga
+            - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
+
+            .. image:: ../_images/legends_wiki/items/wooden_crown.png
+                :alt: Zygarde Key Item
 
 .. dropdown:: Pokepuffs
     :animate: fade-in-slide-down
@@ -1385,27 +1399,16 @@ Regi Golems
                 The blocks used to build the golems use blocks tags, which can be customized using datapacks.
 
                 - :ref:`regice` accepts any block tagged as ``#pokecube_legends:arceus_approved/regice``
-                    
                     * This tag includes the block tags ``#minecraft:snow`` & ``#minecraft:ice``
-                
                 - :ref:`regidrago` accepts any block tagged as ``#pokecube_legends:arceus_approved/regidrago``
-                    
                     * This tag includes the block tags ``#forge:obsidian``
-                
                 - :ref:`regieleki` accepts any block tagged as ``#pokecube_legends:arceus_approved/regieleki``
-                    
                     * This tag includes the block tags ``#forge:storage_blocks/redstone``
-                
                 - :ref:`regigigas` accepts any block tagged as ``#pokecube_legends:arceus_approved/regigigas``
-                    
                     * This tag includes the block tags ``#forge:end_stones``
-                
                 - :ref:`regirock` accepts any block tagged as ``#pokecube_legends:arceus_approved/regirock``
-                    
                     * This tag includes the block tags ``#minecraft:terracotta``
-                
                 - :ref:`registeel` accepts any block tagged as ``#pokecube_legends:arceus_approved/registeel``
-                    
                     * This tag includes the block tags ``#forge:storage_blocks/iron``
 
     .. grid:: 1
