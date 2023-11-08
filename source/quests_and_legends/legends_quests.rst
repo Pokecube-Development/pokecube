@@ -288,7 +288,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Diancie
 
-            - Purchase the **Pink Diamond**
+            - Purchase the **Psychic Gem**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
             
