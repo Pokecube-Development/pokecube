@@ -344,7 +344,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
             - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
 
-            .. image:: ../_images/legends_wiki/items/wooden_crown.png
+            .. image:: ../_images/legends_wiki/items/zygardecube.png
                 :alt: Zygarde Key Item
 
 .. dropdown:: Pokepuffs
