@@ -63,6 +63,276 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             .. image:: ../_images/legends_wiki/items/mint.png
                 :alt: Mints
 
+.. dropdown:: Summoning Items
+    :animate: fade-in-slide-down
+
+    - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items. 
+    - These items can be acquired only by purchasing with Merchants or Trainers after being defeated
+
+    .. grid:: 1
+
+        .. grid-item-card:: Articuno
+
+            - Lugia Tower
+
+            .. image:: ../_images/legends_wiki/items/ice_wing.png
+                :alt: Articuno Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Galar Articuno
+
+            - Legendary Tree
+
+            .. image:: ../_images/legends_wiki/items/ice_dark_wing.png
+                :alt: Galar Articuno Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Moltres
+
+            * Moltres
+            .. image:: ../_images/legends_wiki/items/fire_wing.png
+                :alt: Moltres Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Galar Moltres
+
+            * Moltres Galar Form
+            .. image:: ../_images/legends_wiki/items/dark_fire_wing.png
+                :alt: Moltres Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Zapdos
+
+            * Zapdos
+            .. image:: ../_images/legends_wiki/items/electric_wing.png
+                :alt: Zapdos Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Galar Zapdos
+
+            * Zapdos Galar Form
+            .. image:: ../_images/legends_wiki/items/static_wing.png
+                :alt: Zapdos Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Entei
+
+            * Entei
+            .. image:: ../_images/legends_wiki/items/flame_gem.png
+                :alt: Entei Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Raikou
+
+            * Raikou
+            .. image:: ../_images/legends_wiki/items/thunder_gem.png
+                :alt: Raikou Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Suicune
+
+            * Suicune
+            .. image:: ../_images/legends_wiki/items/water_gem.png
+                :alt: Suicune Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Deoxys
+
+            * Deoxys
+            .. image:: ../_images/legends_wiki/items/meteor_shard.png
+                :alt: Deoxys Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Jirachi
+
+            * Jirachi
+            .. image:: ../_images/legends_wiki/items/star_core.png
+                :alt: Jirachi Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Latios & Latias
+
+            * Latios/Latias
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latios & Latias Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Cresselia
+
+            * Cresselia
+            .. image:: ../_images/legends_wiki/items/lunar_wing.png
+                :alt: Cresselia Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Darkrai
+
+            * Darkrai
+            .. image:: ../_images/legends_wiki/items/nightmare_book.png
+                :alt: Darkrai Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Manaphy
+
+            * Manaphy
+            .. image:: ../_images/legends_wiki/items/manaphy_necklace.png
+                :alt: Manaphy Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Hoopa Confined
+
+            * Hoopa Confined
+            .. image:: ../_images/legends_wiki/items/prisonbottle.png
+                :alt: Hoopa Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Meloetta
+
+            * Meloetta
+            .. image:: ../_images/legends_wiki/items/meloetta_ocarina.png
+                :alt: Meloetta Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Kyurem
+
+            * Kyurem
+            .. image:: ../_images/legends_wiki/items/kyurem_core.png
+                :alt: Kyurem Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Virizion
+
+            * Virizion
+            .. image:: ../_images/legends_wiki/items/virizion_sword.png
+                :alt: Virizion Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Cobalion
+
+            * Cobalion
+            .. image:: ../_images/legends_wiki/items/cobalion_sword.png
+                :alt: Cobalion Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Terrakion
+
+            * Terrakion
+            .. image:: ../_images/legends_wiki/items/terrakion_sword.png
+                :alt: Terrakion Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Diancie
+
+            * Diancie
+            .. image:: ../_images/legends_wiki/items/diamond_gem.png
+                :alt: Diancie Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Azelf
+
+            * Azelf
+            .. image:: ../_images/legends_wiki/items/azelf_gem.png
+                :alt: Azelf Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Mesprit
+
+            * Mesprit
+            .. image:: ../_images/legends_wiki/items/mesprit_gem.png
+                :alt: Mesprit Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Uxie
+
+            * Uxie
+            .. image:: ../_images/legends_wiki/items/uxie_gem.png
+                :alt: Uxie Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Volcanion
+
+            - Right-click on the **Magearna Spawner**
+            - Must be in a **Village**
+            
+            .. image:: ../_images/legends_wiki/items/steam_core.png
+                :alt: Volcanion Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Cosmog
+
+            - Find the `Altar of Time & Space`_
+            
+            .. image:: ../_images/legends_wiki/items/cosmic_orb.png
+                :alt: Cosmog Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Kubfu
+
+            - Find the `Kubfu Dojo`_
+
+            .. image:: ../_images/legends_wiki/items/kubfu_spawn.png
+                :alt: Kubfu Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Calyrex
+
+            - Right-click on the **Trough Spawner**
+            - Must be in a **Taiga** Biome or any biome tagged as ``#minecraft:is_taiga``
+
+            .. image:: ../_images/legends_wiki/items/wooden_crown.png
+                :alt: Calyrex Key Item
+
+    **with this addition, these pokémobs have catch rules, just like pokémob that can only be summoned Lugia/Kyogre for example!**
+
+    for you to invoke them, get the item from the |pokemob| respective and look for the structure it needs, or place the main block in the requested biome:
+
+    * Zapdos/Moltres/Articuno > Lugia Tower
+    * Zapdos/Moltres/Articuno Galar Form > Legendy Tree
+    * Entei/Raikou/Suicune > Ho-oh Tower
+    * Deoxys/Jirachi > Sky Pillar
+    * Latios > Legendary Block place in Biome: Stone Beach
+    * Latias > Legendary Block place in Biome: Beach
+    * Darkrai > Ruins of Yveltal
+    * Cresselia > Sky Pillar
+    * Manaphy > Kyogre Temple
+    * Uxie/Mesprit/Azelf > Zacian/Zamazenta Temple
+    * Meloetta > Nature Temple
+    * Kyurem > Legendary Block place in Biome: Snowy (any biome that has snow, except mountain peaks)
+    * Hoopa > Legendary Block place in Biome Ruins
+    * Volcanion > Magearna Block place in Biome: Village
+    * Diancie > Legendary Block place in Biome: Extreme Hills
+    * Cobalion/Virizion/Terrakion > Keldeo Altar
+    * Zygarde > Ruins of Yveltal/Xerneas Tree
+    * Cosmog > Time Space Altar
+    * Calyrex > Trough Block place in Biome: Taiga
+
 .. dropdown:: Pokepuffs
     :animate: fade-in-slide-down
 
@@ -583,6 +853,8 @@ While exploring the world you will find many different structures. They are the 
 - Legendary temples need a special item and completion of a unique quest so you can summon and capture it.
 - Not all |pokemobs| have unique structures, some share structures.
 
+.. _Castle of N:
+
 Castle of N 
 ~~~~~~~~~~~~
 
@@ -608,6 +880,8 @@ Castle of N
             
             Battle N!
 
+.. _Celebi Temple:
+
 Celebi Temple
 ~~~~~~~~~~~~~~
 
@@ -620,6 +894,8 @@ Celebi Temple
 
     .. image:: ../_images/legends_wiki/celebi_temple.png
         :alt: Celebi Temple
+
+.. _Ho-Oh Temple:
 
 Ho-Oh Temple
 ~~~~~~~~~~~~~
@@ -634,6 +910,8 @@ Ho-Oh Temple
     .. image:: ../_images/legends_wiki/ho_oh_tower.png
         :alt: Ho-oh Temple
 
+.. _Legendary Tree:
+
 Legendary Tree
 ~~~~~~~~~~~~~~~
 
@@ -646,6 +924,8 @@ Legendary Tree
 
     .. image:: ../_images/legends_wiki/legendary_tree.png
         :alt: Legendary tree
+
+.. _Kubfu Dojo:
 
 Kubfu Dojo
 ~~~~~~~~~~~
@@ -660,6 +940,8 @@ Kubfu Dojo
     .. image:: ../_images/legends_wiki/kubfu_dojo.png
         :alt: Kubfu Dojo
 
+.. _Dark Kubfu Tower:
+
 Dark Kubfu Tower
 ~~~~~~~~~~~~~~~~~
 
@@ -672,6 +954,9 @@ Dark Kubfu Tower
 
     .. image:: ../_images/legends_wiki/kubfu_tower_dark.png
         :alt: Dark Kubfu Tower
+
+
+.. _Water Kubfu Tower:
 
 Water Kubfu Tower
 ~~~~~~~~~~~~~~~~~~
@@ -686,6 +971,8 @@ Water Kubfu Tower
     .. image:: ../_images/legends_wiki/kubfu_tower_water.png
         :alt: Water Kubfu Tower
 
+.. _Sky Pillar:
+
 Sky Pillar
 ~~~~~~~~~~~
 
@@ -699,11 +986,16 @@ Sky Pillar
     .. image:: ../_images/legends_wiki/sky_pillar.png
         :alt: Sky Pillar
 
+.. _Ruins of Regi:
+
 Ruins of Regi
 ~~~~~~~~~~~~~~
 
 .. dropdown:: Description
     :animate: fade-in-slide-down
+
+
+    .. _Regice Temple:
 
     .. dropdown:: Regice Temple
         :animate: fade-in-slide-down
@@ -726,6 +1018,8 @@ Ruins of Regi
                 
                 Regice Totem Template
 
+    .. _Regirock Temple:
+
     .. dropdown:: Regirock Temple
         :animate: fade-in-slide-down
 
@@ -746,6 +1040,8 @@ Ruins of Regi
             .. figure:: ../_images/legends_wiki/regirock_totem_template.png
                 
                 Regirock Totem Template
+
+    .. _Registeel Temple:
 
     .. dropdown:: Registeel Temple
         :animate: fade-in-slide-down
@@ -768,6 +1064,8 @@ Ruins of Regi
                 
                 Registeel Totem Template
 
+    .. _Regieleki Temple:
+
     .. dropdown:: Regieleki Temple
         :animate: fade-in-slide-down
 
@@ -788,6 +1086,8 @@ Ruins of Regi
             .. figure:: ../_images/legends_wiki/regieleki_totem_template.png
                 
                 Regieleki Totem Template
+
+    .. _Regidrago Temple:
 
     .. dropdown:: Regidrago Temple
         :animate: fade-in-slide-down
@@ -810,6 +1110,8 @@ Ruins of Regi
                 
                 Regidrago Totem Template
 
+    .. _Regigigas Temple:
+
     .. dropdown:: Regigigas Temple
         :animate: fade-in-slide-down
 
@@ -831,6 +1133,8 @@ Ruins of Regi
                 
                 Regigigas Totem Template
 
+.. _Kyogre Temple:
+
 Kyogre Temple
 ~~~~~~~~~~~~~~
 
@@ -843,6 +1147,8 @@ Kyogre Temple
 
     .. image:: ../_images/legends_wiki/kyogre_temple.png
         :alt: Kyogre Temple
+
+.. _Groudon Temple:
 
 Groudon Temple
 ~~~~~~~~~~~~~~~
@@ -857,6 +1163,8 @@ Groudon Temple
     .. image:: ../_images/legends_wiki/groudon_temple.png
         :alt: Groudon Temple
 
+.. _Lugia Tower:
+
 Lugia Tower
 ~~~~~~~~~~~~
 
@@ -869,6 +1177,8 @@ Lugia Tower
 
     .. image:: ../_images/legends_wiki/lugia_tower.png
         :alt: Lugia Tower
+
+.. _Yveltal Ruins:
 
 Yveltal Ruins
 ~~~~~~~~~~~~~~
@@ -883,6 +1193,8 @@ Yveltal Ruins
     .. image:: ../_images/legends_wiki/yveltal_temple.png
         :alt: Yveltal Ruins
 
+.. _Xerneas Tree:
+
 Xerneas Tree
 ~~~~~~~~~~~~~
 
@@ -895,6 +1207,8 @@ Xerneas Tree
 
     .. image:: ../_images/legends_wiki/xerneas_tree.png
         :alt: Xerneas Tree
+
+.. _Keldeo Altar:
 
 Keldeo Altar
 ~~~~~~~~~~~~~
@@ -909,6 +1223,8 @@ Keldeo Altar
     .. image:: ../_images/legends_wiki/keldeo_temple.png
         :alt: Keldeo Altar
 
+.. _Nature's Place:
+
 Nature's Place
 ~~~~~~~~~~~~~~~
 
@@ -921,6 +1237,8 @@ Nature's Place
 
     .. image:: ../_images/legends_wiki/nature_place.png
         :alt: Nature's Place
+
+.. _Altar of Time & Space:
 
 Altar of Time & Space
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -935,6 +1253,8 @@ Altar of Time & Space
     .. image:: ../_images/legends_wiki/time_space_temple.png
         :alt: Altar of Time & Space
 
+.. _Tapu Center:
+
 Tapu Center
 ~~~~~~~~~~~~
 
@@ -947,6 +1267,8 @@ Tapu Center
 
     .. image:: ../_images/legends_wiki/tapus_center.png
         :alt: Tapu Center
+
+.. _Zacian Ruined Portal:
 
 Zacian Ruined Portal
 ~~~~~~~~~~~~~~~~~~~~~
@@ -961,6 +1283,8 @@ Zacian Ruined Portal
     .. image:: ../_images/legends_wiki/zacian_temple.png
         :alt: Zacian Ruined Portal
 
+.. _Zamazenta Ruined Portal:
+
 Zamazenta Ruined Portal
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -974,6 +1298,8 @@ Zamazenta Ruined Portal
     .. image:: ../_images/legends_wiki/zamazenta_temple.png
         :alt: Zamazenta Ruined Portal
 	
+.. _Necrozma Tower:
+
 Necrozma Tower
 ~~~~~~~~~~~~~~~
 
@@ -987,10 +1313,14 @@ Necrozma Tower
     .. image:: ../_images/legends_wiki/necrozma_tower.png
         :alt: Necrozma Tower
 
-.. _make_type_null:
+
+
+.. _Built Pokémobs:
 
 **Built Pokémobs**
 ===================
+
+.. _Type-Null:
 
 Type: Null 
 ~~~~~~~~~~~
@@ -1013,6 +1343,8 @@ Type: Null
 
     .. image:: ../_images/legends_wiki/type_null_recipe.png
         :alt: Type Null Mutation Recipe
+
+.. _Regi Golems:
 
 Regi Golems
 ~~~~~~~~~~~~
@@ -1099,153 +1431,6 @@ Regi Golems
                 :alt: Rock Core Key
             .. image:: ../_images/legends_wiki/items/regisorb.png
                 :alt: Regigigas Core Key
-
-**Secondary Spawn**
-===================
-
-Some |pokemob|, even though they appear naturally through biomes, can be summoned by items. These items cannot be acquired by Quest, only by purchasing with Merchants and Trainers after being defeated. Currently, not all Legendaries have a Secondary Spawn, but in the future everyone will have this option.
-
-They are for the respective |pokemobs|:
-
-* Articuno
-.. image:: ../_images/legends_wiki/items/ice_wing.png
-    :alt: Articuno Item
-
-* Articuno Galar Form
-.. image:: ../_images/legends_wiki/items/ice_dark_wing.png
-    :alt: Articuno Item
-
-* Moltres
-.. image:: ../_images/legends_wiki/items/fire_wing.png
-    :alt: Moltres Item
-
-* Moltres Galar Form
-.. image:: ../_images/legends_wiki/items/dark_fire_wing.png
-    :alt: Moltres Item
-
-* Zapdos
-.. image:: ../_images/legends_wiki/items/electric_wing.png
-    :alt: Zapdos Item
-
-* Zapdos Galar Form
-.. image:: ../_images/legends_wiki/items/static_wing.png
-    :alt: Zapdos Item
-
-* Entei
-.. image:: ../_images/legends_wiki/items/flame_gem.png
-    :alt: Entei Item
-
-* Raikou
-.. image:: ../_images/legends_wiki/items/thunder_gem.png
-    :alt: Raikou Item
-
-* Suicune
-.. image:: ../_images/legends_wiki/items/water_gem.png
-    :alt: Suicune Item
-
-* Deoxys
-.. image:: ../_images/legends_wiki/items/meteor_shard.png
-    :alt: Deoxys Item
-
-* Jirachi
-.. image:: ../_images/legends_wiki/items/star_core.png
-    :alt: Jirachi Item
-
-* Latios/Latias
-.. image:: ../_images/legends_wiki/items/soul_dew.png
-    :alt: Latios Latias Item
-
-* Cresselia
-.. image:: ../_images/legends_wiki/items/lunar_wing.png
-    :alt: Cresselia Item
-
-* Darkrai
-.. image:: ../_images/legends_wiki/items/nightmare_book.png
-    :alt: Darkrai Item
-
-* Manaphy
-.. image:: ../_images/legends_wiki/items/manaphy_necklace.png
-    :alt: Manaphy Item
-
-* Hoopa Confined
-.. image:: ../_images/legends_wiki/items/prisonbottle.png
-    :alt: Hoopa Item
-
-* Meloetta
-.. image:: ../_images/legends_wiki/items/meloetta_ocarina.png
-    :alt: Meloetta Item
-
-* Kyurem
-.. image:: ../_images/legends_wiki/items/kyurem_core.png
-    :alt: Kyurem Item
-
-* Virizion
-.. image:: ../_images/legends_wiki/items/virizion_sword.png
-    :alt: Virizion Item
-
-* Cobalion
-.. image:: ../_images/legends_wiki/items/cobalion_sword.png
-    :alt: Cobalion Item
-
-* Terrakion
-.. image:: ../_images/legends_wiki/items/terrakion_sword.png
-    :alt: Terrakion Item
-
-* Diancie
-.. image:: ../_images/legends_wiki/items/diamond_gem.png
-    :alt: Diancie Item
-
-* Azelf
-.. image:: ../_images/legends_wiki/items/azelf_gem.png
-    :alt: Azelf Item
-
-* Mesprit
-.. image:: ../_images/legends_wiki/items/mesprit_gem.png
-    :alt: Mesprit Item
-
-* Uxie
-.. image:: ../_images/legends_wiki/items/uxie_gem.png
-    :alt: Uxie Item
-
-* Volcanion
-.. image:: ../_images/legends_wiki/items/steam_core.png
-    :alt: Volcanion Item
-
-* Cosmog
-.. image:: ../_images/legends_wiki/items/cosmic_orb.png
-    :alt: Cosmog Item
-
-* Kubfu
-.. image:: ../_images/legends_wiki/items/kubfu_spawn.png
-    :alt: Kubfu Item
-
-* Calyrex
-.. image:: ../_images/legends_wiki/items/wooden_crown.png
-    :alt: Calyrex Item
-
-**with this addition, these pokémobs have catch rules, just like pokémob that can only be summoned Lugia/Kyogre for example!**
-
-for you to invoke them, get the item from the |pokemob| respective and look for the structure it needs, or place the main block in the requested biome:
-
-* Zapdos/Moltres/Articuno > Lugia Tower
-* Zapdos/Moltres/Articuno Galar Form > Legendy Tree
-* Entei/Raikou/Suicune > Ho-oh Tower
-* Deoxys/Jirachi > Sky Pillar
-* Latios > Legendary Block place in Biome: Stone Beach
-* Latias > Legendary Block place in Biome: Beach
-* Darkrai > Ruins of Yveltal
-* Cresselia > Sky Pillar
-* Manaphy > Kyogre Temple
-* Uxie/Mesprit/Azelf > Zacian/Zamazenta Temple
-* Meloetta > Nature Temple
-* Kyurem > Legendary Block place in Biome: Snowy (any biome that has snow, except mountain peaks)
-* Hoopa > Legendary Block place in Biome Ruins
-* Volcanion > Magearna Block place in Biome: Village
-* Diancie > Legendary Block place in Biome: Extreme Hills
-* Cobalion/Virizion/Terrakion > Keldeo Altar
-* Zygarde > Ruins of Yveltal/Xerneas Tree
-* Cosmog > Time Space Altar
-* Calyrex > Trough Block place in Biome: Taiga
 
 .. _quests_list:
 
