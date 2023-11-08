@@ -9,11 +9,11 @@ Legends and Quests
 
 Introduction
 =============
-The |Pokecube| has modules that complement each other, Legends is one of those modules. :raw-html:`<br />`
+|Pokecube| has modules that complement each other, Legends is one of these modules. :raw-html:`<br />`
 |Pokecube| Legends is the part that manages structures, dimensions, & behavior of legendary |pokemob| for spawning and capturing. :raw-html:`<br />`
 On this page you will find information about the legendary structures, their spawn forms, items, & exclusive blocks of |Pokecube| Legends. 
 
-For dimensions, visit it by clicking here: :ref:`legend_dimensions`
+For the dimensions part of this module, click here: :ref:`legend_dimensions`
 
 Items
 ~~~~~~
@@ -128,7 +128,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Entei
 
-            - Find the `Ho-Oh Tower`_
+            - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/flame_gem.png
                 :alt: Entei Key Item
@@ -137,7 +137,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Raikou
 
-            - Find the `Ho-Oh Tower`_
+            - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/thunder_gem.png
                 :alt: Raikou Key Item
@@ -146,7 +146,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Suicune
 
-            - Find the `Ho-Oh Tower`_
+            - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/water_gem.png
                 :alt: Suicune Key Item
@@ -1399,16 +1399,27 @@ Regi Golems
                 The blocks used to build the golems use blocks tags, which can be customized using datapacks.
 
                 - :ref:`regice` accepts any block tagged as ``#pokecube_legends:arceus_approved/regice``
+                
                     * This tag includes the block tags ``#minecraft:snow`` & ``#minecraft:ice``
+                
                 - :ref:`regidrago` accepts any block tagged as ``#pokecube_legends:arceus_approved/regidrago``
+                
                     * This tag includes the block tags ``#forge:obsidian``
+                
                 - :ref:`regieleki` accepts any block tagged as ``#pokecube_legends:arceus_approved/regieleki``
+                
                     * This tag includes the block tags ``#forge:storage_blocks/redstone``
+                
                 - :ref:`regigigas` accepts any block tagged as ``#pokecube_legends:arceus_approved/regigigas``
+                
                     * This tag includes the block tags ``#forge:end_stones``
+                
                 - :ref:`regirock` accepts any block tagged as ``#pokecube_legends:arceus_approved/regirock``
+                
                     * This tag includes the block tags ``#minecraft:terracotta``
+                
                 - :ref:`registeel` accepts any block tagged as ``#pokecube_legends:arceus_approved/registeel``
+                
                     * This tag includes the block tags ``#forge:storage_blocks/iron``
 
     .. grid:: 1
