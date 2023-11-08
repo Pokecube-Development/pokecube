@@ -117,7 +117,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Electric Wing**
             - Find the `Lugia Tower`_
             
-            .. image:: ../_images/legends_wiki/items/electric_wing.png
+            .. image:: ../_images/legends_wiki/items/electric_wing.gif
                 :alt: Zapdos Key Item
 
     .. grid:: 1
@@ -127,7 +127,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Static Wing**
             - Find the `Legendary Tree`_
             
-            .. image:: ../_images/legends_wiki/items/static_wing.png
+            .. image:: ../_images/legends_wiki/items/static_wing.gif
                 :alt: Zapdos Key Item
 
     .. grid:: 1
@@ -288,11 +288,11 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Diancie
 
-            - Purchase the **Psychic Gem**
+            - Purchase the **Pink Diamond**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
             
-            .. image:: ../_images/legends_wiki/items/diamond_gem.png
+            .. image:: ../_images/legends_wiki/items/pink_diamond.png
                 :alt: Diancie Key Item
 
     .. grid:: 1
