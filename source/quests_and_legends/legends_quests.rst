@@ -219,7 +219,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Prince's Necklace**
             - Find the `Kyogre Temple`_
             
-            .. image:: ../_images/legends_wiki/items/manaphy_necklace.png
+            .. image:: ../_images/legends_wiki/items/prince_necklace.png
                 :alt: Manaphy Key Item
 
     .. grid:: 1
@@ -230,7 +230,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
             
-            .. image:: ../_images/legends_wiki/items/prisonbottle.png
+            .. image:: ../_images/legends_wiki/items/prison_bottle.png
                 :alt: Hoopa Key Item
 
     .. grid:: 1
@@ -240,7 +240,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Melody Ocarina**
             - Find the `Nature's Place`_
             
-            .. image:: ../_images/legends_wiki/items/meloetta_ocarina.png
+            .. image:: ../_images/legends_wiki/items/melody_ocarina.png
                 :alt: Meloetta Key Item
 
     .. grid:: 1
@@ -353,7 +353,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Gray Scarf**
             - Find the `Kubfu Dojo`_
 
-            .. image:: ../_images/legends_wiki/items/kubfu_spawn.png
+            .. image:: ../_images/legends_wiki/items/gray_scarf.png
                 :alt: Kubfu Key Item
 
     .. grid:: 1
