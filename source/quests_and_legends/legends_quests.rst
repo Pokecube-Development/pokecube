@@ -251,7 +251,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
             
-            .. image:: ../_images/legends_wiki/items/kyurem_core.png
+            .. image:: ../_images/legends_wiki/items/dna_stone.png
                 :alt: Kyurem Key Item
 
     .. grid:: 1
