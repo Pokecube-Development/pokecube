@@ -374,7 +374,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase or earn from a quest the **Zygarde Cube**
             - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
 
-            .. image:: ../_images/legends_wiki/items/zygardecube.png
+            .. image:: ../_images/legends_wiki/items/zygarde_cube.png
                 :alt: Zygarde Key Item
 
 .. dropdown:: Pokepuffs
