@@ -299,10 +299,10 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Azelf
 
-            - Purchase the **Gem of Willpower**
+            - Purchase the **Jewel of Willpower**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
-            .. image:: ../_images/legends_wiki/items/azelf_gem.png
+            .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
                 :alt: Azelf Key Item
 
     .. grid:: 1
@@ -312,7 +312,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Jewel of Emotions**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
-            .. image:: ../_images/legends_wiki/items/mesprit_gem.png
+            .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
                 :alt: Mesprit Key Item
 
     .. grid:: 1
@@ -322,7 +322,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Jewel of Wisdom**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
-            .. image:: ../_images/legends_wiki/items/uxie_gem.png
+            .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
                 :alt: Uxie Key Item
 
     .. grid:: 1
