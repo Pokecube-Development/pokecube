@@ -1380,6 +1380,8 @@ Type: Null
     4. Craft a :ref:`cloner` and a :ref:`siphon`
     5. To power the :ref:`cloner`, use the :ref:`siphon` with an electric |pokemob|.
     6. Mutate a |Pokemob| Egg using a Potion of Regeneration II, the Imprisonment Helmet, & another |Pokemob| Egg.
+    
+    - The Imprisonment Helmet can also be worn by the player
 
     .. image:: ../_images/legends_wiki/aether_foundation.png
         :alt: Aether Foundation
