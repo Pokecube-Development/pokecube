@@ -343,7 +343,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Cosmic Orb**
             - Find the `Altar of Time & Space`_
             
-            .. image:: ../_images/legends_wiki/items/cosmic_orb.png
+            .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
                 :alt: Cosmog Key Item
 
     .. grid:: 1
