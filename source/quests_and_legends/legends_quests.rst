@@ -77,7 +77,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Ice Wing**
             - Find the `Lugia Tower`_
             
-            .. image:: ../_images/legends_wiki/items/ice_wing.png
+            .. image:: ../_images/legends_wiki/items/ice_wing.gif
                 :alt: Articuno Key Item
 
     .. grid:: 1
@@ -87,7 +87,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Dark Ice Wing**
             - Find the `Legendary Tree`_
             
-            .. image:: ../_images/legends_wiki/items/ice_dark_wing.png
+            .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
                 :alt: Galar Articuno Key Item
 
     .. grid:: 1
@@ -97,7 +97,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Fire Wing**
             - Find the `Lugia Tower`_
             
-            .. image:: ../_images/legends_wiki/items/fire_wing.png
+            .. image:: ../_images/legends_wiki/items/fire_wing.gif
                 :alt: Moltres Key Item
 
     .. grid:: 1
@@ -107,7 +107,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
             - Purchase the **Dark Fire Wing**
             - Find the `Legendary Tree`_
             
-            .. image:: ../_images/legends_wiki/items/dark_fire_wing.png
+            .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
                 :alt: Moltres Key Item
 
     .. grid:: 1
