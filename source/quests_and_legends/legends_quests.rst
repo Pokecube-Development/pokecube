@@ -74,8 +74,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Articuno
 
+            See :ref:`articuno`
             - Purchase the **Ice Wing**
-            - Complete the quest of capturing 20 Ice |Pokemobs|
+            - Capture 20 Ice |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/ice_wing.gif
@@ -85,8 +86,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Articuno
 
+            See :ref:`articuno`
             - Purchase the **Dark Ice Wing**
-            - Complete the quest of capturing 20 Flying |Pokemobs|
+            - Capture 20 Flying |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
@@ -96,8 +98,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Moltres
 
+            See :ref:`moltres`
             - Purchase the **Fire Wing**
-            - Complete the quest of capturing 20 Fire |Pokemobs|
+            - Capture 20 Fire |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/fire_wing.gif
@@ -107,8 +110,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Moltres
 
+            See :ref:`moltres`
             - Purchase the **Dark Fire Wing**
-            - Complete the quest of capturing 20 Dark |Pokemobs|
+            - Capture 20 Dark |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
@@ -118,8 +122,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Zapdos
 
+            See :ref:`zapdos`
             - Purchase the **Electric Wing**
-            - Complete the quest of capturing 20 Electric |Pokemobs|
+            - Capture 20 Electric |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/electric_wing.gif
@@ -129,8 +134,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Galar Zapdos
 
+            See :ref:`zapdos`
             - Purchase the **Static Wing**
-            - Complete the quest of capturing 20 Fighting |Pokemobs|
+            - Capture 20 Fighting |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/static_wing.gif
@@ -140,8 +146,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Entei
 
+            See :ref:`entei`
             - Purchase the **Flame Gem**
-            - Complete the quest of capturing 20 Fire |Pokemobs|
+            - Capture 20 Fire |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/flame_gem.png
@@ -149,21 +156,11 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
     .. grid:: 1
 
-        .. grid-item-card:: Ho-Oh
-
-            - Purchase the **Thunder Gem**
-            - Complete the quest of capturing 20 Electric |Pokemobs|
-            - Find the `Ho-Oh Temple`_
-            
-            .. image:: ../_images/legends_wiki/items/thunder_gem.png
-                :alt: Ho-Oh Key Item
-
-    .. grid:: 1
-
         .. grid-item-card:: Raikou
 
+            See :ref:`raikou`
             - Purchase the **Thunder Gem**
-            - Complete the quest of capturing 20 Electric |Pokemobs|
+            - Capture 20 Electric |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/thunder_gem.png
@@ -173,8 +170,9 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Suicune
 
+            See :ref:`suicune`
             - Purchase the **Water Gem**
-            - Complete the quest of capturing 20 Water |Pokemobs|
+            - Capture 20 Water |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/water_gem.png
@@ -182,8 +180,21 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
     .. grid:: 1
 
+        .. grid-item-card:: Ho-Oh
+
+            See :ref:`ho-oh`
+            - Purchase the **Rainbow Orb**
+            - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
+                :alt: Ho-Oh Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Deoxys
 
+            See :ref:`deoxys`
             - Purchase the **Meteor Shard**
             - Find the `Sky Pillar`_
             
@@ -194,6 +205,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Jirachi
 
+            See :ref:`jirachi`
             - Purchase the **Star Core**
             - Find the `Sky Pillar`_
             
@@ -204,6 +216,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Cresselia
 
+            See :ref:`cresselia`
             - Purchase the **Lunar Wing**
             - Find the `Sky Pillar`_
             
@@ -214,6 +227,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Latios & Latias
 
+            See :ref:`latios` & :ref:`latias`
             - Purchase the **Soul Dew**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
@@ -226,6 +240,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Darkrai
 
+            See :ref:`darkrai`
             - Purchase the **Nightmare Book**
             - Find the `Yveltal Ruins`_
             
@@ -236,6 +251,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Manaphy
 
+            See :ref:`manaphy`
             - Purchase the **Prince's Necklace**
             - Find the `Kyogre Temple`_
             
@@ -246,6 +262,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Hoopa Confined
 
+            See :ref:`hoopa_confined`
             - Purchase or earn from a quest the **Prison Bottle**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
@@ -257,6 +274,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Meloetta
 
+            See :ref:`meloetta_aria`
             - Purchase the **Melody Ocarina**
             - Find the `Nature's Place`_
             
@@ -267,6 +285,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Kyurem
 
+            See :ref:`kyurem`
             - Purchase the **DNA Stone**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
@@ -278,6 +297,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Keldeo
 
+            See :ref:`keldeo`
             - Purchase **Keldeo's Sword of Justice**
             - Find the `Keldeo Altar`_
             
@@ -288,6 +308,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Virizion
 
+            See :ref:`virizion`
             - Purchase **Virizion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
@@ -298,6 +319,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Cobalion
 
+            See :ref:`cobalion`
             - Purchase **Cobalion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
@@ -308,6 +330,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Terrakion
 
+            See :ref:`terrakion`
             - Purchase **Terrakion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
@@ -318,6 +341,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Diancie
 
+            See :ref:`diancie`
             - Purchase the **Pink Diamond**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
@@ -329,6 +353,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Azelf
 
+            See :ref:`azelf`
             - Purchase the **Jewel of Willpower**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
@@ -339,6 +364,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Mesprit
 
+            See :ref:`mesprit`
             - Purchase the **Jewel of Emotions**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
@@ -349,6 +375,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Uxie
 
+            See :ref:`uxie`
             - Purchase the **Jewel of Wisdom**
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
@@ -359,6 +386,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Volcanion
 
+            See :ref:`volcanion`
             - Purchase the **Steam Core**
             - Craft & then right-click the **Magearna Spawner**
             - Must be placed in a **Village**
@@ -370,6 +398,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Cosmog
 
+            See :ref:`cosmog`
             - Purchase the **Cosmic Orb**
             - Find the `Altar of Time & Space`_
             
@@ -380,6 +409,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Kubfu
 
+            See :ref:`kubfu`
             - Purchase the **Gray Scarf**
             - Find the `Kubfu Dojo`_
 
@@ -390,6 +420,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Calyrex
 
+            See :ref:`calyrex`
             - Purchase the **Wooden Crown**
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
@@ -401,6 +432,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Zygarde
 
+            See :ref:`zygarde_50`
             - Purchase or earn from a quest the **Zygarde Cube**
             - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
 
