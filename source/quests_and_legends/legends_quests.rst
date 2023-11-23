@@ -256,9 +256,19 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
     .. grid:: 1
 
+        .. grid-item-card:: Keldeo
+
+            - Purchase **Keldeo's Sword of Justice**
+            - Find the `Keldeo Altar`_
+            
+            .. image:: ../_images/legends_wiki/items/keldeo_sword.png
+                :alt: Keldeo Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Virizion
 
-            - Purchase the **Virizion Sword**
+            - Purchase **Virizion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/virizion_sword.png
@@ -268,7 +278,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Cobalion
 
-            - Purchase the **Cobalion Sword**
+            - Purchase **Cobalion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/cobalion_sword.png
@@ -278,7 +288,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
         .. grid-item-card:: Terrakion
 
-            - Purchase the **Terrakion Sword**
+            - Purchase **Terrakion's Sword of Justice**
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/terrakion_sword.png
