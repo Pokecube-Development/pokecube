@@ -589,7 +589,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                     
                     - Spawns Magearna
 
-                .. figure:: ../_images/legends_wiki/legendary_block_recipe.png
+                .. figure:: ../_images/legends_wiki/legendary_block_recipe.gif
                     :alt: Legendary Spawner Recipe
                     
                     Legendary Spawner
