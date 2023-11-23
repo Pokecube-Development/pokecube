@@ -75,6 +75,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Articuno
 
             - Purchase the **Ice Wing**
+            - Complete the quest of capturing 20 Ice |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/ice_wing.gif
@@ -85,6 +86,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Galar Articuno
 
             - Purchase the **Dark Ice Wing**
+            - Complete the quest of capturing 20 Flying |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
@@ -95,6 +97,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Moltres
 
             - Purchase the **Fire Wing**
+            - Complete the quest of capturing 20 Fire |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/fire_wing.gif
@@ -105,6 +108,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Galar Moltres
 
             - Purchase the **Dark Fire Wing**
+            - Complete the quest of capturing 20 Dark |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
@@ -115,6 +119,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Zapdos
 
             - Purchase the **Electric Wing**
+            - Complete the quest of capturing 20 Electric |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/electric_wing.gif
@@ -125,6 +130,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Galar Zapdos
 
             - Purchase the **Static Wing**
+            - Complete the quest of capturing 20 Fighting |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/static_wing.gif
@@ -135,6 +141,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Entei
 
             - Purchase the **Flame Gem**
+            - Complete the quest of capturing 20 Fire |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/flame_gem.png
@@ -142,9 +149,21 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
 
     .. grid:: 1
 
+        .. grid-item-card:: Ho-Oh
+
+            - Purchase the **Thunder Gem**
+            - Complete the quest of capturing 20 Electric |Pokemobs|
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/thunder_gem.png
+                :alt: Ho-Oh Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Raikou
 
             - Purchase the **Thunder Gem**
+            - Complete the quest of capturing 20 Electric |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/thunder_gem.png
@@ -155,6 +174,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many items 
         .. grid-item-card:: Suicune
 
             - Purchase the **Water Gem**
+            - Complete the quest of capturing 20 Water |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/water_gem.png
