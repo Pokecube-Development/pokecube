@@ -509,30 +509,47 @@ Capturing Legendary Pokémobs
                     
                     .. image:: ../_images/legends_wiki/items/ocean_orb.png
                         :alt: Lugia Key Item
-
+    
     .. grid:: 1
 
-        .. grid-item-card:: Deoxys
+        .. grid-item-card:: Space Legendaries
 
-            See :ref:`deoxys`
+            .. grid:: 1
 
-            - Purchase the **Meteor Shard**
-            - Find the `Sky Pillar`_
-            
-            .. image:: ../_images/legends_wiki/items/meteor_shard.png
-                :alt: Deoxys Key Item
+                .. grid-item-card:: Deoxys
 
-    .. grid:: 1
+                    See :ref:`deoxys`
 
-        .. grid-item-card:: Jirachi
+                    - Purchase the **Meteor Shard**
+                    - Find the `Sky Pillar`_
+                    
+                    .. image:: ../_images/legends_wiki/items/meteor_shard.png
+                        :alt: Deoxys Key Item
 
-            See :ref:`jirachi`
+            .. grid:: 1
 
-            - Purchase the **Star Core**
-            - Find the `Sky Pillar`_
-            
-            .. image:: ../_images/legends_wiki/items/star_core.png
-                :alt: Jirachi Key Item
+                .. grid-item-card:: Jirachi
+
+                    See :ref:`jirachi`
+
+                    - Purchase the **Star Core**
+                    - Find the `Sky Pillar`_
+                    
+                    .. image:: ../_images/legends_wiki/items/star_core.png
+                        :alt: Jirachi Key Item
+
+            .. grid:: 1
+
+                .. grid-item-card:: Hoopa Confined
+
+                    See :ref:`hoopa_confined`
+
+                    - Purchase or earn from a quest the **Prison Bottle**
+                    - Craft & then right-click the **Legendary Spawner**
+                    - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+                    
+                    .. image:: ../_images/legends_wiki/items/prison_bottle.png
+                        :alt: Hoopa Key Item
 
     .. grid:: 1
 
@@ -583,19 +600,6 @@ Capturing Legendary Pokémobs
             
             .. image:: ../_images/legends_wiki/items/prince_necklace.png
                 :alt: Manaphy Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Hoopa Confined
-
-            See :ref:`hoopa_confined`
-
-            - Purchase or earn from a quest the **Prison Bottle**
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            
-            .. image:: ../_images/legends_wiki/items/prison_bottle.png
-                :alt: Hoopa Key Item
 
     .. grid:: 1
 
