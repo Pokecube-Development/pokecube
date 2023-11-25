@@ -502,7 +502,7 @@ Capturing Legendary Pokémobs
 
                 - Purchase the **Ocean Orb**
                 - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
-                - Find the `Lugia Temple`_
+                - Find the `Lugia Tower`_
                 
                 .. image:: ../_images/legends_wiki/items/ocean_orb.png
                     :alt: Lugia Key Item
