@@ -354,202 +354,198 @@ Capturing Legendary Pokémobs
     - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
     - These items can be acquired only by purchasing with Merchants or Trainers after being defeated
     - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
-    
-    .. grid:: 1
 
-        .. grid-item-card:: Legendary Birds
+    .. dropdown:: Legendary Birds
+        :animate: fade-in-slide-down
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Articuno
+            .. grid-item-card:: Articuno
 
-                    See :ref:`articuno`
+                See :ref:`articuno`
 
-                    - Purchase the **Ice Wing**
-                    - Capture 20 Ice |Pokemobs|
-                    - Find the `Lugia Tower`_
-                    
-                    .. image:: ../_images/legends_wiki/items/ice_wing.gif
-                        :alt: Articuno Key Item
+                - Purchase the **Ice Wing**
+                - Capture 20 Ice |Pokemobs|
+                - Find the `Lugia Tower`_
+                
+                .. image:: ../_images/legends_wiki/items/ice_wing.gif
+                    :alt: Articuno Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Galar Articuno
+            .. grid-item-card:: Galar Articuno
 
-                    See :ref:`articuno`
+                See :ref:`articuno`
 
-                    - Purchase the **Dark Ice Wing**
-                    - Capture 20 Flying |Pokemobs|
-                    - Find the `Legendary Tree`_
-                    
-                    .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
-                        :alt: Galar Articuno Key Item
+                - Purchase the **Dark Ice Wing**
+                - Capture 20 Flying |Pokemobs|
+                - Find the `Legendary Tree`_
+                
+                .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
+                    :alt: Galar Articuno Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Moltres
+            .. grid-item-card:: Moltres
 
-                    See :ref:`moltres`
+                See :ref:`moltres`
 
-                    - Purchase the **Fire Wing**
-                    - Capture 20 Fire |Pokemobs|
-                    - Find the `Lugia Tower`_
-                    
-                    .. image:: ../_images/legends_wiki/items/fire_wing.gif
-                        :alt: Moltres Key Item
+                - Purchase the **Fire Wing**
+                - Capture 20 Fire |Pokemobs|
+                - Find the `Lugia Tower`_
+                
+                .. image:: ../_images/legends_wiki/items/fire_wing.gif
+                    :alt: Moltres Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Galar Moltres
+            .. grid-item-card:: Galar Moltres
 
-                    See :ref:`moltres`
+                See :ref:`moltres`
 
-                    - Purchase the **Dark Fire Wing**
-                    - Capture 20 Dark |Pokemobs|
-                    - Find the `Legendary Tree`_
-                    
-                    .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
-                        :alt: Moltres Key Item
+                - Purchase the **Dark Fire Wing**
+                - Capture 20 Dark |Pokemobs|
+                - Find the `Legendary Tree`_
+                
+                .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
+                    :alt: Moltres Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Zapdos
+            .. grid-item-card:: Zapdos
 
-                    See :ref:`zapdos`
+                See :ref:`zapdos`
 
-                    - Purchase the **Electric Wing**
-                    - Capture 20 Electric |Pokemobs|
-                    - Find the `Lugia Tower`_
-                    
-                    .. image:: ../_images/legends_wiki/items/electric_wing.gif
-                        :alt: Zapdos Key Item
+                - Purchase the **Electric Wing**
+                - Capture 20 Electric |Pokemobs|
+                - Find the `Lugia Tower`_
+                
+                .. image:: ../_images/legends_wiki/items/electric_wing.gif
+                    :alt: Zapdos Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Galar Zapdos
+            .. grid-item-card:: Galar Zapdos
 
-                    See :ref:`zapdos`
+                See :ref:`zapdos`
 
-                    - Purchase the **Static Wing**
-                    - Capture 20 Fighting |Pokemobs|
-                    - Find the `Legendary Tree`_
-                    
-                    .. image:: ../_images/legends_wiki/items/static_wing.gif
-                        :alt: Zapdos Key Item
-    
-    .. grid:: 1
+                - Purchase the **Static Wing**
+                - Capture 20 Fighting |Pokemobs|
+                - Find the `Legendary Tree`_
+                
+                .. image:: ../_images/legends_wiki/items/static_wing.gif
+                    :alt: Zapdos Key Item
 
-        .. grid-item-card:: Legendary Beasts
+    .. dropdown:: Legendary Beasts
+        :animate: fade-in-slide-down
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Entei
+            .. grid-item-card:: Entei
 
-                    See :ref:`entei`
+                See :ref:`entei`
 
-                    - Purchase the **Flame Gem**
-                    - Capture 20 Fire |Pokemobs|
-                    - Find the `Ho-Oh Temple`_
-                    
-                    .. image:: ../_images/legends_wiki/items/flame_gem.png
-                        :alt: Entei Key Item
+                - Purchase the **Flame Gem**
+                - Capture 20 Fire |Pokemobs|
+                - Find the `Ho-Oh Temple`_
+                
+                .. image:: ../_images/legends_wiki/items/flame_gem.png
+                    :alt: Entei Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Raikou
+            .. grid-item-card:: Raikou
 
-                    See :ref:`raikou`
+                See :ref:`raikou`
 
-                    - Purchase the **Thunder Gem**
-                    - Capture 20 Electric |Pokemobs|
-                    - Find the `Ho-Oh Temple`_
-                    
-                    .. image:: ../_images/legends_wiki/items/thunder_gem.png
-                        :alt: Raikou Key Item
+                - Purchase the **Thunder Gem**
+                - Capture 20 Electric |Pokemobs|
+                - Find the `Ho-Oh Temple`_
+                
+                .. image:: ../_images/legends_wiki/items/thunder_gem.png
+                    :alt: Raikou Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Suicune
+            .. grid-item-card:: Suicune
 
-                    See :ref:`suicune`
+                See :ref:`suicune`
 
-                    - Purchase the **Water Gem**
-                    - Capture 20 Water |Pokemobs|
-                    - Find the `Ho-Oh Temple`_
-                    
-                    .. image:: ../_images/legends_wiki/items/water_gem.png
-                        :alt: Suicune Key Item
-    
-    .. grid:: 1
+                - Purchase the **Water Gem**
+                - Capture 20 Water |Pokemobs|
+                - Find the `Ho-Oh Temple`_
+                
+                .. image:: ../_images/legends_wiki/items/water_gem.png
+                    :alt: Suicune Key Item
 
-        .. grid-item-card:: Legendary Guardians
+    .. dropdown:: Legendary Gaurdians
+        :animate: fade-in-slide-down
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Ho-Oh
+            .. grid-item-card:: Ho-Oh
 
-                    See :ref:`ho-oh`
+                See :ref:`ho-oh`
 
-                    - Purchase the **Rainbow Orb**
-                    - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
-                    - Find the `Ho-Oh Temple`_
-                    
-                    .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
-                        :alt: Ho-Oh Key Item
+                - Purchase the **Rainbow Orb**
+                - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
+                - Find the `Ho-Oh Temple`_
+                
+                .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
+                    :alt: Ho-Oh Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Lugia
+            .. grid-item-card:: Lugia
 
-                    See :ref:`lugia`
+                See :ref:`lugia`
 
-                    - Purchase the **Ocean Orb**
-                    - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
-                    - Find the `Lugia Temple`_
-                    
-                    .. image:: ../_images/legends_wiki/items/ocean_orb.png
-                        :alt: Lugia Key Item
-    
-    .. grid:: 1
+                - Purchase the **Ocean Orb**
+                - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
+                - Find the `Lugia Temple`_
+                
+                .. image:: ../_images/legends_wiki/items/ocean_orb.png
+                    :alt: Lugia Key Item
 
-        .. grid-item-card:: Space Legendaries
+    .. dropdown:: Space Legendaries
+        :animate: fade-in-slide-down
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Deoxys
+            .. grid-item-card:: Deoxys
 
-                    See :ref:`deoxys`
+                See :ref:`deoxys`
 
-                    - Purchase the **Meteor Shard**
-                    - Find the `Sky Pillar`_
-                    
-                    .. image:: ../_images/legends_wiki/items/meteor_shard.png
-                        :alt: Deoxys Key Item
+                - Purchase the **Meteor Shard**
+                - Find the `Sky Pillar`_
+                
+                .. image:: ../_images/legends_wiki/items/meteor_shard.png
+                    :alt: Deoxys Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Jirachi
+            .. grid-item-card:: Jirachi
 
-                    See :ref:`jirachi`
+                See :ref:`jirachi`
 
-                    - Purchase the **Star Core**
-                    - Find the `Sky Pillar`_
-                    
-                    .. image:: ../_images/legends_wiki/items/star_core.png
-                        :alt: Jirachi Key Item
+                - Purchase the **Star Core**
+                - Find the `Sky Pillar`_
+                
+                .. image:: ../_images/legends_wiki/items/star_core.png
+                    :alt: Jirachi Key Item
 
-            .. grid:: 1
+        .. grid:: 1
 
-                .. grid-item-card:: Hoopa Confined
+            .. grid-item-card:: Hoopa Confined
 
-                    See :ref:`hoopa_confined`
+                See :ref:`hoopa_confined`
 
-                    - Purchase or earn from a quest the **Prison Bottle**
-                    - Craft & then right-click the **Legendary Spawner**
-                    - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-                    
-                    .. image:: ../_images/legends_wiki/items/prison_bottle.png
-                        :alt: Hoopa Key Item
+                - Purchase or earn from a quest the **Prison Bottle**
+                - Craft & then right-click the **Legendary Spawner**
+                - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+                
+                .. image:: ../_images/legends_wiki/items/prison_bottle.png
+                    :alt: Hoopa Key Item
 
     .. grid:: 1
 
