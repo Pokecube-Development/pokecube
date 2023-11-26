@@ -704,7 +704,7 @@ Legendary Pokémobs
             - Capture 30% of Dark type |Pokemobs|
             - Find the `Yveltal Ruins`_
             
-            .. image:: ../_images/legends_wiki/items/nightmare_book.png
+            .. image:: ../_images/legends_wiki/items/nightmare_book.gif
                 :alt: Darkrai Key Item
 
 .. grid:: 1
