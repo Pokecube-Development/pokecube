@@ -365,7 +365,7 @@ Legendary Pokémobs
             See :ref:`articuno`
 
             - Purchase the **Ice Wing**
-            - Capture 20 Ice |Pokemobs|
+            - Capture 20 different Ice type |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/ice_wing.gif
@@ -378,7 +378,7 @@ Legendary Pokémobs
             See :ref:`articuno`
 
             - Purchase the **Dark Ice Wing**
-            - Capture 20 Flying |Pokemobs|
+            - Capture 20 different Flying type |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
@@ -391,7 +391,7 @@ Legendary Pokémobs
             See :ref:`moltres`
 
             - Purchase the **Fire Wing**
-            - Capture 20 Fire |Pokemobs|
+            - Capture 20 different Fire type |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/fire_wing.gif
@@ -404,7 +404,7 @@ Legendary Pokémobs
             See :ref:`moltres`
 
             - Purchase the **Dark Fire Wing**
-            - Capture 20 Dark |Pokemobs|
+            - Capture 20 different Dark type |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
@@ -417,7 +417,7 @@ Legendary Pokémobs
             See :ref:`zapdos`
 
             - Purchase the **Electric Wing**
-            - Capture 20 Electric |Pokemobs|
+            - Capture 20 different Electric type |Pokemobs|
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/electric_wing.gif
@@ -430,7 +430,7 @@ Legendary Pokémobs
             See :ref:`zapdos`
 
             - Purchase the **Static Wing**
-            - Capture 20 Fighting |Pokemobs|
+            - Capture 20 different Fighting type |Pokemobs|
             - Find the `Legendary Tree`_
             
             .. image:: ../_images/legends_wiki/items/static_wing.gif
@@ -446,7 +446,7 @@ Legendary Pokémobs
             See :ref:`entei`
 
             - Purchase the **Flame Gem**
-            - Capture 20 Fire |Pokemobs|
+            - Capture 20 different Fire type |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/flame_gem.png
@@ -459,7 +459,7 @@ Legendary Pokémobs
             See :ref:`raikou`
 
             - Purchase the **Thunder Gem**
-            - Capture 20 Electric |Pokemobs|
+            - Capture 20 different Electric type |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/thunder_gem.png
@@ -472,7 +472,7 @@ Legendary Pokémobs
             See :ref:`suicune`
 
             - Purchase the **Water Gem**
-            - Capture 20 Water |Pokemobs|
+            - Capture 20 different Water type |Pokemobs|
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/water_gem.png
@@ -507,6 +507,19 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/ocean_orb.png
                 :alt: Lugia Key Item
 
+    .. grid:: 1
+
+        .. grid-item-card:: Celebi
+
+            See :ref:`celebi`
+
+            - Purchase the **Ocean Orb**
+            - Capture 70% of Grass type |Pokemobs|
+            - Find the `Celebi Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/ocean_orb.png
+                :alt: Celebi Key Item
+
 .. dropdown:: Space Legendaries
     :animate: fade-in-slide-down
 
@@ -517,6 +530,7 @@ Legendary Pokémobs
             See :ref:`deoxys`
 
             - Purchase the **Meteor Shard**
+            - Capture 20% of Psychic type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/meteor_shard.png
@@ -529,6 +543,7 @@ Legendary Pokémobs
             See :ref:`jirachi`
 
             - Purchase the **Star Core**
+            - Capture 20% of Steel type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/star_core.png
@@ -541,49 +556,73 @@ Legendary Pokémobs
             See :ref:`hoopa_confined`
 
             - Purchase or earn from a quest the **Prison Bottle**
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            - Capture 30% of Ghost type |Pokemobs|
+            - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/prison_bottle.png
                 :alt: Hoopa Key Item
 
-.. grid:: 1
+.. dropdown:: Eon Duo
+    :animate: fade-in-slide-down
 
-    .. grid-item-card:: Cresselia
+    .. grid:: 1
 
-        See :ref:`cresselia`
+        .. grid-item-card:: Latios
 
-        - Purchase the **Lunar Wing**
-        - Find the `Sky Pillar`_
-        
-        .. image:: ../_images/legends_wiki/items/lunar_wing.png
-            :alt: Cresselia Key Item
+            See :ref:`latios`
 
-.. grid:: 1
+            - Purchase the **Soul Dew**
+            - Capture 30% of Dragon type |Pokemobs|
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+            
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latios Key Item
 
-    .. grid-item-card:: Latios & Latias
+    .. grid:: 1
 
-        See :ref:`latios` & :ref:`latias`
+        .. grid-item-card:: Latias
 
-        - Purchase the **Soul Dew**
-        - Craft & then right-click the **Legendary Spawner**
-        - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
-            * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
-        
-        .. image:: ../_images/legends_wiki/items/soul_dew.png
-            :alt: Latios & Latias Key Item
+            See :ref:`latias`
 
-.. grid:: 1
+            - Purchase the **Soul Dew**
+            - Capture 30% of Dragon type |Pokemobs|
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+            
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latias Key Item
 
-    .. grid-item-card:: Darkrai
+.. dropdown:: Lunar Duo
+    :animate: fade-in-slide-down
 
-        See :ref:`darkrai`
+    .. grid:: 1
 
-        - Purchase the **Nightmare Book**
-        - Find the `Yveltal Ruins`_
-        
-        .. image:: ../_images/legends_wiki/items/nightmare_book.png
-            :alt: Darkrai Key Item
+        .. grid-item-card:: Cresselia
+
+            See :ref:`cresselia`
+
+            - Purchase the **Lunar Wing**
+            - Capture 30% of Fairy type |Pokemobs|
+            - Find the `Sky Pillar`_
+            
+            .. image:: ../_images/legends_wiki/items/lunar_wing.png
+                :alt: Cresselia Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Darkrai
+
+            See :ref:`darkrai`
+
+            - Purchase the **Nightmare Book**
+            - Capture 30% of Dark type |Pokemobs|
+            - Find the `Yveltal Ruins`_
+            
+            .. image:: ../_images/legends_wiki/items/nightmare_book.png
+                :alt: Darkrai Key Item
 
 .. grid:: 1
 
