@@ -520,6 +520,89 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/ocean_orb.png
                 :alt: Celebi Key Item
 
+.. dropdown:: Legendary Giants
+    :animate: fade-in-slide-down
+    
+    See `Regi Golems`_ for more info.
+
+    .. grid:: 1
+
+        .. grid-item-card:: Regirock
+
+            See :ref:`regirock`
+
+            - Earn from a quest or purchase the **Rock Core**
+            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Find the `Regirock Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/rock_core.png
+                :alt: Regirock Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Regice
+
+            See :ref:`regice`
+
+            - Earn from a quest or purchase the **Ice Core**
+            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Find the `Regice Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/ice_core.png
+                :alt: Regice Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Registeel
+
+            See :ref:`registeel`
+
+            - Earn from a quest or purchase the **Steel Core**
+            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Find the `Registeel Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/steel_core.png
+                :alt: Registeel Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Regidrago
+
+            See :ref:`regidrago`
+
+            - Earn from a quest or purchase the **Drago Core**
+            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Find the `Regidrago Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/drago_core.png
+                :alt: Regidrago Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Regieleki
+
+            See :ref:`regieleki`
+
+            - Earn from a quest or purchase the **Thunder Core**
+            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Find the `Regieleki Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/thunder_core.png
+                :alt: Regieleki Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Regigigas
+
+            See :ref:`regigigas`
+
+            - Earn from a quest or purchase the **Regis Core**
+            - Capture :ref:`regirock`, :ref:`regice`, :ref:`registeel`, :ref:`regidrago`, & :ref:`regieleki`
+            - Find the `Regigigas Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/regis_orb.png
+                :alt: Regigigas Key Item
+
 .. dropdown:: Space Legendaries
     :animate: fade-in-slide-down
 
@@ -555,7 +638,7 @@ Legendary Pokémobs
 
             See :ref:`hoopa_confined`
 
-            - Purchase or earn from a quest the **Prison Bottle**
+            - Earn from a quest or purchase the **Prison Bottle**
             - Capture 30% of Ghost type |Pokemobs|
             - Find the `Sky Pillar`_
             
@@ -1626,17 +1709,17 @@ Regi Golems
 
             **Key Items:**
             
-            .. image:: ../_images/legends_wiki/items/dragocore.png
+            .. image:: ../_images/legends_wiki/items/drago_core.png
                 :alt: Drago Core Key
-            .. image:: ../_images/legends_wiki/items/thundercore.png
+            .. image:: ../_images/legends_wiki/items/thunder_core.png
                 :alt: Thunder Core Key
-            .. image:: ../_images/legends_wiki/items/icecore.png
+            .. image:: ../_images/legends_wiki/items/ice_core.png
                 :alt: Ice Core Key
-            .. image:: ../_images/legends_wiki/items/steelcore.png
+            .. image:: ../_images/legends_wiki/items/steel_core.png
                 :alt: Steel Core Key
-            .. image:: ../_images/legends_wiki/items/rockcore.png
+            .. image:: ../_images/legends_wiki/items/rock_core.png
                 :alt: Rock Core Key
-            .. image:: ../_images/legends_wiki/items/regisorb.png
+            .. image:: ../_images/legends_wiki/items/regis_orb.png
                 :alt: Regigigas Core Key
 
 .. _quests_list:
@@ -1647,50 +1730,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Legendary Birds
-~~~~~~~~~~~~~~~
-* Zapdos - Capture about 20 Electric |pokemobs|.
-* Moltre - Capture about 20 Fire |pokemobs|.
-* Articuno - Capture about 20 Ice |pokemobs|.
-* Zapdos Galar - Capture about 20 Fighting |pokemobs|.
-* Moltres Galar - Capture about 20 Dark |pokemobs|.
-* Articuno Galar - Capture about 20 Flying |pokemobs|.
-
-Legendary Beasts
-~~~~~~~~~~~~~~~~
-* Entei - Capture about 20 Fire |pokemobs|.
-* Suicune - Capture about 20 Water |pokemobs|.
-* Raikou - Capture about 20 Electric |pokemobs|.
-
-Guardian of the skies
-~~~~~~~~~~~~~~~~~~~~~
-* Ho-oh - Capture :ref:`entei`/:ref:`suicune`/:ref:`raikou`.
-
-Guardian of the seas
-~~~~~~~~~~~~~~~~~~~~
-* Lugia - Capture :ref:`moltres`/:ref:`articuno`/:ref:`zapdos`.
-
-Guardian of Forests
-~~~~~~~~~~~~~~~~~~~
-* Celebi - Capture about 40 to 50 Grass |pokemobs|.
-
-Eon Duo
-~~~~~~~
-* Latios/Latias - Capture about 20 Dragon |pokemobs|.
-
-Shadows and Nightmares
-~~~~~~~~~~~~~~~~~~~~~~
-* Darkrai - Capture about 20 Dark |pokemobs|.
-
-Crescent moon
-~~~~~~~~~~~~~
-* Cresselia - Capture about 20 Fairy |pokemobs|.
-
-The beginning of the Golems
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Registrel/Regice/Regirock/Regieleki/Regidrago - Capture :ref:`relicanth` and :ref:`wailord`.
-* Regigigas - Capture the Five Regis.
 
 Weather trio
 ~~~~~~~~~~~~
@@ -1744,12 +1783,6 @@ Aura trio
 * Xerneas - Capture about 20 Fairy |pokemobs|.
 * Yveltal - Capture about 20 Dark |pokemobs|.
 * Zygarde - Capture about 20 Ground |pokemobs|`.
-
-The Form from Space
-~~~~~~~~~~~~~~~~~~~
-* Deoxys - Capture about 20 Psychic |pokemobs|.
-* Jirachi - Capture about 20 Steel |pokemobs|.
-* Hoopa - Capture about 20 Ghost |pokemobs|.
 
 Heart Diamond
 ~~~~~~~~~~~~~
