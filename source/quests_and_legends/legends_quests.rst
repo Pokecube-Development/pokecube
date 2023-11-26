@@ -513,11 +513,11 @@ Legendary Pokémobs
 
             See :ref:`celebi`
 
-            - Purchase the **Ocean Orb**
+            - Purchase the **Jade Orb**
             - Capture 70% of Grass type |Pokemobs|
             - Find the `Celebi Temple`_
             
-            .. image:: ../_images/legends_wiki/items/ocean_orb.png
+            .. image:: ../_images/legends_wiki/items/jade_orb.png
                 :alt: Celebi Key Item
 
 .. dropdown:: Legendary Giants
@@ -1646,7 +1646,7 @@ Regi Golems
     - Each Regi has its own temple with a totem already built. :raw-html:`<br />`
     - If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
 
-    .. _Regi Golems:
+    .. _Building Regi Golems:
 
     .. grid:: 1
 
