@@ -348,438 +348,438 @@ Special Moves
 Capturing Legendary Pokémobs
 =============================
 
-.. dropdown:: Legendary |Pokemobs|
+Legendary Pokémobs
+~~~~~~~~~~~~~~~~~~~
+
+- Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
+- These items can be acquired only by purchasing with Merchants or Trainers after being defeated
+- These pokémobs have catch rules, just like |pokemobs| that can only be summoned
+
+.. dropdown:: Legendary Birds
     :animate: fade-in-slide-down
 
-    - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
-    - These items can be acquired only by purchasing with Merchants or Trainers after being defeated
-    - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
+    .. grid:: 1
 
-    .. dropdown:: Legendary Birds
-        :animate: fade-in-slide-down
+        .. grid-item-card:: Articuno
 
-        .. grid:: 1
+            See :ref:`articuno`
 
-            .. grid-item-card:: Articuno
-
-                See :ref:`articuno`
-
-                - Purchase the **Ice Wing**
-                - Capture 20 Ice |Pokemobs|
-                - Find the `Lugia Tower`_
-                
-                .. image:: ../_images/legends_wiki/items/ice_wing.gif
-                    :alt: Articuno Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Galar Articuno
-
-                See :ref:`articuno`
-
-                - Purchase the **Dark Ice Wing**
-                - Capture 20 Flying |Pokemobs|
-                - Find the `Legendary Tree`_
-                
-                .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
-                    :alt: Galar Articuno Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Moltres
-
-                See :ref:`moltres`
-
-                - Purchase the **Fire Wing**
-                - Capture 20 Fire |Pokemobs|
-                - Find the `Lugia Tower`_
-                
-                .. image:: ../_images/legends_wiki/items/fire_wing.gif
-                    :alt: Moltres Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Galar Moltres
-
-                See :ref:`moltres`
-
-                - Purchase the **Dark Fire Wing**
-                - Capture 20 Dark |Pokemobs|
-                - Find the `Legendary Tree`_
-                
-                .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
-                    :alt: Moltres Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Zapdos
-
-                See :ref:`zapdos`
-
-                - Purchase the **Electric Wing**
-                - Capture 20 Electric |Pokemobs|
-                - Find the `Lugia Tower`_
-                
-                .. image:: ../_images/legends_wiki/items/electric_wing.gif
-                    :alt: Zapdos Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Galar Zapdos
-
-                See :ref:`zapdos`
-
-                - Purchase the **Static Wing**
-                - Capture 20 Fighting |Pokemobs|
-                - Find the `Legendary Tree`_
-                
-                .. image:: ../_images/legends_wiki/items/static_wing.gif
-                    :alt: Zapdos Key Item
-
-    .. dropdown:: Legendary Beasts
-        :animate: fade-in-slide-down
-
-        .. grid:: 1
-
-            .. grid-item-card:: Entei
-
-                See :ref:`entei`
-
-                - Purchase the **Flame Gem**
-                - Capture 20 Fire |Pokemobs|
-                - Find the `Ho-Oh Temple`_
-                
-                .. image:: ../_images/legends_wiki/items/flame_gem.png
-                    :alt: Entei Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Raikou
-
-                See :ref:`raikou`
-
-                - Purchase the **Thunder Gem**
-                - Capture 20 Electric |Pokemobs|
-                - Find the `Ho-Oh Temple`_
-                
-                .. image:: ../_images/legends_wiki/items/thunder_gem.png
-                    :alt: Raikou Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Suicune
-
-                See :ref:`suicune`
-
-                - Purchase the **Water Gem**
-                - Capture 20 Water |Pokemobs|
-                - Find the `Ho-Oh Temple`_
-                
-                .. image:: ../_images/legends_wiki/items/water_gem.png
-                    :alt: Suicune Key Item
-
-    .. dropdown:: Legendary Gaurdians
-        :animate: fade-in-slide-down
-
-        .. grid:: 1
-
-            .. grid-item-card:: Ho-Oh
-
-                See :ref:`ho-oh`
-
-                - Purchase the **Rainbow Orb**
-                - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
-                - Find the `Ho-Oh Temple`_
-                
-                .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
-                    :alt: Ho-Oh Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Lugia
-
-                See :ref:`lugia`
-
-                - Purchase the **Ocean Orb**
-                - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
-                - Find the `Lugia Tower`_
-                
-                .. image:: ../_images/legends_wiki/items/ocean_orb.png
-                    :alt: Lugia Key Item
-
-    .. dropdown:: Space Legendaries
-        :animate: fade-in-slide-down
-
-        .. grid:: 1
-
-            .. grid-item-card:: Deoxys
-
-                See :ref:`deoxys`
-
-                - Purchase the **Meteor Shard**
-                - Find the `Sky Pillar`_
-                
-                .. image:: ../_images/legends_wiki/items/meteor_shard.png
-                    :alt: Deoxys Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Jirachi
-
-                See :ref:`jirachi`
-
-                - Purchase the **Star Core**
-                - Find the `Sky Pillar`_
-                
-                .. image:: ../_images/legends_wiki/items/star_core.png
-                    :alt: Jirachi Key Item
-
-        .. grid:: 1
-
-            .. grid-item-card:: Hoopa Confined
-
-                See :ref:`hoopa_confined`
-
-                - Purchase or earn from a quest the **Prison Bottle**
-                - Craft & then right-click the **Legendary Spawner**
-                - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-                
-                .. image:: ../_images/legends_wiki/items/prison_bottle.png
-                    :alt: Hoopa Key Item
+            - Purchase the **Ice Wing**
+            - Capture 20 Ice |Pokemobs|
+            - Find the `Lugia Tower`_
+            
+            .. image:: ../_images/legends_wiki/items/ice_wing.gif
+                :alt: Articuno Key Item
 
     .. grid:: 1
 
-        .. grid-item-card:: Cresselia
+        .. grid-item-card:: Galar Articuno
 
-            See :ref:`cresselia`
+            See :ref:`articuno`
 
-            - Purchase the **Lunar Wing**
+            - Purchase the **Dark Ice Wing**
+            - Capture 20 Flying |Pokemobs|
+            - Find the `Legendary Tree`_
+            
+            .. image:: ../_images/legends_wiki/items/ice_dark_wing.gif
+                :alt: Galar Articuno Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Moltres
+
+            See :ref:`moltres`
+
+            - Purchase the **Fire Wing**
+            - Capture 20 Fire |Pokemobs|
+            - Find the `Lugia Tower`_
+            
+            .. image:: ../_images/legends_wiki/items/fire_wing.gif
+                :alt: Moltres Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Galar Moltres
+
+            See :ref:`moltres`
+
+            - Purchase the **Dark Fire Wing**
+            - Capture 20 Dark |Pokemobs|
+            - Find the `Legendary Tree`_
+            
+            .. image:: ../_images/legends_wiki/items/dark_fire_wing.gif
+                :alt: Moltres Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Zapdos
+
+            See :ref:`zapdos`
+
+            - Purchase the **Electric Wing**
+            - Capture 20 Electric |Pokemobs|
+            - Find the `Lugia Tower`_
+            
+            .. image:: ../_images/legends_wiki/items/electric_wing.gif
+                :alt: Zapdos Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Galar Zapdos
+
+            See :ref:`zapdos`
+
+            - Purchase the **Static Wing**
+            - Capture 20 Fighting |Pokemobs|
+            - Find the `Legendary Tree`_
+            
+            .. image:: ../_images/legends_wiki/items/static_wing.gif
+                :alt: Zapdos Key Item
+
+.. dropdown:: Legendary Beasts
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Entei
+
+            See :ref:`entei`
+
+            - Purchase the **Flame Gem**
+            - Capture 20 Fire |Pokemobs|
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/flame_gem.png
+                :alt: Entei Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Raikou
+
+            See :ref:`raikou`
+
+            - Purchase the **Thunder Gem**
+            - Capture 20 Electric |Pokemobs|
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/thunder_gem.png
+                :alt: Raikou Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Suicune
+
+            See :ref:`suicune`
+
+            - Purchase the **Water Gem**
+            - Capture 20 Water |Pokemobs|
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/water_gem.png
+                :alt: Suicune Key Item
+
+.. dropdown:: Legendary Gaurdians
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Ho-Oh
+
+            See :ref:`ho-oh`
+
+            - Purchase the **Rainbow Orb**
+            - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
+            - Find the `Ho-Oh Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
+                :alt: Ho-Oh Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Lugia
+
+            See :ref:`lugia`
+
+            - Purchase the **Ocean Orb**
+            - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
+            - Find the `Lugia Tower`_
+            
+            .. image:: ../_images/legends_wiki/items/ocean_orb.png
+                :alt: Lugia Key Item
+
+.. dropdown:: Space Legendaries
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Deoxys
+
+            See :ref:`deoxys`
+
+            - Purchase the **Meteor Shard**
             - Find the `Sky Pillar`_
             
-            .. image:: ../_images/legends_wiki/items/lunar_wing.png
-                :alt: Cresselia Key Item
+            .. image:: ../_images/legends_wiki/items/meteor_shard.png
+                :alt: Deoxys Key Item
 
     .. grid:: 1
 
-        .. grid-item-card:: Latios & Latias
+        .. grid-item-card:: Jirachi
 
-            See :ref:`latios` & :ref:`latias`
+            See :ref:`jirachi`
 
-            - Purchase the **Soul Dew**
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
-                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+            - Purchase the **Star Core**
+            - Find the `Sky Pillar`_
             
-            .. image:: ../_images/legends_wiki/items/soul_dew.png
-                :alt: Latios & Latias Key Item
+            .. image:: ../_images/legends_wiki/items/star_core.png
+                :alt: Jirachi Key Item
 
     .. grid:: 1
 
-        .. grid-item-card:: Darkrai
+        .. grid-item-card:: Hoopa Confined
 
-            See :ref:`darkrai`
+            See :ref:`hoopa_confined`
 
-            - Purchase the **Nightmare Book**
-            - Find the `Yveltal Ruins`_
-            
-            .. image:: ../_images/legends_wiki/items/nightmare_book.png
-                :alt: Darkrai Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Manaphy
-
-            See :ref:`manaphy`
-
-            - Purchase the **Prince's Necklace**
-            - Find the `Kyogre Temple`_
-            
-            .. image:: ../_images/legends_wiki/items/prince_necklace.png
-                :alt: Manaphy Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Meloetta
-
-            See :ref:`meloetta_aria`
-
-            - Purchase the **Melody Ocarina**
-            - Find the `Nature's Place`_
-            
-            .. image:: ../_images/legends_wiki/items/melody_ocarina.png
-                :alt: Meloetta Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Kyurem
-
-            See :ref:`kyurem`
-
-            - Purchase the **DNA Stone**
+            - Purchase or earn from a quest the **Prison Bottle**
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
             
-            .. image:: ../_images/legends_wiki/items/dna_stone.png
-                :alt: Kyurem Key Item
+            .. image:: ../_images/legends_wiki/items/prison_bottle.png
+                :alt: Hoopa Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Keldeo
+    .. grid-item-card:: Cresselia
 
-            See :ref:`keldeo`
+        See :ref:`cresselia`
 
-            - Purchase **Keldeo's Sword of Justice**
-            - Find the `Keldeo Altar`_
-            
-            .. image:: ../_images/legends_wiki/items/keldeo_sword.png
-                :alt: Keldeo Key Item
+        - Purchase the **Lunar Wing**
+        - Find the `Sky Pillar`_
+        
+        .. image:: ../_images/legends_wiki/items/lunar_wing.png
+            :alt: Cresselia Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Virizion
+    .. grid-item-card:: Latios & Latias
 
-            See :ref:`virizion`
+        See :ref:`latios` & :ref:`latias`
 
-            - Purchase **Virizion's Sword of Justice**
-            - Find the `Keldeo Altar`_
-            
-            .. image:: ../_images/legends_wiki/items/virizion_sword.png
-                :alt: Virizion Key Item
+        - Purchase the **Soul Dew**
+        - Craft & then right-click the **Legendary Spawner**
+        - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+            * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+        
+        .. image:: ../_images/legends_wiki/items/soul_dew.png
+            :alt: Latios & Latias Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Cobalion
+    .. grid-item-card:: Darkrai
 
-            See :ref:`cobalion`
+        See :ref:`darkrai`
 
-            - Purchase **Cobalion's Sword of Justice**
-            - Find the `Keldeo Altar`_
-            
-            .. image:: ../_images/legends_wiki/items/cobalion_sword.png
-                :alt: Cobalion Key Item
+        - Purchase the **Nightmare Book**
+        - Find the `Yveltal Ruins`_
+        
+        .. image:: ../_images/legends_wiki/items/nightmare_book.png
+            :alt: Darkrai Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Terrakion
+    .. grid-item-card:: Manaphy
 
-            See :ref:`terrakion`
+        See :ref:`manaphy`
 
-            - Purchase **Terrakion's Sword of Justice**
-            - Find the `Keldeo Altar`_
-            
-            .. image:: ../_images/legends_wiki/items/terrakion_sword.png
-                :alt: Terrakion Key Item
+        - Purchase the **Prince's Necklace**
+        - Find the `Kyogre Temple`_
+        
+        .. image:: ../_images/legends_wiki/items/prince_necklace.png
+            :alt: Manaphy Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Diancie
+    .. grid-item-card:: Meloetta
 
-            See :ref:`diancie`
+        See :ref:`meloetta_aria`
 
-            - Purchase the **Pink Diamond**
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
-            
-            .. image:: ../_images/legends_wiki/items/pink_diamond.png
-                :alt: Diancie Key Item
+        - Purchase the **Melody Ocarina**
+        - Find the `Nature's Place`_
+        
+        .. image:: ../_images/legends_wiki/items/melody_ocarina.png
+            :alt: Meloetta Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Azelf
+    .. grid-item-card:: Kyurem
 
-            See :ref:`azelf`
+        See :ref:`kyurem`
 
-            - Purchase the **Jewel of Willpower**
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
-            
-            .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
-                :alt: Azelf Key Item
+        - Purchase the **DNA Stone**
+        - Craft & then right-click the **Legendary Spawner**
+        - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+        
+        .. image:: ../_images/legends_wiki/items/dna_stone.png
+            :alt: Kyurem Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Mesprit
+    .. grid-item-card:: Keldeo
 
-            See :ref:`mesprit`
+        See :ref:`keldeo`
 
-            - Purchase the **Jewel of Emotions**
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
-            
-            .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
-                :alt: Mesprit Key Item
+        - Purchase **Keldeo's Sword of Justice**
+        - Find the `Keldeo Altar`_
+        
+        .. image:: ../_images/legends_wiki/items/keldeo_sword.png
+            :alt: Keldeo Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Uxie
+    .. grid-item-card:: Virizion
 
-            See :ref:`uxie`
+        See :ref:`virizion`
 
-            - Purchase the **Jewel of Wisdom**
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
-            
-            .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
-                :alt: Uxie Key Item
+        - Purchase **Virizion's Sword of Justice**
+        - Find the `Keldeo Altar`_
+        
+        .. image:: ../_images/legends_wiki/items/virizion_sword.png
+            :alt: Virizion Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Volcanion
+    .. grid-item-card:: Cobalion
 
-            See :ref:`volcanion`
+        See :ref:`cobalion`
 
-            - Purchase the **Steam Core**
-            - Craft & then right-click the **Magearna Spawner**
-            - Must be placed in a **Village**
-            
-            .. image:: ../_images/legends_wiki/items/steam_core.png
-                :alt: Volcanion Key Item
+        - Purchase **Cobalion's Sword of Justice**
+        - Find the `Keldeo Altar`_
+        
+        .. image:: ../_images/legends_wiki/items/cobalion_sword.png
+            :alt: Cobalion Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Cosmog
+    .. grid-item-card:: Terrakion
 
-            See :ref:`cosmog`
+        See :ref:`terrakion`
 
-            - Purchase the **Cosmic Orb**
-            - Find the `Altar of Time & Space`_
-            
-            .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
-                :alt: Cosmog Key Item
+        - Purchase **Terrakion's Sword of Justice**
+        - Find the `Keldeo Altar`_
+        
+        .. image:: ../_images/legends_wiki/items/terrakion_sword.png
+            :alt: Terrakion Key Item
 
-    .. grid:: 1
+.. grid:: 1
 
-        .. grid-item-card:: Kubfu
+    .. grid-item-card:: Diancie
 
-            See :ref:`kubfu`
+        See :ref:`diancie`
 
-            - Purchase the **Gray Scarf**
-            - Find the `Kubfu Dojo`_
+        - Purchase the **Pink Diamond**
+        - Craft & then right-click the **Legendary Spawner**
+        - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
+        
+        .. image:: ../_images/legends_wiki/items/pink_diamond.png
+            :alt: Diancie Key Item
 
-            .. image:: ../_images/legends_wiki/items/gray_scarf.png
-                :alt: Kubfu Key Item
+.. grid:: 1
 
-    .. grid:: 1
+    .. grid-item-card:: Azelf
 
-        .. grid-item-card:: Calyrex
+        See :ref:`azelf`
 
-            See :ref:`calyrex`
+        - Purchase the **Jewel of Willpower**
+        - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+        
+        .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
+            :alt: Azelf Key Item
 
-            - Purchase the **Wooden Crown**
-            - Craft & then right-click the **Trough Spawner**
-            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
+.. grid:: 1
 
-            .. image:: ../_images/legends_wiki/items/wooden_crown.png
-                :alt: Calyrex Key Item
+    .. grid-item-card:: Mesprit
 
-    .. grid:: 1
+        See :ref:`mesprit`
 
-        .. grid-item-card:: Zygarde
+        - Purchase the **Jewel of Emotions**
+        - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+        
+        .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
+            :alt: Mesprit Key Item
 
-            See :ref:`zygarde_50`
-            
-            - Purchase or earn from a quest the **Zygarde Cube**
-            - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
+.. grid:: 1
 
-            .. image:: ../_images/legends_wiki/items/zygarde_cube.png
-                :alt: Zygarde Key Item
+    .. grid-item-card:: Uxie
+
+        See :ref:`uxie`
+
+        - Purchase the **Jewel of Wisdom**
+        - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+        
+        .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
+            :alt: Uxie Key Item
+
+.. grid:: 1
+
+    .. grid-item-card:: Volcanion
+
+        See :ref:`volcanion`
+
+        - Purchase the **Steam Core**
+        - Craft & then right-click the **Magearna Spawner**
+        - Must be placed in a **Village**
+        
+        .. image:: ../_images/legends_wiki/items/steam_core.png
+            :alt: Volcanion Key Item
+
+.. grid:: 1
+
+    .. grid-item-card:: Cosmog
+
+        See :ref:`cosmog`
+
+        - Purchase the **Cosmic Orb**
+        - Find the `Altar of Time & Space`_
+        
+        .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
+            :alt: Cosmog Key Item
+
+.. grid:: 1
+
+    .. grid-item-card:: Kubfu
+
+        See :ref:`kubfu`
+
+        - Purchase the **Gray Scarf**
+        - Find the `Kubfu Dojo`_
+
+        .. image:: ../_images/legends_wiki/items/gray_scarf.png
+            :alt: Kubfu Key Item
+
+.. grid:: 1
+
+    .. grid-item-card:: Calyrex
+
+        See :ref:`calyrex`
+
+        - Purchase the **Wooden Crown**
+        - Craft & then right-click the **Trough Spawner**
+        - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
+
+        .. image:: ../_images/legends_wiki/items/wooden_crown.png
+            :alt: Calyrex Key Item
+
+.. grid:: 1
+
+    .. grid-item-card:: Zygarde
+
+        See :ref:`zygarde_50`
+        
+        - Purchase or earn from a quest the **Zygarde Cube**
+        - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
+
+        .. image:: ../_images/legends_wiki/items/zygarde_cube.png
+            :alt: Zygarde Key Item
 
 Exploration Structures
 =======================
