@@ -348,12 +348,12 @@ Special Moves
 Capturing Legendary Pokémobs
 =============================
 
-Legendary Pokémobs
-~~~~~~~~~~~~~~~~~~~
-
 - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
 - These items can be acquired only by purchasing with Merchants or Trainers after being defeated
 - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
+
+Generation I
+~~~~~~~~~~~~~
 
 .. dropdown:: Legendary Birds
     :animate: fade-in-slide-down
@@ -435,6 +435,9 @@ Legendary Pokémobs
             
             .. image:: ../_images/legends_wiki/items/static_wing.gif
                 :alt: Zapdos Key Item
+
+Generation II
+~~~~~~~~~~~~~~
 
 .. dropdown:: Legendary Beasts
     :animate: fade-in-slide-down
@@ -520,18 +523,8 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/jade_orb.png
                 :alt: Celebi Key Item
 
-    .. grid:: 1
-
-        .. grid-item-card:: Manaphy
-
-            See :ref:`manaphy`
-
-            - Purchase the **Prince's Necklace**
-            - Capture 40% of all Water type |Pokemobs|
-            - Find the `Kyogre Temple`_
-            
-            .. image:: ../_images/legends_wiki/items/prince_necklace.png
-                :alt: Manaphy Key Item
+Generation III
+~~~~~~~~~~~~~~~
 
 .. dropdown:: Legendary Giants
     :animate: fade-in-slide-down
@@ -644,19 +637,106 @@ Legendary Pokémobs
             
             .. image:: ../_images/legends_wiki/items/star_core.png
                 :alt: Jirachi Key Item
+                
+.. dropdown:: Weather Trio
+    :animate: fade-in-slide-down
+
+.. dropdown:: Eon Duo
+    :animate: fade-in-slide-down
 
     .. grid:: 1
 
-        .. grid-item-card:: Hoopa Confined
+        .. grid-item-card:: Latios
 
-            See :ref:`hoopa_confined`
+            See :ref:`latios`
 
-            - Earn from a quest or purchase the **Prison Bottle**
-            - Capture 30% of all Ghost type |Pokemobs|
-            - Find the `Sky Pillar`_
+            - Purchase the **Soul Dew**
+            - Capture 30% of all Dragon type |Pokemobs|
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
             
-            .. image:: ../_images/legends_wiki/items/prison_bottle.png
-                :alt: Hoopa Key Item
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latios Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Latias
+
+            See :ref:`latias`
+
+            - Purchase the **Soul Dew**
+            - Capture 30% of all Dragon type |Pokemobs|
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
+                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
+            
+            .. image:: ../_images/legends_wiki/items/soul_dew.png
+                :alt: Latias Key Item
+
+Generation IV
+~~~~~~~~~~~~~~
+
+.. dropdown:: Sea Gaurdians
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Manaphy
+
+            See :ref:`manaphy`
+
+            - Purchase the **Prince's Necklace**
+            - Capture 40% of all Water type |Pokemobs|
+            - Find the `Kyogre Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/prince_necklace.png
+                :alt: Manaphy Key Item
+
+.. dropdown:: Lake Gaurdians
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Azelf
+
+            See :ref:`azelf`
+
+            - Purchase the **Jewel of Willpower**
+            - Capture 30% of all Psychic type |Pokemobs|
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
+            .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
+                :alt: Azelf Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Mesprit
+
+            See :ref:`mesprit`
+
+            - Purchase the **Jewel of Emotions**
+            - Capture 30% of all Psychic type |Pokemobs|
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
+            .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
+                :alt: Mesprit Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Uxie
+
+            See :ref:`uxie`
+
+            - Purchase the **Jewel of Wisdom**
+            - Capture 30% of all Psychic type |Pokemobs|
+            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            
+            .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
+                :alt: Uxie Key Item
+
+Generation V
+~~~~~~~~~~~~~
 
 .. dropdown:: Forces of Nature
     :animate: fade-in-slide-down
@@ -729,6 +809,26 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/keldeo_sword.png
                 :alt: Keldeo Key Item
 
+.. dropdown:: Tao Trio
+    :animate: fade-in-slide-down
+        
+    .. grid:: 1
+
+        .. grid-item-card:: Kyurem
+
+            See :ref:`kyurem`
+
+            - Purchase the **DNA Stone**
+            - Capture :ref:`reshiram` & :ref:`zekrom`
+            - Craft & then right-click the **Legendary Spawner**
+            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            
+            .. image:: ../_images/legends_wiki/items/dna_stone.png
+                :alt: Kyurem Key Item
+
+Generation VI
+~~~~~~~~~~~~~~
+
 .. dropdown:: Mythical Pokémon
     :animate: fade-in-slide-down
 
@@ -760,111 +860,19 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/steam_core.png
                 :alt: Volcanion Key Item
 
-.. dropdown:: Lake Gaurdians
-    :animate: fade-in-slide-down
-
     .. grid:: 1
 
-        .. grid-item-card:: Azelf
+        .. grid-item-card:: Hoopa Confined
 
-            See :ref:`azelf`
+            See :ref:`hoopa_confined`
 
-            - Purchase the **Jewel of Willpower**
-            - Capture 30% of all Psychic type |Pokemobs|
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
+            - Earn from a quest or purchase the **Prison Bottle**
+            - Capture 30% of all Ghost type |Pokemobs|
+            - Find the `Sky Pillar`_
             
-            .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
-                :alt: Azelf Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Mesprit
-
-            See :ref:`mesprit`
-
-            - Purchase the **Jewel of Emotions**
-            - Capture 30% of all Psychic type |Pokemobs|
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
-            
-            .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
-                :alt: Mesprit Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Uxie
-
-            See :ref:`uxie`
-
-            - Purchase the **Jewel of Wisdom**
-            - Capture 30% of all Psychic type |Pokemobs|
-            - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
-            
-            .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
-                :alt: Uxie Key Item
-
-.. dropdown:: Sun & Moon
-    :animate: fade-in-slide-down
-
-    .. grid:: 1
-
-        .. grid-item-card:: Cosmog
-
-            See :ref:`cosmog`
-
-            - Purchase the **Cosmic Orb**
-            - Capture 30% of all Psychic type |Pokemobs|
-            - Find the `Altar of Time & Space`_
-            
-            .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
-                :alt: Cosmog Key Item
-
-.. dropdown:: Sword & Shield
-    :animate: fade-in-slide-down
-
-    .. grid:: 1
-
-        .. grid-item-card:: Kubfu
-
-            See :ref:`kubfu`
-
-            - Purchase the **Gray Scarf**
-            - Capture 30% of all Fighting type |Pokemobs|
-            - Find the `Kubfu Dojo`_
-
-            .. image:: ../_images/legends_wiki/items/gray_scarf.png
-                :alt: Kubfu Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Calyrex
-
-            See :ref:`calyrex`
-
-            - Purchase the **Wooden Crown**
-            - Capture 40% of all Grass type |Pokemobs|
-            - Craft & then right-click the **Trough Spawner**
-            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
-
-            .. image:: ../_images/legends_wiki/items/wooden_crown.png
-                :alt: Calyrex Key Item
+            .. image:: ../_images/legends_wiki/items/prison_bottle.png
+                :alt: Hoopa Key Item
                 
-.. dropdown:: Tao Trio
-    :animate: fade-in-slide-down
-        
-    .. grid:: 1
-
-        .. grid-item-card:: Kyurem
-
-            See :ref:`kyurem`
-
-            - Purchase the **DNA Stone**
-            - Capture :ref:`reshiram` & :ref:`zekrom`
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            
-            .. image:: ../_images/legends_wiki/items/dna_stone.png
-                :alt: Kyurem Key Item
-
 .. dropdown:: Aura Trio
     :animate: fade-in-slide-down
 
@@ -880,39 +888,6 @@ Legendary Pokémobs
 
             .. image:: ../_images/legends_wiki/items/zygarde_cube.png
                 :alt: Zygarde Key Item
-
-.. dropdown:: Eon Duo
-    :animate: fade-in-slide-down
-
-    .. grid:: 1
-
-        .. grid-item-card:: Latios
-
-            See :ref:`latios`
-
-            - Purchase the **Soul Dew**
-            - Capture 30% of all Dragon type |Pokemobs|
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
-                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
-            
-            .. image:: ../_images/legends_wiki/items/soul_dew.png
-                :alt: Latios Key Item
-
-    .. grid:: 1
-
-        .. grid-item-card:: Latias
-
-            See :ref:`latias`
-
-            - Purchase the **Soul Dew**
-            - Capture 30% of all Dragon type |Pokemobs|
-            - Craft & then right-click the **Legendary Spawner**
-            - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
-                * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
-            
-            .. image:: ../_images/legends_wiki/items/soul_dew.png
-                :alt: Latias Key Item
 
 .. dropdown:: Lunar Duo
     :animate: fade-in-slide-down
@@ -943,6 +918,57 @@ Legendary Pokémobs
             .. image:: ../_images/legends_wiki/items/nightmare_book.gif
                 :alt: Darkrai Key Item
 
+Generation VII
+~~~~~~~~~~~~~~~
+
+.. dropdown:: Sun & Moon
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Cosmog
+
+            See :ref:`cosmog`
+
+            - Purchase the **Cosmic Orb**
+            - Capture 30% of all Psychic type |Pokemobs|
+            - Find the `Altar of Time & Space`_
+            
+            .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
+                :alt: Cosmog Key Item
+
+Generation VIII
+~~~~~~~~~~~~~~~~
+
+.. dropdown:: Sword & Shield
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Kubfu
+
+            See :ref:`kubfu`
+
+            - Purchase the **Gray Scarf**
+            - Capture 30% of all Fighting type |Pokemobs|
+            - Find the `Kubfu Dojo`_
+
+            .. image:: ../_images/legends_wiki/items/gray_scarf.png
+                :alt: Kubfu Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Calyrex
+
+            See :ref:`calyrex`
+
+            - Purchase the **Wooden Crown**
+            - Capture 40% of all Grass type |Pokemobs|
+            - Craft & then right-click the **Trough Spawner**
+            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
+
+            .. image:: ../_images/legends_wiki/items/wooden_crown.png
+                :alt: Calyrex Key Item
 
 Exploration Structures
 =======================
