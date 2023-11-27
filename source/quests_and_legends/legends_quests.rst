@@ -349,7 +349,7 @@ Capturing Legendary Pokémobs
 =============================
 
 - Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
-- These items can be acquired only by purchasing with Merchants or Trainers after being defeated
+- These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after being defeating them
 - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
 
 Generation I
