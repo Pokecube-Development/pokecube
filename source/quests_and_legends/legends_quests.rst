@@ -649,11 +649,25 @@ Generation III
 
             - Purchase the **Red Orb**
             - Capture more than 25 different Ground type |Pokemobs|
-            - Kill more than 55 different Water type |Pokemobs|
+            - Kill more than 50 different Water type |Pokemobs|
             - Find the `Groudon Temple`_
             
             .. image:: ../_images/legends_wiki/items/red_orb.png
                 :alt: Groudon Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Kyogre
+
+            See :ref:`kyogre`
+
+            - Purchase the **Blue Orb**
+            - Capture more than 50 different Water type |Pokemobs|
+            - Kill more than 25 different Ground type |Pokemobs|
+            - Find the `Kyogre Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/blue_orb.png
+                :alt: Kyogre Key Item
 
 .. dropdown:: Eon Duo
     :animate: fade-in-slide-down
