@@ -517,7 +517,7 @@ Generation II
             See :ref:`celebi`
 
             - Purchase the **Jade Orb**
-            - Capture 70% of all Grass type |Pokemobs|
+            - Capture 70% of different Grass type |Pokemobs|
             - Find the `Celebi Temple`_
             
             .. image:: ../_images/legends_wiki/items/jade_orb.png
@@ -619,7 +619,7 @@ Generation III
             See :ref:`deoxys`
 
             - Purchase the **Meteor Shard**
-            - Capture 20% of all Psychic type |Pokemobs|
+            - Capture 20% of different Psychic type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/meteor_shard.png
@@ -632,7 +632,7 @@ Generation III
             See :ref:`jirachi`
 
             - Purchase the **Star Core**
-            - Capture 20% of all Steel type |Pokemobs|
+            - Capture 20% of different Steel type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/star_core.png
@@ -640,6 +640,20 @@ Generation III
                 
 .. dropdown:: Weather Trio
     :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Groudon
+
+            See :ref:`groudon`
+
+            - Purchase the **Red Orb**
+            - Capture more than 25 different Ground type |Pokemobs|
+            - Kill more than 55 different Water type |Pokemobs|
+            - Find the `Groudon Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/red_orb.png
+                :alt: Groudon Key Item
 
 .. dropdown:: Eon Duo
     :animate: fade-in-slide-down
@@ -651,7 +665,7 @@ Generation III
             See :ref:`latios`
 
             - Purchase the **Soul Dew**
-            - Capture 30% of all Dragon type |Pokemobs|
+            - Capture 30% of different Dragon type |Pokemobs|
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
                 * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
@@ -666,7 +680,7 @@ Generation III
             See :ref:`latias`
 
             - Purchase the **Soul Dew**
-            - Capture 30% of all Dragon type |Pokemobs|
+            - Capture 30% of different Dragon type |Pokemobs|
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Beach** biome or any biome tagged as ``#pokecube_world:is_beach``
                 * This tag includes the **Stony Shore** & the biome tag ``#minecraft:is_beach``
@@ -687,7 +701,7 @@ Generation IV
             See :ref:`manaphy`
 
             - Purchase the **Prince's Necklace**
-            - Capture 40% of all Water type |Pokemobs|
+            - Capture 40% of different Water type |Pokemobs|
             - Find the `Kyogre Temple`_
             
             .. image:: ../_images/legends_wiki/items/prince_necklace.png
@@ -703,7 +717,7 @@ Generation IV
             See :ref:`azelf`
 
             - Purchase the **Jewel of Willpower**
-            - Capture 30% of all Psychic type |Pokemobs|
+            - Capture 30% of different Psychic type |Pokemobs|
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
             .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
@@ -716,7 +730,7 @@ Generation IV
             See :ref:`mesprit`
 
             - Purchase the **Jewel of Emotions**
-            - Capture 30% of all Psychic type |Pokemobs|
+            - Capture 30% of different Psychic type |Pokemobs|
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
             .. image:: ../_images/legends_wiki/items/jewel_of_emotions.png
@@ -729,7 +743,7 @@ Generation IV
             See :ref:`uxie`
 
             - Purchase the **Jewel of Wisdom**
-            - Capture 30% of all Psychic type |Pokemobs|
+            - Capture 30% of different Psychic type |Pokemobs|
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
             .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
@@ -748,7 +762,7 @@ Generation V
             See :ref:`meloetta_aria`
 
             - Purchase the **Melody Ocarina**
-            - Capture 40% of all Normal type |Pokemobs|
+            - Capture 40% of different Normal type |Pokemobs|
             - Find the `Nature's Place`_
             
             .. image:: ../_images/legends_wiki/items/melody_ocarina.png
@@ -764,7 +778,7 @@ Generation V
             See :ref:`cobalion`
 
             - Purchase **Cobalion's Sword of Justice**
-            - Capture 30% of all Steel type |Pokemobs|
+            - Capture 30% of different Steel type |Pokemobs|
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/cobalion_sword.png
@@ -777,7 +791,7 @@ Generation V
             See :ref:`terrakion`
 
             - Purchase **Terrakion's Sword of Justice**
-            - Capture 30% of all Rock type |Pokemobs|
+            - Capture 30% of different Rock type |Pokemobs|
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/terrakion_sword.png
@@ -790,7 +804,7 @@ Generation V
             See :ref:`virizion`
 
             - Purchase **Virizion's Sword of Justice**
-            - Capture 30% of all Grass type |Pokemobs|
+            - Capture 30% of different Grass type |Pokemobs|
             - Find the `Keldeo Altar`_
             
             .. image:: ../_images/legends_wiki/items/virizion_sword.png
@@ -839,7 +853,7 @@ Generation VI
             See :ref:`diancie`
 
             - Purchase the **Pink Diamond**
-            - Capture 30% of all Fairy type |Pokemobs|
+            - Capture 30% of different Fairy type |Pokemobs|
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed on a **Hills** biome or any biome tagged as ``#minecraft:is_hill``
             
@@ -867,7 +881,7 @@ Generation VI
             See :ref:`hoopa_confined`
 
             - Earn from a quest or purchase the **Prison Bottle**
-            - Capture 30% of all Ghost type |Pokemobs|
+            - Capture 30% of different Ghost type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/prison_bottle.png
@@ -883,7 +897,7 @@ Generation VI
             See :ref:`zygarde_50`
             
             - Earn from a quest or purchase the **Zygarde Cube**
-            - Capture 20% of all Ground type |Pokemobs|
+            - Capture 20% of different Ground type |Pokemobs|
             - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
 
             .. image:: ../_images/legends_wiki/items/zygarde_cube.png
@@ -899,7 +913,7 @@ Generation VI
             See :ref:`cresselia`
 
             - Purchase the **Lunar Wing**
-            - Capture 30% of all Fairy type |Pokemobs|
+            - Capture 30% of different Fairy type |Pokemobs|
             - Find the `Sky Pillar`_
             
             .. image:: ../_images/legends_wiki/items/lunar_wing.png
@@ -912,7 +926,7 @@ Generation VI
             See :ref:`darkrai`
 
             - Purchase the **Nightmare Book**
-            - Capture 30% of all Dark type |Pokemobs|
+            - Capture 30% of different Dark type |Pokemobs|
             - Find the `Yveltal Ruins`_
             
             .. image:: ../_images/legends_wiki/items/nightmare_book.gif
@@ -931,7 +945,7 @@ Generation VII
             See :ref:`cosmog`
 
             - Purchase the **Cosmic Orb**
-            - Capture 30% of all Psychic type |Pokemobs|
+            - Capture 30% of different Psychic type |Pokemobs|
             - Find the `Altar of Time & Space`_
             
             .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
@@ -950,7 +964,7 @@ Generation VIII
             See :ref:`kubfu`
 
             - Purchase the **Gray Scarf**
-            - Capture 30% of all Fighting type |Pokemobs|
+            - Capture 30% of different Fighting type |Pokemobs|
             - Find the `Kubfu Dojo`_
 
             .. image:: ../_images/legends_wiki/items/gray_scarf.png
@@ -963,7 +977,7 @@ Generation VIII
             See :ref:`calyrex`
 
             - Purchase the **Wooden Crown**
-            - Capture 40% of all Grass type |Pokemobs|
+            - Capture 40% of different Grass type |Pokemobs|
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
 
