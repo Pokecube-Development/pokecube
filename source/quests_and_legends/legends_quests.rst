@@ -1839,27 +1839,11 @@ Quest is the way for you to have the legendary |pokemob| confidence, and thus ca
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
 
-Weather trio
-~~~~~~~~~~~~
-* Groudon - Capture about 40 Ground |pokemobs| and Defeat 40 Water |pokemobs|.
-* Kyogre - Capture 35 Water |pokemobs| and Defeat 40 Ground |pokemobs|.
-* Rayquaza - Capture :ref:`kyogre`/:ref:`groudon`.
-
-Sea Guardian
-~~~~~~~~~~~~
-* Manaphy - Capture about 20 Water |pokemobs|.
 
 Forces of Nature
 ~~~~~~~~~~~~~~~~
 * Meloetta - Capture about 20 Normal |pokemobs|.
 * Thundurus/ Landorus/Tornadus - Capture the /:ref:`meloetta_aria`.
-
-Swords of Justice
-~~~~~~~~~~~~~~~~~
-* Virizion - Capture about 20 Grass |pokemobs|.
-* Cobalion - Capture about 20 Steel |pokemobs|.
-* Terrakion - Capture about 20 Rock |pokemobs|.
-* Keldeo - Capture :ref:`virizion`/:ref:`terrakion`/:ref:`cobalion`.
 
 Legend of Champions
 ~~~~~~~~~~~~~~~~~~~
@@ -1868,11 +1852,6 @@ Legend of Champions
 Core to Core
 ~~~~~~~~~~~~
 * Heatran - Capture about 30 Fire |pokemobs|.
-
-Metal Heart
-~~~~~~~~~~~
-* Magearna - Capture about 20 Ghost |pokemobs|.
-* Volcanion - Capture :ref:`magearna`.
 
 Yin..Yang
 ~~~~~~~~~
@@ -1891,10 +1870,6 @@ Aura trio
 * Xerneas - Capture about 20 Fairy |pokemobs|.
 * Yveltal - Capture about 20 Dark |pokemobs|.
 * Zygarde - Capture about 20 Ground |pokemobs|`.
-
-Heart Diamond
-~~~~~~~~~~~~~
-* Diancie - Capture about 20 Fairy |pokemobs|.
 
 Light Trio
 ~~~~~~~~~~
