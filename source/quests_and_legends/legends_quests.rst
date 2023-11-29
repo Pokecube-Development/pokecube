@@ -790,10 +790,49 @@ Generation V
 
             - Purchase the **Melody Ocarina**
             - Capture 40% of different Normal type |Pokemobs|
-            - Find the `Nature's Place`_
+            - Find `Nature's Place`_
             
             .. image:: ../_images/legends_wiki/items/melody_ocarina.png
                 :alt: Meloetta Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Thundurus
+
+            See :ref:`thundurus_incarnate`
+
+            - Craft or purchase the **Blue Rune**
+            - Capture :ref:`meloetta_aria`
+            - Find `Nature's Place`_
+            
+            .. image:: ../_images/legends_wiki/items/blue_rune.png
+                :alt: Thundurus Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Tornadus
+
+            See :ref:`tornadus_incarnate`
+
+            - Craft or purchase the **Green Rune**
+            - Capture :ref:`meloetta_aria`
+            - Find `Nature's Place`_
+            
+            .. image:: ../_images/legends_wiki/items/green_rune.png
+                :alt: Tornadus Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Landorus
+
+            See :ref:`landorus_incarnate`
+
+            - Craft or purchase the **Orange Rune**
+            - Capture :ref:`meloetta_aria`
+            - Find `Nature's Place`_
+            
+            .. image:: ../_images/legends_wiki/items/orange_rune.png
+                :alt: Landorus Key Item
 
 .. dropdown:: Swords of Justice
     :animate: fade-in-slide-down
