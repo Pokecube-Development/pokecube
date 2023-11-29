@@ -834,6 +834,19 @@ Generation V
             .. image:: ../_images/legends_wiki/items/orange_rune.png
                 :alt: Landorus Key Item
 
+    .. grid:: 1
+
+        .. grid-item-card:: Enamorus
+
+            See :ref:`enamorus_incarnate`
+
+            - Purchase the **Ancient Stone**
+            - Capture :ref:`meloetta_aria`
+            - Find `Nature's Place`_
+            
+            .. image:: ../_images/legends_wiki/items/ancient_stone.png
+                :alt: Enamorus Key Item
+
 .. dropdown:: Swords of Justice
     :animate: fade-in-slide-down
 
@@ -1877,12 +1890,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-
-Forces of Nature
-~~~~~~~~~~~~~~~~
-* Meloetta - Capture about 20 Normal |pokemobs|.
-* Thundurus/ Landorus/Tornadus - Capture the /:ref:`meloetta_aria`.
 
 Legend of Champions
 ~~~~~~~~~~~~~~~~~~~
