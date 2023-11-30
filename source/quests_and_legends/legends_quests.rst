@@ -734,6 +734,19 @@ Generation IV
             .. image:: ../_images/legends_wiki/items/prince_necklace.png
                 :alt: Manaphy Key Item
 
+    .. grid:: 1
+
+        .. grid-item-card:: Phione
+
+            See :ref:`phione`
+
+            - Purchase the **Water Gem**
+            - Capture 40% of different Water type |Pokemobs|
+            - Find the `Kyogre Temple`_
+            
+            .. image:: ../_images/legends_wiki/items/water_gem.png
+                :alt: Phione Key Item
+
 .. dropdown:: Lake Gaurdians
     :animate: fade-in-slide-down
 
@@ -778,6 +791,23 @@ Generation IV
 
 Generation V
 ~~~~~~~~~~~~~
+
+.. dropdown:: Mythical Pokémon
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Victini
+
+            See :ref:`victini`
+
+            - Earn from a quest or purchase the **Emblem**
+            - Capture 50% of different Psychic type |Pokemobs|
+            - Craft & then right-click the **Victini Spawner**
+            - Must be placed in a **Village**
+            
+            .. image:: ../_images/legends_wiki/items/emblem.png
+                :alt: Victini Key Item
 
 .. dropdown:: Forces of Nature
     :animate: fade-in-slide-down
