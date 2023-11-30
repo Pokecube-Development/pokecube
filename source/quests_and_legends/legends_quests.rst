@@ -789,6 +789,23 @@ Generation IV
             .. image:: ../_images/legends_wiki/items/jewel_of_wisdom.png
                 :alt: Uxie Key Item
 
+.. dropdown:: Volcano Gaurdian
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Heatran
+
+            See :ref:`heatran`
+
+            - Earn in a quest or purchase the **Magma Core**
+            - Capture 50% of different Fire type |Pokemobs|
+            - Craft & then right-click the **Heatran Spawner**
+            - Must be placed in the **Nether**
+            
+            .. image:: ../_images/legends_wiki/items/magma_core.png
+                :alt: Heatran Key Item
+
 Generation V
 ~~~~~~~~~~~~~
 
@@ -1920,14 +1937,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Legend of Champions
-~~~~~~~~~~~~~~~~~~~
-* Victini - Capture about 20 Psychic |pokemobs|.
-
-Core to Core
-~~~~~~~~~~~~
-* Heatran - Capture about 30 Fire |pokemobs|.
 
 Yin..Yang
 ~~~~~~~~~
