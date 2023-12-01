@@ -954,6 +954,32 @@ Generation V
         
     .. grid:: 1
 
+        .. grid-item-card:: Reshiram
+
+            See :ref:`reshiram`
+
+            - Purchase the **Light Stone**
+            - Capture 50% of different Dragon type |Pokemobs|
+            - Find the `Castle of N`_
+            
+            .. image:: ../_images/legends_wiki/items/light_stone.png
+                :alt: Reshiram Key Item
+        
+    .. grid:: 1
+
+        .. grid-item-card:: Zekrom
+
+            See :ref:`zekrom`
+
+            - Purchase the **Dark Stone**
+            - Capture 50% of different Dragon type |Pokemobs|
+            - Find the `Castle of N`_
+            
+            .. image:: ../_images/legends_wiki/items/dark_stone.png
+                :alt: Zekrom Key Item
+        
+    .. grid:: 1
+
         .. grid-item-card:: Kyurem
 
             See :ref:`kyurem`
@@ -1937,11 +1963,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Yin..Yang
-~~~~~~~~~
-* Zekrom/Reshiram - Capture about 20 Dragon |pokemobs|.
-* Kyurem - Capture :ref:`reshiram`/:ref:`zekrom`.
 
 The beginning
 ~~~~~~~~~~~~~
