@@ -806,6 +806,21 @@ Generation IV
             .. image:: ../_images/legends_wiki/items/magma_core.png
                 :alt: Heatran Key Item
 
+.. dropdown:: Creation Trio
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Dialga
+
+            See :ref:`dialga`
+
+            - Earn in a quest or purchase the **Adamant Orb**
+            - Capture :ref:`azelf`, :ref:`mesprit`, & :ref:`uxie`
+            - Find the `Altar of Time & Space`_
+            
+            .. image:: ../_images/legends_wiki/items/adamant_orb.png
+                :alt: Dialga Key Item
 Generation V
 ~~~~~~~~~~~~~
 
