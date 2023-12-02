@@ -988,8 +988,8 @@ Generation V
             - Capture :ref:`reshiram` & :ref:`zekrom`
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Fuse :ref:`reshiram` & :ref:`kyurem` with a DNA Splicer to make White :ref:`kyurem`
-            - Fuse :ref:`zekrom` & :ref:`kyurem` with a DNA Splicer to make Dark :ref:`kyurem`
+            - Place DNA Splicer A in the **Held Item Slot** to make Dark :ref:`kyurem`
+            - Place DNA Splicer B in the **Held Item Slot** to make White :ref:`kyurem`
             
             .. image:: ../_images/legends_wiki/items/dna_stone.png
                 :alt: Kyurem Key Item
