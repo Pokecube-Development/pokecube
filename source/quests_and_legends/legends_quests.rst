@@ -834,6 +834,19 @@ Generation IV
             
             .. image:: ../_images/legends_wiki/items/lustrous_orb.png
                 :alt: Palkia Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Giratina
+
+            See :ref:`giratina`
+
+            - Earn in a quest or purchase the **Lustrous Orb**
+            - Capture :ref:`dialga` & :ref:`palkia`
+            - Teleport to the `Distorted World`_
+            
+            .. image:: ../_images/legends_wiki/items/giratina_mirror.gif
+                :alt: Giratina Mirror
 Generation V
 ~~~~~~~~~~~~~
 
@@ -2002,9 +2015,6 @@ Quest is the way for you to have the legendary |pokemob| confidence, and thus ca
 
 The beginning
 ~~~~~~~~~~~~~
-* Uxie/Mesprit/Azelf - Capture about 20 Psychic |pokemobs|.
-* Dialga/Palkia - Capture :ref:`uxie`/:ref:`mesprit`/:ref:`azelf`.
-* Giratina - Capture :ref:`dialga`//:ref:`palkia`.
 * Arceus - Capture the :ref:`dialga`/:ref:`palkia`/:ref:`giratina`.
 
 Aura trio

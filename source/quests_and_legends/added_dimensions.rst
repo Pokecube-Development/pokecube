@@ -203,6 +203,8 @@ Magnetic Stones are bluish stones that appear in abundance in the **Deep Hills**
 .. image:: ../_images/legends_wiki/ultra_armor_boots.png
     :alt: armor
 
+.. _Distorted World: 
+
 Distorted World
 ~~~~~~~~~~~~~~~
 In the Distorted World, you can enter mirror blocks through the environment, but looking down on the islands, you find the Fractal Ore. It is of little use at the moment, but you can build a very interesting machine.
