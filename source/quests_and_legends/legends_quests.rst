@@ -843,7 +843,7 @@ Generation IV
 
             - Earn in a quest or purchase the **Lustrous Orb**
             - Capture :ref:`dialga` & :ref:`palkia`
-            - Teleport to the `Distorted World`_
+            - Teleport to the :ref:`Distorted World`
             
             .. image:: ../_images/legends_wiki/items/giratina_mirror.gif
                 :alt: Giratina Mirror
