@@ -9,11 +9,10 @@ Legends and Quests
 
 Introduction
 =============
-|Pokecube| has modules that complement each other, Legends is one of these modules. :raw-html:`<br />`
-|Pokecube| Legends is the part that manages structures, dimensions, & behavior of legendary |pokemob| for spawning and capturing. :raw-html:`<br />`
-On this page you will find information about the legendary structures, their spawn forms, items, & exclusive blocks of |Pokecube| Legends. 
-
-For the dimensions part of this module, click here: :ref:`legend_dimensions`
+- |Pokecube| has modules that complement each other, Legends is one of these modules. :raw-html:`<br />`
+- |Pokecube| Legends is the part that manages structures, dimensions, & behavior of legendary |pokemob| for spawning and capturing. :raw-html:`<br />`
+- On this page you will find information about the legendary structures, their spawn forms, items, & exclusive blocks of |Pokecube| Legends. 
+- For the dimensions part of this module, click here: :ref:`legend_dimensions`
 
 Items
 ~~~~~~
