@@ -821,6 +821,19 @@ Generation IV
             
             .. image:: ../_images/legends_wiki/items/adamant_orb.png
                 :alt: Dialga Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Palkia
+
+            See :ref:`palkia`
+
+            - Earn in a quest or purchase the **Lustrous Orb**
+            - Capture :ref:`azelf`, :ref:`mesprit`, & :ref:`uxie`
+            - Find the `Altar of Time & Space`_
+            
+            .. image:: ../_images/legends_wiki/items/lustrous_orb.png
+                :alt: Palkia Key Item
 Generation V
 ~~~~~~~~~~~~~
 
