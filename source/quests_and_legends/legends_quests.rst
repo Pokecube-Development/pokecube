@@ -958,7 +958,7 @@ Generation V
 
             See :ref:`reshiram`
 
-            - Purchase the **Light Stone**
+            - Earn from a quest or purchase the **Light Stone**
             - Capture 50% of different Dragon type |Pokemobs|
             - Find the `Castle of N`_
             
@@ -971,7 +971,7 @@ Generation V
 
             See :ref:`zekrom`
 
-            - Purchase the **Dark Stone**
+            - Earn from a quest or purchase the **Dark Stone**
             - Capture 50% of different Dragon type |Pokemobs|
             - Find the `Castle of N`_
             
