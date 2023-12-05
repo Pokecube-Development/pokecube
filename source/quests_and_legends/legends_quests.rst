@@ -846,6 +846,23 @@ Generation IV
             
             .. image:: ../_images/legends_wiki/items/giratina_mirror.gif
                 :alt: Giratina Mirror
+
+.. dropdown:: Arceus
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Arceus
+
+            See :ref:`arceus`
+
+            - Earn in a quest or purchase the **Azure Flute**
+            - Capture :ref:`dialga`, :ref:`palkia`, & :ref:`giratina`
+            - Find the `Altar of Time & Space`_
+            
+            .. image:: ../_images/legends_wiki/items/azure_flute.png
+                :alt: Arceus Key Item
+
 Generation V
 ~~~~~~~~~~~~~
 
