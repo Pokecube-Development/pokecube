@@ -1109,6 +1109,19 @@ Generation VI
 
     .. grid:: 1
 
+        .. grid-item-card:: Yveltal
+
+            See :ref:`yveltal`
+            
+            - Craft or purchase the **Destruction Orb**
+            - Capture 20% of different Dark type |Pokemobs|
+            - Find the `Yveltal Ruins`_
+
+            .. image:: ../_images/legends_wiki/items/destructorb.png
+                :alt: Yveltal Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Zygarde
 
             See :ref:`zygarde_50`
@@ -2028,10 +2041,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-The beginning
-~~~~~~~~~~~~~
-* Arceus - Capture the :ref:`dialga`/:ref:`palkia`/:ref:`giratina`.
 
 Aura trio
 ~~~~~~~~~
