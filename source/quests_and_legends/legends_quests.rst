@@ -1109,12 +1109,25 @@ Generation VI
 
     .. grid:: 1
 
+        .. grid-item-card:: Xerneas
+
+            See :ref:`xerneas`
+            
+            - Craft or purchase the **Life Orb**
+            - Capture 40% of different Fairy type |Pokemobs|
+            - Find the `Xerneas' Tree`_
+
+            .. image:: ../_images/legends_wiki/items/lifeorb.png
+                :alt: Xerneas Key Item
+
+    .. grid:: 1
+
         .. grid-item-card:: Yveltal
 
             See :ref:`yveltal`
             
             - Craft or purchase the **Destruction Orb**
-            - Capture 20% of different Dark type |Pokemobs|
+            - Capture 50% of different Dark type |Pokemobs|
             - Find the `Yveltal Ruins`_
 
             .. image:: ../_images/legends_wiki/items/destructorb.png
@@ -1128,7 +1141,7 @@ Generation VI
             
             - Earn from a quest or purchase the **Zygarde Cube**
             - Capture 20% of different Ground type |Pokemobs|
-            - Find the `Yveltal Ruins`_ or the `Xerneas Tree`_
+            - Find the `Yveltal Ruins`_ or the `Xerneas' Tree`_
 
             .. image:: ../_images/legends_wiki/items/zygarde_cube.png
                 :alt: Zygarde Key Item
@@ -1792,7 +1805,7 @@ Yveltal Ruins
     .. image:: ../_images/legends_wiki/yveltal_temple.png
         :alt: Yveltal Ruins
 
-.. _Xerneas Tree:
+.. _Xerneas' Tree:
 
 Xerneas Tree
 ~~~~~~~~~~~~~
@@ -1805,7 +1818,7 @@ Xerneas Tree
     * Found in biomes tagged as ``#forge:is_spooky`` or ``#pokecube_world:is_ultraspace/is_forest``
 
     .. image:: ../_images/legends_wiki/xerneas_tree.png
-        :alt: Xerneas Tree
+        :alt: Xerneas' Tree
 
 .. _Keldeo Altar:
 
