@@ -1045,8 +1045,8 @@ Generation V
             - Capture :ref:`reshiram` & :ref:`zekrom`
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Place DNA Splicer A in the **Held Item Slot** to make Black :ref:`kyurem`
-            - Place DNA Splicer B in the **Held Item Slot** to make White :ref:`kyurem`
+            - Place **DNA Splicer A** in Kyurem's inventory in the **Held Item Slot** to make Black :ref:`kyurem`
+            - Place **DNA Splicer B** in Kyurem's inventory in the **Held Item Slot** to make White :ref:`kyurem`
             
             .. image:: ../_images/legends_wiki/items/dna_stone.png
                 :alt: Kyurem Key Item
@@ -1117,7 +1117,7 @@ Generation VI
             - Capture 40% of different Fairy type |Pokemobs|
             - Find the `Xerneas' Tree`_
 
-            .. image:: ../_images/legends_wiki/items/lifeorb.png
+            .. image:: ../_images/legends_wiki/items/life_orb.png
                 :alt: Xerneas Key Item
 
     .. grid:: 1
@@ -1130,7 +1130,7 @@ Generation VI
             - Capture 50% of different Dark type |Pokemobs|
             - Find the `Yveltal Ruins`_
 
-            .. image:: ../_images/legends_wiki/items/destructorb.png
+            .. image:: ../_images/legends_wiki/items/destruction_orb.png
                 :alt: Yveltal Key Item
 
     .. grid:: 1
@@ -1178,7 +1178,7 @@ Generation VI
 Generation VII
 ~~~~~~~~~~~~~~~
 
-.. dropdown:: Sun & Moon
+.. dropdown:: Cosmog
     :animate: fade-in-slide-down
 
     .. grid:: 1
@@ -1193,6 +1193,46 @@ Generation VII
             
             .. image:: ../_images/legends_wiki/items/cosmic_orb.gif
                 :alt: Cosmog Key Item
+
+.. dropdown:: Light Trio
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Solgaleo
+
+            See :ref:`solgaleo`
+
+            - Evolve :ref:`cosmog`
+            - Place the **N-Solarizer** in Solgaleo's inventory in the **Held Item Slot** to make Dusk Mane :ref:`necrozma`
+            
+            .. image:: ../_images/legends_wiki/items/n-solarizer.png
+                :alt: Solgaleo's N-Solarizer
+
+    .. grid:: 1
+
+        .. grid-item-card:: Lunala
+
+            See :ref:`lunala`
+
+            - Evolve :ref:`cosmog`
+            - Place the **N-Lunarizer** in Lunala's inventory in the **Held Item Slot** to make Dawn Wings :ref:`necrozma`
+            
+            .. image:: ../_images/legends_wiki/items/n-lunarizer.png
+                :alt: Lunala's N-Lunarizer
+
+    .. grid:: 1
+
+        .. grid-item-card:: Necrozma
+
+            See :ref:`necrozma`
+
+            - Purchase the **Lighting Crystal**
+            - Capture :ref:`solgaleo` & :ref:`lunala`
+            - Find the `Necrozma Tower`_
+            
+            .. image:: ../_images/legends_wiki/items/lighting_crystal.png
+                :alt: Necrozma Key Item
 
 Generation VIII
 ~~~~~~~~~~~~~~~~
@@ -2054,17 +2094,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Aura trio
-~~~~~~~~~
-* Xerneas - Capture about 20 Fairy |pokemobs|.
-* Yveltal - Capture about 20 Dark |pokemobs|.
-* Zygarde - Capture about 20 Ground |pokemobs|`.
-
-Light Trio
-~~~~~~~~~~
-* Cosmog - Capture about 20 Psychic |pokemobs|.
-* Necrozma - Capture :ref:`solgaleo`/:ref:`lunala`.
 
 Guardian Deities
 ~~~~~~~~~~~~~~~~
