@@ -1045,8 +1045,8 @@ Generation V
             - Capture :ref:`reshiram` & :ref:`zekrom`
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Place **DNA Splicer A** in Kyurem's inventory in the **Held Item Slot** to make Black :ref:`kyurem`
-            - Place **DNA Splicer B** in Kyurem's inventory in the **Held Item Slot** to make White :ref:`kyurem`
+            - Place **DNA Splicer A** in Kyurem's inventory in the **Held Item Slot** to form Black :ref:`kyurem`
+            - Place **DNA Splicer B** in Kyurem's inventory in the **Held Item Slot** to form White :ref:`kyurem`
             
             .. image:: ../_images/legends_wiki/items/dna_stone.png
                 :alt: Kyurem Key Item
@@ -1203,8 +1203,8 @@ Generation VII
 
             See :ref:`solgaleo`
 
-            - Evolve :ref:`cosmog`
-            - Place the **N-Solarizer** in Solgaleo's inventory in the **Held Item Slot** to make Dusk Mane :ref:`necrozma`
+            - Evolve from :ref:`cosmog`
+            - Place the **N-Solarizer** in Solgaleo's inventory in the **Held Item Slot** to form Dusk Mane :ref:`necrozma`
             
             .. image:: ../_images/legends_wiki/items/n-solarizer.png
                 :alt: Solgaleo's N-Solarizer
@@ -1215,8 +1215,8 @@ Generation VII
 
             See :ref:`lunala`
 
-            - Evolve :ref:`cosmog`
-            - Place the **N-Lunarizer** in Lunala's inventory in the **Held Item Slot** to make Dawn Wings :ref:`necrozma`
+            - Evolve from :ref:`cosmog`
+            - Place the **N-Lunarizer** in Lunala's inventory in the **Held Item Slot** to form Dawn Wings :ref:`necrozma`
             
             .. image:: ../_images/legends_wiki/items/n-lunarizer.png
                 :alt: Lunala's N-Lunarizer
