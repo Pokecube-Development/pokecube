@@ -1192,7 +1192,7 @@ Generation VII
             - Capture 20% of different Electric type |Pokemobs|
             - Find the `Tapu Center`_
             
-            .. image:: ../_images/legends_wiki/items/koko_orb
+            .. image:: ../_images/legends_wiki/items/koko_orb.png
                 :alt: Tapu Koko Key Item
 
     .. grid:: 1
@@ -1206,7 +1206,7 @@ Generation VII
             - Capture 20% of different Psychic type |Pokemobs|
             - Find the `Tapu Center`_
             
-            .. image:: ../_images/legends_wiki/items/lele_orb
+            .. image:: ../_images/legends_wiki/items/lele_orb.png
                 :alt: Tapu Lele Key Item
 
     .. grid:: 1
@@ -1220,7 +1220,7 @@ Generation VII
             - Capture 30% of different Grass type |Pokemobs|
             - Find the `Tapu Center`_
             
-            .. image:: ../_images/legends_wiki/items/bulu_orb
+            .. image:: ../_images/legends_wiki/items/bulu_orb.png
                 :alt: Tapu Bulu Key Item
 
     .. grid:: 1
@@ -1234,7 +1234,7 @@ Generation VII
             - Capture 30% of different Water type |Pokemobs|
             - Find the `Tapu Center`_
             
-            .. image:: ../_images/legends_wiki/items/fini_orb
+            .. image:: ../_images/legends_wiki/items/fini_orb.png
                 :alt: Tapu Fini Key Item
 
     .. grid:: 1
