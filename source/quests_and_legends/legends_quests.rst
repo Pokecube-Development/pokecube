@@ -1178,8 +1178,64 @@ Generation VI
 Generation VII
 ~~~~~~~~~~~~~~~
 
-.. dropdown:: Cosmog
+.. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Tapu Koko
+
+            See :ref:`tapu_koko`
+
+            - Guardian of **Melemele Island**
+            - Purchase the **Tapu-Koko Orb**
+            - Capture 20% of different Electric type |Pokemobs|
+            - Find the `Tapu Center`_
+            
+            .. image:: ../_images/legends_wiki/items/koko_orb
+                :alt: Tapu Koko Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Tapu Lele
+
+            See :ref:`tapu_lele`
+
+            - Guardian of **Akala Island**
+            - Purchase the **Tapu-Lele Orb**
+            - Capture 20% of different Psychic type |Pokemobs|
+            - Find the `Tapu Center`_
+            
+            .. image:: ../_images/legends_wiki/items/lele_orb
+                :alt: Tapu Lele Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Tapu Bulu
+
+            See :ref:`tapu_bulu`
+
+            - Guardian of **Ula'ula Island**
+            - Purchase the **Tapu-Bulu Orb**
+            - Capture 30% of different Grass type |Pokemobs|
+            - Find the `Tapu Center`_
+            
+            .. image:: ../_images/legends_wiki/items/bulu_orb
+                :alt: Tapu Bulu Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Tapu Fini
+
+            See :ref:`tapu_fini`
+
+            - Guardian of **Poni Island**
+            - Purchase the **Tapu-Fini Orb**
+            - Capture 30% of different Water type |Pokemobs|
+            - Find the `Tapu Center`_
+            
+            .. image:: ../_images/legends_wiki/items/fini_orb
+                :alt: Tapu Fini Key Item
 
     .. grid:: 1
 
