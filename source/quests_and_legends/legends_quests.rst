@@ -840,9 +840,8 @@ Generation IV
 
             See :ref:`giratina`
 
-            - Earn in a quest or purchase the **Lustrous Orb**
             - Capture :ref:`dialga` & :ref:`palkia`
-            - Teleport to the :ref:`Distorted World`
+            - Spawns in the :ref:`Distorted World`
             
             .. image:: ../_images/legends_wiki/items/giratina_mirror.gif
                 :alt: Giratina Mirror
@@ -1330,6 +1329,21 @@ Generation VIII
 
             .. image:: ../_images/legends_wiki/items/zamazenta_shield.png
                 :alt: Zamazenta's Shield
+
+.. dropdown:: Eternatus
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Eternatus
+
+            See :ref:`eternatus`
+
+            - Capture :ref:`zacian` & :ref:`zamazenta`
+            - Spawns in **Ultra Space**
+
+            .. image:: ../_images/legends_wiki/items/ultra_key.png
+                :alt: Ultra Dimensional Key
 
 .. dropdown:: Sword & Shield
     :animate: fade-in-slide-down
@@ -2189,17 +2203,8 @@ Quest is the way for you to have the legendary |pokemob| confidence, and thus ca
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
 
-Guardian Deities
-~~~~~~~~~~~~~~~~
-* Tapu Koko - Capture about 20 Electric |pokemobs|
-* Tapu Lele - Capture about 20 Psychic |pokemobs|
-* Tapu Bulu - Capture about 20 Grass |pokemobs|
-* Tapu Fini - Capture about 20 Water |pokemobs|
-
 Sword and Shield
 ~~~~~~~~~~~~~~~~
-* Zacian/Zamazenta - Capture 20 Steel |pokemobs|.
-* Eternatus - Capture :ref:`zacian`/:ref:`zamazenta`.
 * Glastrier/Spectrier - Capture :ref:`calyrex`.
 * Calyrex - Capture about 20 Electric |pokemobs|.
 * Kubfu - Capture about 20 Fighting |pokemobs|.
