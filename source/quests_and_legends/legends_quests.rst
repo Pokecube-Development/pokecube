@@ -1243,6 +1243,7 @@ Generation VII
 
             See :ref:`cosmog`
 
+            - Guardian of **Ultra Space**
             - Purchase the **Cosmic Orb**
             - Capture 30% of different Psychic type |Pokemobs|
             - Find the `Altar of Time & Space`_
@@ -1292,6 +1293,43 @@ Generation VII
 
 Generation VIII
 ~~~~~~~~~~~~~~~~
+
+.. dropdown:: Hero Duo
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Zacian
+
+            See :ref:`zacian`
+
+            - Loot or purchase the **Rusted Sword**
+            - Crafts into the **Zacian's Sword** or use to summon **Zacian**
+            - Capture 60% of different Steel type |Pokemobs|
+            - Find the `Zacian Ruined Portal`_
+
+            .. image:: ../_images/legends_wiki/items/rusted_sword.png
+                :alt: Zacian Key Item
+
+            .. image:: ../_images/legends_wiki/items/zacian_sword.png
+                :alt: Zacian's Sword
+
+    .. grid:: 1
+
+        .. grid-item-card:: Zamazenta
+
+            See :ref:`zamazenta`
+
+            - Loot or purchase the **Rusted Sword**
+            - Crafts into the **Zamazenta's Shield** or use to summon **Zamazenta**
+            - Capture 60% of different Steel type |Pokemobs|
+            - Find the `Zamazenta Ruined Portal`_
+
+            .. image:: ../_images/legends_wiki/items/rusted_shield.png
+                :alt: Zamazenta Key Item
+
+            .. image:: ../_images/legends_wiki/items/zamazenta_shield.png
+                :alt: Zamazenta's Shield
 
 .. dropdown:: Sword & Shield
     :animate: fade-in-slide-down
