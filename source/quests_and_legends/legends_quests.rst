@@ -1394,7 +1394,7 @@ Generation VIII
 
             - Purchase the **Gray Scarf**
             - Capture 30% of different Fighting type |Pokemobs|
-            - Find the `Kubfu Dojo`_, `Dark Kubfu Tower`, & `Water Kubfu Tower`
+            - Find the `Kubfu Dojo`_, `Dark Kubfu Tower`_, & `Water Kubfu Tower`_
             - Place the **Scroll of Darkness** in Kubfu's inventory in the **Held Item Slot** to form Single Strike Style :ref:`urshifu_single`
             - Place the **Scroll of Waters** in Kubfu's inventory in the **Held Item Slot** to form Rapid Strike Style :ref:`urshifu_single`
 
