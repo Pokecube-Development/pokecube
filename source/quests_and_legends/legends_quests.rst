@@ -1353,7 +1353,7 @@ Generation VIII
 
             See :ref:`spectrier`
 
-            - Purchase the **Shaderoot Carrot**
+            - Earn from a quest or purchase the **Shaderoot Carrot**
             - Capture :ref:`calyrex`
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
@@ -1371,7 +1371,7 @@ Generation VIII
 
             See :ref:`glastrier`
 
-            - Purchase the **Iceroot Carrot**
+            - Earn from a quest or purchase the **Iceroot Carrot**
             - Capture :ref:`calyrex`
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
