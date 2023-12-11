@@ -1330,21 +1330,6 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/zamazenta_shield.png
                 :alt: Zamazenta's Shield
 
-.. dropdown:: Eternatus
-    :animate: fade-in-slide-down
-
-    .. grid:: 1
-
-        .. grid-item-card:: Eternatus
-
-            See :ref:`eternatus`
-
-            - Capture :ref:`zacian` & :ref:`zamazenta`
-            - Spawns in **Ultra Space**
-
-            .. image:: ../_images/legends_wiki/items/ultra_key.png
-                :alt: Ultra Dimensional Key
-
 .. dropdown:: Unity Trio
     :animate: fade-in-slide-down
 
@@ -1377,6 +1362,9 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/shaderoot_carrot.png
                 :alt: Spectrier Key Item
 
+            .. image:: ../_images/legends_wiki/items/reins_of_unity.png
+                :alt: Reins of Unity
+
     .. grid:: 1
 
         .. grid-item-card:: Glastrier
@@ -1392,7 +1380,10 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/iceroot_carrot.png
                 :alt: Glastrier Key Item
 
-.. dropdown:: Sword & Shield
+            .. image:: ../_images/legends_wiki/items/reins_of_unity.png
+                :alt: Reins of Unity
+
+.. dropdown:: Isle of Armor
     :animate: fade-in-slide-down
 
     .. grid:: 1
@@ -1404,12 +1395,32 @@ Generation VIII
             - Purchase the **Gray Scarf**
             - Capture 30% of different Fighting type |Pokemobs|
             - Find the `Kubfu Dojo`_
+            - Place the **Scroll of Darkness** in Kubfu's inventory in the **Held Item Slot** to form Single Strike Style :ref:`urshifu_single`
+            - Place the **Scroll of Waters** in Kubfu's inventory in the **Held Item Slot** to form Rapid Strike Style :ref:`urshifu_single`
 
             .. image:: ../_images/legends_wiki/items/gray_scarf.png
                 :alt: Kubfu Key Item
 
+            .. image:: ../_images/legends_wiki/items/parchment_of_darkness.png
+                :alt: Single Strike Style Urshifu Evolve Item
+
+            .. image:: ../_images/legends_wiki/items/parchment_of_waters.png
+                :alt: Rapid Strike Style Urshifu Evolve Item
+
+.. dropdown:: Eternatus
+    :animate: fade-in-slide-down
+
     .. grid:: 1
 
+        .. grid-item-card:: Eternatus
+
+            See :ref:`eternatus`
+
+            - Capture :ref:`zacian` & :ref:`zamazenta`
+            - Spawns in **Ultra Space**
+
+            .. image:: ../_images/legends_wiki/items/ultra_key.png
+                :alt: Ultra Dimensional Key
 
 Exploration Structures
 =======================
@@ -2238,12 +2249,6 @@ Legendary Pokémob Quests
 Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Sword and Shield
-~~~~~~~~~~~~~~~~
-* Glastrier/Spectrier - Capture :ref:`calyrex`.
-* Calyrex - Capture about 20 Electric |pokemobs|.
-* Kubfu - Capture about 20 Fighting |pokemobs|.
 
 Quest for Items
 ~~~~~~~~~~~~~~~
