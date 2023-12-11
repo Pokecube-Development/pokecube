@@ -1391,6 +1391,7 @@ Generation VIII
 
             .. image:: ../_images/legends_wiki/items/iceroot_carrot.png
                 :alt: Glastrier Key Item
+
 .. dropdown:: Sword & Shield
     :animate: fade-in-slide-down
 
