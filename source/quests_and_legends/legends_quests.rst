@@ -1303,7 +1303,7 @@ Generation VIII
             See :ref:`zacian`
 
             - Loot or purchase the **Rusted Sword**
-            - Crafts into the **Zacian's Sword** or use to summon **Zacian**
+            - Crafts into **Zacian's Sword** or use to summon **Zacian**
             - Capture 60% of different Steel type |Pokemobs|
             - Find the `Zacian Ruined Portal`_
 
@@ -1320,7 +1320,7 @@ Generation VIII
             See :ref:`zamazenta`
 
             - Loot or purchase the **Rusted Sword**
-            - Crafts into the **Zamazenta's Shield** or use to summon **Zamazenta**
+            - Crafts into **Zamazenta's Shield** or use to summon **Zamazenta**
             - Capture 60% of different Steel type |Pokemobs|
             - Find the `Zamazenta Ruined Portal`_
 
@@ -1345,6 +1345,52 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/ultra_key.png
                 :alt: Ultra Dimensional Key
 
+.. dropdown:: Unity Trio
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Calyrex
+
+            See :ref:`calyrex`
+
+            - Purchase the **Wooden Crown**
+            - Capture 40% of different Grass type |Pokemobs|
+            - Craft & then right-click the **Trough Spawner**
+            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
+
+            .. image:: ../_images/legends_wiki/items/wooden_crown.png
+                :alt: Calyrex Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Spectrier
+
+            See :ref:`spectrier`
+
+            - Purchase the **Shaderoot Carrot**
+            - Capture :ref:`calyrex`
+            - Craft & then right-click the **Trough Spawner**
+            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            - Place the **Reins of Unity** in Spectrier's inventory in the **Held Item Slot** to form Shadow Rider :ref:`calyrex`
+
+            .. image:: ../_images/legends_wiki/items/shaderoot_carrot.png
+                :alt: Spectrier Key Item
+
+    .. grid:: 1
+
+        .. grid-item-card:: Glastrier
+
+            See :ref:`glastrier`
+
+            - Purchase the **Iceroot Carrot**
+            - Capture :ref:`calyrex`
+            - Craft & then right-click the **Trough Spawner**
+            - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
+            - Place the **Reins of Unity** in Glastrier's inventory in the **Held Item Slot** to form Ice Rider :ref:`calyrex`
+
+            .. image:: ../_images/legends_wiki/items/iceroot_carrot.png
+                :alt: Glastrier Key Item
 .. dropdown:: Sword & Shield
     :animate: fade-in-slide-down
 
@@ -1363,17 +1409,6 @@ Generation VIII
 
     .. grid:: 1
 
-        .. grid-item-card:: Calyrex
-
-            See :ref:`calyrex`
-
-            - Purchase the **Wooden Crown**
-            - Capture 40% of different Grass type |Pokemobs|
-            - Craft & then right-click the **Trough Spawner**
-            - Must be placed in a **Taiga Forest** or any biome tagged as ``#minecraft:is_taiga``
-
-            .. image:: ../_images/legends_wiki/items/wooden_crown.png
-                :alt: Calyrex Key Item
 
 Exploration Structures
 =======================
