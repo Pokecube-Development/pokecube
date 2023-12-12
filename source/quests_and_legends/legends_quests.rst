@@ -336,13 +336,16 @@ Special Moves
         - |Pokemob| exclusive Z-Crystals are integrated with base Z-Crytals.
         - The difference is that the specific |pokemob| needs to have the specific move to use the exclusive Z-Move.
 
+        .. image:: ../_images/legends_wiki/items/z_crystals.gif
+            :alt: Z Crystals
+
         **Example:**
 
         * Pikachu's Thunderwave Move + Electrium Z = Gigavolt Havoc
         * Pikachu's Thunderbolt Move + Electrium Z = 10,000,000 Volt Thunderbolt
 
         .. image:: ../_images/legends_wiki/items/z_electric.png
-            :alt: max_spot
+            :alt: Electric Z Crystal
 
 Capturing Legendary Pokémobs
 =============================
