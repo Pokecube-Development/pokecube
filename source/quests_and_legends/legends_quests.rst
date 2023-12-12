@@ -731,6 +731,7 @@ Generation IV
 
             - Earn from a quest or purchase the **Gracidea**
             - Place in Shaymin's inventory in the **Held Item Slot** to transform into Sky :ref:`shaymin_land`
+            - **Gracideas** can also be planted
             
             .. image:: ../_images/legends_wiki/items/gracidea.png
                 :alt: Gracidea
