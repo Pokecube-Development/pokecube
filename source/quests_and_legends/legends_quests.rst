@@ -720,6 +720,21 @@ Generation III
 Generation IV
 ~~~~~~~~~~~~~~
 
+.. dropdown:: Mythical Pokémon
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Shaymin
+
+            See :ref:`shaymin_land`
+
+            - Earn from a quest or purchase the **Gracidea**
+            - Place in Shaymin's inventory in the **Held Item Slot** to transform into Sky :ref:`shaymin_land`
+            
+            .. image:: ../_images/legends_wiki/items/gracidea.png
+                :alt: Gracidea
+
 .. dropdown:: Sea Gaurdians
     :animate: fade-in-slide-down
 
@@ -1074,8 +1089,8 @@ Generation V
             - Capture :ref:`reshiram` & :ref:`zekrom`
             - Craft & then right-click the **Legendary Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Place **DNA Splicer A** in Kyurem's inventory in the **Held Item Slot** to form Black :ref:`kyurem`
-            - Place **DNA Splicer B** in Kyurem's inventory in the **Held Item Slot** to form White :ref:`kyurem`
+            - Place **DNA Splicer A** in Kyurem's inventory in the **Held Item Slot** to transform into Black :ref:`kyurem`
+            - Place **DNA Splicer B** in Kyurem's inventory in the **Held Item Slot** to transform into White :ref:`kyurem`
             
             .. image:: ../_images/legends_wiki/items/dna_stone.png
                 :alt: Kyurem Key Item
@@ -1290,7 +1305,7 @@ Generation VII
             See :ref:`solgaleo`
 
             - Evolve from :ref:`cosmog`
-            - Place the **N-Solarizer** in Solgaleo's inventory in the **Held Item Slot** to form Dusk Mane :ref:`necrozma`
+            - Place the **N-Solarizer** in Solgaleo's inventory in the **Held Item Slot** to transform into Dusk Mane :ref:`necrozma`
             
             .. image:: ../_images/legends_wiki/items/n-solarizer.png
                 :alt: Solgaleo's N-Solarizer
@@ -1302,7 +1317,7 @@ Generation VII
             See :ref:`lunala`
 
             - Evolve from :ref:`cosmog`
-            - Place the **N-Lunarizer** in Lunala's inventory in the **Held Item Slot** to form Dawn Wings :ref:`necrozma`
+            - Place the **N-Lunarizer** in Lunala's inventory in the **Held Item Slot** to transform into Dawn Wings :ref:`necrozma`
             
             .. image:: ../_images/legends_wiki/items/n-lunarizer.png
                 :alt: Lunala's N-Lunarizer
@@ -1387,7 +1402,7 @@ Generation VIII
             - Capture :ref:`calyrex`
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Place the **Reins of Unity** in Spectrier's inventory in the **Held Item Slot** to form Shadow Rider :ref:`calyrex`
+            - Place the **Reins of Unity** in Spectrier's inventory in the **Held Item Slot** to transform into Shadow Rider :ref:`calyrex`
 
             .. image:: ../_images/legends_wiki/items/shaderoot_carrot.png
                 :alt: Spectrier Key Item
@@ -1405,7 +1420,7 @@ Generation VIII
             - Capture :ref:`calyrex`
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
-            - Place the **Reins of Unity** in Glastrier's inventory in the **Held Item Slot** to form Ice Rider :ref:`calyrex`
+            - Place the **Reins of Unity** in Glastrier's inventory in the **Held Item Slot** to transform into Ice Rider :ref:`calyrex`
 
             .. image:: ../_images/legends_wiki/items/iceroot_carrot.png
                 :alt: Glastrier Key Item
