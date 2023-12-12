@@ -907,9 +907,13 @@ Generation V
             - Craft or purchase the **Blue Rune**
             - Capture :ref:`meloetta_aria`
             - Find `Nature's Place`_
+            - Right-click with the **Reveal Glass** to transform into Therian :ref:`thundurus_incarnate`
             
             .. image:: ../_images/legends_wiki/items/blue_rune.png
                 :alt: Thundurus Key Item
+            
+            .. image:: ../_images/legends_wiki/items/reveal_glass.png
+                :alt: Reveal Glass
 
     .. grid:: 1
 
@@ -920,9 +924,13 @@ Generation V
             - Craft or purchase the **Green Rune**
             - Capture :ref:`meloetta_aria`
             - Find `Nature's Place`_
+            - Right-click with the **Reveal Glass** to transform into Therian :ref:`tornadus_incarnate`
             
             .. image:: ../_images/legends_wiki/items/green_rune.png
                 :alt: Tornadus Key Item
+            
+            .. image:: ../_images/legends_wiki/items/reveal_glass.png
+                :alt: Reveal Glass
 
     .. grid:: 1
 
@@ -933,9 +941,13 @@ Generation V
             - Craft or purchase the **Orange Rune**
             - Capture :ref:`meloetta_aria`
             - Find `Nature's Place`_
+            - Right-click with the **Reveal Glass** to transform into Therian :ref:`landorus_incarnate`
             
             .. image:: ../_images/legends_wiki/items/orange_rune.png
                 :alt: Landorus Key Item
+            
+            .. image:: ../_images/legends_wiki/items/reveal_glass.png
+                :alt: Reveal Glass
 
     .. grid:: 1
 
@@ -946,9 +958,13 @@ Generation V
             - Purchase the **Ancient Stone**
             - Capture :ref:`meloetta_aria`
             - Find `Nature's Place`_
+            - Right-click with the **Reveal Glass** to transform into Therian :ref:`enamorus_incarnate`
             
             .. image:: ../_images/legends_wiki/items/ancient_stone.png
                 :alt: Enamorus Key Item
+            
+            .. image:: ../_images/legends_wiki/items/reveal_glass.png
+                :alt: Reveal Glass
 
 .. dropdown:: Swords of Justice
     :animate: fade-in-slide-down
@@ -1393,7 +1409,7 @@ Generation VIII
             See :ref:`kubfu`
 
             - Purchase the **Gray Scarf**
-            - Capture 30% of different Fighting type |Pokemobs|
+            - Capture 30% of different **Fighting** type |Pokemobs|
             - Find the `Kubfu Dojo`_, `Dark Kubfu Tower`_, & `Water Kubfu Tower`_
             - Place the **Scroll of Darkness** in Kubfu's inventory in the **Held Item Slot** to form Single Strike Style :ref:`urshifu_single`
             - Place the **Scroll of Waters** in Kubfu's inventory in the **Held Item Slot** to form Rapid Strike Style :ref:`urshifu_single`
