@@ -540,7 +540,7 @@ Generation III
             See :ref:`regirock`
 
             - Earn from a quest or purchase the **Rock Core**
-            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Capture :ref:`relicanth` & :ref:`wailord` & receive the **Rock Core** as a reward
             - Find the `Regirock Temple`_
             
             .. image:: ../_images/legends_wiki/items/rock_core.png
@@ -553,7 +553,7 @@ Generation III
             See :ref:`regice`
 
             - Earn from a quest or purchase the **Ice Core**
-            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Capture :ref:`relicanth` & :ref:`wailord` & receive the **Ice Core** as a reward
             - Find the `Regice Temple`_
             
             .. image:: ../_images/legends_wiki/items/ice_core.png
@@ -566,7 +566,7 @@ Generation III
             See :ref:`registeel`
 
             - Earn from a quest or purchase the **Steel Core**
-            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Capture :ref:`relicanth` & :ref:`wailord` & receive the **Steel Core** as a reward
             - Find the `Registeel Temple`_
             
             .. image:: ../_images/legends_wiki/items/steel_core.png
@@ -579,7 +579,7 @@ Generation III
             See :ref:`regidrago`
 
             - Earn from a quest or purchase the **Drago Core**
-            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Capture :ref:`relicanth` & :ref:`wailord` & receive the **Drago Core** as a reward
             - Find the `Regidrago Temple`_
             
             .. image:: ../_images/legends_wiki/items/drago_core.png
@@ -592,7 +592,7 @@ Generation III
             See :ref:`regieleki`
 
             - Earn from a quest or purchase the **Thunder Core**
-            - Capture :ref:`relicanth` & :ref:`wailord`
+            - Capture :ref:`relicanth` & :ref:`wailord` & receive the **Thunder Core** as a reward
             - Find the `Regieleki Temple`_
             
             .. image:: ../_images/legends_wiki/items/thunder_core.png
@@ -605,7 +605,7 @@ Generation III
             See :ref:`regigigas`
 
             - Earn from a quest or purchase the **Regis Core**
-            - Capture :ref:`regirock`, :ref:`regice`, :ref:`registeel`, :ref:`regidrago`, & :ref:`regieleki`
+            - Capture :ref:`regirock`, :ref:`regice`, :ref:`registeel`, :ref:`regidrago`, & :ref:`regieleki` & receive the **Regis Core** as a reward
             - Find the `Regigigas Temple`_
             
             .. image:: ../_images/legends_wiki/items/regis_orb.png
@@ -752,6 +752,17 @@ Generation IV
 .. dropdown:: Lake Gaurdians
     :animate: fade-in-slide-down
 
+    - Capture all Lake Guardians & receive the **Giratina Mirror Parts** as a reward
+            
+    .. image:: ../_images/legends_wiki/items/giratina_mirror_head.png
+        :alt: Giratina Mirror Head
+    
+    .. image:: ../_images/legends_wiki/items/giratina_mirror_glass.png
+        :alt: Giratina Mirror Glass
+    
+    .. image:: ../_images/legends_wiki/items/giratina_mirror_body.png
+        :alt: Giratina Mirror Body
+
     .. grid:: 1
 
         .. grid-item-card:: Azelf
@@ -759,7 +770,7 @@ Generation IV
             See :ref:`azelf`
 
             - Purchase the **Jewel of Willpower**
-            - Capture 30% of different Psychic type |Pokemobs|
+            - Capture 30% of different Psychic type |Pokemobs| & receive the **Rock Core** as a reward
             - Find the `Zacian Ruined Portal`_ or the `Zamazenta Ruined Portal`_
             
             .. image:: ../_images/legends_wiki/items/jewel_of_willpower.png
@@ -2273,9 +2284,6 @@ Quest for Items
 ~~~~~~~~~~~~~~~
 Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
 
-* Regis - Capture: Relicanth and Wailord. Reward: Regis Cores.
-* Regigigas - Capture: All Regis. Reward: Regigigas Orb.
-* Uxie,Mesprit,Azelf - Reward: Parts for Giratina Mirror.
 * Shaymin - Reward: Gracidea.
 * Hoopa - Reward: Prison Bottle.
 * Kyurem - Reward: The two DNA to change the shape to Black/White.
