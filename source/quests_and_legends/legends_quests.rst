@@ -339,6 +339,8 @@ Special Moves
         .. image:: ../_images/legends_wiki/items/z_crystals.gif
             :alt: Z Crystals
 
+        :raw-html:`<br />`
+        
         **Example:**
 
         * Pikachu's Thunderwave Move + Electrium Z = Gigavolt Havoc
@@ -352,7 +354,15 @@ Capturing Legendary & Mythical Pokémobs
 
 - Some legendary & mythical |pokemobs|, even though some naturally spawn in various biomes, can be summoned by items
 - These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after defeating them
-- These pokémobs have catch rules, just like |pokemobs| that can only be summoned
+- Not all legendaries are can be summoned, these are the ones you use to get stronger legendaries. 
+    * You can see if the |pokemob| spawns in the world or can be summoned
+    * To find out, go to the **Local Spawns** |**PokeWatch**| page, if spawns are at 0% the |pokemob| can only be summoned or appear in Hoopa Portals.
+- The |pokemobs| have catch rules, like the |pokemobs| that can only be summoned
+    * You can see if the |pokemob| has a quest to capture it in the |**PokeWatch**|
+    * To find out, go to the |**PokeWatch**| and click the **Description** button, then click the **Capture Check** button.
+
+    .. image:: ../_images/legends_wiki/pokewatch_capture_check.png
+        :alt: Pokedex Capture Check Button
 
 Generation I
 ~~~~~~~~~~~~~
@@ -494,6 +504,7 @@ Generation II
 
             - Purchase the **Rainbow Orb**
             - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
+            - Capture Ho-Oh to receive the **Rainbow Feather** as a reward
             - Find the `Ho-Oh Temple`_
             
             .. image:: ../_images/legends_wiki/items/rainbow_orb.gif
@@ -507,6 +518,7 @@ Generation II
 
             - Purchase the **Tidal Bell**
             - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
+            - Capture Lugia to receive the **Silver Feather** as a reward
             - Find the `Lugia Tower`_
             
             .. image:: ../_images/legends_wiki/items/tidal_bell.png
@@ -1227,8 +1239,8 @@ Generation VII
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
-    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,  :raw-html:`<br />`
-    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive **Tapu Orbs** as a reward
+    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`, :raw-html:`<br />`
+    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive **Tapu Orbs** as a reward.
 
     .. grid:: 1
 
@@ -1404,7 +1416,7 @@ Generation VIII
             See :ref:`spectrier`
 
             - Earn from a quest or purchase the **Shaderoot Carrot**
-            - Capture :ref:`calyrex`
+            - Capture :ref:`calyrex` to receive this as a reward
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
             - Place the **Reins of Unity** in Spectrier's inventory in the **Held Item Slot** to transform into Shadow Rider :ref:`calyrex`
@@ -1422,7 +1434,7 @@ Generation VIII
             See :ref:`glastrier`
 
             - Earn from a quest or purchase the **Iceroot Carrot**
-            - Capture :ref:`calyrex`
+            - Capture :ref:`calyrex` to receive this as a reward
             - Craft & then right-click the **Trough Spawner**
             - Must be placed in a **Snowy** biome or any biome tagged as ``#forge:is_snowy``
             - Place the **Reins of Unity** in Glastrier's inventory in the **Held Item Slot** to transform into Ice Rider :ref:`calyrex`
@@ -2300,22 +2312,11 @@ Quest is the way for you to have the legendary |pokemob| confidence, and thus ca
 
 * The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
 
-Quest for Items
-~~~~~~~~~~~~~~~
-Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
-
-* Tapus - Capture and Defeat: Gumshoos, Raticate Alola, Wishiwashi, Salazzle, Lurantis, Vikavolt, Mimikyu, Kommo-o. Reward: Koko,Bulu,Lele,Fini Orb.
-* Glastrier/Spectrier - Reward: Regardless of which to capture, you win the item.
-
-> Not all legends are within Quest or Requisition, and these are exactly the ones you use to get stronger legends. You can see if they appear in the world or are stuck in the blocks; To find out, just go to his Pokewatch page and go to Spawn tab, if it is at 0% he can only be summoned or appear in Hoopa Portals.
-
 Default Rewards
 ~~~~~~~~~~~~~~~
 Upon completing the legendary missions you receive some rewards in addition to 'Quest for Items':
 
 * Emerald bonuses for most of the legendary who are captured
-* Ho-oh - When capturing you get a Rainbow feather
-* Lugia - When capturing you get a Silver feather
 
 **Key items**
 =============

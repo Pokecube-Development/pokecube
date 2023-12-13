@@ -23,3 +23,13 @@
 
 .. |Pokemob's| replace:: Pokémob's
 
+.. |PokeWatch| replace:: PokéWatch
+
+.. |Pokewatch| replace:: PokéWatch
+
+.. |**PokeWatch**| replace:: **PokéWatch**
+
+.. |**Pokewatch**| replace:: **PokéWatch**
+
+
+
