@@ -1237,6 +1237,23 @@ Generation VI
 Generation VII
 ~~~~~~~~~~~~~~~
 
+.. dropdown:: Mythical Pokémon
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Magearna
+
+            See :ref:`magearna`
+
+            - Purchase the **Soul Heart**
+            - Capture 20% of different Ghost type |Pokemobs|
+            - Craft & then right-click the **Magearna Spawner**
+            - Must be placed in a **Village**
+            
+            .. image:: ../_images/legends_wiki/items/soul_heart.png
+                :alt: Magearna Key Item
+
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
