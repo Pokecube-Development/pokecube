@@ -1145,6 +1145,7 @@ Generation VI
             - Earn from a quest or purchase the **Prison Bottle**
             - Capture 30% of different Ghost type |Pokemobs|
             - Find the `Sky Pillar`_
+            - Place in Hoopa's inventory in the **Held Item Slot** to transform into :ref:`hoopa_confined` Unbound
             
             .. image:: ../_images/legends_wiki/items/prison_bottle.png
                 :alt: Hoopa Key Item
@@ -1226,6 +1227,9 @@ Generation VII
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
+    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,  :raw-html:`<br />`
+    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive **Tapu Orbs** as a reward
+
     .. grid:: 1
 
         .. grid-item-card:: Tapu Koko
@@ -1233,7 +1237,7 @@ Generation VII
             See :ref:`tapu_koko`
 
             - Guardian of **Melemele Island**
-            - Purchase the **Tapu-Koko Orb**
+            - Earn from a quest or purchase the **Tapu-Koko Orb**
             - Capture 20% of different Electric type |Pokemobs|
             - Find the `Tapu Center`_
             
@@ -1247,7 +1251,7 @@ Generation VII
             See :ref:`tapu_lele`
 
             - Guardian of **Akala Island**
-            - Purchase the **Tapu-Lele Orb**
+            - Earn from a quest or purchase the **Tapu-Lele Orb**
             - Capture 20% of different Psychic type |Pokemobs|
             - Find the `Tapu Center`_
             
@@ -1261,7 +1265,7 @@ Generation VII
             See :ref:`tapu_bulu`
 
             - Guardian of **Ula'ula Island**
-            - Purchase the **Tapu-Bulu Orb**
+            - Earn from a quest or purchase the **Tapu-Bulu Orb**
             - Capture 30% of different Grass type |Pokemobs|
             - Find the `Tapu Center`_
             
@@ -1275,7 +1279,7 @@ Generation VII
             See :ref:`tapu_fini`
 
             - Guardian of **Poni Island**
-            - Purchase the **Tapu-Fini Orb**
+            - Earn from a quest or purchase the **Tapu-Fini Orb**
             - Capture 30% of different Water type |Pokemobs|
             - Find the `Tapu Center`_
             
@@ -2300,10 +2304,6 @@ Quest for Items
 ~~~~~~~~~~~~~~~
 Some quests can give the summoning items of some legendary ones, but don't worry, you can get them by purchasing from Merchant or with a trainer from the map
 
-* Shaymin - Reward: Gracidea.
-* Hoopa - Reward: Prison Bottle.
-* Kyurem - Reward: The two DNA to change the shape to Black/White.
-* Necrozma - Reward: The two items to change the shape of Solgaleo and Lunala.
 * Tapus - Capture and Defeat: Gumshoos, Raticate Alola, Wishiwashi, Salazzle, Lurantis, Vikavolt, Mimikyu, Kommo-o. Reward: Koko,Bulu,Lele,Fini Orb.
 * Glastrier/Spectrier - Reward: Regardless of which to capture, you win the item.
 
