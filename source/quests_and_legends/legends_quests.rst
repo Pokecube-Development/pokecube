@@ -347,10 +347,10 @@ Special Moves
         .. image:: ../_images/legends_wiki/items/z_electric.png
             :alt: Electric Z Crystal
 
-Capturing Legendary Pokémobs
-=============================
+Capturing Legendary & Mythical Pokémobs
+========================================
 
-- Some legendary |pokemobs|, even though they naturally spawn in various biomes, can be summoned by items
+- Some legendary & mythical |pokemobs|, even though some naturally spawn in various biomes, can be summoned by items
 - These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after defeating them
 - These pokémobs have catch rules, just like |pokemobs| that can only be summoned
 
