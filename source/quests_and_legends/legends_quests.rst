@@ -352,13 +352,14 @@ Special Moves
 Capturing Legendary & Mythical Pokémobs
 ========================================
 
-- Some legendary & mythical |pokemobs|, even though some naturally spawn in various biomes, can be summoned by items
-- These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after defeating them
+- Some legendary & mythical |pokemobs|, even though some naturally spawn in various biomes, can be summoned by items.
+- These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after defeating them.
+- Most legendaries will reward you with **Emeralds** when captured.
 - Not all legendaries are can be summoned, these are the ones you use to get stronger legendaries. 
-    * You can see if the |pokemob| spawns in the world or can be summoned
+    * You can see if the |pokemob| spawns in the world or can be summoned.
     * To find out, go to the **Local Spawns** |**PokeWatch**| page, if spawns are at 0% the |pokemob| can only be summoned or appear in Hoopa Portals.
-- The |pokemobs| have catch rules, like the |pokemobs| that can only be summoned
-    * You can see if the |pokemob| has a quest to capture it in the |**PokeWatch**|
+- The |pokemobs| have catch rules, like the |pokemobs| that can only be summoned.
+    * You can see if the |pokemob| has a quest to capture it in the |**PokeWatch**|.
     * To find out, go to the |**PokeWatch**| and click the **Description** button, then click the **Capture Check** button.
 
     .. image:: ../_images/legends_wiki/pokewatch_capture_check.png
@@ -2305,197 +2306,13 @@ Regi Golems
 
 .. _quests_list:
 
-Legendary Pokémob Quests
-=========================
-
-Quest is the way for you to have the legendary |pokemob| confidence, and thus capture it. They may change over time and as new Pokémon Generations arrive. The :ref:`watch_description` page in the pokewatch has a button which can give the actual numbers for below. 
-
-* The numbers may vary according to the released pokemon generations or changes by Data Packs or Custom Servers!
-
-Default Rewards
-~~~~~~~~~~~~~~~
-Upon completing the legendary missions you receive some rewards in addition to 'Quest for Items':
-
-* Emerald bonuses for most of the legendary who are captured
-
-**Key items**
-=============
-
-The legendary Pokemon that are Spawned by Altars precision beyond the Quest, a Key Item. This key item can be purchased by the Merchant from NPC villages, or by completing Quest where each Quest has its own reward.
-
-> You can see if |pokemob| Legendary needs a quest to be captured by Pokewatch, just go to the pokemob page and then to description, if the |pokemob| needs a mission the following button will appear, if it doesn't, it can be captured normally:
-
-.. image:: ../_images/legends_wiki/pokedex_legendy_check.png
-    :alt: Legends Quests
-
-> The items also warn about how to get them, just use SHIFT on the item and it will have a yellow alert:
-
-.. image:: https://i.imgur.com/NPusMjt.png
-    :alt: Reward
-
-Each item has its requirement, but if it does not have a yellow warning, it means that the Player can craft it
-
-.. image:: https://i.imgur.com/zJIcSMC.png
-    :alt: Reward_none
-
-.. image:: https://i.imgur.com/NPusMjt.png
-    :alt: Reward2
-.. image:: https://i.imgur.com/dKg0RmY.png
-    :alt: Reward3
-.. image:: https://i.imgur.com/W7akEoA.png
-    :alt: Reward4
-
-> If you try to use the key item without completing the quest, it will give you a warning, stating the requirements to capture the |pokemob| in which you used the item.
-
-.. image:: https://i.imgur.com/JOOiuk7.png
-    :alt: Alert key item
-
 Principal Key Items
 ~~~~~~~~~~~~~~~~~~~
-
-* Dialga
-.. image:: ../_images/legends_wiki/items/adamantorb.png
-    :alt: Key Items First
-
-* Rayquaza
-.. image:: ../_images/legends_wiki/items/ancient_shard.png
-    :alt: Key Items First
-
-* Arceus
-.. image:: ../_images/legends_wiki/items/azure_flute.png
-    :alt: Key Items First
-
-* Thundurus
-.. image:: ../_images/legends_wiki/items/blue_rune.png
-    :alt: Key Items First
-
-* Kyogre
-.. image:: ../_images/legends_wiki/items/blueorb.png
-    :alt: Key Items First
-
-* Tapu Bulu
-.. image:: ../_images/legends_wiki/items/bulu_orb.png
-    :alt: Key Items First
-
-* Zekrom
-.. image:: ../_images/legends_wiki/items/darkstone.png
-    :alt: Key Items First
-
-* Yveltal
-.. image:: ../_images/legends_wiki/items/destructorb.png
-    :alt: Key Items First
-
-* Regidraco
-.. image:: ../_images/legends_wiki/items/dragocore.png
-    :alt: Key Items First
-
-* Victini
-.. image:: ../_images/legends_wiki/items/emblem.png
-    :alt: Key Items First
-
-* Tapu Fini
-.. image:: ../_images/legends_wiki/items/fini_orb.png
-    :alt: Key Items First
-
-* Tornadus
-.. image:: ../_images/legends_wiki/items/green_rune.png
-    :alt: Key Items First
-
-* Celebi
-.. image:: ../_images/legends_wiki/items/greenorb.png
-    :alt: Key Items First
-
-* Glastrier
-.. image:: ../_images/legends_wiki/items/ice_carrot.png
-    :alt: Key Items First
-
-* Regice
-.. image:: ../_images/legends_wiki/items/icecore.png
-    :alt: Key Items First
-
-* Keldeo
-.. image:: ../_images/legends_wiki/items/keldeo_sword.png
-    :alt: Key Items First
-
-* Tapu Koko
-.. image:: ../_images/legends_wiki/items/koko_orb.png
-    :alt: Key Items First
-
-* Kubfu
-.. image:: ../_images/legends_wiki/items/kubfu_spawn.png
-    :alt: Key Items First
-
-* Tapu Lele
-.. image:: ../_images/legends_wiki/items/lele_orb.png
-    :alt: Key Items First
-
-* Xerneas
-.. image:: ../_images/legends_wiki/items/lifeorb.png
-    :alt: Key Items First
-
-* Necrozma
-.. image:: ../_images/legends_wiki/items/lighting_crystal.png
-    :alt: Key Items First
-
-* Reshiram
-.. image:: ../_images/legends_wiki/items/lightstone.png
-    :alt: Key Items First
-
-* Palkia
-.. image:: ../_images/legends_wiki/items/lustrousorb.png
-    :alt: Key Items First
-
-* Heatran
-.. image:: ../_images/legends_wiki/items/magma-stone.png
-    :alt: Key Items First
-
-* Lugia
-.. image:: ../_images/legends_wiki/items/oceanorb.png
-    :alt: Key Items First
-
-* Landorus
-.. image:: ../_images/legends_wiki/items/orange_rune.png
-    :alt: Key Items First
-
-* Ho-oh
-.. image:: ../_images/legends_wiki/items/rainboworb.png
-    :alt: Key Items First
-
-* Groudon
-.. image:: ../_images/legends_wiki/items/redorb.png
-    :alt: Key Items First
-
-* Regigias
-.. image:: ../_images/legends_wiki/items/regisorb.png
-    :alt: Key Items First
-
-* Regirock
-.. image:: ../_images/legends_wiki/items/rockcore.png
-    :alt: Key Items First
-
-* Zamazenta
-.. image:: ../_images/legends_wiki/items/rustedshield.png
-    :alt: Key Items First
-
-* Zacian
-.. image:: ../_images/legends_wiki/items/rustedsword.png
-    :alt: Key Items First
-
-* Spectrier
-.. image:: ../_images/legends_wiki/items/shadow_carrot.png
-    :alt: Key Items First
 
 * Magearna
 .. image:: ../_images/legends_wiki/items/soul_heart.png
     :alt: Key Items First
 
-* Registeel
-.. image:: ../_images/legends_wiki/items/steelcore.png
-    :alt: Key Items First
-
-* Regieleki
-.. image:: ../_images/legends_wiki/items/thundercore.png
-    :alt: Key Items First
 
 The |pokemob| that you will summon with the item:
 
