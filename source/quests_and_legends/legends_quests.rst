@@ -781,7 +781,7 @@ Generation IV
 .. dropdown:: Lake Gaurdians
     :animate: fade-in-slide-down
 
-    - Capture all Lake Guardians & receive the **Giratina Mirror Parts** as a reward
+    - Capture all Lake Guardians to receive the **Giratina Mirror Parts** as a reward
             
     .. image:: ../_images/legends_wiki/items/giratina_mirror_head.png
         :alt: Giratina Mirror Head
@@ -2321,125 +2321,10 @@ Regi Golems
             .. image:: ../_images/legends_wiki/items/regis_orb.png
                 :alt: Regigigas Core Key
 
-.. _quests_list:
-
-Principal Key Items
-~~~~~~~~~~~~~~~~~~~
-
-* Magearna
-.. image:: ../_images/legends_wiki/items/soul_heart.png
-    :alt: Key Items First
-
-
-The |pokemob| that you will summon with the item:
-
-* Celebi - Uses the Green Orb to summon it.
-* Ho-oh - Uses the Legendary Orb to summon it.
-* Lugia - Uses the Ocean Orb to summon it.
-* Thundurus - Use the Green Rune to summon it.
-* Tornadus - Use the Blue Rune to summon it.
-* Landurus - Use the Orange Rune to summon it.
-* Keldeo - Uses the Keldeo Sword to summon it.
-* Dialga - Uses the Adamant Orb to summon it.
-* Plakia - Uses the Lustrous Orb to summon it.
-* Arceus - Uses Azure Flute to summon it.
-* Groudon - Uses Red Orb to summon it.
-* Kyogre - Uses the Blue Orb to summon it.
-* Rayquaza - Uses the Ancient Stone to summon it.
-* Registeel - Uses Steel Core to summon them
-* Regirock - Uses Rock Core to summon them
-* Regice - Uses Ice Core to summon them
-* Regieleki - Uses Thunder Core to summon them
-* Regidrago - Uses Draco Core to summon them.
-* Victini - Uses Emblem to summon it.
-* Regigias - Use Regigigas Orb to summon it.
-* Yveltal - Uses the Destruction Orb to summon it.
-* Xerneas - Uses Life Orb to summon it.
-* Zamazenta - Uses the Rusted Shield to summon it.
-* Zacian - Uses the Rusted Sword to summon him.
-* Heatran - Uses Magma Core to summon it.
-* Reshiram - Uses Light Stone to summon it.
-* Zekrom - Uses Dark Stone to summon it.
-* Tapu Koko - Uses Koko Orb to summon it.
-* Tapu Lele - Uses Lele Orb to summon it.
-* Tapu Fini - Uses Fini Orb to summon it.
-* Tapu Bulu - Uses Bulu Orb to summon it.
-* Glastrier - Uses Iceroot Carrot to summon it.
-* Spectrier - Uses Shaderoot Carrot to summon it.
-* Necrozma - Uses Lighting Crystal to summon it.
-
-Those that appear on this list have no recipe:
-
-.. image:: ../_images/legends_wiki/recipe_0.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_1.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_2.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_3.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_4.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_5.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_6.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_7.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_8.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_9.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_10.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_11.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_12.png
-    :alt: key item recipe
-
 **Items Evolution/Change Form**
 ===============================
 some legendary items, despite having a quest, are not used to summon the legendary, but to evolve or change it
 > Here is a list of items that are acquired by Quest,Localization,Purchase or Crafting
-
-* Scrolls of Elements: Used to evolve :ref:`kubfu` into the Dark and Water styles
-
-.. image:: ../_images/legends_wiki/items/pwater.png
-    :alt: Evo Item
-.. image:: ../_images/legends_wiki/items/pdark.png
-    :alt: Evo Item
-
-* Reins of Unity: Use to change the shape of the :ref:`glastrier`/:ref:`spectrier` for the Mounted Calyrex
-
-.. image:: ../_images/legends_wiki/items/reins_u.png
-    :alt: Change Item
-
-* Reveal Glass: Use to change the shapes of the :ref:`thundurus_incarnate`/:ref:`tornadus_incarnate`/:ref:`landorus_incarnate`
-
-.. image:: ../_images/legends_wiki/items/revealglass.png
-    :alt: Change Item
-.. image:: ../_images/legends_wiki/recipe_15.png
-    :alt: key item recipe
-
-* DNA Splicer-A/B: Use to change the shape of the Kyurem
-
-.. image:: ../_images/legends_wiki/items/dnasplicers.png
-    :alt: Change Item
-
-* Prison Bottle: Use to change the shapes of the :ref:`hoopa_confined`
-
-.. image:: ../_images/legends_wiki/items/prisonbottle.png
-    :alt: Change Item
-
-* Zygarde Cube: Use to change the shapes of the :ref:`zygarde_50`
-
-.. image:: ../_images/legends_wiki/items/zygardecube.png
-    :alt: Change Item
-
-* Gracidea: Use to change the shapes of the :ref:`shaymin_land`
-
-.. image:: ../_images/legends_wiki/items/gracidea.png
-    :alt: Change Item
 
 * Griseous Orb: Use to change the shapes of the :ref:`giratina`
 
