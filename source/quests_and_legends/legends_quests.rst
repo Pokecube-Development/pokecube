@@ -362,8 +362,8 @@ Legendary & Mythical Pokémob Info
     * You can see if the |pokemob| has a quest to capture it in the |**PokeWatch**|.
     * To find out, go to the |**PokeWatch**| and click the **Description** button, then click the **Capture Check** button.
 
-    .. image:: ../_images/legends_wiki/pokewatch_capture_check.png
-        :alt: Pokedex Capture Check Button
+.. image:: ../_images/legends_wiki/pokewatch_capture_check.png
+    :alt: Pokedex Capture Check Button
 
 Generation I
 ~~~~~~~~~~~~~
