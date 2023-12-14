@@ -1515,6 +1515,125 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/ultra_key.png
                 :alt: Ultra Dimensional Key
 
+.. _Built Pokémobs:
+
+Built Pokémobs Info
+====================
+
+.. _Type-Null:
+
+Type: Null 
+~~~~~~~~~~~
+
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+    
+    Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
+
+    1. Find the :ref:`aether_foundation` in Warm Oceans
+    2. Find Faba, and battle him!
+    3. Trade for the Imprisonment Helmet 
+    4. Craft a :ref:`cloner` and a :ref:`siphon`
+    5. To power the :ref:`cloner`, use the :ref:`siphon` with an electric |pokemob|.
+    6. Mutate a |Pokemob| Egg using a Potion of Regeneration II, the Imprisonment Helmet, & another |Pokemob| Egg.
+    
+    - The Imprisonment Helmet can also be worn by the player
+
+    .. image:: ../_images/legends_wiki/aether_foundation.png
+        :alt: Aether Foundation
+    :raw-html:`<br />`
+
+    .. image:: ../_images/legends_wiki/type_null_recipe.png
+        :alt: Type Null Mutation Recipe
+
+.. _Regi Golems:
+
+Regi Golems
+~~~~~~~~~~~~
+
+.. dropdown:: Description
+    :animate: fade-in-slide-down
+
+    - In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
+    - Each Regi has its own temple with a totem already built. :raw-html:`<br />`
+    - If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
+
+    .. _Building Regi Golems:
+
+    .. grid:: 1
+
+        .. grid-item-card:: Building the Regi Golems
+
+            - Build it with Golem Stone and one of the golem cores
+            - See `Craftable Spawners`_ for recipes
+
+            .. dropdown:: Building Pattern
+                :animate: fade-in-slide-down
+
+                .. image:: ../_images/legends_wiki/golem_patterns.png
+                    :alt: Golem Core Blocks
+                :raw-html:`<br />`
+
+                - :ref:`regice` requires any type of ice or snow
+                - :ref:`regidrago` requires obsidian
+                - :ref:`regieleki` requires redstone blocks
+                - :ref:`regigigas` requires any type of end stone
+                - :ref:`regirock` requires any type of terracotta
+                - :ref:`registeel` requires iron blocks
+
+            .. dropdown:: Block Tags
+                :animate: fade-in-slide-down
+
+                The blocks used to build the golems use blocks tags, which can be customized using datapacks.
+
+                - :ref:`regice` accepts any block tagged as ``#pokecube_legends:arceus_approved/regice``
+                
+                    * This tag includes the block tags ``#minecraft:snow`` & ``#minecraft:ice``
+                
+                - :ref:`regidrago` accepts any block tagged as ``#pokecube_legends:arceus_approved/regidrago``
+                
+                    * This tag includes the block tags ``#forge:obsidian``
+                
+                - :ref:`regieleki` accepts any block tagged as ``#pokecube_legends:arceus_approved/regieleki``
+                
+                    * This tag includes the block tags ``#forge:storage_blocks/redstone``
+                
+                - :ref:`regigigas` accepts any block tagged as ``#pokecube_legends:arceus_approved/regigigas``
+                
+                    * This tag includes the block tags ``#forge:end_stones``
+                
+                - :ref:`regirock` accepts any block tagged as ``#pokecube_legends:arceus_approved/regirock``
+                
+                    * This tag includes the block tags ``#minecraft:terracotta``
+                
+                - :ref:`registeel` accepts any block tagged as ``#pokecube_legends:arceus_approved/registeel``
+                
+                    * This tag includes the block tags ``#forge:storage_blocks/iron``
+
+    .. grid:: 1
+
+        .. grid-item-card:: Activating the Regi Golems
+            
+            - Right-click the Golem Core with the **Key Item** to summon the Regi Golem
+            - If Golem Core you created was placed in the wrong area, you will get the message below when you use a key item on that block.
+            - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
+            ``Regirock does not spawn in this location``
+
+            **Key Items:**
+            
+            .. image:: ../_images/legends_wiki/items/drago_core.png
+                :alt: Drago Core Key
+            .. image:: ../_images/legends_wiki/items/thunder_core.png
+                :alt: Thunder Core Key
+            .. image:: ../_images/legends_wiki/items/ice_core.png
+                :alt: Ice Core Key
+            .. image:: ../_images/legends_wiki/items/steel_core.png
+                :alt: Steel Core Key
+            .. image:: ../_images/legends_wiki/items/rock_core.png
+                :alt: Rock Core Key
+            .. image:: ../_images/legends_wiki/items/regis_orb.png
+                :alt: Regigigas Core Key
+
 Exploration Structures
 =======================
 In this expansion, several structures were added, and in this part we'll look at exploration structures.
@@ -2212,126 +2331,5 @@ Necrozma Tower
 
     .. image:: ../_images/legends_wiki/necrozma_tower.png
         :alt: Necrozma Tower
-
-
-
-.. _Built Pokémobs:
-
-Built Pokémobs
-===============
-
-.. _Type-Null:
-
-Type: Null 
-~~~~~~~~~~~
-
-.. dropdown:: Description
-    :animate: fade-in-slide-down
-    
-    Type: Null is a |pokemob| created in the laboratory, so there's nothing more fair than creating it inside of |Pokecube| too.
-
-    1. Find the :ref:`aether_foundation` in Warm Oceans
-    2. Find Faba, and battle him!
-    3. Trade for the Imprisonment Helmet 
-    4. Craft a :ref:`cloner` and a :ref:`siphon`
-    5. To power the :ref:`cloner`, use the :ref:`siphon` with an electric |pokemob|.
-    6. Mutate a |Pokemob| Egg using a Potion of Regeneration II, the Imprisonment Helmet, & another |Pokemob| Egg.
-    
-    - The Imprisonment Helmet can also be worn by the player
-
-    .. image:: ../_images/legends_wiki/aether_foundation.png
-        :alt: Aether Foundation
-    :raw-html:`<br />`
-
-    .. image:: ../_images/legends_wiki/type_null_recipe.png
-        :alt: Type Null Mutation Recipe
-
-.. _Regi Golems:
-
-Regi Golems
-~~~~~~~~~~~~
-
-.. dropdown:: Description
-    :animate: fade-in-slide-down
-
-    - In order to be able to summon the various Regis, you need to locate their temples. :raw-html:`<br />`
-    - Each Regi has its own temple with a totem already built. :raw-html:`<br />`
-    - If you play on a server or the temple doesn’t have the totem, you can build it, but it **must** be built inside the temple.
-
-    .. _Building Regi Golems:
-
-    .. grid:: 1
-
-        .. grid-item-card:: Building the Regi Golems
-
-            - Build it with Golem Stone and one of the golem cores
-            - See `Craftable Spawners`_ for recipes
-
-            .. dropdown:: Building Pattern
-                :animate: fade-in-slide-down
-
-                .. image:: ../_images/legends_wiki/golem_patterns.png
-                    :alt: Golem Core Blocks
-                :raw-html:`<br />`
-
-                - :ref:`regice` requires any type of ice or snow
-                - :ref:`regidrago` requires obsidian
-                - :ref:`regieleki` requires redstone blocks
-                - :ref:`regigigas` requires any type of end stone
-                - :ref:`regirock` requires any type of terracotta
-                - :ref:`registeel` requires iron blocks
-
-            .. dropdown:: Block Tags
-                :animate: fade-in-slide-down
-
-                The blocks used to build the golems use blocks tags, which can be customized using datapacks.
-
-                - :ref:`regice` accepts any block tagged as ``#pokecube_legends:arceus_approved/regice``
-                
-                    * This tag includes the block tags ``#minecraft:snow`` & ``#minecraft:ice``
-                
-                - :ref:`regidrago` accepts any block tagged as ``#pokecube_legends:arceus_approved/regidrago``
-                
-                    * This tag includes the block tags ``#forge:obsidian``
-                
-                - :ref:`regieleki` accepts any block tagged as ``#pokecube_legends:arceus_approved/regieleki``
-                
-                    * This tag includes the block tags ``#forge:storage_blocks/redstone``
-                
-                - :ref:`regigigas` accepts any block tagged as ``#pokecube_legends:arceus_approved/regigigas``
-                
-                    * This tag includes the block tags ``#forge:end_stones``
-                
-                - :ref:`regirock` accepts any block tagged as ``#pokecube_legends:arceus_approved/regirock``
-                
-                    * This tag includes the block tags ``#minecraft:terracotta``
-                
-                - :ref:`registeel` accepts any block tagged as ``#pokecube_legends:arceus_approved/registeel``
-                
-                    * This tag includes the block tags ``#forge:storage_blocks/iron``
-
-    .. grid:: 1
-
-        .. grid-item-card:: Activating the Regi Golems
-            
-            - Right-click the Golem Core with the **Key Item** to summon the Regi Golem
-            - If Golem Core you created was placed in the wrong area, you will get the message below when you use a key item on that block.
-            - If you want to remove this restriction, you will need to create a datapack to modify the spawn location.
-            ``Regirock does not spawn in this location``
-
-            **Key Items:**
-            
-            .. image:: ../_images/legends_wiki/items/drago_core.png
-                :alt: Drago Core Key
-            .. image:: ../_images/legends_wiki/items/thunder_core.png
-                :alt: Thunder Core Key
-            .. image:: ../_images/legends_wiki/items/ice_core.png
-                :alt: Ice Core Key
-            .. image:: ../_images/legends_wiki/items/steel_core.png
-                :alt: Steel Core Key
-            .. image:: ../_images/legends_wiki/items/rock_core.png
-                :alt: Rock Core Key
-            .. image:: ../_images/legends_wiki/items/regis_orb.png
-                :alt: Regigigas Core Key
 
 .. include:: ../.shared.rst
