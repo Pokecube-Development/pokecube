@@ -111,6 +111,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
         
         .. image:: ../_images/legends_wiki/legendary_blocks_no_recipe.png
             :alt: Spawners found in structures
+            :abbr:`LIFO (Spawners found in structures)`
 
     .. _Craftable Spawners:
 
@@ -119,6 +120,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
 
         .. image:: ../_images/legends_wiki/legendary_blocks_recipes.png
             :alt: Craftable Spawners
+            :abbr:`LIFO (Craftable Spawners)`
         :raw-html:`<br />`
 
         .. dropdown:: Regi Recipes
@@ -137,6 +139,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
             
                 .. figure:: ../_images/legends_wiki/golem_stone_recipe.png
                     :alt: Golem Stone Recipe
+                    :abbr:`LIFO (Ingredients > Terracota, Light Gray Concrete, & Gray Dye)`
                     
                     Golem Stone
 
