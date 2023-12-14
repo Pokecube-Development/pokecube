@@ -349,8 +349,8 @@ Special Moves
         .. image:: ../_images/legends_wiki/items/z_electric.png
             :alt: Electric Z Crystal
 
-Capturing Legendary & Mythical Pokémobs
-========================================
+Legendary & Mythical Pokémob Info
+==================================
 
 - Some legendary & mythical |pokemobs|, even though some naturally spawn in various biomes, can be summoned by items.
 - These items can be acquired by crafting, quests, or purchasing from Merchants or Trainers after defeating them.
@@ -503,7 +503,7 @@ Generation II
 
             See :ref:`ho-oh`
 
-            - Purchase the **Rainbow Orb**
+            - Craft or purchase the **Rainbow Orb**
             - Capture :ref:`entei`, :ref:`raikou`, & :ref:`suicune`
             - Capture Ho-Oh to receive the **Rainbow Feather** as a reward
             - Find the `Ho-Oh Temple`_
@@ -517,7 +517,7 @@ Generation II
 
             See :ref:`lugia`
 
-            - Purchase the **Tidal Bell**
+            - Craft or purchase the **Tidal Bell**
             - Capture :ref:`articuno`, :ref:`moltres`, & :ref:`zapdos`
             - Capture Lugia to receive the **Silver Feather** as a reward
             - Find the `Lugia Tower`_
@@ -531,7 +531,7 @@ Generation II
 
             See :ref:`celebi`
 
-            - Purchase the **Jade Orb**
+            - Craft or purchase the **Jade Orb**
             - Capture 70% of different Grass type |Pokemobs|
             - Find the `Celebi Temple`_
             
@@ -634,8 +634,10 @@ Generation III
             See :ref:`deoxys`
 
             - Purchase the **Meteor Shard**
+            - Earn from a quest or purchase the **Meteorite**
             - Capture 20% of different Psychic type |Pokemobs|
             - Find the `Sky Pillar`_
+            - Place the **Meteorite** in Deoxys' inventory in the **Held Item Slot** to change into Attack, Defense, or Speed Forme :ref:`deoxys`
             
             .. image:: ../_images/legends_wiki/items/meteor_shard.png
                 :alt: Deoxys Key Item
@@ -885,9 +887,14 @@ Generation IV
 
             - Capture :ref:`dialga` & :ref:`palkia`
             - Spawns in the :ref:`Distorted World`
+            - Earn in a quest or purchase the **Griseous Orb**
+            - Place in Giratina's inventory in the **Held Item Slot** to change into Origin Forme :ref:`giratina`
             
             .. image:: ../_images/legends_wiki/items/giratina_mirror.gif
                 :alt: Giratina Mirror
+            
+            .. image:: ../_images/legends_wiki/items/griseous_orb.png
+                :alt: Griseous Orb
 
 .. dropdown:: Arceus
     :animate: fade-in-slide-down
@@ -1366,9 +1373,13 @@ Generation VII
             - Purchase the **Lighting Crystal**
             - Capture :ref:`solgaleo` & :ref:`lunala`
             - Find the `Necrozma Tower`_
+            - Place the **Psychium Z** in Necrozma's inventory in the **Held Item Slot** to transform into Ultra :ref:`necrozma`
             
             .. image:: ../_images/legends_wiki/items/lighting_crystal.png
                 :alt: Necrozma Key Item
+            
+            .. image:: ../_images/legends_wiki/items/z_psychic.png
+                :alt: Psychium Z
 
 Generation VIII
 ~~~~~~~~~~~~~~~~
@@ -1386,6 +1397,7 @@ Generation VIII
             - Crafts into **Zacian's Sword** or use to summon **Zacian**
             - Capture 60% of different Steel type |Pokemobs|
             - Find the `Zacian Ruined Portal`_
+            - Place **Zacian's Sword** in Zacian's inventory in the **Held Item Slot** to transform into Crowned Sword :ref:`zacian`
 
             .. image:: ../_images/legends_wiki/items/rusted_sword.png
                 :alt: Zacian Key Item
@@ -1403,6 +1415,7 @@ Generation VIII
             - Crafts into **Zamazenta's Shield** or use to summon **Zamazenta**
             - Capture 60% of different Steel type |Pokemobs|
             - Find the `Zamazenta Ruined Portal`_
+            - Place **Zamazenta's Shield** in Zamazenta's inventory in the **Held Item Slot** to transform into Crowned Shield :ref:`zamazenta`
 
             .. image:: ../_images/legends_wiki/items/rusted_shield.png
                 :alt: Zamazenta Key Item
@@ -2320,44 +2333,5 @@ Regi Golems
                 :alt: Rock Core Key
             .. image:: ../_images/legends_wiki/items/regis_orb.png
                 :alt: Regigigas Core Key
-
-**Items Evolution/Change Form**
-===============================
-some legendary items, despite having a quest, are not used to summon the legendary, but to evolve or change it
-> Here is a list of items that are acquired by Quest,Localization,Purchase or Crafting
-
-* Griseous Orb: Use to change the shapes of the :ref:`giratina`
-
-.. image:: ../_images/legends_wiki/items/griseousorb.png
-    :alt: Change Item
-
-* Meteorite : Use to change the shapes of the :ref:`deoxys`
-
-.. image:: ../_images/legends_wiki/items/meteorite.png
-    :alt: Change Item
-
-* N-Solarizer/N-Lunarizer: Use to change the shapes of the :ref:`solgaleo` and :ref:`lunala`
-
-.. image:: ../_images/legends_wiki/items/n-solarizer.png
-    :alt: Change Item
-.. image:: ../_images/legends_wiki/items/n-lunarizer.png
-    :alt: Change Item
-
-* Z-Crystal (Psychic): Use to change the shapes of the :ref:`necrozma`
-.. image:: ../_images/legends_wiki/items/z_psychic.png
-    :alt: Change Item
-
-* Rusted Shield/Rusted Sword: Use to change the shapes of the :ref:`zacian` and :ref:`zamazenta`
-.. image:: ../_images/legends_wiki/zacian_zamazenta_items.png
-    :alt: Change Item
-.. image:: ../_images/legends_wiki/recipe_13.png
-    :alt: key item recipe
-.. image:: ../_images/legends_wiki/recipe_14.png
-    :alt: key item recipe
-
-Can be used by the player too:
-
-.. image:: ../_images/legends_wiki/zacian_zamazenta_items_used.png
-    :alt: Change Item
 
 .. include:: ../.shared.rst
