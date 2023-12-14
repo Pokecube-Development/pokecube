@@ -544,7 +544,8 @@ Generation III
 .. dropdown:: Legendary Giants
     :animate: fade-in-slide-down
     
-    See `Regi Golems`_ for more info.
+    - See `Regi Golems`_ for more info.
+    - Capture :ref:`relicanth` & :ref:`wailord` to receive the **Regi Cores** as a reward.
 
     .. grid:: 1
 
@@ -1268,7 +1269,7 @@ Generation VII
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
-    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,
+    - Capture & defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,
     :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive the **Tapu Orbs** as a reward.
 
     .. grid:: 1
