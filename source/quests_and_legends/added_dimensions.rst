@@ -49,7 +49,7 @@ Inside the meteors, you will find a new ore, called **Cosmic Ore**, this ore can
 Now that you have enough Cosmic Dust and Meteor Blocks, it's time to create the Ultra Key:
 
 .. image:: ../_images/legends_wiki/ultra_key_recipe.png
-    :alt: key
+    :alt: Ultra Key Recipe
 
 > Another way to get Ultra Key is by purchasing from an NPC, specifically, Lusamine. You can find it at :ref:`aether_foundation`
 
