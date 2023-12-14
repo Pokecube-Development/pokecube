@@ -1269,8 +1269,7 @@ Generation VII
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
-    - Capture & defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,
-    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive the **Tapu Orbs** as a reward.
+    - Capture & defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`, :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive the **Tapu Orbs** as a reward.
 
     .. grid:: 1
 
