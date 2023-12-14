@@ -642,6 +642,9 @@ Generation III
             .. image:: ../_images/legends_wiki/items/meteor_shard.png
                 :alt: Deoxys Key Item
 
+            .. image:: ../_images/legends_wiki/items/meteorite.png
+                :alt: Meteorite
+
     .. grid:: 1
 
         .. grid-item-card:: Jirachi
@@ -1265,8 +1268,8 @@ Generation VII
 .. dropdown:: Guardian Deities
     :animate: fade-in-slide-down
 
-    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`, :raw-html:`<br />`
-    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive **Tapu Orbs** as a reward.
+    - Capture & Defeat :ref:`gumshoos`, Alola :ref:`raticate`, :ref:`wishiwashi`, :ref:`salazzle`,
+    :ref:`lurantis`, :ref:`vikavolt`, :ref:`mimikyu`, & :ref:`kommo-o` to receive the **Tapu Orbs** as a reward.
 
     .. grid:: 1
 
