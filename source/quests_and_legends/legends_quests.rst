@@ -1388,6 +1388,25 @@ Generation VII
 Generation VIII
 ~~~~~~~~~~~~~~~~
 
+.. dropdown:: Mythical Pokémon
+    :animate: fade-in-slide-down
+
+    .. grid:: 1
+
+        .. grid-item-card:: Sinistea
+
+            See :ref:`sinistea`
+
+            - Purchase the **Chipped Pot** & the **Cracked Pot**
+            - Place the **Chipped Pot** in Sinistea's inventory in the **Held Item Slot** to evolve into Antique :ref:`sinistea`
+            - Place the **Cracked Pot** in Sinistea's inventory in the **Held Item Slot** to evolve into Phony :ref:`sinistea`
+
+            .. image:: ../_images/legends_wiki/items/chipped_pot.png
+                :alt: Sinistea's Chipped Pot
+
+            .. image:: ../_images/legends_wiki/items/cracked_pot.png
+                :alt: Sinistea's Cracked Pot
+
 .. dropdown:: Hero Duo
     :animate: fade-in-slide-down
 
