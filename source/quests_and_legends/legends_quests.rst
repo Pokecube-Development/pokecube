@@ -793,6 +793,7 @@ Generation IV
     
     .. image:: ../_images/legends_wiki/items/giratina_mirror_body.png
         :alt: Giratina Mirror Body
+    :raw-html:`<br />`
 
     .. grid:: 1
 
