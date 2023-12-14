@@ -184,7 +184,7 @@ In addition to the structures, the |Pokecube| Legends expansion adds many blocks
                 :show_indicators:
                 :show_shadows:
 
-                .. figure:: ../_images/legends_wiki/vicktini_block_recipe.png
+                .. figure:: ../_images/legends_wiki/victini_block_recipe.png
                     :alt: Victini Spawner Recipe
                     
                     Victini Spawner
