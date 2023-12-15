@@ -1,5 +1,5 @@
-Pokemobs Pages
----------------
+|Pokemobs| Pages
+----------------
 
 .. toctree::
    :maxdepth: 2
@@ -7,3 +7,5 @@ Pokemobs Pages
    
    /pokemobs/subpages/*
 
+
+.. include:: ../.shared.rst

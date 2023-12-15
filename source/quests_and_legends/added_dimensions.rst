@@ -49,7 +49,7 @@ Inside the meteors, you will find a new ore, called **Cosmic Ore**, this ore can
 Now that you have enough Cosmic Dust and Meteor Blocks, it's time to create the Ultra Key:
 
 .. image:: ../_images/legends_wiki/ultra_key_recipe.png
-    :alt: key
+    :alt: Ultra Key Recipe
 
 > Another way to get Ultra Key is by purchasing from an NPC, specifically, Lusamine. You can find it at :ref:`aether_foundation`
 
@@ -203,6 +203,8 @@ Magnetic Stones are bluish stones that appear in abundance in the **Deep Hills**
 .. image:: ../_images/legends_wiki/ultra_armor_boots.png
     :alt: armor
 
+.. _Distorted World: 
+
 Distorted World
 ~~~~~~~~~~~~~~~
 In the Distorted World, you can enter mirror blocks through the environment, but looking down on the islands, you find the Fractal Ore. It is of little use at the moment, but you can build a very interesting machine.
@@ -244,7 +246,7 @@ In the Distorted World dimension, some blocks have distorted versions, this is c
 These recipes only work in the dimensions: Distorted World and Ultra Space. But some recipes are stuck in the specific dimension.
 To craft you need to choose a block that has a distorted version, Exemple: minecraft planks. Then you go to one of the dimensions, depending on the recipe you want to make, and right-click holding the item, and it will be converted to the distorted block.
 
-.. image:: ../_images/legends_wiki/distorted_recieps.png
+.. image:: ../_images/legends_wiki/distorted_recipe.png
     :alt: distorted_recipe
 
 > Blocks that have distorted versions are:
@@ -259,8 +261,8 @@ To craft you need to choose a block that has a distorted version, Exemple: minec
 
 Finding UBs is not so complicated, but the hard part is getting blankets in basic pokecubes. The best we can do is create BeastCubes!
 
-.. image:: https://i.imgur.com/AS24L6V.png
-    :alt: cube
+.. image:: ../_images/legends_wiki/ultra_cube_recipe.png
+    :alt: Ultra Cube Recipe
 
 > You can also buy BeastCubes from Ultra Space residents, just look for Ultra Cities, they can appear in all Ultra Space biomes
 

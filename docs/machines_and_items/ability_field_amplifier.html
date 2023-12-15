@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Ability Field Amplifier &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Ability Field Amplifier</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="ability-field-amplifier">
+<span id="afa"></span><h1>Ability Field Amplifier<a class="headerlink" href="#ability-field-amplifier" title="Permalink to this heading">¶</a></h1>
+<img alt="../_images/afa.png" src="../_images/afa.png" />
+<p>This block uses Forge Energy to work, and can be powered with the <a class="reference internal" href="energy_siphon.html#siphon"><span class="std std-ref">Energy Siphon</span></a>.</p>
+<p>The Ability Field Amplifier (AFA) has two uses:</p>
+<ol class="arabic simple">
+<li><p>Broadcast an Ability over a volume around the block</p></li>
+<li><p>Broadcast Shiny Charm effect around the block (second worst use for shiny charm)</p></li>
+</ol>
+<figure class="align-default" id="afa-no-set">
+<a class="reference internal image-reference" href="../_images/afa_no_set.png"><img alt="AFA Gui" src="../_images/afa_no_set.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The Empty GUI for the AFA, this shows the item slot, as well as the <code class="docutils literal notranslate"><span class="pre">&lt;</span></code> and <code class="docutils literal notranslate"><span class="pre">&gt;</span></code> buttons used for selecting the range of effect. The Power display is ordered: <code class="docutils literal notranslate"><span class="pre">needed/provided</span></code>, so if the second number is smaller than the first, then you need to provide more power for the block to work.</span><a class="headerlink" href="#afa-no-set" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>To broadcast an ability over a volume, you must first capture a pokémob which has the required ability, below are some example abilities, and their effects:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">Honey</span> <span class="pre">Gather</span></code> - Applies bonemeal effect on random blocks in range</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Damp</span></code> - Prevents explosions from detonating in the range</p></li>
+</ul>
+<figure class="align-default" id="afa-ability-set">
+<a class="reference internal image-reference" href="../_images/afa_ability_set.png"><img alt="AFA Gui with Honey Gather" src="../_images/afa_ability_set.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">Here is an example of setting the ability to Honey Gather, the range is set to 4 blocks, and it currently requires 4 energy per tick, 0 of which is provided.</span><a class="headerlink" href="#afa-ability-set" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>For the use with a shiny charm, place the charm in the slot, and then select the range in a similar manner.</p>
+<figure class="align-default" id="afa-shiny-set">
+<a class="reference internal image-reference" href="../_images/afa_shiny_set.png"><img alt="AFA Gui with Shiny Charm" src="../_images/afa_shiny_set.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">Here is the second worst application of the shiny charm displayed.</span><a class="headerlink" href="#afa-shiny-set" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/machines_and_items/ability_field_amplifier.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Ability Field Amplifier</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

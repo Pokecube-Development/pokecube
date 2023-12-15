@@ -1,0 +1,114 @@
+/*
+ * classic.css_t
+ * ~~~~~~~~~~~~~
+ *
+ * Sphinx stylesheet -- classic theme.
+ *
+ * :copyright: Copyright 2007-2021 by the Sphinx team, see AUTHORS.
+ * :license: BSD, see LICENSE for details.
+ *
+ */
+
+ @import url('css/theme.css');
+
+ /* -- page layout ----------------------------------------------------------- */
+ 
+ .wy-side-nav-search {
+     display: block;
+     width: 300px;
+     padding: .809em;
+     margin-bottom: .809em;
+     z-index: 200;
+     background-color: #ad2c1d;
+     text-align: center;
+     color: #fcfcfc;
+ }
+ 
+
+ /* "Contents:" text in side menu */
+ .wy-menu-vertical header, .wy-menu-vertical p.caption {
+     color: #ad2c1d;
+     height: 32px;
+     line-height: 32px;
+     padding: 0 1.618em;
+     margin: 12px 0 0;
+     display: block;
+     font-weight: 700;
+     text-transform: uppercase;
+     font-size: 85%;
+     white-space: nowrap;
+ }
+
+ /* Home Icon */
+ .wy-breadcrumbs a.icon.icon-home {
+     color: #ad2c1d;
+ }
+
+ /* Github Link */
+ a.fa.fa-github {
+     color: #ad2c1d;
+ }
+
+ /* Carousel Caption Background */
+ .scc-below-control {
+    border-radius: 100rem;
+    margin-top: 0.75rem;
+ }
+
+ /* Carousel Captions */
+ .scbs-carousel-caption {
+    padding-top: 0.75rem;
+ }
+
+ /* Button Formatting */
+ .red-dot {
+    color: #ad2c1d;
+    background-color: #ad2c1d;
+ }
+
+ .btn-contents {
+     display: inline-block;
+     border-radius: 5px;
+     line-height: normal;
+     white-space: nowrap;
+     text-align: center;
+     padding: 6px 12px 8px;
+     color: #ffffff;
+     background-color: #ad2c1d;
+     text-decoration: none;
+     font-weight: 400;
+     font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
+     margin: 0 0 5px;
+     width: 50%;
+ }
+ 
+ .btn-contents:hover {
+     background-color: #db0700;
+ }
+ 
+ .btn-contents:visited {
+     color: #ffffff;
+     background-color: #3d3839;
+ }
+ 
+ .btn-contents:visited:hover {
+     background-color: #756e6f;
+ }
+ 
+ .btn-related {
+     width: 175px;
+ }
+ 
+ /* -- Media Overrides ------------------------------------------------------ */
+ 
+ @media only screen and (max-width: 480px) {
+     .wy-nav-top {
+         background: #ad2c1d;
+         color: #fff;
+         padding: .4045em .809em;
+         position: relative;
+         line-height: 50px;
+         text-align: center;
+         font-size: 100%;
+     }
+ }

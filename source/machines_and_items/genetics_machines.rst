@@ -60,6 +60,7 @@ In the case of general DNA reviving, the DNA source goes in the DNA Source slot.
 Gene Splicer
 ############
 
+.. figure:: ../_images/machines_items/splicer.png
 This thing is cheaty and overpowered.
 
 

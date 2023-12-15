@@ -2,6 +2,8 @@
 .. |pokecube| replace:: pokécube
 
 .. |Pokecube| replace:: Pokécube
+  
+.. |**Pokecube**| replace:: **Pokécube**
 
 .. |pokemob| replace:: pokémob
 
@@ -14,4 +16,20 @@
 .. |pokemobs| replace:: pokémobs
 
 .. |Pokemobs| replace:: Pokémobs
+
+.. |pokemob's| replace:: pokémob's
+
+.. |**pokemob's**| replace:: **pokémob's**
+
+.. |Pokemob's| replace:: Pokémob's
+
+.. |PokeWatch| replace:: PokéWatch
+
+.. |Pokewatch| replace:: PokéWatch
+
+.. |**PokeWatch**| replace:: **PokéWatch**
+
+.. |**Pokewatch**| replace:: **PokéWatch**
+
+
 

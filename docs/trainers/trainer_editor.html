@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Spawning and Editing NPCs &#8212; Pokecube Documentation 3.23.x documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/classic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/red.css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/design-tabs.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Spawning and Editing NPCs</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="spawning-and-editing-npcs">
+<h1>Spawning and Editing NPCs<a class="headerlink" href="#spawning-and-editing-npcs" title="Permalink to this heading">¶</a></h1>
+<p>Spawning and editing of NPCs in Pokécube is best done with the Trainer Editor gui. This can be enabled by assigning the <code class="docutils literal notranslate"><span class="pre">EditTrainer</span></code> hotkey in the vanilla minecraft controls menu, and then accessed by pressing the assigned key.</p>
+<p>This gui has 3 main modes:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#npc-spawn"><span class="std std-ref">NPC Spawning</span></a></p></li>
+<li><p><a class="reference internal" href="#npc-edit"><span class="std std-ref">NPC Editing</span></a></p></li>
+<li><p><a class="reference internal" href="#pokemob-edit"><span class="std std-ref">Pokémob Editing</span></a></p></li>
+</ul>
+<section id="npc-spawning">
+<span id="npc-spawn"></span><h2>NPC Spawning<a class="headerlink" href="#npc-spawning" title="Permalink to this heading">¶</a></h2>
+<figure class="align-default" id="spawn-trainer">
+<a class="reference internal image-reference" href="../_images/spawn_trainer.png"><img alt="Trainer Spawning" src="../_images/spawn_trainer.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for spawning in NPCs and Trainers</span><a class="headerlink" href="#spawn-trainer" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This gui opens if <code class="docutils literal notranslate"><span class="pre">EditTrainer</span></code> is pressed while the player is not looking at an NPC or pokémob. It is used to spawn in the initial NPC.</p>
+<p>There are three buttons along the top, which spawn in the respective type of NPC. The NPC is spawned at the current location of the player. The <code class="docutils literal notranslate"><span class="pre">prev</span></code> and <code class="docutils literal notranslate"><span class="pre">next</span></code> buttons will cycle the type of NPC spawned.
+The Text field below the types is the level to use for randomly assigned pokémobs for this NPC, these can be changed later via <a class="reference internal" href="#npc-edit"><span class="std std-ref">NPC Editing</span></a>.
+The lower two buttons define some extra initialization for the NPC, the left button will assign the gender, and the right button will toggle whether the trainer moves around by default. These can also be changed later via <a class="reference internal" href="#npc-edit"><span class="std std-ref">NPC Editing</span></a>.</p>
+<section id="spawn-npc">
+<h3>Spawn NPC<a class="headerlink" href="#spawn-npc" title="Permalink to this heading">¶</a></h3>
+<p>This summons a generic NPC, these are generally non-agressive, though can have pokémobs to defend themselves. Important types for these are as follows:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">professor</span></code> - This will be like the spawn professor, able to give first pokémobs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">healer</span></code> - This spawns like the nurse in pokecenters, offering healing services</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">trader</span></code> - This would be like the merchants in pokecenters</p></li>
+</ul>
+</section>
+<section id="id1">
+<h3>Spawn Trainer<a class="headerlink" href="#id1" title="Permalink to this heading">¶</a></h3>
+<p>This summons a Trainer NPC, which will offer battles for emeralds, and have similar behaviour to the ones found around villages, or spawning randomly. The type selected will determine the texture and automatically assigned pokémobs for the trainer.</p>
+</section>
+<section id="spawn-leader">
+<h3>Spawn Leader<a class="headerlink" href="#spawn-leader" title="Permalink to this heading">¶</a></h3>
+<p>This summons an Gym Leader NPC, the gym leader will have a random badge asigned, and will only let each player defeat them once.</p>
+</section>
+</section>
+<section id="npc-editing">
+<span id="npc-edit"></span><h2>NPC Editing<a class="headerlink" href="#npc-editing" title="Permalink to this heading">¶</a></h2>
+<figure class="align-default" id="edit-trainer">
+<a class="reference internal image-reference" href="../_images/edit_trainer.png"><img alt="Trainer Editing" src="../_images/edit_trainer.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for editing NPCs and Trainers</span><a class="headerlink" href="#edit-trainer" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This gui will open if <code class="docutils literal notranslate"><span class="pre">EditTrainer</span></code> is pressed while the player is looking at an NPC. This allows editing various aspects of the NPC.</p>
+<section id="main-window">
+<span id="edit-npc-main"></span><h3>Main Window<a class="headerlink" href="#main-window" title="Permalink to this heading">¶</a></h3>
+<p>The main window allows changing the name, type, gender and trades of the NPC, as well as deleting it. It also then has buttons which change to other pages which allow editing different values.</p>
+<p>If the NPC has any pokémobs, then you can edit them via the <code class="docutils literal notranslate"><span class="pre">mob</span> <span class="pre">#</span></code> buttons, where the <code class="docutils literal notranslate"><span class="pre">#</span></code> would be a number from 1 to 6, representing the “order” of the pokémob in the NPC’s party. This button will bring up <a class="reference internal" href="#edit-npc-pokemob"><span class="std std-ref">Editing Pokémobs</span></a></p>
+<p>If the NPC has less than 6 pokémobs, an addtional pokémob can be added by clicking the <code class="docutils literal notranslate"><span class="pre">mob</span> <span class="pre">+</span></code> button, this will then open <a class="reference internal" href="#add-npc-pokemob"><span class="std std-ref">Adding Pokémobs</span></a>.</p>
+</section>
+<section id="editing-pokemobs">
+<span id="edit-npc-pokemob"></span><h3>Editing Pokémobs<a class="headerlink" href="#editing-pokemobs" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="edit-pokemob">
+<a class="reference internal image-reference" href="../_images/edit_pokemob.png"><img alt="NPC's |Pokemob| Editing" src="../_images/edit_pokemob.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for editing Pokémobs</span><a class="headerlink" href="#edit-pokemob" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This display allows editing various aspects of the pokémob owned by the NPC. In general you type in the required value, and then press <code class="docutils literal notranslate"><span class="pre">apply</span></code> for it to save. For <code class="docutils literal notranslate"><span class="pre">Ability</span></code> and <code class="docutils literal notranslate"><span class="pre">Nature</span></code>, you can use the arrows to cycle through valid options, though ability does also let you type the name of any other valid ability in there. For valid moves, see <a class="reference internal" href="../commands/commands.html#poketm"><span class="std std-ref">/poketm</span></a> for how to identify valid move names.</p>
+<p>The <code class="docutils literal notranslate"><span class="pre">delete</span></code> button will remove this pokémob from the NPC, and <code class="docutils literal notranslate"><span class="pre">back</span></code> will return to the <a class="reference internal" href="#edit-npc-main"><span class="std std-ref">Main Window</span></a></p>
+</section>
+<section id="adding-pokemobs">
+<span id="add-npc-pokemob"></span><h3>Adding Pokémobs<a class="headerlink" href="#adding-pokemobs" title="Permalink to this heading">¶</a></h3>
+<p>It should be mentioned, that you can also add and remove pokémobs from the NPC by shift right clicking them with a <code class="docutils literal notranslate"><span class="pre">pokedex</span></code>, this will bring up their 6-slot inventory, and you can add/remove pokécubes from here as needed. If you take a pokécube out, it will assign ownership to you, and if you put one in, it will assign ownership to the NPC. This gui is an alternate way to access this behaviour.</p>
+<figure class="align-default" id="add-pokemob">
+<a class="reference internal image-reference" href="../_images/add_pokemob.png"><img alt="NPC's Pokemob Adding" src="../_images/add_pokemob.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for adding Pokemobs</span><a class="headerlink" href="#add-pokemob" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This gui mostly differs from <a class="reference internal" href="#edit-npc-pokemob"><span class="std std-ref">Editing Pokémobs</span></a> by the <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">New</span></code> button replacing <code class="docutils literal notranslate"><span class="pre">delete</span></code>. In this gui, you can fill out the various values, then press <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">New</span></code> to create the pokémob and add it to the NPC’s party.</p>
+</section>
+<section id="editing-ai">
+<span id="edit-npc-ai"></span><h3>Editing AI<a class="headerlink" href="#editing-ai" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="edit-ai">
+<a class="reference internal image-reference" href="../_images/edit_ai.png"><img alt="NPC AI Editing" src="../_images/edit_ai.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for editing NPC AI</span><a class="headerlink" href="#edit-ai" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This screen allows editing some of the AI related aspects of the NPC. It has values related to Cooldowns, as well as some allowed states for the NPC. It also is where you can specify the times for the NPC to stay in specified locations. Information about the format for the Guard Locations can be found <a class="reference internal" href="../getting_started/pokemob_gui.html#poke-rt-tab"><span class="std std-ref">Here</span></a></p>
+</section>
+<section id="editing-messages">
+<h3>Editing Messages<a class="headerlink" href="#editing-messages" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="edit-message">
+<a class="reference internal image-reference" href="../_images/edit_message.png"><img alt="NPC Message Editing" src="../_images/edit_message.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for editing NPC Messages</span><a class="headerlink" href="#edit-message" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This screen allows for editing the various chat messages sent when the player interacts with the NPC, it can also apply commands. The general format for each interaction is:</p>
+<ul class="simple">
+<li><p>Name Of Action</p></li>
+<li><p>Message to send on Action - This will be sent as a <code class="docutils literal notranslate"><span class="pre">TranslationTextComponent</span></code> to the client, so can be localized via resourcepacks</p></li>
+<li><p>Command to run on Action</p></li>
+<li><p>Apply button - Press this to apply changes to the action</p></li>
+</ul>
+</section>
+<section id="editing-rewards">
+<h3>Editing Rewards<a class="headerlink" href="#editing-rewards" title="Permalink to this heading">¶</a></h3>
+<figure class="align-default" id="edit-reward">
+<a class="reference internal image-reference" href="../_images/edit_reward.png"><img alt="NPC Reward Editing" src="../_images/edit_reward.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The gui for editing NPC Rewards</span><a class="headerlink" href="#edit-reward" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>This is the list of rewards the trainer will give when defeated. The main text box is the nbt-format for the item it will give. The text box to the right of that is the probability of the NPC giving this reward. To save the edits to the reward, use the <code class="docutils literal notranslate"><span class="pre">Apply</span></code> button. You can delete a reward by pressing the <code class="docutils literal notranslate"><span class="pre">x</span></code> button followed by the <code class="docutils literal notranslate"><span class="pre">Y</span></code> button. You can add additional rewards by entering values into the last (blank) item box, and then pressing <code class="docutils literal notranslate"><span class="pre">Apply</span></code> for that entry.</p>
+</section>
+</section>
+<section id="pokemob-editing">
+<span id="pokemob-edit"></span><h2>Pokémob Editing<a class="headerlink" href="#pokemob-editing" title="Permalink to this heading">¶</a></h2>
+<p>This gui will open if <code class="docutils literal notranslate"><span class="pre">EditTrainer</span></code> is pressed while the player is looking at a Pokémob. This then brings up a page similar to <a class="reference internal" href="#edit-npc-pokemob"><span class="std std-ref">Editing Pokémobs</span></a>. In this case, the <code class="docutils literal notranslate"><span class="pre">back</span></code> button will just close the gui, and there is no <code class="docutils literal notranslate"><span class="pre">delete</span></code> button. Otherwise this gui acts the same as <a class="reference internal" href="#edit-npc-pokemob"><span class="std std-ref">Editing Pokémobs</span></a>.</p>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Spawning and Editing NPCs</a><ul>
+<li><a class="reference internal" href="#npc-spawning">NPC Spawning</a><ul>
+<li><a class="reference internal" href="#spawn-npc">Spawn NPC</a></li>
+<li><a class="reference internal" href="#id1">Spawn Trainer</a></li>
+<li><a class="reference internal" href="#spawn-leader">Spawn Leader</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#npc-editing">NPC Editing</a><ul>
+<li><a class="reference internal" href="#main-window">Main Window</a></li>
+<li><a class="reference internal" href="#editing-pokemobs">Editing Pokémobs</a></li>
+<li><a class="reference internal" href="#adding-pokemobs">Adding Pokémobs</a></li>
+<li><a class="reference internal" href="#editing-ai">Editing AI</a></li>
+<li><a class="reference internal" href="#editing-messages">Editing Messages</a></li>
+<li><a class="reference internal" href="#editing-rewards">Editing Rewards</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#pokemob-editing">Pokémob Editing</a></li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/trainers/trainer_editor.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Pokecube Documentation 3.23.x documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Spawning and Editing NPCs</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, Thutmose.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.2.1.
+    </div>
+  </body>
+</html>

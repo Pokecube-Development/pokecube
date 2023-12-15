@@ -1,3 +1,4 @@
+.. _getting_started:
 
 ***************
 Getting Started
@@ -9,9 +10,9 @@ Getting Started
 
    *
 
-****
-FAQ
-****
+*********************
+FAQ and Common Issues
+*********************
 
 -  How do I get a starter?
 
@@ -19,11 +20,11 @@ FAQ
 
 -  How do I do <X>
 
-   Check if there is a hotkey you can assin for <X> in the controls section of the minecraft options.
+   Check if there is a hotkey you can assign for <X> in the controls section of the Minecraft options.
 
--  I Died, where did my pokemobs go?
+-  I Died, where did my |pokemobs| go?
 
-   On death, your pokemobs should go to the PC, you can usually find a PC in each pokecenter, or you can craft one yourself
+   On death, your |pokemobs| should go to the PC, you can usually find a PC in each pokecenter, or you can craft one yourself
 
 -  I checked PC, it didn't go there!
 
@@ -31,7 +32,7 @@ FAQ
 
 -  It still isn't there!
 
-   Something may have gone wrong, in this case, run ``/pokecube restore give @p``, and then click on the name of the mob in chat, you may need to click on the ``[]`` around the name rather than the text itself.
+   Something may have gone wrong, in this case, run ``/pokecube restore give @p``, and then click on the name of the mob in chat, you may need to click on the ``[]`` around the name rather than the text itself. More information about ``/pokecube restore`` can be found at :ref:`pokerestore`. 
 
 -  Where does <X> spawn?
 
@@ -41,7 +42,17 @@ FAQ
 
    The initial location information does not fully account for extra conditions, such as time of day, or required :ref:`subbiomes <subbiomes>`. You may need to search around the general area until the mob appears in the :ref:`watch_local_spawns` page.
 
--  I tried to catch <X>, but it didn't go in the pokecube!
+-  I tried to catch <X>, but it didn't go in the |pokecube|!
 
-   if <X> is a special or otherwise legendary pokemob, it may have capture requirements, in that case, check :ref:`legend_quests` for more information.
+   if <X> is a special or otherwise legendary |pokemob|, it may have capture requirements, in that case, check :ref:`legend_quests` for more information.
    
+-  I Placed a <X>, and now I can't pick it back up!
+
+   Some blocks are "protected", some examples of these are:
+   
+   -  pokecenter
+   -  PC
+
+   Blocks like these can be instantly broken (and will drop) by left clicking them with a stick, provided that you were the player who placed the block.
+
+.. include:: ../.shared.rst
