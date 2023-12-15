@@ -1407,6 +1407,22 @@ Generation VIII
             .. image:: ../_images/legends_wiki/items/cracked_pot.png
                 :alt: Sinistea's Cracked Pot
 
+    .. grid:: 1
+
+        .. grid-item-card:: Galarian Slowpoke
+
+            See :ref:`slowpoke`
+
+            - Purchase the **Galarica Cuff** & the **Galarica Wreath**
+            - Place the **Galarica Cuff** in Galarian Slowpoke's inventory in the **Held Item Slot** to evolve into Galarian :ref:`slowbro`
+            - Place the **Galarica Wreath** in Galarian Slowpoke's inventory in the **Held Item Slot** to evolve into Galarian :ref:`slowking`
+
+            .. image:: ../_images/legends_wiki/items/galarica_cuff.png
+                :alt: Galarian Slowbro's Galarica Cuff
+
+            .. image:: ../_images/legends_wiki/items/galarica_wreath.png
+                :alt: Galarian Slowking's Galarica Wreath
+
 .. dropdown:: Hero Duo
     :animate: fade-in-slide-down
 
