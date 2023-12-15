@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Pokecube Documentation'
+project = 'Pokécube Documentation'
 copyright = '2021, Thutmose'
 author = 'Thutmose'
 
